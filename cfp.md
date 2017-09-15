@@ -3,7 +3,7 @@ layout: default
 slug: call
 ---
 <div class="row">
- <div class="col-md-8">
+ <div class="col-md-8" markdown="1">
 
 # Call for Papers
 Contributions related to all aspects of modeling, modeling languages and model-driven engineering are cordially invited to the 21st edition of MODELS, in Copenhagen, Denmark 14.-19. October 2018.
