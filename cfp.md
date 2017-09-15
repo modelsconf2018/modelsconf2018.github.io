@@ -48,6 +48,7 @@ MODELS 2018 seeks submissions on diverse topics related to modeling for software
 * Development of systems engineering and modeling-in-the-large concepts.
 * Modeling in software engineering; applications of models to address general software engineering challenges.
 * Modeling for development challenges such as collaboration, scalability, security, interoperability, adaptability, maintainability, dependability, reuse, energy efficiency, etc.
+
 ## Submission and Evaluation Process
 The submission and evaluation process for MODELS 2018 is similar to past MODELS conferences, with the specific details below.
 
