@@ -69,3 +69,10 @@ body {
     font-size: 18px;
   }
 }
+
+.team-face{
+  border-radius: 40%;
+  object-fit:cover;
+  height: 12vw;
+  width:12vw;
+}
