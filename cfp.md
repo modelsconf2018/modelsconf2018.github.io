@@ -72,7 +72,7 @@ In the first phase, all papers that conform to the submission guidelines will be
 Authors of accepted papers will be invited to submit their accompanying artifacts (e.g., software, datasets, proofs) to the Artifact Evaluation process. The Artifact Evaluation process is run by a separate committee whose task is to assess how the artifacts support the results presented in the papers. Participation in the Artifact Evaluation process is optional and does not affect the final decision regarding the papers. Papers that successfully go through the Artifact Evaluation process will be rewarded with a seal of approval printed on the paper themselves. The artifacts will be archived.
 
 ## Important Dates
-The side panel shows the milestone dates for both Foundations, and Practice and Innovation Papers.
+The side panel with [dates](#dates) shows the milestone dates for both Foundations, and Practice and Innovation Papers.
  
 Please note that:
 * Abstract submission is mandatory.
@@ -81,30 +81,30 @@ Please note that:
 * All accepted papers must be presented by an author who is registered as a “Regular” participant (student presenters must register as a Regular participant).
 
 </div>
-<div class="col-md-4">
+<div id="dates" class="col-md-4">
     <div class="panel panel-primary">
       <div class="panel-heading">
-        <h3 class="panel-title">Important Dates - Foundations/Practice and Innovation (Preliminary) </h3>
+        <h3 class="panel-title">Important Dates - Foundations/Practice and Innovation (Preliminary) AOE (UTC-12)</h3>
       </div>
       <table class="table table-hover important-dates-in-sidebar">
       <tbody>
       <tr>
-       <td> 27 April 2018 <br /> Abstract submission </td>
+       <td> Fri 27 April 2018 <br /> Abstract submission </td>
       </tr>
       <tr>
-       <td> 4 May 2018 <br /> Paper submission </td>
+       <td> Fri 4 May 2018 <br /> Paper submission </td>
       </tr>
       <tr>
-       <td> 12 June 2018 <br /> First notification </td>
+       <td> Tue 12 June 2018 <br /> First notification </td>
       </tr>
       <tr>
-       <td> 12-14 June 2018 <br /> Author response </td>
+       <td> Tue-Thur 12-14 June 2018 <br /> Author response </td>
       </tr>
       <tr>
-       <td> 3 July 2018 <br /> Final notification </td>
+       <td> Tue 3 July 2018 <br /> Final notification </td>
       </tr>
       <tr>
-       <td> 21 July 2018 <br /> Camera Ready Due </td>
+       <td> Sat 21 July 2018 <br /> Camera Ready Due </td>
       </tr>      
    </tbody>
    </table>  
