@@ -1,0 +1,20 @@
+- name: Andrzej Wasowski
+  track: foundations
+  uni: IT University of Copenhagen
+  country: Denmark
+  image: aw.jpeg
+  url: https://itu.dk/people/wasowski
+
+- name: Richard Paige
+  track: foundations
+  uni: York University
+  country: UK
+  image: rpaige.jpg
+  url: https://york
+
+- name: Tanya
+  track: practice
+  uni: York University
+  country: UK
+  image: tmayerhofer.png
+  url: https://york

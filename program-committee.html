@@ -1,0 +1,28 @@
+---
+layout: default
+slug: team
+---
+<h2> Program Committee </h2>
+
+
+<h3> Foundations Track </h3>
+{% for person in site.data.program-committee %}
+{% if person.track == "foundations" %}
+<hr />
+<div><img class="committee-face" src="/assets/faces/{{ person.image }}" />
+<h4><a href="{{ person.url }}"> {{ person.name }}</a></h4><br />
+<p>{{ person.uni }} ({{ person.country }})</p></div>
+<br/>
+{% endif %}
+{% endfor %}
+<br/>
+<h3> Practice and Innovation Track </h3>
+{% for person in site.data.program-committee %}
+{% if person.track == "practice" %}
+<hr />
+<div><img class="committee-face" src="/assets/faces/{{ person.image }}" />
+<h4><a href="{{ person.url }}"> {{ person.name }}</a></h4><br />
+<p>{{ person.uni }} ({{ person.country }})</p></div>
+<br/>
+{% endif %}
+{% endfor %}

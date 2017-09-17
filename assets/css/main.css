@@ -82,3 +82,13 @@ body {
    padding-left: 0em;
     padding-top: 0px;
 }
+
+.committee-face{
+  margin-right:20px;
+  width:125px;
+  float: left;
+  border-radius: 40%;
+  object-fit:cover;
+  height: 6vw;
+  width:6vw;
+}
