@@ -84,7 +84,14 @@ Please note that:
 <div id="dates" class="col-md-4">
     <div class="panel panel-primary">
       <div class="panel-heading">
-        <h3 class="panel-title">Important Dates - Foundations/Practice and Innovation (Preliminary) AOE (UTC-12)</h3>
+        <div class="panel-title">
+              Important Dates (Prelim.) <span class="pull-right"> 
+                                <span class="glyphicon glyphicon-globe"></span>
+                                <span class="glyphicon glyphicon-time"></span>
+                                AoE (UTC-12)
+                              </span> <br />
+	      Foundations/Practice and Innovation
+        </div>
       </div>
       <table class="table table-hover important-dates-in-sidebar">
       <tbody>
