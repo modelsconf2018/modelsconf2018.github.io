@@ -43,7 +43,7 @@ slug: call
 ### October 1-6, 2006, Genova, Italy
 <a href="http://web.archive.org/web/20070609154305/http://www.disi.unige.it/researchsites/models06/">9th Intl. Conf. on Models Driven Engineering Languages and Systems</a>
 
-### October 2-7, 2005, Half Moon Resort, Montego Bay, Jamaica
+### October 2-7, 2005, Montego Bay, Jamaica
 <a href="http://www.cs.colostate.edu/models05">8th Intl. Conf. on Models Driven Engineering Languages and Systems</a>
 
 ### October 10-15, 2004, Lisbon, Portugal
