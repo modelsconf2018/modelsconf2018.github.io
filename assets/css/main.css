@@ -95,4 +95,5 @@ body {
 
 .logo {
   width: 25vw;
+  min-width: 300px;
 }
