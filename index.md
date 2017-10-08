@@ -9,17 +9,17 @@ slug: call
       <div class="flexslider">
       <ul class="slides">
         <li>
-          <img src="/assets/copenhagen-pictures/opera.jpg" />
+          <img src="/assets/copenhagen-pictures/opera-resized.jpg" />
         </li>
         
         <li>
-          <img src="/assets/copenhagen-pictures/nyhavn3.jpg" />
+          <img src="/assets/copenhagen-pictures/nyhavn3-resized.jpg" />
         </li>
         <li>
-          <img src="/assets/copenhagen-pictures/tivoli.jpg" />
+          <img src="/assets/copenhagen-pictures/tivoli-resized.jpg" />
         </li>
         <li>
-          <img src="/assets/logos/itu.jpg" />
+          <img src="/assets/copenhagen-pictures/itu-outside-resized.jpg" />
         </li>
         
       </ul>
