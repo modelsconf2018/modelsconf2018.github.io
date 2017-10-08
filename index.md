@@ -2,6 +2,31 @@
 layout: default
 slug: call
 ---
+
+  <div class="row">
+    <div class="col-xs-12">
+      <!-- <img class="logo img-responsive" src="/assets/logos/models-logo.png" alt="models2018-logo" /> -->
+      <div class="flexslider">
+      <ul class="slides">
+        <li>
+          <img src="/assets/copenhagen-pictures/opera.jpg" />
+        </li>
+        
+        <li>
+          <img src="/assets/copenhagen-pictures/nyhavn3.jpg" />
+        </li>
+        <li>
+          <img src="/assets/copenhagen-pictures/tivoli.jpg" />
+        </li>
+        <li>
+          <img src="/assets/logos/itu.jpg" />
+        </li>
+        
+      </ul>
+    </div>
+    </div>
+  </div>
+
 <div class="row">
  <div class="col-md-8" markdown="1">
 
