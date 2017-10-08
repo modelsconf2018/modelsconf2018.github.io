@@ -50,8 +50,9 @@
   -webkit-backface-visibility: hidden;
 }
 .flexslider .slides img {
-  margin-left: 100px;
-  width: 82%;
+  margin-left: auto;
+  maring-right: auto;
+  width: 100%;
   display: block;
 }
 .flexslider .slides:after {
@@ -96,7 +97,7 @@ html[xmlns] .flexslider .slides {
   -moz-user-select: none;
 }
 .flex-viewport {
-  max-height: 500px;
+  max-height: 550px;
   -webkit-transition: all 1s ease;
   -moz-transition: all 1s ease;
   -ms-transition: all 1s ease;
