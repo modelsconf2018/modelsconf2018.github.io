@@ -26,6 +26,7 @@ MODELS is the premier conference series for model-driven software and systems en
         {% endfor %}
       </ul>
   </div>
+  <a class="twitter-timeline" data-lang="en" data-width="400" data-height="400" href="https://twitter.com/modelsconf">Tweets by TwitterDev</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
  </div>
 </div>
 
