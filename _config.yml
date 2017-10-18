@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MODELS Conference 2018
+title: MODELS 2018 Conference
 email: models2018@null.dev
 description: > # this means to ignore newlines until "baseurl:"
- MODELS is the premier conference series for model-based software and systems engineering which since 1998 has been covering all aspects of modeling, from languages and methods to tools and applications. 
+ MODELS 2018 is taking place in Copenhagen, Denmark. MODELS is the premier conference series for model-based software and systems engineering which since 1998 has been covering all aspects of modeling, from languages and methods to tools and applications. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://modelsconf2018.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: models2018
+twitter_username: modelsconf
 github_username:  modelsconf2018
 
 # Build settings
@@ -27,6 +27,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
