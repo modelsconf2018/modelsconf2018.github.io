@@ -105,13 +105,7 @@ Please note that:
        <td> Fri 4 May 2018 <br /> Paper submission </td>
       </tr>
       <tr>
-       <td> Tue 12 June 2018 <br /> First notification </td>
-      </tr>
-      <tr>
-       <td> Tue-Thur 12-14 June 2018 <br /> Author response </td>
-      </tr>
-      <tr>
-       <td> Tue 3 July 2018 <br /> Final notification </td>
+       <td> Thu 5 July 2018 <br /> Author notification </td>
       </tr>
       <tr>
        <td> Sat 21 July 2018 <br /> Camera Ready Due </td>
