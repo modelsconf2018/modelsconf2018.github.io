@@ -65,11 +65,14 @@ All papers—“Foundations”, “Practice and Innovation” and “New Ideas/V
 Submissions that do not adhere to these limits or that violate the formatting guidelines will be desk-rejected without review. Accepted papers will be published in the conference proceedings published by ACM. Authors of best papers from the conference will be invited to revise and submit extended versions of the papers for publication in the Journal of Software and Systems Modeling.
 
 ### Review Process
-The MODELS 2018 review process will use two phases in order to provide high quality reviews. The reviewing and discussion process is monitored by one or two Program Board members assigned to each paper.
 
-In the first phase, all papers that conform to the submission guidelines will be peer-reviewed by at least three members of the Program Committee. The Program Committee and Program Board will then identify those papers most viable for publication in MODELS 2018 and advance them to the second phase. Authors of papers that do not progress will be notified promptly, giving authors as much opportunity as possible to further develop their work. Authors of papers that proceed to the second phase may be given the opportunity to respond to some of the questions mentioned by PC members in their reviews. The author response is taken into account in the final decision phase. However, authors are not permitted to revise the content of their paper submission at any time. During the second phase of evaluation, the Program Board will consider the recommendations and online discussion of the Program Committee, as well as the author response, and select the papers to be notified for acceptance to the conference.
+Unlike previous years, the MODELS 2018 review process will use a single phase with no rebuttals. There will be an extended discussion phase monitored by one or two Program Board members assigned to each paper. The Program Chairs will also be heavily involved in monitoring discussions and reviews, to ensure that quality reviews are produced.
 
-Authors of accepted papers will be invited to submit their accompanying artifacts (e.g., software, datasets, proofs) to the Artifact Evaluation process. The Artifact Evaluation process is run by a separate committee whose task is to assess how the artifacts support the results presented in the papers. Participation in the Artifact Evaluation process is optional and does not affect the final decision regarding the papers. Papers that successfully go through the Artifact Evaluation process will be rewarded with a seal of approval printed on the paper themselves. The artifacts will be archived.
+All papers that conform to the submission guidelines will be peer-reviewed by at least three members of the Program Committee. The Program Board will monitor the reviews of papers assigned to them, to ensure that the reviews are constructive and sufficiently detailed so that authors can both improve their papers and understand the rationale behind final decisions. After reviews are completed, the Program Board will lead a discussion phase on papers assigned to them, in order to come up with recommendations. These recommendations will be discussed at the Program Board meeting, to be held in early July 2018, in order to come up with decisions on papers to be presented at the conference.
+
+Authors of accepted papers will be invited to submit their accompanying artifacts (e.g., software, datasets, proofs) to the Artifact Evaluation process. The Artifact Evaluation process is run by a separate committee whose task is to assess how the artifacts support the results presented in the papers. Participation in the Artifact Evaluation process is optional and does not affect the final decision regarding the papers. Papers that successfully go through the Artifact Evaluation process will be rewarded with a seal of approval printed on the paper themselves. The artifacts will be archived. 
+
+
 
 ## Important Dates
 The side panel with [dates](#dates) shows the milestone dates for both Foundations, and Practice and Innovation Papers.
@@ -102,13 +105,7 @@ Please note that:
        <td> Fri 4 May 2018 <br /> Paper submission </td>
       </tr>
       <tr>
-       <td> Tue 12 June 2018 <br /> First notification </td>
-      </tr>
-      <tr>
-       <td> Tue-Thur 12-14 June 2018 <br /> Author response </td>
-      </tr>
-      <tr>
-       <td> Tue 3 July 2018 <br /> Final notification </td>
+       <td> Thu 5 July 2018 <br /> Author notification </td>
       </tr>
       <tr>
        <td> Sat 21 July 2018 <br /> Camera Ready Due </td>
