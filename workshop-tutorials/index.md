@@ -84,8 +84,9 @@ Further details will be communicated to the organizers of accepted workshops at 
 
 ## Workshop Organization and Contact Information
 Workshops Co-Chairs:
-*	Regina Hebig, Chalmers | University of Gothenburg
-*	Thorsten Berger, Chalmers | University of Gothenburg
+
+* Regina Hebig, Chalmers | University of Gothenburg
+* Thorsten Berger, Chalmers | University of Gothenburg
 
 
 </div>
