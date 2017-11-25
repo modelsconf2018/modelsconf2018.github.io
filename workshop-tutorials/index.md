@@ -67,9 +67,10 @@ To ensure a proper coordination of the workshop paper submission deadlines with 
 Please note that the dates above are common across all workshops.
 
 ## Submissions
-Please ensure that you adhere to the workshop proposal guidelines above and  provide all of the requested information within at most 7 pages, including the CfP draft. Submissions must adhere to the ACM formatting instructions (specifically the sigconf template), which can be found at: https://www.acm.org/publications/proceedings-template.
+Please ensure that you adhere to the workshop proposal guidelines above and  provide all of the requested information within at most 7 pages, including the CfP draft. Submissions must adhere to the ACM formatting instructions (specifically the sigconf template), which can be found at: 
+[ACM Templates](https://www.acm.org/publications/proceedings-template).
 
-Please submit your workshop proposal electronically as a PDF via EasyChair at: https://easychair.org/conferences/?conf=models2018
+Please submit your workshop proposal electronically as a PDF via EasyChair at: [Workshop EasyChair submission link](https://easychair.org/conferences/?conf=models2018)
 until the workshop proposal deadline on March 16, 2018.
 
 ## Proceedings
