@@ -1,6 +1,6 @@
 ---
 layout: default
-slug: workshop-tutorials
+slug: workshop-tutorials 
 ---
 <div class="row">
  <div class="col-md-8" markdown="1">
@@ -25,35 +25,35 @@ We encourage prospective workshop organizers to submit proposals for highly inte
 
 Workshops are typically based on presenting peer-reviewed papers submitted to the workshop. However, we also welcome workshops that do not intend to run a paper submission process, but take a different format.
 
-##Important Dates
+## Important Dates
 *	Workshop proposal submission: March 03, 2018 Anywhere on Earth (i.e. UTC-12)
 *	Notification: April 13, 2018
 *	Workshop dates: October 14-16, 2018 (Sunday to Tuesday).
 
-##Workshop Proposal Guidelines
+## Workshop Proposal Guidelines
 Your proposal must contain the following information:
 General Information:
 *	Workshop title and name or acronym
 *	Organizers and primary contact (name/affiliation/email)
 *	Desired length of the workshop (half day or full day)
 *	Abstract (200 words), intended for the MODELS 2018 website
-###Objectives and Scope:
+### Objectives and Scope:
 *	Motivation
 *	Objectives
 *	Topics of interest
 *	Intended audience
 *	Relevance to the MODELS 2018 conference and the MODELS community in general (comments in favour of your application; whether the workshop was at MODELS 2017 or any earlier MODELS conference; an argument why it should be held again)
 *	Information about the previous workshop editions, if applicable, including website, number of submitted and accepted papers, and number of participants
-###Organization Details:
+### Organization Details:
 *	Details about the organizers (150 words max), including relevant experience in workshop organization
 *	Workshop program committee (indicate whether already finalized or expected)
-###Workshop Format:
+### Workshop Format:
 *	Intended paper format, if applicable (number of pages and types of papers, e.g. full papers, work-in-progress papers, practitioners' reports, posters)
 *	Evaluation process, if applicable
 *	Intended workshop format (including duration, number of presentations, and planned keynotes)
 *	Number of expected participants (please make at least an educated guess). Note: For workshops that have a different strategy for participant recruitment than paper submissions, explain how you plan to attract participants.
 *	Specific requirements (e.g. equipment or room capacity)
-###Additional Material:
+### Additional Material:
 *	If existent, URL of the workshop web page (or a draft of it)
 *	Draft of the workshop’s Call for Papers (CfP) that you intend to send out if your workshop is accepted (around 1 page)
 
@@ -66,13 +66,13 @@ To ensure a proper coordination of the workshop paper submission deadlines with 
 
 Please note that the dates above are common across all workshops.
 
-##Submissions
+## Submissions
 Please ensure that you adhere to the workshop proposal guidelines above and  provide all of the requested information within at most 7 pages, including the CfP draft. Submissions must adhere to the ACM formatting instructions (specifically the sigconf template), which can be found at: https://www.acm.org/publications/proceedings-template.
 
 Please submit your workshop proposal electronically as a PDF via EasyChair at: https://easychair.org/conferences/?conf=models2018
 until the workshop proposal deadline on March 16, 2018.
 
-##Proceedings
+## Proceedings
 As last year, there will be joint workshop proceedings that include papers from all workshops. The proceedings will be published by CEUR (http://ceur-ws.org).
 
 For each workshop, the joint proceedings will include:
@@ -82,7 +82,7 @@ For each workshop, the joint proceedings will include:
 
 Further details will be communicated to the organizers of accepted workshops at the time of notification.
 
-##Workshop Organization and Contact Information
+## Workshop Organization and Contact Information
 Workshops Co-Chairs:
 *	Regina Hebig, Chalmers | University of Gothenburg
 *	Thorsten Berger, Chalmers | University of Gothenburg
