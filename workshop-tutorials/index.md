@@ -71,7 +71,7 @@ Please ensure that you adhere to the workshop proposal guidelines above and  pro
 [ACM Templates](https://www.acm.org/publications/proceedings-template).
 
 Please submit your workshop proposal electronically as a PDF via EasyChair at: [Workshop EasyChair submission link](https://easychair.org/conferences/?conf=models2018)
-until the workshop proposal deadline on March 16, 2018.
+until the workshop proposal deadline on March 03, 2018.
 
 ## Proceedings
 As last year, there will be joint workshop proceedings that include papers from all workshops. The proceedings will be published by CEUR (http://ceur-ws.org).
