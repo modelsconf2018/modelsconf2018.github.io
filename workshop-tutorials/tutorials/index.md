@@ -13,7 +13,7 @@ Tutorials provide intensive courses on topics in the area of model-based softwar
 
 ## Important Dates
 
-* Submission: March 16, 2018
+* Tutorial proposal submission: March 16, 2018 Anywhere on Earth (i.e. UTC-12)
 
 * Notification: April 13, 2018
 
@@ -157,7 +157,7 @@ For further information, please contact the tutorial chairs at models-tutorials@
                                 <span class="glyphicon glyphicon-time"></span>
                                 AoE (UTC-12)
                               </span> <br />
-	      
+	       
         </div>
       </div>
       <table class="table table-hover important-dates-in-sidebar">
