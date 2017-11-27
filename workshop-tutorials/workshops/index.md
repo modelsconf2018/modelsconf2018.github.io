@@ -95,7 +95,7 @@ Workshops Co-Chairs:
     <div class="panel panel-primary">
       <div class="panel-heading">
         <div class="panel-title">
-             Workshops Important Dates (Prelim.) <span class="pull-right"> 
+             Workshops Important Dates <span class="pull-right"> 
                                 <span class="glyphicon glyphicon-globe"></span>
                                 <span class="glyphicon glyphicon-time"></span>
                                 AoE (UTC-12)
