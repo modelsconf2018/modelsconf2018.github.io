@@ -55,7 +55,7 @@ The following themes are examples of what is considered relevant for tutorials:
 
 Tutorials are intended to provide independent instructions on a topic of relevance to the audience described above. Therefore, no sales-oriented presentations will be accepted. Tutorials relating to commercial tools or involving the use of commercial tools may be accepted, but will be subject to closer scrutiny, including possible approval of presentation slides. Potential presenters should keep in mind that there may be quite a varied audience, including novice graduate students, seasoned practitioners, and specialized researchers. Tutorial speakers should be prepared to cope with this diversity.
 
-##Proposal Contents
+## Proposal Contents
 
 All submissions must be in English and adhere to the IEEE formatting instructions (https://www.ieee.org/conferences_events/conferences/publishing/templates.html). The submission must include the following information in the indicated order:
 
@@ -95,7 +95,7 @@ All submissions must be in English and adhere to the IEEE formatting instruction
 
 ## Submission Instructions
 
-Proposals must be submitted electronically in PDF format through the [MODELS 2018 Tutorials EasyChair submission page](https://easychair.org/conferences/?conf=models2018) - select category “Tutorials”, by March 16, 2018 anywhere on earth.
+Proposals must be submitted electronically in PDF format through the [MODELS 2018 Tutorials EasyChair submission page](https://easychair.org/conferences/?conf=models2018) - select category “Tutorials”, by March 16, 2018 AoE.
 
 This is a hard deadline. No extensions will be allowed.
 
@@ -152,12 +152,12 @@ For further information, please contact the tutorial chairs at models-tutorials@
     <div class="panel panel-primary">
       <div class="panel-heading">
         <div class="panel-title">
-              Important Dates (Prelim.) <span class="pull-right"> 
+              Tutorials Important Dates <span class="pull-right"> 
                                 <span class="glyphicon glyphicon-globe"></span>
                                 <span class="glyphicon glyphicon-time"></span>
                                 AoE (UTC-12)
                               </span> <br />
-	      Foundations/Practice and Innovation
+	      
         </div>
       </div>
       <table class="table table-hover important-dates-in-sidebar">
