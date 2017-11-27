@@ -95,12 +95,12 @@ Workshops Co-Chairs:
     <div class="panel panel-primary">
       <div class="panel-heading">
         <div class="panel-title">
-              Important Dates (Prelim.) <span class="pull-right"> 
+             Workshops Important Dates (Prelim.) <span class="pull-right"> 
                                 <span class="glyphicon glyphicon-globe"></span>
                                 <span class="glyphicon glyphicon-time"></span>
                                 AoE (UTC-12)
                               </span> <br />
-	      Foundations/Practice and Innovation
+	      
         </div>
       </div>
       <table class="table table-hover important-dates-in-sidebar">
