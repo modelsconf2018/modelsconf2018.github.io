@@ -84,8 +84,8 @@ Please note that:
 * All accepted papers must be presented by an author who is registered as a “Regular” participant (student presenters must register as a Regular participant).
 
 </div>
-<div id="dates" class="col-md-4">
-    <div class="panel panel-primary">
+<div id="dates" class="col-md-4" >
+    <div class="panel panel-primary" style="position: fixed;" >
       <div class="panel-heading">
         <div class="panel-title">
               Important Dates (Prelim.) <span class="pull-right"> 
@@ -96,7 +96,7 @@ Please note that:
 	      Foundations/Practice and Innovation
         </div>
       </div>
-      <table class="table table-hover important-dates-in-sidebar">
+      <table class="table table-hover important-dates-in-sidebar ">
       <tbody>
       <tr>
        <td> Fri 27 April 2018 <br /> Abstract submission </td>

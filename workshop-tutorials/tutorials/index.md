@@ -149,7 +149,7 @@ For further information, please contact the tutorial chairs at models-tutorials@
 
 </div>
 <div id="dates" class="col-md-4">
-    <div class="panel panel-primary">
+    <div class="panel panel-primary" style="position: fixed;">
       <div class="panel-heading">
         <div class="panel-title">
               Tutorials Important Dates <span class="pull-right"> 
