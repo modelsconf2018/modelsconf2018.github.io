@@ -121,7 +121,6 @@ For any further information please contact models-2018-posters@googlegroups.com.
    </table>  
   </div>
  </div>
- </div>
 </div>
 
 
