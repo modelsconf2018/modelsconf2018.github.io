@@ -88,7 +88,7 @@ For any further information please contact models-2018-posters@googlegroups.com.
     <div class="panel panel-primary" style="position: fixed;">
       <div class="panel-heading">
         <div class="panel-title">
-           Posters Important Dates  <span class="pull-right"> 
+           Posters Important Dates<span class="pull-right"> 
                                 <span class="glyphicon glyphicon-globe"></span>
                                 <span class="glyphicon glyphicon-time"></span>
                                 AoE (UTC-12)
@@ -97,17 +97,30 @@ For any further information please contact models-2018-posters@googlegroups.com.
       <table class="table table-hover important-dates-in-sidebar">
       <tbody>
       <tr>
-      <td>  2018 <br /></td>
+      <td> 20 July 2018 <br />Standalone Poster Abstract</td>
       </tr>
       <tr>
-       <td> 2018 <br /></td>
+       <td>27 July 2018 <br />Standalone Poster Full submission</td>
       </tr>
       <tr>
-       <td> 2018 <br /></td>
+       <td> 17 August 2018 <br />Standalone Poster Notification</td>
       </tr>      
+      <tr>
+       <td> 24 August 2018 <br />Standalone Poster Camera Ready</td>
+      </tr>      
+            <tr>
+       <td> 24 August 2018 <br />Paper accompanying poster abstract submission</td>
+      </tr> 
+      <tr>
+       <td> 31 August 2018 <br />Paper accompanying poster full submission</td>
+      </tr> 
+      <tr>
+       <td> 14 September 2018 <br />Paper accompanying poster notification</td>
+      </tr>
    </tbody>
    </table>  
   </div>
+ </div>
  </div>
 </div>
 
