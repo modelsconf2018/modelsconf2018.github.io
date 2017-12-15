@@ -5,7 +5,7 @@ slug: keynotes
 <div class="row">
  <div class="col-md-11" markdown="1">
 
-# Conference Keynotes
+# Keynote Speakers for MODELS 2018
 
 ## Silvija Seres
 <img align="left" src="/assets/faces/sseres.jpg" alt="Silvija Seres" style="width: 200px; padding-right: 20px"/>
@@ -23,9 +23,9 @@ Silvija is married, and has four children. She lives in Oslo, Norway.
 
 <br>
 
-<h2 align="right">Martijn Wisse</h2>
+<!-- <h2 align="right">Martijn Wisse</h2>
 
-<img align="right" src="" style="width: 200px;"/>
+<img align="right" src="" style="width: 200px;"/> -->
 
 
 ## Jim Cordy
