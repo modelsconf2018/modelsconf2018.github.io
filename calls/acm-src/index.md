@@ -7,13 +7,13 @@ slug: acm-src
 
 # ACM Student Research Competition
 
-## 
+
 </div>
 <div id="dates" class="col-md-4">
     <div class="panel panel-primary" style="position: fixed;">
       <div class="panel-heading">
         <div class="panel-title">
-           ACM Student Research Competition  <span class="pull-right"> 
+           ACM Student Research Competition <br> Important Dates <span class="pull-right"> 
                                 <span class="glyphicon glyphicon-globe"></span>
                                 <span class="glyphicon glyphicon-time"></span>
                                 AoE (UTC-12)
@@ -21,7 +21,7 @@ slug: acm-src
       </div>
       <table class="table table-hover important-dates-in-sidebar">
       <tbody>
-      <tr>
+     <!--  <tr>
       <td>  2018 <br /></td>
       </tr>
       <tr>
@@ -29,7 +29,7 @@ slug: acm-src
       </tr>
       <tr>
        <td> 2018 <br /></td>
-      </tr>      
+      </tr>       -->
    </tbody>
    </table>  
   </div>
