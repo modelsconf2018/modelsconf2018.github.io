@@ -5,7 +5,7 @@ slug: workshop-tutorials
 <div class="row">
  <div class="col-md-8" markdown="1">
 
-# Workshops Calls
+# Call for Workshops
 The MODELS series of conferences is the premier venue for the exchange of innovative technical ideas and experiences related to model-driven software engineering. Topics covered by MODELS include, among others, domain-specific modelling languages, general-purpose modelling languages and standards, model-driven engineering processes, model transformations, model-driven software engineering tools and frameworks, as well as quality assurance for functional and non-functional properties of models.
 
 Following the tradition of previous conferences, MODELS 2018 will host a number of workshops during three days before the main conference. The workshops will provide a collaborative forum for a group of typically 15 to 30 participants to exchange recent and/or preliminary results, to conduct intensive discussions on a particular topic related to model-driven software engineering, and to coordinate efforts between representatives of a technical community. They are intended as a forum for lively discussion of innovative ideas, recent progress, and practical experience on model-driven engineering for specific aspects, problems or needs.

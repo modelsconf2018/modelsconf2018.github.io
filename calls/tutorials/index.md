@@ -5,7 +5,7 @@ slug: workshop-tutorials
 <div class="row">
  <div class="col-md-8" markdown="1">
 
-# Tutorials Call
+# Call for Tutorials
 
 Following the tradition of previous conferences, MODELS 2018 will host tutorials as part of its satellite events on October 14 to 16, 2018.
 

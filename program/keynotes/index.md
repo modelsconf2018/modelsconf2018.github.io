@@ -7,11 +7,8 @@ slug: keynotes
 
 # Conference Keynotes
 
-## Silvija Seres - Title TBD
-<img src="/assets/faces/sseres.jpg" alt="Silvija Seres" style="width: 200px;"/>
-
-### Biography
-
+## Silvija Seres
+<img align="left" src="/assets/faces/sseres.jpg" alt="Silvija Seres" style="width: 200px; padding-right: 20px"/>
 Silvija Seres is an independent advisor, investor and board member, now
 serving as a Board Director of Nordea Bank AB, Norwegian Broadcasting
 Corporation, Oslo Stock Exchange and DNV-GL. She has previously worked as a
@@ -24,11 +21,15 @@ She has worked as a Professor in Saudi Arabia at Dar al Hekma Univeristy and
 at DEC SRC in Silicon Valley.
 Silvija is married, and has four children. She lives in Oslo, Norway.
 
+<br>
 
-## Jim Cordy - Title TBD
-<img src="/assets/faces/jcordy.jpg" alt="Jim Cordy" style="width: 200px;"/>
+<h2 align="right">Martijn Wisse</h2>
 
-### Biography
+<img align="right" src="" style="width: 200px;"/>
+
+
+## Jim Cordy
+<img align="left" src="/assets/faces/jcordy.jpg" alt="Jim Cordy" style="width: 200px; padding-right: 20px" />
 
 James R. Cordy is Professor and past Director of the School of Computing at Queen's University in Kingston, Ontario, Canada, and Director of the NSERC CREATE Graduate Specialization in Ultra-Large Scale Software Systems.  From 1995 to 2000 he was Vice President and Chief Research Scientist at Legasys Corporation, a software technology company specializing in legacy software system analysis and renovation.  As leader of the TXL source transformation project with hundreds of academic and industrial users worldwide, he has been involved in computer software analysis and transformation systems for more than 30 years.  
 
