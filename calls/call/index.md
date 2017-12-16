@@ -53,7 +53,7 @@ MODELS 2018 seeks submissions on diverse topics related to modeling for software
 ## Submission and Evaluation Process
 The submission and evaluation process for MODELS 2018 is similar to past MODELS conferences, with the specific details below.
 
-### Submission Process
+### Submission Guidelines 
 Papers must be submitted electronically through the MODELS 2018 EasyChair submission web pages. 
 The submission for Foundations and Practice & Innovation tracks can be found at:
   
@@ -76,7 +76,7 @@ Authors of accepted papers will be invited to submit their accompanying artifact
 
 
 ## Important Dates
-Both tracks have the following deadlines:
+Foundation Track and Practice and Innovation Track have the following deadlines:
 * Fri 27 April 2018, Abstract submission
 * Fri 4 May 2018, Paper submission
 * Thu 5 July 2018, Author notification

@@ -66,7 +66,7 @@ To ensure a proper coordination of the workshop paper submission deadlines with 
 
 Please note that the dates above are common across all workshops.
 
-## Submissions
+## Submission Guidelines
 Please ensure that you adhere to the workshop proposal guidelines above and  provide all of the requested information within at most 7 pages, including the CfP draft. Submissions must adhere to the ACM formatting instructions (specifically the sigconf template), which can be found at: 
 [ACM Templates](https://www.acm.org/publications/proceedings-template).
 

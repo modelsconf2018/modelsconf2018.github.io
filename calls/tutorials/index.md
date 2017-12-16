@@ -93,7 +93,7 @@ All submissions must be in English and adhere to the IEEE formatting instruction
 
 * Supplementary material (optional)
 
-## Submission Instructions
+## Submission Guidelines
 
 Proposals must be submitted electronically in PDF format through the [MODELS 2018 Tutorials EasyChair submission page](https://easychair.org/conferences/?conf=models2018) - select category “Tutorials”, by March 16, 2018 AoE.
 
