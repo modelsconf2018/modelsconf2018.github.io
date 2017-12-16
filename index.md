@@ -43,13 +43,17 @@ MODELS, the ACM/IEEE 21th International Conference on Model Driven Engineering L
         <h3 class="panel-title">News</h3>
       </div>
       <ul class="list-group">
-        {% for post in site.posts limit:10 %}
+        {% for post in site.posts limit:4 %}
         <li class="list-group-item">
           <h5 class="list-group-item-heading">{{ post.date | date: "%B %-d, %Y" }}</h5>
           <p class="list-group-item-text">{{ post.title }}</p>
         </li>
         {% endfor %}
+        <div class="panel-footer text-left">
+        <a href="/news">More News</a>
+        </div>
       </ul>
+
   </div>
   <a class="twitter-timeline" data-lang="en" data-width="400" data-height="400" href="https://twitter.com/modelsconf">Tweets by @modelsconf</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
  </div>
