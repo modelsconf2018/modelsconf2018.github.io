@@ -126,25 +126,19 @@ slug: important-dates
       <table class="table table-hover important-dates-in-sidebar">
       <tbody>
       <tr>
-      <td> Fri 13 April 2018 <br />Workshop&Tutorials Acceptance Notification</td>
+      <td> Sat 21 July 2018 <br />Camera Ready - Foundations/Practice and Innovation Tracks</td>
       </tr>
       <tr>
-      <td> Thu 5 July 2018 <br />Paper Notification - Foundation/Practice and Innovation Tracks</td>
+       <td> Fri 24 August 2018 <br />Camera Ready - Tools and Demonstrations</td>
       </tr>
       <tr>
-       <td> Fri 17 August 2018 <br />Paper Notification - Tools and Demonstrations </td>
+       <td> Fri 24 August 2018 <br />Camera Ready - Educators Symposium</td>
       </tr>
       <tr>
-       <td> Fri 17 August 2018 <br />Paper Notification - Educators Symposium </td>
+       <td> Fri 24 August 2018 <br />Camera Ready - Standalone Posters </td>
       </tr>
       <tr>
-       <td> Fri 17 August 2018 <br />Standalone Poster Notification </td>
-      </tr>
-      <tr>
-       <td> Sun 26 August 2018 <br />Paper Notification - Doctoral Symposium </td>
-      </tr>
-      <tr>
-       <td> Fri 31 August 2018 <br />Paper Accompanying Poster Notification </td>
+       <td> Sun 16 September 2018 <br />Camera Ready - Doctoral Symposium</td>
       </tr>
    </tbody>
    </table>  
