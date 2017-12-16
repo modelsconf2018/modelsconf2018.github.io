@@ -25,7 +25,8 @@ Please submit your paper electronically in PDF via Easychair at the following UR
 Accepted demonstrations will be published in ACM as a separate volume and indexed by DBLP. A best demonstration award will be given during the conference.
 
 ## Important Dates
-* July 20, 2018, Abstract
+All submission deadlines are AoE (i.e. UTC-12).
+* July 20, 2018, Abstract 
 * July 27, 2018, Full submission
 * August 17, 2018, Acceptance notification
 * August 24, 2018, Camera ready
@@ -70,7 +71,7 @@ Accepted demonstrations will be published in ACM as a separate volume and indexe
       <table class="table table-hover important-dates-in-sidebar">
       <tbody>
       <tr>
-      <td> 20 July 2018 <br />Abstract</td>
+      <td> 20 July 2018 <br />Abstract </td>
       </tr>
       <tr>
        <td>27 July 2018 <br />Full submission</td>

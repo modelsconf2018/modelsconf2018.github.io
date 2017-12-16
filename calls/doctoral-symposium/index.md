@@ -30,9 +30,10 @@ Submissions must not exceed five (5) pages plus two (2) pages for references. Al
 All papers have to be submitted electronically in PDF format via Easychair: <Link here>
 
 ## Important Dates
+All submission deadlines are AoE (i.e. UTC-12).
 
-* Abstract Submission: July 8, 2018, AOE
-* Paper Submission July 15, 2018, AOE
+* Abstract Submission: July 8, 2018, AoE
+* Paper Submission July 15, 2018, AoE
 * Acceptance Notification: August 26, 2018
 * Camera Ready: September 16, 2018
 * Doctoral Symposium: Tuesday, October 16, 2018

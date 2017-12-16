@@ -41,6 +41,8 @@ All papers of the 14th Educators Symposium at MODELS 2018 will be published in C
 All papers will be reviewed by at least three members of the program committee. The paper selection process will be based on the novelty of the ideas or solutions, the impact of modeling in software development education, and relevance to the topics of the symposium.
 
 ## Important Dates
+All submission deadlines are AoE (i.e. UTC-12).
+
 * July 20, 2018: Abstract submission
 * July 27, 2018: Paper submission
 * August 17, 2018: Acceptance Notification
