@@ -76,7 +76,13 @@ Authors of accepted papers will be invited to submit their accompanying artifact
 
 
 ## Important Dates
-The side panel with [dates](#dates) shows the milestone dates for both Foundations, and Practice and Innovation Papers.
+Both tracks have the following deadlines:
+* Fri 27 April 2018, Abstract submission
+* Fri 4 May 2018, Paper submission
+* Thu 5 July 2018, Author notification
+* Sat 21 July 2018, Camera Ready Due 
+
+
  
 Please note that:
 * Abstract submission is mandatory.
@@ -89,7 +95,7 @@ Please note that:
     <div class="panel panel-primary" style="position: fixed; " >
       <div class="panel-heading">
         <div class="panel-title">
-              Important Dates (Prelim.) <span class="pull-right"> 
+              Important Dates<span class="pull-right"> 
                                 <span class="glyphicon glyphicon-globe"></span>
                                 <span class="glyphicon glyphicon-time"></span>
                                 AoE (UTC-12)
