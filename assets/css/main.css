@@ -2,10 +2,19 @@ body {
   position: relative;
 }
 
-:target {
-  padding-top: 80px;
+#dates{
+padding-top: 20px;
 }
 
+:target:before {
+  content:"";
+  display:block;
+  height:105px; /* fixed header height*/
+  margin:-105px 0 0; /* negative fixed header height */
+}
+/*:target {
+  padding-top: 90px;
+}*/
 .photo-credit {
   padding-top: 0.3em;
   font-size: 0.6em;
