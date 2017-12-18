@@ -11,7 +11,7 @@ MODELS is the premier conference series for model-based software and systems eng
 The demonstration of tools at recent MODELS conferences has shown that researchers and practitioners are dedicating more time and effort to develop tools of a high quality to be used by the community. We would like to solicit high-quality submissions for the tool demonstration track ranging across commercial, academic, and corporate research and industrial systems. We encourage submissions on tools that are: research prototypes built to support novel research ideas, tools to support pedagogy, extensions of existing tools and tool chains, and mature tools not yet commercialized. 
 The submissions to this track should not have been demonstrated at other venues and extensions of existing tools should have at least 30% extension of their functionality. Based on the purpose of the tool, submissions will be evaluated on their technical merit, novelty, pedagogical impact, relevance to the modeling community and level of maturity. At least one of the authors must attend the demonstration session in order to present and discuss their tool with attendees.
 
-We will also be inviting “lightning demos” as a second opportunity to run a tool demo at the conference. Proposals for these can come in as late as during the week of the conference. For this category of demos, no official submission is required and no publication will be made. These will also be open to researchers and practitioners who cannot physically attend the conference. Detailed instructions for submission of lightning demos will be made available closer to the conference dates.
+We will also be inviting “lightning demos” as a second opportunity to run a tool demo at the conference. Proposals for these can come in as late as during the week of the conference. For this category of demos, no official submission is required and no publication will be made. These will also be open to researchers and practitioners who cannot physically attend the conference. Detailed instructions for the submission of lightning demos will be made available closer to the conference dates.
 
 
 ## Submission Guidelines
@@ -19,7 +19,7 @@ A short abstract describing the tool and demonstration must be submitted via Eas
 Full submissions must be submitted via EasyChair by July 27, 2018. Submissions must adhere to the sigconf format provided by ACM (see https://www.acm.org/publications/proceedings-template for details). 
 A full submission must consist of no more than 5 pages describing the tool presented. Authors must highlight the novelty of their tool and position it with respect to related work on existing tools. The paper must include a link to a 3-5 minute-long online (e.g. YouTube, Vimeo) video that demonstrates the use of the tool.
 Submissions that do not adhere to the above specified page limits or that violate the formatting guidelines may be desk-rejected without review.
-Please submit your paper electronically in PDF via Easychair at the following URL: https://easychair.org/conferences/?conf=models2018
+Please submit your paper electronically in PDF via Easychair at the following URL:  [https://easychair.org/conferences/?conf=models2018](https://easychair.org/conferences/?conf=models2018)
 
 ## Publication
 Accepted tool demonstration papers will be published in ACM Digital Library and indexed by DBLP. A best demonstration award will be given during the conference.
