@@ -78,8 +78,8 @@ Accepted posters will be advertised in the conference program and displayed duri
 * September 14, 2018: Notification 
 
 ## Organizers
-* [Tanja Mayerhofer](https://www.big.tuwien.ac.at/people/tanja-mayerhofer/) (mayerhofer@big.tuwien.ac.at), TU Wien (Austria)
-* [Mansooreh Zahedi](https://pure.itu.dk/portal/en/persons/mansooreh-zahedi%28e2d61092-7519-4ba1-95e1-29728326d842%29.html) (mzah@itu.dk), IT University of Copenhagen (Denmark)
+* [Tanja Mayerhofer](https://www.big.tuwien.ac.at/people/tanja-mayerhofer/) (<a href="mailto:mayerhofer@big.tuwien.ac.at">mayerhofer@big.tuwien.ac.at</a>), TU Wien (Austria)
+* [Mansooreh Zahedi](https://pure.itu.dk/portal/en/persons/mansooreh-zahedi%28e2d61092-7519-4ba1-95e1-29728326d842%29.html) (<a href="mailto:mzah@itu.dk">mzah@itu.dk</a>), IT University of Copenhagen (Denmark)
 
 ## Contact
 For any further information please contact models-2018-posters@googlegroups.com.
