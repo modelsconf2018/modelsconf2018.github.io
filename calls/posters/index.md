@@ -12,12 +12,12 @@ The MODELS 2018 posters track provides an opportunity for researchers and practi
 The goal of the poster track is to encourage and facilitate the exchange within the MODELS community, foster collaboration, and, therewith strengthen the community as a whole. 
 
 ## Topics
-Posters are expected to stimulate discussions of recent advances, practical experiences, new ideas, tools, and challenges in the field of model-based software and systems engineering. We also welcome posters presenting early work, visions for the future, current initiatives, and work on modeling education. For a list of topics relevant to MODELS, we refer to the call for papers of the main conference track.
+Posters are expected to stimulate discussions of recent advances, practical experiences, new ideas, tools, and challenges in the field of model-based software and systems engineering. We also welcome posters presenting early work, visions for the future, current initiatives, and work on modeling education. For a list of topics relevant to MODELS, we refer to the [call for papers](https://modelsconf2018.github.io/calls/call) of the main conference track.
 
 ## Poster Submissions
 This year, we distinguish two types of poster submissions: stand-alone poster submissions and paper-accompanying poster submissions.
-* Stand-Alone Poster Submissions
-* Stand-alone poster submissions are poster submissions that present a novel contribution in the field of model-based software and systems engineering and are independent of any paper accepted at the MODELS 2018 main track or submitted to any of the MODELS 2018 satellite events. 
+### Stand-Alone Poster Submissions
+ Stand-alone poster submissions are poster submissions that present a novel contribution in the field of model-based software and systems engineering and are independent of any paper accepted at the MODELS 2018 main track or submitted to any of the MODELS 2018 satellite events. 
 
 Such submissions consist of two parts:
 
@@ -38,11 +38,12 @@ The posters have to be in A1 portrait format (594mm x 841mm). The article [Resea
 
 Both, the extended abstract and the poster have to be written in English and submitted in PDF format.
 
-## Paper-Accompanying Poster Submissions
+### Paper-Accompanying Poster Submissions
 Paper-accompanying poster submissions are poster submissions that are directly related to a paper accepted at the MODELS 2018 main track or any of the MODELS 2018 satellite events. The aim of such poster submissions is to further disseminate the contribution presented in the respective paper, to receive additional feedback and further discuss the presented work.
 
 This kind of poster submissions consist only of a draft of the poster to be presented at the MODELS poster track. An extended abstract is not required. The poster should contain the content given above for stand-alone poster submissions, and follow the same format restrictions.
-Submission Process
+
+## Submission Process
 All poster submissions have to be submitted electronically in PDF format at the MODELS 2018 Poster track submission page: [Posters Submission Link](https://easychair.org/conferences/?conf=models2018)
 
 For stand-alone poster submissions, the extended abstract and the poster have to be submitted in one PDF in the following order: (1) poster, (2) extended abstract.
@@ -77,8 +78,8 @@ Accepted posters will be advertised in the conference program and displayed duri
 * September 14, 2018: Notification 
 
 ## Organizers
-* Tanja Mayerhofer (mayerhofer@big.tuwien.ac.at), TU Wien (Austria)
-* Mansooreh Zahedi (mzah@itu.dk), IT University of Copenhagen (Denmark)
+* [Tanja Mayerhofer](https://www.big.tuwien.ac.at/people/tanja-mayerhofer/) (mayerhofer@big.tuwien.ac.at), TU Wien (Austria)
+* [Mansooreh Zahedi](https://pure.itu.dk/portal/en/persons/mansooreh-zahedi%28e2d61092-7519-4ba1-95e1-29728326d842%29.html) (mzah@itu.dk), IT University of Copenhagen (Denmark)
 
 ## Contact
 For any further information please contact models-2018-posters@googlegroups.com.
