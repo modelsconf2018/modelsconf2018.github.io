@@ -82,7 +82,7 @@ Accepted posters will be advertised in the conference program and displayed duri
 * [Mansooreh Zahedi](https://pure.itu.dk/portal/en/persons/mansooreh-zahedi%28e2d61092-7519-4ba1-95e1-29728326d842%29.html) (<a href="mailto:mzah@itu.dk">mzah@itu.dk</a>), IT University of Copenhagen (Denmark)
 
 ## Contact
-For any further information please contact models-2018-posters@googlegroups.com.
+For any further information please contact <a href="mailto: models-2018-posters@googlegroups.com">Contact Us</a>.
 
 </div>
 <div id="dates" class="col-md-4">
@@ -98,25 +98,25 @@ For any further information please contact models-2018-posters@googlegroups.com.
       <table class="table table-hover important-dates-in-sidebar">
       <tbody>
       <tr>
-      <td> 20 July 2018 <br />Standalone Poster Abstract</td>
+      <td> 20 July 2018 <br />Stand-Alone Poster Abstract</td>
       </tr>
       <tr>
-       <td>27 July 2018 <br />Standalone Poster Full submission</td>
+       <td>27 July 2018 <br />Stand-Alone Poster Full submission</td>
       </tr>
       <tr>
-       <td> 17 August 2018 <br />Standalone Poster Notification</td>
+       <td> 17 August 2018 <br />Stand-Alone Poster Notification</td>
       </tr>      
       <tr>
-       <td> 24 August 2018 <br />Standalone Poster Camera Ready</td>
+       <td> 24 August 2018 <br />Stand-Alone Poster Camera Ready</td>
       </tr>      
             <tr>
-       <td> 24 August 2018 <br />Paper accompanying poster abstract submission</td>
+       <td> 24 August 2018 <br />Paper-Accompanying Poster abstract submission</td>
       </tr> 
       <tr>
-       <td> 31 August 2018 <br />Paper accompanying poster full submission</td>
+       <td> 31 August 2018 <br />Paper-Accompanying Poster Full Submission</td>
       </tr> 
       <tr>
-       <td> 14 September 2018 <br />Paper accompanying poster notification</td>
+       <td> 14 September 2018 <br />Paper-Accompanying Poster Notification</td>
       </tr>
    </tbody>
    </table>  
