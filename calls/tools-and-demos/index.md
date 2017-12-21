@@ -19,7 +19,7 @@ A short abstract describing the tool and demonstration must be submitted via Eas
 Full submissions must be submitted via EasyChair by July 27, 2018. Submissions must adhere to the sigconf format provided by ACM (see https://www.acm.org/publications/proceedings-template for details). 
 A full submission must consist of no more than 5 pages describing the tool presented. Authors must highlight the novelty of their tool and position it with respect to related work on existing tools. The paper must include a link to a 3-5 minute-long online (e.g. YouTube, Vimeo) video that demonstrates the use of the tool.
 Submissions that do not adhere to the above specified page limits or that violate the formatting guidelines may be desk-rejected without review.
-Please submit your paper electronically in PDF via Easychair at the following URL:  [https://easychair.org/conferences/?conf=models2018](https://easychair.org/conferences/?conf=models2018)
+Please submit your paper electronically in PDF via Easychair at the following URL:  [https://easychair.org/conferences/?conf=models2018](https://easychair.org/conferences/?conf=models2018) ("Tools and Demos" track)
 
 ## Publication
 Accepted tool demonstration papers will be published in ACM Digital Library and indexed by DBLP. A best demonstration award will be given during the conference.
