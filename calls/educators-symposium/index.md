@@ -37,7 +37,7 @@ Papers have to present original content. Previously published papers, accepted p
 All papers have to be submitted electronically in PDF format via Easychair at: [Workshop Educators Sympoisum Link](https://easychair.org/conferences/?conf=edusymp2018)
 
 ## Publication
-All papers of the 14th Educators Symposium at MODELS 2018 will be published in CEUR. At least one author for each accepted paper must register for the symposium at the MODELS 2018 conference by the early registration deadline and present the paper at the symposium. Failure to do so will result in the paper being withdrawn from the proceedings.
+All papers of the **14th Educators Symposium at MODELS 2018** will be published in a companion proceedings volume at ACM. At least one author for each accepted paper must register for the symposium at the MODELS 2018 conference by the early registration deadline and present the paper at the symposium. Failure to do so will result in the paper being withdrawn from the proceedings.
 All papers will be reviewed by at least three members of the program committee. The paper selection process will be based on the novelty of the ideas or solutions, the impact of modeling in software development education, and relevance to the topics of the symposium.
 
 ## Important Dates
