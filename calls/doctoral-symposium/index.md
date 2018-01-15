@@ -5,7 +5,7 @@ slug: doctoral-symposium
 <div class="row">
  <div class="col-md-8" markdown="1">
 
-# Call for Doctoral Symposium
+# Call for Doctoral Symposium Contributions
 
 The goal of the MODELS 2018 Doctoral Symposium is to provide an international forum for doctoral students to interact with their fellow students and faculty mentors working in the area of model-driven engineering. The symposium supports students by providing independent and constructive feedback about their already completed and, more importantly, planned research work. The Symposium will be attended by prominent experts in the field of model-driven engineering, who will actively participate in critical and constructive discussions.
 
@@ -25,9 +25,9 @@ Submissions should present research in progress that is intended to lead to a do
 * Expected contributions: A list of the expected contributions to both theory and practice.
 * Current status: A description of the work to-date, results achieved so far and a proposed planned timeline for completion.
 
-Submissions must not exceed five (5) pages plus two (2) pages for references. All submissions must conform to the Springer LNCS style (http://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines).
+Submissions must not exceed five (5) pages plus two (2) pages for references. All submissions must conform to the sigconf template provided by [ACM Template](https://www.acm.org/publications/proceedings-template for details).
 
-All papers have to be submitted electronically in PDF format via Easychair: <Link here>
+All papers have to be submitted electronically in PDF format. The submission page for Doctoral Symposium @MODELS'18 is through [Easychair](https://easychair.org/conferences/?conf=doctoralsymposiummod).
 
 ## Important Dates
 All submission deadlines are AoE (i.e. UTC-12).
@@ -36,7 +36,7 @@ All submission deadlines are AoE (i.e. UTC-12).
 * Paper Submission July 15, 2018, AoE
 * Acceptance Notification: August 26, 2018
 * Camera Ready: September 16, 2018
-* Doctoral Symposium: Tuesday, October 16, 2018
+* Doctoral Symposium: Tuesday, October 16 (most likely, changes still possible at this point), 2018
 
 
 ## Organizers
@@ -72,7 +72,7 @@ All submission deadlines are AoE (i.e. UTC-12).
        <td> 16 September 2018 <br />Camera Ready</td>
       </tr>  
       <tr>
-       <td> 16 October 2018 <br />Doctoral Symposium</td>
+       <td> 16 October 2018 (most likely, changes still possible at this point) <br />Doctoral Symposium</td>
       </tr>        
    </tbody>
    </table>  

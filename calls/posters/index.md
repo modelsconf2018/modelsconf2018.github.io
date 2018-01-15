@@ -101,7 +101,7 @@ For any further information please contact <a href="mailto: models-2018-posters@
       <td> 20 July 2018 <br />Stand-Alone Poster Abstract</td>
       </tr>
       <tr>
-       <td>27 July 2018 <br />Stand-Alone Poster Full submission</td>
+       <td>27 July 2018 <br />Stand-Alone Poster Full Submission</td>
       </tr>
       <tr>
        <td> 17 August 2018 <br />Stand-Alone Poster Notification</td>
@@ -110,7 +110,7 @@ For any further information please contact <a href="mailto: models-2018-posters@
        <td> 24 August 2018 <br />Stand-Alone Poster Camera Ready</td>
       </tr>      
             <tr>
-       <td> 24 August 2018 <br />Paper-Accompanying Poster abstract submission</td>
+       <td> 24 August 2018 <br />Paper-Accompanying Poster Abstract Submission</td>
       </tr> 
       <tr>
        <td> 31 August 2018 <br />Paper-Accompanying Poster Full Submission</td>
