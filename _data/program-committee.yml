@@ -1,20 +1,114 @@
-- name: Andrzej Wasowski
-  track: foundations
-  uni: IT University of Copenhagen
-  country: Denmark
-  image: aw.jpeg
-  url: https://itu.dk/people/wasowski
-
-- name: Richard Paige
-  track: foundations
-  uni: York University
-  country: UK
-  image: rpaige.jpg
-  url: https://york
-
-- name: Tanya
+- name: Simon Barner 
   track: practice
-  uni: York University
+  uni: fortiss
+  country: Germany
+  image: sbarner.jpg
+  url: https://www.fortiss.org/en/about-us/people/simon-barner/
+
+- name: Achim Brucker
+  track: practice
+  uni: University of Sheffield 
   country: UK
-  image: tmayerhofer.png
-  url: https://york
+  image: abrucker.jpg
+  url: https://www.brucker.ch/
+
+- name: Franck Fleurey 
+  track: practice
+  uni: TellU IoT
+  country: Norway
+  image: ffleurey.jpg
+  url: http://www.fleurey.com/franck/pmwiki.php
+
+- name: Rob Pettit 
+  track: practice
+  uni: The Aerospace Corporation
+  country: USA
+  image: rpetit.jpg
+  url: https://cs.gmu.edu/~rpettit/
+
+- name: Kirstie Bellman 
+  track: practice
+  uni: The Aerospace Corporation
+  country: USA
+  image: kbellman.jpg
+  url: https://www.researchgate.net/profile/Kirstie_Bellman
+
+- name: Ruth Breu 
+  track: practice
+  uni: University of Innsbruck
+  country: Austria
+  image: rbreu.jpg
+  url: http://www.qe-lab.at/index.php?option=com_contact&view=contact&catid=1:contacts&id=1
+
+- name: Carolina Dania 
+  track: practice
+  uni: Booking.com
+  country: Netherlands
+  image: cdania.jpg
+  url: http://software.imdea.org/~dania/
+
+- name: Thomas Goldschmidt
+  track: practice
+  uni: ABB
+  country: Germany 
+  image: tgoldschmidt.jpg
+  url: https://scholar.google.com/citations?user=2waXI8MAAAAJ&hl=en
+
+- name: Vinay Kulkarni 
+  track: practice
+  uni: TCS
+  country: India 
+  image: vkulkarni.jpg
+  url: https://scholar.google.co.in/citations?user=EiWmOoUAAAAJ
+
+- name: Sreedhar Reddy 
+  track: practice
+  uni: TCS
+  country: India 
+  image: .jpg
+  url: https://scholar.google.ch/citations?user=uZcrDZQAAAAJ&hl=en
+
+- name: Harald Ruess 
+  track: practice
+  uni: fortiss
+  country: Germany
+  image: hruess.jpg
+  url: https://www.fortiss.org/en/about-us/people/harald-ruess/
+
+- name: Ina Schieferdecker 
+  track: practice
+  uni: Fraunhofer FOKUS
+  country: Germany
+  image: ischieferdecker.jpg
+  url: http://www.schieferdecker-online.info/
+
+- name: Bran Selic 
+  track: practice
+  uni: Melina Software
+  country: Canada
+  image: bselic.jpg
+  url: https://scholar.google.com/citations?user=bzxh-TsAAAAJ
+
+
+- name: Cortland Starrett 
+  track: practice
+  uni: OneFact
+  country: USA
+  image: cstarrett.jpg
+  url: https://www.linkedin.com/in/cortlandstarrett
+
+
+- name: Salvador Trujillo 
+  track: practice
+  uni: Ikerlan
+  country: Spain
+  image: strujillo.jpg
+  url: http://www.onekin.org/portal/content/salvador-trujillo
+
+
+- name: Vadim Zaytsev
+  track: practice
+  uni: Raincode
+  country: Belgium
+  image: vzaytsev.jpg
+  url: http://grammarware.net/
