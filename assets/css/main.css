@@ -21,6 +21,12 @@ padding-top: 20px;
   text-align: left;
 }
 
+.thumbnail > img {
+    height:40px;
+
+    }
+}
+
 @media (max-width: 767px) {
   img.keynote-face {
     max-width: 45%;
