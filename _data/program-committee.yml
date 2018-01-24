@@ -5,27 +5,6 @@
   image: sbarner.jpg
   url: https://www.fortiss.org/en/about-us/people/simon-barner/
 
-- name: Achim Brucker
-  track: practice
-  uni: University of Sheffield 
-  country: UK
-  image: abrucker.png
-  url: https://www.brucker.ch/
-
-- name: Franck Fleurey 
-  track: practice
-  uni: TellU IoT
-  country: Norway
-  image: ffleurey.jpg
-  url: http://www.fleurey.com/franck/pmwiki.php
-
-- name: Rob Pettit 
-  track: practice
-  uni: The Aerospace Corporation
-  country: USA
-  image: rpetit.jpg
-  url: https://cs.gmu.edu/~rpettit/
-
 - name: Kirstie Bellman 
   track: practice
   uni: The Aerospace Corporation
@@ -33,12 +12,26 @@
   image: kbellman.jpg
   url: https://www.researchgate.net/profile/Kirstie_Bellman
 
+- name: Francis Bordelau
+  track: practice
+  uni: CMind
+  country: Canada
+  image: fbordelau.jfif
+  url: https://cmind.io
+  
 - name: Ruth Breu 
   track: practice
   uni: University of Innsbruck
   country: Austria
   image: rbreu.jpg
   url: http://www.qe-lab.at/index.php?option=com_contact&view=contact&catid=1:contacts&id=1
+  
+- name: Achim Brucker
+  track: practice
+  uni: University of Sheffield 
+  country: UK
+  image: abrucker.png
+  url: https://www.brucker.ch/
 
 - name: Carolina Dania 
   track: practice
@@ -46,6 +39,13 @@
   country: Netherlands
   image: cdania.jpg
   url: http://software.imdea.org/~dania/
+
+- name: Franck Fleurey 
+  track: practice
+  uni: TellU IoT
+  country: Norway
+  image: ffleurey.jpg
+  url: http://www.fleurey.com/franck/pmwiki.php
 
 - name: Thomas Goldschmidt
   track: practice
@@ -60,6 +60,13 @@
   country: India 
   image: vkulkarni.jpg
   url: https://scholar.google.co.in/citations?user=EiWmOoUAAAAJ
+
+- name: Rob Pettit 
+  track: practice
+  uni: The Aerospace Corporation
+  country: USA
+  image: rpetit.jpg
+  url: https://cs.gmu.edu/~rpettit/
 
 - name: Sreedhar Reddy 
   track: practice
@@ -89,7 +96,6 @@
   image: bselic.jpg
   url: https://scholar.google.com/citations?user=bzxh-TsAAAAJ
 
-
 - name: Cortland Starrett 
   track: practice
   uni: OneFact
@@ -97,14 +103,12 @@
   image: cstarrett.jpg
   url: https://www.linkedin.com/in/cortlandstarrett
 
-
 - name: Salvador Trujillo 
   track: practice
   uni: Ikerlan
   country: Spain
   image: strujillo.jpg
   url: http://www.onekin.org/portal/content/salvador-trujillo
-
 
 - name: Vadim Zaytsev
   track: practice
