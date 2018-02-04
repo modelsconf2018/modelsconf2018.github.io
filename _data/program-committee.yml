@@ -11,7 +11,14 @@
   country: USA
   image: kbellman.jpg
   url: https://www.researchgate.net/profile/Kirstie_Bellman
-
+  
+- name: Olivier Biot
+  track: practice
+  uni: Sirris
+  country: Belgium
+  image: obiot.jpg
+  url: http://www.sirris.be/users/olivier-biot
+  
 - name: Francis Bordelau
   track: practice
   uni: Cmind
