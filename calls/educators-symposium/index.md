@@ -50,8 +50,9 @@ All submission deadlines are AoE (i.e. UTC-12).
 * TBD: Educators Symposium
 
 ## Organizers
-Martin Gogolla, University of Bremen, Germany
-Loli Burgueño, University of Málaga, Spain
+
+* Martin Gogolla, University of Bremen, Germany
+* Loli Burgueño, University of Málaga, Spain
 
 
 </div>

@@ -13,17 +13,6 @@ The submissions to this track should not have been demonstrated at other venues 
 
 We will also be inviting “lightning demos” as a second opportunity to run a tool demo at the conference. Proposals for these can come in as late as during the week of the conference. For this category of demos, no official submission is required and no publication will be made. These will also be open to researchers and practitioners who cannot physically attend the conference. Detailed instructions for the submission of lightning demos will be made available closer to the conference dates.
 
-
-## Submission Guidelines
-A short abstract describing the tool and demonstration must be submitted via EasyChair by July 20, 2018. 
-Full submissions must be submitted via EasyChair by July 27, 2018. Submissions must adhere to the sigconf format provided by ACM (see https://www.acm.org/publications/proceedings-template for details). 
-A full submission must consist of no more than 5 pages describing the tool presented. Authors must highlight the novelty of their tool and position it with respect to related work on existing tools. The paper must include a link to a 3-5 minute-long online (e.g. YouTube, Vimeo) video that demonstrates the use of the tool.
-Submissions that do not adhere to the above specified page limits or that violate the formatting guidelines may be desk-rejected without review.
-Please submit your paper electronically in PDF via Easychair at the following URL:  [https://easychair.org/conferences/?conf=models2018](https://easychair.org/conferences/?conf=models2018) ("Tools and Demos" track)
-
-## Publication
-Accepted tool demonstration papers will be published in ACM Digital Library and indexed by DBLP. A best demonstration award will be given during the conference.
-
 ## Important Dates
 All submission deadlines are AoE (i.e. UTC-12).
 * July 20, 2018, Abstract 
@@ -32,9 +21,15 @@ All submission deadlines are AoE (i.e. UTC-12).
 * August 24, 2018, Camera ready
 * TBD (October 14-19, 2018), Demo session
 
-## Organizers
-* Sahar Kokaly, McMaster University, Canada
-* Dimitris Kolovos, University of York, UK
+## Submission Guidelines
+A short abstract describing the tool and demonstration must be submitted via EasyChair by July 20, 2018. 
+Full submissions must be submitted via EasyChair by July 27, 2018. Submissions must adhere to the sigconf format provided by ACM (see [template](https://www.acm.org/publications/proceedings-template) for details). 
+A full submission must consist of no more than 5 pages describing the tool presented. Authors must highlight the novelty of their tool and position it with respect to related work on existing tools. The paper must include a link to a 3-5 minute-long online (e.g. YouTube, Vimeo) video that demonstrates the use of the tool.
+Submissions that do not adhere to the above specified page limits or that violate the formatting guidelines may be desk-rejected without review.
+Please submit your paper electronically in PDF via Easychair at the following URL:  [https://easychair.org/conferences/?conf=models2018](https://easychair.org/conferences/?conf=models2018) ("Tools and Demos" track)
+
+## Publication
+Accepted tool demonstration papers will be published in ACM Digital Library and indexed by DBLP. A best demonstration award will be given during the conference.
 
 ## Program Committee
 * Thanos Zolotas (University of York, UK) 
@@ -56,6 +51,9 @@ All submission deadlines are AoE (i.e. UTC-12).
 * Kelly Garces (Universidad de los Andes, Colombia) 
 * Vincent Aranega (Axellience, France) 
 
+## Organizers
+* Sahar Kokaly, McMaster University, Canada
+* Dimitris Kolovos, University of York, UK
 
 </div>
 <div id="dates" class="col-md-4">

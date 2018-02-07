@@ -85,22 +85,22 @@ Further details will be communicated to the organizers of accepted workshops at 
 
 ## Workshop Selection Committee
 
-* Alfonso Pierantonio, University of L’Aquila (Italy)
-* Birgit Demuth, TU Dresden (Germany)
-* Dalila Tamzalit, Département Informatique - IUT, (France)
-* Federico Ciccozzi, Mälardalen University (Sweden)
-* Ileana Ober, Université Paul Sabatier (France)
-* Jan-Philipp Steghöfer, Chalmers | University of Gothenburg,  Sweden
-* Jeff Gray, University of Alabama (USA)
-* Manuel Wimmer, Vienna University of Technology (Austria)
-* Michalis Famelis, University of Montreal (Canada)
-* Sahar Kokaly, McMaster University and General Motors (Canada)
+* Alfonso Pierantonio, University of L’Aquila, Italy
+* Birgit Demuth, TU Dresden, Germany
+* Dalila Tamzalit, Département Informatique - IUT, France
+* Federico Ciccozzi, Mälardalen University, Sweden
+* Ileana Ober, Université Paul Sabatier, France
+* Jan-Philipp Steghöfer, Chalmers \| University of Gothenburg, Sweden
+* Jeff Gray, University of Alabama, USA
+* Manuel Wimmer, Vienna University of Technology, Austria
+* Michalis Famelis, University of Montreal, Canada
+* Sahar Kokaly, McMaster University and General Motors, Canada
 
 ## Workshop Organization and Contact Information
 Workshops Co-Chairs:
 
-* Regina Hebig, Chalmers | University of Gothenburg
-* Thorsten Berger, Chalmers | University of Gothenburg
+* Regina Hebig, Chalmers \| University of Gothenburg
+* Thorsten Berger, Chalmers \| University of Gothenburg
 
 
 </div>
