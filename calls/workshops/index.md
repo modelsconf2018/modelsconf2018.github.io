@@ -83,6 +83,19 @@ For each workshop, the joint proceedings will include:
 
 Further details will be communicated to the organizers of accepted workshops at the time of notification.
 
+## Workshop Selection Committee
+
+* Alfonso Pierantonio, University of L’Aquila (Italy)
+* Birgit Demuth, TU Dresden (Germany)
+* Dalila Tamzalit, Département Informatique - IUT, (France)
+* Federico Ciccozzi, Mälardalen University (Sweden)
+* Ileana Ober, Université Paul Sabatier (France)
+* Jan-Philipp Steghöfer, Chalmers | University of Gothenburg,  Sweden
+* Jeff Gray, University of Alabama (USA)
+* Manuel Wimmer, Vienna University of Technology (Austria)
+* Michalis Famelis, University of Montreal (Canada)
+* Sahar Kokaly, McMaster University and General Motors (Canada)
+
 ## Workshop Organization and Contact Information
 Workshops Co-Chairs:
 
