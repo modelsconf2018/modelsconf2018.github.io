@@ -22,7 +22,7 @@ It is close to The Lakes in Copenhagen and has the largest cinema in all of Nort
 All main attractions in Copenhagen are easily reachable by foot, bike or public transport, and there are plenty of restaurants and bars close by.
 IT University of Copenhagen is easily reachable by public transport.
 
-*Princing:* Standard <a href="http://www.xe.com/currencyconverter/convert/?Amount=1215&From=DKK&To=USD">1215 DKK</a>, Double <a href="http://www.xe.com/currencyconverter/convert/?Amount=1295&From=DKK&To=USD">1295 DKK</a>.
+*Princing:* Standard [1215 DKK](http://www.xe.com/currencyconverter/convert/?Amount=1215&From=DKK&To=USD), Double [1295 DKK](http://www.xe.com/currencyconverter/convert/?Amount=1295&From=DKK&To=USD).
 
 *Rooms:* Standard room size with large working desk, couches and TV. Bath and toilet in-room. Coffee and tea is available in room (daily refills). Allergy-friendly rooms are available on request.
 
@@ -52,7 +52,7 @@ Wakeup Copenhagen is located in Borgergade in the heart of Copenhagen and design
 All main attractions in Copenhagen are easily reachable by foot, bike or public transport, and there are plenty of restaurants and bars close by.
 You can easily get to the IT University of Copenhagen and the city center using the always-available Metro trains.
 
-*Princing:* Standard <a href="http://www.xe.com/currencyconverter/convert/?Amount=650&From=DKK&To=USD">650 DKK</a>, Double <a href="http://www.xe.com/currencyconverter/convert/?Amount=830&From=DKK&To=USD">830 DKK</a>.
+*Princing:* Standard [650 DKK](http://www.xe.com/currencyconverter/convert/?Amount=650&From=DKK&To=USD), Double [830 DKK](http://www.xe.com/currencyconverter/convert/?Amount=830&From=DKK&To=USD).
 
 *Rooms:* All same size (12 m<sup>2</sup>), with pricing depending on the view. Bath and toilet in-room. Allergy-friendly rooms are available on request.
 
@@ -71,7 +71,9 @@ You can easily get to the IT University of Copenhagen and the city center using 
 *Booking:* Before Sept 10<sup>th</sup>. Taxes are included in price.  In case of no show, or booking cancelled after 10 days, hotel can claim compensation equivalent to the first night.
 Please select rate marked with MODELS2018 as can be seen on the picture below:
 
-<img src="/assets/hotels/wakeup-booking.jpeg" alt="Wakeup Booking instructions" />
+![Wakeup Booking Instructions](/assets/hotels/wakeup-booking.jpeg)
+
+(Note: The marginally cheaper Economy rate on the picture does not include breakfast nor allows cancellation)
 
 <a href="https://www.wakeupcopenhagen.com/arpbe/web/en/login/66626868">
 <span class="glyphicon glyphicon glyphicon-new-window" aria-hidden="true"></span> Reservation</a>
