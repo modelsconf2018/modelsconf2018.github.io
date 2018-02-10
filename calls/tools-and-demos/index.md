@@ -32,28 +32,31 @@ Please submit your paper electronically in PDF via Easychair at the following UR
 Accepted tool demonstration papers will be published in ACM Digital Library and indexed by DBLP. A best demonstration award will be given during the conference.
 
 ## Program Committee
-* Thanos Zolotas (University of York, UK) 
-* Loli Burgueño (University of Málaga, Spain)
-* Jonathan Corley (University of West Georgia , USA) 
-* Manar Alalfi (Ryerson University, Canada)
-* Eric Rapos (Miami University, Ohio, USA) 
-* Vera Pantelic (McMaster University, Canada)
-* Vahdat Abdelzad (University of Ottawa, Canada)
-* Andreas Wortmann (RWTH Aachen University, Germany)
-* Jocelyn Simmonds (University of Chile, Chile) 
-* Jennifer Horkoff (Chalmers and the University of Gothenburg, Gothenburg, Sweden) 
-* Nicholas Matragkas (University of Hull, UK)
-* Antonio Garcia-Dominguez (Aston University, UK) 
-* Amine Benelallam (Inria / IRISA. Rennes, France) 
-* Thomas Degueule (CWI, Netherlands) 
-* Horacio Hoyos (University of York, UK) 
-* Juri Di Rocco (University of L’Aquila, Italy) 
-* Kelly Garces (Universidad de los Andes, Colombia) 
-* Vincent Aranega (Axellience, France) 
 
-## Organizers
-* Sahar Kokaly, McMaster University, Canada
-* Dimitris Kolovos, University of York, UK
+* Vahdat Abdelzad, University of Ottawa (Canada)
+* Manar Alalfi, Ryerson University (Canada)
+* Vincent Aranega, Axellience (France) 
+* Amine Benelallam, Inria / IRISA Rennes (France) 
+* Loli Burgueño, University of Málaga (Spain)
+* Jonathan Corley, University of West Georgia (USA) 
+* Thomas Degueule, CWI (Netherlands) 
+* Kelly Garces, Universidad de los Andes (Colombia) 
+* Antonio Garcia-Dominguez, Aston University (UK) 
+* Jennifer Horkoff, Chalmers and the University of Gothenburg (Sweden) 
+* Horacio Hoyos, University of York (UK) 
+* Nicholas Matragkas, University of Hull (UK)
+* Vera Pantelic, McMaster University (Canada)
+* Eric Rapos, Miami University (Ohio, USA) 
+* Juri Di Rocco, University of L’Aquila (Italy) 
+* Jocelyn Simmonds, University of Chile (Chile) 
+* Andreas Wortmann, RWTH Aachen University (Germany)
+* Thanos Zolotas, University of York (UK) 
+
+## Organizers and Contact Information
+
+Tools and Demonstrations co-chairs:
+* [Sahar Kokaly](http://www.cas.mcmaster.ca/~kokalys/), McMaster University (Canada)
+* [Dimitris Kolovos](https://www-users.cs.york.ac.uk/dkolovos/), University of York (UK)
 
 </div>
 <div id="dates" class="col-md-4">

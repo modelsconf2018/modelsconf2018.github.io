@@ -64,6 +64,7 @@ Accepted paper-accompanying poster submissions will not be published.
 
 ## Poster Presentation
 Accepted posters will be advertised in the conference program and displayed during the main conference.There will be a dedicated poster session at the conference welcome reception. At least one of the authors of each accepted poster must attend the poster session to present and discuss their work with attendees.
+
 ## Important Dates
 
 ### Standalone-Poster Submissions
@@ -77,12 +78,34 @@ Accepted posters will be advertised in the conference program and displayed duri
 * August 31, 2018: Full submission (draft of poster and the corresponding paper accepted at MODELS 2018 main track or satellite event)
 * September 14, 2018: Notification 
 
-## Organizers
+## Poster Selection Committee
+
+* Silvia Abrahão, Universitat Politecnica de Valencia (Spain)
+* Gábor Bergmann, Budapest University of Technology and Economics (Hungary)
+* Erwan Bousse, TU Wien (Austria)
+* Loli Burgueño, University of Málaga (Spain)
+* Javier Luis Cánovas Izquierdo, IN3 - UOC (Spain)
+* Federico Ciccozzi, Märlardalen University (Sweden)
+* Thomas Degueule, CWI Amsterdam (Netherlands)
+* Davide Di Ruscio, University of L’Aquila (Italy)
+* Catherine Dubois, Ecole Nationale Superieure d'Informatique (France)
+* Michalis Famelis, University of Montreal (Canada)
+* Antonio García-Domínguez, Aston University (UK)
+* Daniel Gritzner, Leibniz Universität Hannover (Germany)
+* Nicolas Hili, Queen’s University (Canada)
+* Marianne Huchard, Université de Montpellier (France)
+* Martina Seidl, Johannes Kepler University (Austria)
+* Maria Spichkova, RMIT University (Australia)
+* Markus Stumptner, University of South Australia (Australia)
+* Gerson Sunyé, University of Nantes (France)
+* Matthias Tichy, University of Ulm (Germany)
+
+## Organizers and Contact Information
+
 * [Tanja Mayerhofer](https://www.big.tuwien.ac.at/people/tanja-mayerhofer/) (<a href="mailto:mayerhofer@big.tuwien.ac.at">mayerhofer@big.tuwien.ac.at</a>), TU Wien (Austria)
 * [Mansooreh Zahedi](https://pure.itu.dk/portal/en/persons/mansooreh-zahedi%28e2d61092-7519-4ba1-95e1-29728326d842%29.html) (<a href="mailto:mzah@itu.dk">mzah@itu.dk</a>), IT University of Copenhagen (Denmark)
 
-## Contact
-For any further information please contact <a href="mailto: models-2018-posters@googlegroups.com">Contact Us</a>.
+For any further information please contact the poster chairs at <a href="mailto: models-2018-posters@googlegroups.com">models-2018-posters@googlegroups.com</a>.
 
 </div>
 <div id="dates" class="col-md-4">

@@ -109,43 +109,30 @@ As in previous years, participants will pay a single satellite fee, which will c
 
 ## Selection Committee
 
-* Francis Bordeleau, Cmind Inc
-
-* Loli Burgueño, University of Málaga, Spain
-
-* Juergen Dingel, Queen’s University, Canada
-
-* Geri Georg, Colorado State University, USA
-
-* Esther Guerra, Universidad Autónoma de Madrid, Spain
-
-* Emilio Insfran, Universitat Politècnica de València, Spain
-
-* Harald König, FHDW Hannover, Germany
-
-* Levi Lucio, fortiss, Germany
-
-* Rick Salay, University of Toronto, Canada
-
-* Bran Selic, Malina Software, Canada
-
-* Arnor Solberg, SINTEF, Norway
-
-* Gabriele Taentzer, Philipps-Universität Marburg, Germany
-
-* Antonio Vallecillo, Universidad de Málaga, Spain
-
-* Tao Yue, Simula Research Laboratory, Norway
+* Francis Bordeleau, Cmind Inc (Canada)
+* Loli Burgueño, University of Málaga (Spain)
+* Juergen Dingel, Queen’s University (Canada)
+* Geri Georg, Colorado State University (USA)
+* Esther Guerra, Universidad Autónoma de Madrid (Spain)
+* Emilio Insfran, Universitat Politècnica de València (Spain)
+* Harald König, FHDW Hannover (Germany)
+* Levi Lucio, fortiss (Germany)
+* Rick Salay, University of Toronto (Canada)
+* Bran Selic, Malina Software (Canada)
+* Arnor Solberg, SINTEF (Norway)
+* Gabriele Taentzer, Philipps-Universität Marburg (Germany)
+* Antonio Vallecillo, Universidad de Málaga (Spain)
+* Tao Yue, Simula Research Laboratory (Norway)
 
 
-## Tutorials Organization and Contact Information
+## Organizers and Contact Information
 Tutorials Co-Chairs:
 
-* Steffen Zschaler, King’s College London, UK
+* [Steffen Zschaler](http://www.steffen-zschaler.de/), King’s College London (UK)
 
-* Zinovy Diskin, McMaster University, Canada
+* [Zinovy Diskin](http://www.cs.toronto.edu/~zdiskin/), University of Waterloo \| McMaster University (Canada)
 
-For further information, please contact the tutorial chairs at models-tutorials@kcl.ac.uk.
+For further information, please contact the tutorial chairs at <a href="mailto:models-tutorials@kcl.ac.uk">models-tutorials@kcl.ac.uk</a>
 
 </div>
 <div id="dates" class="col-md-4">
