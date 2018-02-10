@@ -78,7 +78,7 @@ Accepted posters will be advertised in the conference program and displayed duri
 * August 31, 2018: Full submission (draft of poster and the corresponding paper accepted at MODELS 2018 main track or satellite event)
 * September 14, 2018: Notification 
 
-## Poster Selection Committee
+## Selection Committee
 
 * Silvia Abrahão, Universitat Politecnica de Valencia (Spain)
 * Gábor Bergmann, Budapest University of Technology and Economics (Hungary)

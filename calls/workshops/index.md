@@ -85,16 +85,16 @@ Further details will be communicated to the organizers of accepted workshops at 
 
 ## Selection Committee
 
-* Alfonso Pierantonio, University of L’Aquila (Italy)
-* Birgit Demuth, TU Dresden (Germany)
-* Dalila Tamzalit, Département Informatique - IUT (France)
 * Federico Ciccozzi, Mälardalen University (Sweden)
-* Ileana Ober, Université Paul Sabatier (France)
-* Jan-Philipp Steghöfer, Chalmers \| University of Gothenburg (Sweden)
-* Jeff Gray, University of Alabama (USA)
-* Manuel Wimmer, Vienna University of Technology (Austria)
+* Birgit Demuth, TU Dresden (Germany)
 * Michalis Famelis, University of Montreal (Canada)
+* Jeff Gray, University of Alabama (USA)
 * Sahar Kokaly, McMaster University and General Motors (Canada)
+* Ileana Ober, Université Paul Sabatier (France)
+* Alfonso Pierantonio, University of L’Aquila (Italy)
+* Jan-Philipp Steghöfer, Chalmers \| University of Gothenburg (Sweden)
+* Dalila Tamzalit, Département Informatique - IUT (France)
+* Manuel Wimmer, Vienna University of Technology (Austria)
 
 ## Organizers and Contact Information
 
