@@ -38,11 +38,29 @@ All submission deadlines are AoE (i.e. UTC-12).
 * Camera Ready: September 16, 2018
 * Doctoral Symposium: Tuesday, October 16 (most likely, changes still possible at this point), 2018
 
+## Selection Committee 
+
+* Nelly Bencomo, Aston University (UK)
+* Marsha Chechik, University of Toronto (Canada)
+* Betty Cheng, Michigan State University (USA)
+* Peter Clarke, Florida International University (USA)
+* Davide  Di Ruscio, University of L'Aquila (Italy)
+* Gregor Engels, University of Paderborn (Germany)
+* Jeff Gray, University of Alabama (USA)
+* Ekkart Kindler, Technical University of Denmark (Denmark)
+* Emilio Insfran, Universitat Politècnica de València (Spain)
+* Shahar Maoz, Tel Aviv University (Israel)
+* Alfonso Pierantonio, University of L'Aquila (Italy)
+* Matthias Tichy, Ulm University (Germany)
+* Antonio Vallecillo, University of Malaga (Spain)
+* Jean Vanderdonckt, Université catholique de Louvain, Belgium   
+* Hans Vangheluwe, University of Antwerp and McGill University (Belgium, Canada)
+* Andreas Vogelsang, Technical University of Berlin (Germany)
 
 ## Organizers
 
-* Silvia Abrahão, Universitat Politècnica de València, Spain
-* Joel Greenyer, Leibniz Universität Hannover, Germany
+* Silvia Abrahão, Universitat Politècnica de València (Spain)
+* Joel Greenyer, Leibniz Universität Hannover (Germany)
 
 
 </div>
