@@ -53,7 +53,7 @@ All submission deadlines are AoE (i.e. UTC-12).
 * Alfonso Pierantonio, University of L'Aquila (Italy)
 * Matthias Tichy, Ulm University (Germany)
 * Antonio Vallecillo, University of Malaga (Spain)
-* Jean Vanderdonckt, Université catholique de Louvain, Belgium   
+* Jean Vanderdonckt, Université catholique de Louvain (Belgium)
 * Hans Vangheluwe, University of Antwerp and McGill University (Belgium, Canada)
 * Andreas Vogelsang, Technical University of Berlin (Germany)
 
