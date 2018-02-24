@@ -5,8 +5,9 @@ slug: keynotes
 <div class="row">
  <div class="col-md-11" markdown="1">
 
-# Keynote Speakers for MODELS 2018
-
+<div class="row">
+<h1>Keynote Speakers for MODELS 2018</h1>
+</div>
 <div class="row">
 <h2> Silvija Seres</h2>
 <img align="left" src="/assets/faces/sseres.jpg" alt="Silvija Seres" class="team-face" style="margin-right: 20px"/>
