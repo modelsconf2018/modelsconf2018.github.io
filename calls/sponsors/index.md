@@ -47,19 +47,20 @@ Hosted at the IT University of Copenhagen, Denmark’s most industry-friendly un
 .tr {border-style}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;}
-.tg .tg-7fle{font-weight:bold;background-color:#efefef;text-align:center;vertical-align:top}
+.tg .tg-7fle{font-weight:bold;background-color:#c0c0c0;text-align:center;vertical-align:top}
 .tg .tg-erlg{font-weight:bold;background-color:#efefef;vertical-align:top}
 .tg .tg-yzt1{background-color:#efefef;vertical-align:top}
 .tg .tg-m0ac{font-weight:bold;background-color:#656565;color:#ffffff;text-align:center;vertical-align:top}
-.tg .tg-wh4d{font-weight:bold;background-color:#fd6864;color:#ffffff;text-align:center;vertical-align:top}
-.tg .tg-xozw{font-weight:bold;background-color:#ffcc67;text-align:center;vertical-align:top}
-.tg .tg-ccb6{font-weight:bold;background-color:#efefef;color:#333333;text-align:center;vertical-align:top}
+.tg .tg-wh4d{font-weight:bold;background-color:#cd7f32;color:#ffffff;text-align:center;vertical-align:top}
+.tg .tg-xozw{font-weight:bold;background-color:#ffd700;text-align:center;vertical-align:top}
+.tg .tg-ccb6{font-weight:bold;background-color:#c0c0c0;color:#333333;text-align:center;vertical-align:top}
 
 .tg{
 	word-break: break-all 
 	table-layout: fixed;
   width: 100%;
   white-space: nowrap;
+
 }
 </style>
 <table class="tg">
