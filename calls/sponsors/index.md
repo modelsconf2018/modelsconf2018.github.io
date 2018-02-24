@@ -55,15 +55,25 @@ Hosted at the IT University of Copenhagen, Denmark’s most industry-friendly un
 .tg .tg-xozw{font-weight:bold;background-color:#ffcc67;text-align:center;vertical-align:top}
 .tg .tg-ccb6{font-weight:bold;background-color:#efefef;color:#333333;text-align:center;vertical-align:top}
 
+.tg{
+	word-break: break-all 
+	table-layout: fixed;
+  width: 100%;
+  white-space: nowrap;
+}
 </style>
 <table class="tg">
-  <tr>
-    <th class="tg-erlg">Sponsorship Level</th>
-    <th class="tg-wh4d">Bronze</th>
-    <th class="tg-7fle">Silver</th>
-    <th class="tg-xozw">Gold</th>
-    <th class="tg-m0ac">Platinum</th>
-  </tr>
+	<thead>
+		<tr>
+		<th class="tg-erlg">Sponsorship Level</th>
+	    <th class="tg-wh4d">Bronze</th>
+	    <th class="tg-7fle">Silver</th>
+	    <th class="tg-xozw">Gold</th>
+	    <th class="tg-m0ac">Platinum</th>
+		</tr>
+	</thead>
+	<tbody>
+
   <tr>
     <td class="tg-yzt1">Logo on the conference website</td>
     <td class="tg-wh4d">small</td>
@@ -183,6 +193,7 @@ Hosted at the IT University of Copenhagen, Denmark’s most industry-friendly un
     <td class="tg-xozw"> EUR<br>5 000</td>
     <td class="tg-m0ac">    EUR<br>10 000</td>
   </tr>
+ </tbody>
 </table>
 \* provided by the sponsor, cost of the material not included<br>
 ** selection of the event in the order of signing the sponsorship agreement
