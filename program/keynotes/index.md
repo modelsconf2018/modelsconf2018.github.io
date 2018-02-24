@@ -21,7 +21,7 @@ She has worked as a Professor in Saudi Arabia at Dar al Hekma Univeristy and
 at DEC SRC in Silicon Valley.
 Silvija is married, and has four children. She lives in Oslo, Norway.
 
-<br>
+<br><br><br><br><br>	
 
 <!-- <h2 align="right">Martijn Wisse</h2>
 
