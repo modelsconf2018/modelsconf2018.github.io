@@ -21,7 +21,7 @@ The university is [located](https://www.google.com/maps/place/IT+University+of+C
 <img src="/assets/venue/itu.jpg">
 
 ## Address
-IT University is located at Rued Langgaards Vej 7, 2300 Copenhagen S, Denmark.
+IT University is located at Rued Langgaards Vej 7, 2300 Copenhagen S, Denmark. [[Baidu Maps]](https://j.map.baidu.com/074bO)
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2250.7951746137737!2d12.5877546!3d55.6577714!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46525345017412b3%3A0xa280a05485937e38!2sIT+University+of+Copenhagen!5e0!3m2!1sen!2sch!4v1518341255050" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ## Traveling to Copenhagen
