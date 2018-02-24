@@ -6,7 +6,7 @@ slug: venue
 <div class="col-md-12" markdown="1">
 # Venue
 
-MODELS 2018 will take place at [IT University of Copenhagen](https://en.IT University.dk/), in the award winning building designed by Henning Larsen architects. 
+MODELS 2018 will take place at [IT University of Copenhagen](https://en.itu.dk/), in the award winning building designed by Henning Larsen architects. 
 The university is [located](https://www.google.com/maps/place/IT+University+of+Copenhagen/@55.6596402,12.5887504,16.98z/data=!4m5!3m4!1s0x46525345017412b3:0xa280a05485937e38!8m2!3d55.659635!4d12.590958?hl=en) in the new part of the city, close to the city center and the airport. Denmark is not part of the euro zone, thus one needs to use Danish Kroner (DKK) for paying cash. However, majority of stores and shops accept major credit cards brands. 
 
 <style type="text/css">
