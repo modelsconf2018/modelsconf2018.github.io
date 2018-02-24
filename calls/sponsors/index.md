@@ -3,7 +3,7 @@ layout: default
 slug: keynotes
 ---
 <div class="row">
- <div class="col-md-12" markdown="1">
+ <div class="col-md-11" markdown="1">
 
 <!-- <style type="text/css">
 .sponsor-pic {
@@ -29,10 +29,10 @@ slug: keynotes
 }	
 
 
-</style>
+</style> -->
 <div class="sponsor-pic">
-	<img src="/assets/copenhagen-pictures/copenhagen.png" alt="Nyhavn Copnehagen">
-</div> -->
+	<img src="/assets/copenhagen-pictures/copenhagen1.jpg" alt="Nyhavn Copnehagen">
+</div>
 
 # Call for Sponsors
 <span style="color:#808080"> **Become a Sponsor of Models 2018, and expose your organiation, company, product or service to hundreds of people interested in Model Driven Engineering, academics and engineers alike.**
