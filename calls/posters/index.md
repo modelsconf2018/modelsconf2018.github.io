@@ -46,9 +46,9 @@ This kind of poster submissions consist only of a draft of the poster to be pres
 ## Submission Guidelines
 All poster submissions have to be submitted electronically in PDF format at the MODELS 2018 Poster track submission page: [Posters Submission Link](https://easychair.org/conferences/?conf=models2018)
 
-For stand-alone poster submissions, the extended abstract and the poster have to be submitted in one PDF in the following order: (1) poster, (2) extended abstract.
+For stand-alone poster submissions, the extended abstract and the poster have to be submitted in individual PDF files.
 
-For paper-accompanying poster submissions, the poster has to be submitted, as well as the corresponding paper in one PDF in the following order: (1) poster, (2) paper.
+For paper-accompanying poster submissions, the poster and the corresponding paper have to be submitted in individual PDF files.
 
 For both types of submissions, a short abstract summarizing the contributions of the poster and at least three keywords have to be provided at the submission page.
 
