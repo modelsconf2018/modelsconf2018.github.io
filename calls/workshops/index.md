@@ -88,7 +88,6 @@ Further details will be communicated to the organizers of accepted workshops at 
 * Federico Ciccozzi, Mälardalen University (Sweden)
 * Birgit Demuth, TU Dresden (Germany)
 * Michalis Famelis, University of Montreal (Canada)
-* Jeff Gray, University of Alabama (USA)
 * Sahar Kokaly, McMaster University and General Motors (Canada)
 * Ileana Ober, Université Paul Sabatier (France)
 * Alfonso Pierantonio, University of L’Aquila (Italy)
