@@ -89,6 +89,7 @@ Further details will be communicated to the organizers of accepted workshops at 
 * Birgit Demuth, TU Dresden (Germany)
 * Michalis Famelis, University of Montreal (Canada)
 * Sahar Kokaly, McMaster University and General Motors (Canada)
+* Jeff Gray, University of Alabama (USA) 
 * Ileana Ober, Université Paul Sabatier (France)
 * Alfonso Pierantonio, University of L’Aquila (Italy)
 * Jan-Philipp Steghöfer, Chalmers \| University of Gothenburg (Sweden)
