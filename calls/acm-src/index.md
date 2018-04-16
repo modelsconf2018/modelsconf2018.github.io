@@ -5,7 +5,7 @@ slug: acm-src
 <div class="row">
  <div class="col-md-8" markdown="1">
 
-# ACM Student Research Competition @ Models 2018
+# Call for ACM Student Research Competition
 
 ACM/IEEE 21st International Conference on Model Driven Engineering Languages and Systems Call for ACM SRC: Student Research Competition
 MODELS 2018 will host an ACM Student Research Competition (SRC), sponsored by Microsoft Research. The ACM SRC is a forum for undergraduate and graduate students to showcase their research, exchange ideas, and improve their communication skills while competing for prizes at MODELS 2018. The Student Research Competition has the following goals (for general information in the ACM SRC see [https://src.acm.org/about](https://src.acm.org/about)):
