@@ -61,8 +61,12 @@ slug: important-dates
       <td> Fri 27 July 2018 <br />Poster Submission Deadline - Standalone Poster</td>
       </tr>
       <tr>
+      <td> Sun 5 August 2018 <br /> ACM SRC Submission </td>
+      </tr>
+      <tr>
       <td> Fri 24 August 2018 <br />Abstract Submission Deadline - Paper Accompanying Poster</td>
       </tr>
+      
       <tr>
       <td> Fri 31 August 2018 <br />Poster Submission Deadline - Paper Accompanying Poster</td>
       </tr>
@@ -102,6 +106,10 @@ slug: important-dates
       </tr>
       <tr>
        <td> Sun 26 August 2018 <br />Paper Notification - Doctoral Symposium </td>
+
+      </tr>
+      <tr>
+       <td> Tue 28 August 2018 <br />ACM SRC Notification</td>
       </tr>
       <tr>
        <td> Fri 31 August 2018 <br />Paper Accompanying Poster Notification </td>
