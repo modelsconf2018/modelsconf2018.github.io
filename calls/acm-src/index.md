@@ -58,7 +58,7 @@ Papers must be submitted electronically through the ACM SRC@MODELS 2018 EasyChai
 Students who are selected to participate in the main competition at the MODELS conference are entitled to a stipend for their travel expenses, up to a maximum of US$500, which will be reimbursed by ACM (with support from Microsoft) after the conference.
 The top three winners in each category (undergraduate and graduate) will be recognized during the conference and will receive prizes of US$500, US$300, and US$200, respectively. The first-place winners of the MODELS SRC are also invited to compete with winners from other conferences in the ACM Student Research Competition Grand Finals.
 
-## Important Dates ACM SRC@Models2018:
+## Important Dates
 
 **Up to MODELS 2018**
 * August 5, 2018 ACM SRC submission (via EasyChair)
@@ -75,7 +75,7 @@ All deadlines are hard. No extensions will be allowed. Deadline is midnight for 
 ## Sponsors
 We gratefully acknowledge Microsoft Research for their support of the ACM SRC.
 
-## Organizers
+## Organizers and Contact Information
 * Ekkart Kindler, Technical University of Denmark, Denmark
 * Michel Chaudron, Chalmers and Gothenborg University, Sweden
 
