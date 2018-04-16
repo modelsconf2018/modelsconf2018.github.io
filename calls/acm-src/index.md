@@ -50,12 +50,13 @@ The first-place winners in both categories (undergraduate and graduate) from the
 
 ## Submissions
 The core content of your proposal must not exceed 5 pages, including all text, appendices, and figures. However, please note that for this SRC, references do not count against the page limit: the list of references may expand into a sixth page but no content (text, figures) is allowed on the sixth page, i.e., the sixth page, if any, should contain nothing except all or part of your references. Submissions must be in English, and in PDF format.
-Papers must be submitted electronically through the ACM SRC@MODELS 2018 EasyChair submission web pages:
 
+Papers must be submitted electronically through the ACM SRC@MODELS 2018 EasyChair submission web pages:
 [https://easychair.org/conferences/?conf=models2018src](https://easychair.org/conferences/?conf=models2018src).
 
 ## Prizes and Student Support Information
 Students who are selected to participate in the main competition at the MODELS conference are entitled to a stipend for their travel expenses, up to a maximum of US$500, which will be reimbursed by ACM (with support from Microsoft) after the conference.
+
 The top three winners in each category (undergraduate and graduate) will be recognized during the conference and will receive prizes of US$500, US$300, and US$200, respectively. The first-place winners of the MODELS SRC are also invited to compete with winners from other conferences in the ACM Student Research Competition Grand Finals.
 
 ## Important Dates
