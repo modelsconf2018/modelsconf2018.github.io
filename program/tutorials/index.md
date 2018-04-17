@@ -35,7 +35,7 @@ introduced first, after which Coupled (structural) models are
 introduced. We continue to actual applications of DEVS, for example in performance analysis of queueing systems. All examples are presented with the tool PythonPDEVS, though
 this introduction is equally applicable to other DEVS tools.
 
-<br><p>Length: half day</p>
+<h6>Length: half day</h6>
 
 </div>
 
@@ -49,7 +49,7 @@ this introduction is equally applicable to other DEVS tools.
 <h3>Abstract</h3>
 Large complex systems such as modern enterprises typically exhibit a system of systems character. As a result, it is difficult to have an understanding of the overall system behaviour through decomposition in a top-down manner. Inherent uncertainty and fragmented information further exacerbate the task. Instead, we propose a bottom-up approach wherein the fragmented localized behaviours are captured using Actor abstraction and these micro-behaviours are simulated leading to the emergent macro-behaviour which is then analyzed using pattern-matching techniques. Ramifications of changing micro-behaviours onto the macro-behaviour can be observed using simulation thus providing an aid for exploring decision space of a large complex system. We introduce a new technology that supports decision space exploration using Actor based simulation and illustrate how it is applied to real life problems using real world case studies.
 
-<br><p>Length: half day</p>
+<h6>Length: half day</h6>
 
 </div>
 
@@ -63,7 +63,7 @@ Large complex systems such as modern enterprises typically exhibit a system of s
 <h3>Abstract</h3>
 Refinement, enhancement and other maintenance tasks normally account for more work than the initial development phase. This applies to domain-specific languages and models, too. This tutorial describes practices for managing the evolution of domain-specific modelling languages, while co-evolving the models that have already been created. The presented practices are field-tested in industry cases -- some managed and refined over three decades. Participants will learn practices and patterns to form part of their toolbox for evolving their languages while in use alongside models. During the tutorial the practices learned are made concrete by applying them to sample cases.
 
-<br><p>Length: half day</p>
+<h6>Length: half day</h6>
 
 </div>
 
@@ -94,7 +94,7 @@ experiences to motivate the approach and its implementation,
 involved in the development of CPS and (iii) to provide handson
 experience with the associated tools.
 
-<p>Length: half day</p>
+<h6>Length: half day</h6>
 
 </div>
 
@@ -128,7 +128,7 @@ technical domains and how this joint use can be mutually
 beneficial by addressing problems in either MDE or the other
 domain.
 
-<p>Length: half day</p>
+<h6>Length: half day</h6>
 
 </div>
 
@@ -144,7 +144,7 @@ AUTOFOCUS3(AF3)is a mature model-driven engineering environment to develop softw
 part of the tutorial will be dedicated to deepening the attendees’ understanding of the modeling capabilities of AF3 in areas such as requirements engineering, design-space exploration, building
 safety cases, formal verification, modeling processes, testing or variability modeling.
 
-<p>Length: full day</p>
+<h6>Length: full day</h6>
 
 </div>
 
@@ -174,7 +174,7 @@ towards robotics problems. This is also about explicating the
 special needs of robotics and discussing these with the MDE
 community.
 
-<p>Length: half day</p>
+<h6>Length: half day</h6>
 
 </div>
 
@@ -209,7 +209,7 @@ integrated code editor inside of the WebGME GUI. In the final
 part an outline of how a fully customized WebGME Design
 Studio can be built up will be presented.
 
-<p>Length: half day</p>
+<h6>Length: half day</h6>
 
 </div>
 
@@ -243,7 +243,7 @@ The presenters are the original developers of the tools, which
 have seen industrial adoption through the MONDO EU FP7 and
 ITEA3 MEASURE projects.
 
-<p>Length: half day</p>
+<h6>Length: half day</h6>
 
 </div>
 
@@ -274,7 +274,7 @@ the example incrementally. We discuss several semantics
 options, such as STATEMATE and Rhapsody semantics. We
 use Yakindu to model the example system.
 
-<p>Length: half day</p>
+<h6>Length: half day</h6>
 
 </div>
 
@@ -309,7 +309,7 @@ on a dynamic model of layers of abstraction. This tutorial
 provides an overview of the SPES modeling framework as well
 as hands-on exercises and demos in the tool AutoFocus3.
 
-<p>Length: half day</p>
+<h6>Length: half day</h6>
 
 </div>
 
