@@ -13,8 +13,6 @@ slug: tutorials-program
 
 <h3>Speakers: Yentl Van Tendeloo and Hans Vangheluwe</h3>
 
-<h3>Length: 3h</h3>
-
 <h3>Abstract </h3>
 DEVS is a popular formalism for modelling complex
 dynamic systems using a discrete-event abstraction. At this
@@ -36,6 +34,9 @@ and operational semantics of Atomic (behavioural) models are
 introduced first, after which Coupled (structural) models are
 introduced. We continue to actual applications of DEVS, for example in performance analysis of queueing systems. All examples are presented with the tool PythonPDEVS, though
 this introduction is equally applicable to other DEVS tools.
+
+<p>Length: half day</p>
+
 </div>
 
 <hr>
@@ -45,10 +46,10 @@ this introduction is equally applicable to other DEVS tools.
 
 <h3>Speakers: Vinay Kulkarni, Tony Clark, Souvik Barat and Balbir Barn</h3>
 
-<h3>Length: 3h</h3>
-
 <h3>Abstract</h3>
 Large complex systems such as modern enterprises typically exhibit a system of systems character. As a result, it is difficult to have an understanding of the overall system behaviour through decomposition in a top-down manner. Inherent uncertainty and fragmented information further exacerbate the task. Instead, we propose a bottom-up approach wherein the fragmented localized behaviours are captured using Actor abstraction and these micro-behaviours are simulated leading to the emergent macro-behaviour which is then analyzed using pattern-matching techniques. Ramifications of changing micro-behaviours onto the macro-behaviour can be observed using simulation thus providing an aid for exploring decision space of a large complex system. We introduce a new technology that supports decision space exploration using Actor based simulation and illustrate how it is applied to real life problems using real world case studies.
+<p>Length: half day</p>
+
 </div>
 
 <hr>
@@ -58,10 +59,10 @@ Large complex systems such as modern enterprises typically exhibit a system of s
 
 <h3>Speakers: Juha-Pekka Tolvanen and Steven Kelly</h3>
 
-<h3>Length: 3h</h3>
-
 <h3>Abstract</h3>
 Refinement, enhancement and other maintenance tasks normally account for more work than the initial development phase. This applies to domain-specific languages and models, too. This tutorial describes practices for managing the evolution of domain-specific modelling languages, while co-evolving the models that have already been created. The presented practices are field-tested in industry cases -- some managed and refined over three decades. Participants will learn practices and patterns to form part of their toolbox for evolving their languages while in use alongside models. During the tutorial the practices learned are made concrete by applying them to sample cases.
+<p>Length: half day</p>
+
 </div>
 
 <hr>
@@ -70,8 +71,6 @@ Refinement, enhancement and other maintenance tasks normally account for more wo
 <h2>ThingML: Model-Driven Software Engineering for Heterogeneous and Distributed Reactive Systems</h2>
 
 <h3>Speakers: Franck Fleurey, Brice Morin, Jakob Høgenes and Nicolas Ferry</h3>
-
-<h3>Length: 3h</h3>
 
 <h3>Abstract</h3>
 A Cyber Physical Systems (CPS) typically relies on a
@@ -92,6 +91,9 @@ experiences to motivate the approach and its implementation,
 (ii) to describe the approach and its usage by the actors
 involved in the development of CPS and (iii) to provide handson
 experience with the associated tools.
+
+<p>Length: half day</p>
+
 </div>
 
 <hr>
@@ -100,8 +102,6 @@ experience with the associated tools.
 <h2>Making Modeling Cool Again: Teaching and Researching Model-Driven Engineering using Animation, 3D Simulation and the Internet of Things</h2>
 
 <h3>Speakers: Juergen Dingel, Karim Jahed and Ernesto Posse</h3>
-
-<h3>Length: 3h</h3>
 
 <h3>Abstract</h3>
 The tutorial will provide a short overview of modeldriven
@@ -125,6 +125,9 @@ source tooling can be used in concert with software from other
 technical domains and how this joint use can be mutually
 beneficial by addressing problems in either MDE or the other
 domain.
+
+<p>Length: half day</p>
+
 </div>
 
 <hr>
@@ -134,12 +137,13 @@ domain.
 
 <h3>Speakers: Levi Lucio, Sebastian Voss, Tatiana Chuprina, Andreas Bayha, Johannes Eder and Sudeep Kanav</h3>
 
-<h3>Length: 6h</h3>
-
 <h3>Abstract</h3>
 AUTOFOCUS3(AF3)is a mature model-driven engineering environment to develop software for embedded systems. For the past 20 years,several versions of AF3 have served as a platform for experimenting with cutting-edge research ideas in Model-Driven Development. AF3 is a tool that fully encompasses the software life cycle, from requirements, to architecture, simulation, deployment, code generation and verification. The attendees of this tutorial will be given the unique opportunity to model and deploy software on a real remote-controlled vehicle, using only AF3. Attendees will start by modeling the software controller for a blinker, which will be integrated with the model of the vehicle’s software. The generated code will then be flashed onto a Raspberry Pi contained in the physical remote-controlled model vehicle which can then be driven in the real world. Attendees who finish early will be able to model more advanced driving assistance functionalities. The last
 part of the tutorial will be dedicated to deepening the attendees’ understanding of the modeling capabilities of AF3 in areas such as requirements engineering, design-space exploration, building
 safety cases, formal verification, modeling processes, testing or variability modeling.
+
+<p>Length: full day</p>
+
 </div>
 
 <hr>
@@ -148,8 +152,6 @@ safety cases, formal verification, modeling processes, testing or variability mo
 <h2>RobMoSys: Better Models and Software for Robotic Systems</h2>
 
 <h3>Speakers: Christian Schlegel and Herman Bruyninckx</h3>
-
-<h3>Length: 3h</h3>
 
 <h3>Abstract</h3>
 The EU H2020 RobMoSys Project (http://robmosys.eu) aims to
@@ -169,6 +171,9 @@ the “generic” MDE community and attract more researchers
 towards robotics problems. This is also about explicating the
 special needs of robotics and discussing these with the MDE
 community.
+
+<p>Length: half day</p>
+
 </div>
 
 <hr>
@@ -177,8 +182,6 @@ community.
 <h2>How to Build Domain Specific Modeling Languages and Interpreters with WebGME – an Online, Collaborative Metamodeling Environment</h2>
 
 <h3>Speakers: Patrik Meijer and Tamas Kecskes</h3>
-
-<h3>Length: 3h</h3>
 
 <h3>Abstract</h3>
 WebGME (Generic Modeling Environment) is a
@@ -203,6 +206,9 @@ model interpreter for code generation will be written using an
 integrated code editor inside of the WebGME GUI. In the final
 part an outline of how a fully customized WebGME Design
 Studio can be built up will be presented.
+
+<p>Length: half day</p>
+
 </div>
 
 <hr>
@@ -211,8 +217,6 @@ Studio can be built up will be presented.
 <h2>Taming Large Models using Hawk and NeoEMF</h2>
 
 <h3>Speakers: Antonio Garcia-Dominguez, Dimitris Kolovos, Konstantinos Barmpis, Gwendal Daniel and Gerson Sunyé</h3>
-
-<h3>Length: 3h</h3>
 
 <h3>Abstract</h3>
 Industrial models can quickly reach a complexity
@@ -236,6 +240,9 @@ which can speed up loading and writing of the models as well.
 The presenters are the original developers of the tools, which
 have seen industrial adoption through the MONDO EU FP7 and
 ITEA3 MEASURE projects.
+
+<p>Length: half day</p>
+
 </div>
 
 <hr>
@@ -244,8 +251,6 @@ ITEA3 MEASURE projects.
 <h2>Developing Reactive Systems with Statecharts</h2>
 
 <h3>Speakers: Simon Van Mierlo and Hans Vangheluwe</h3>
-
-<h3>Length: 3h</h3>
 
 <h3>Abstract</h3>
 Statecharts, introduced by Harel, is used to specify
@@ -266,6 +271,9 @@ explain the more advanced concepts of Statecharts by extending
 the example incrementally. We discuss several semantics
 options, such as STATEMATE and Rhapsody semantics. We
 use Yakindu to model the example system.
+
+<p>Length: half day</p>
+
 </div>
 
 <hr>
@@ -274,8 +282,6 @@ use Yakindu to model the example system.
 <h2>Seamless Modelbased Systems Engineering: The SPES Approach</h2>
 
 <h3>Speakers: Andreas Vogelsang, Wolfgang Boehm, Sebastian Voss and Ilias Gerostathopoulos</h3>
-
-<h3>Length: 3h</h3>
 
 <h3>Abstract</h3>
 Cyber-physical systems are based on networked
@@ -300,6 +306,9 @@ these artifacts into four viewpoints and allows specifying artifacts
 on a dynamic model of layers of abstraction. This tutorial
 provides an overview of the SPES modeling framework as well
 as hands-on exercises and demos in the tool AutoFocus3.
+
+<p>Length: half day</p>
+
 </div>
 
 <hr>
