@@ -40,7 +40,7 @@ IT University of Copenhagen is easily reachable by public transport.
 
 *Booking:* Before Sept 21<sup>st</sup>. Taxes are included in price. Cancellation must happen before or Imperial reserves right to full compensation.
 
-<a href="https://www.imperialhotel.dk/arpbe/web/da/login/67299236">
+<a href="https://www.imperial-hotel-copenhagen.com/arpbe/web/en/login/67299236">
 <span class="glyphicon glyphicon glyphicon-new-window" aria-hidden="true"></span> Reservation</a>
 
 #### Wakeup Copenhagen
