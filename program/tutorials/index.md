@@ -546,7 +546,7 @@ use of Statecharts to describe their behaviour.
 
 ## Seamless Modelbased Systems Engineering: The SPES Approach
 
-### Speakers: Andreas Vogelsang, Wolfgang Boehm, Sebastian Voss and Ilias Gerostathopoulos
+### Speakers: Andreas Vogelsang, Wolfgang Böhm, Sebastian Voss and Ilias Gerostathopoulos
 
 ### Abstract
 Cyber-physical systems are based on networked
