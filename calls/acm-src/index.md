@@ -5,9 +5,11 @@ slug: acm-src
 <div class="row">
  <div class="col-md-8" markdown="1">
 
-# Call for ACM Student Research Competition
+# Call for Contributions
+# ACM Student Research Competition @ MODELS 2018
 
 ACM/IEEE 21st International Conference on Model Driven Engineering Languages and Systems Call for ACM SRC: Student Research Competition
+
 MODELS 2018 will host an ACM Student Research Competition (SRC), sponsored by Microsoft Research. The ACM SRC is a forum for undergraduate and graduate students to showcase their research, exchange ideas, and improve their communication skills while competing for prizes at MODELS 2018. The Student Research Competition has the following goals (for general information in the ACM SRC see [https://src.acm.org/about](https://src.acm.org/about)):
 * to give undergraduate and graduate students the opportunity to share their research ideas and results at MODELS in a special forum that provides visibility for their work
 * to give students the opportunity to meet with and interact with MODELS attendees to share ideas, gain new insights, and understand possible practical applications
@@ -23,60 +25,56 @@ Each competition entry must be authored by one student only; neither supervisors
 
 For work accepted to the MODELS 2018 Student Research Competition, a travel grant of up to US $500 will be awarded to help cover travel expenses to the conference (provided after the conference as a reimbursement request).
 
-The top **three winners** of the ACM SRC at MODELS 2018 in each category (undergraduate and graduate) will receive prizes of US $500, US $300, and US $200, respectively. In addition, they will receive gold, silver and bronze medals, respectively, and a two-year complimentary ACM membership with a subscription to ACM's Digital Library. The first place winners will advance to the ACM Grand Finals with winners from other ACM SRCs. The top three winners will be recognized in an event during MODELS 2018 conference
+The top **three winners** of the ACM SRC at MODELS 2018 in each category (undergraduate and graduate) will receive 
+prizes of US $500, US $300, and US $200, respectively. In addition, they will receive gold, silver and bronze medals, respectively, and a two-year complimentary ACM membership with a subscription to ACM's Digital Library. The first place winners will advance to the ACM Grand Finals with winners from other ACM SRCs. The top three winners will be recognized in an event during MODELS 2018 conference
 
 ## How to Participate
-
 ### Step 1: Submit an Extended Research Abstract to this Track
-***Please note: Students whose advisors are on the MODELS 2018 SRC selection/judging committee are not allowed to participate.
 
-To participate in the competition, students should submit an extended abstract (up to 5 pages) in PDF format using the [ACM SIGPLAN Conference template](http://www.sigplan.org/Resources/Author/) (10pt font with two columns, 0.75 inch margins and 1/3 inch space between columns) related to the main themes of the conference (see the call for conference papers for a list of conference topics). The submission should describe: the research problem and motivation, background and related work, approach and uniqueness, results, and contributions. Papers will be judged based on how well they cover these aspects of the work.
-
+To participate in the competition, students should submit an extended abstract (up to 5 pages) in PDF format using the ACM SIGPLAN Conference template (10pt font with two columns, 0.75 inch margins and 1/3 inch space between columns) related to the main themes of the conference (see the call for conference papers for a list of conference topics). The submission should describe: the research problem and motivation, background and related work, approach and uniqueness, results, and contributions. Papers will be judged based on how well they cover these aspects of the work.
 A panel of experts will review the submissions and select the students to participate in the second round of the Student Research Competition, which will be held at MODELS 2018 in Copenhagen, Denmark.
 
 Students who are selected to participate in the second round of the MODELS 2018 Student Research Competition will be awarded a travel grant of up to US $500 to help cover travel expenses to the conference (provided after the conference as a reimbursement request).
 
-### Step 2: Second Round Competition – Present a Poster
-
+## Step 2: Second Round Competition – Present a Poster
 The second round of the competition will take place in Copenhagen at the MODELS 2018 conference and will be a poster session. Students will be given the opportunity to present their research to conference attendees and leading experts in the software engineering fields, including the SRC committee. Judges will review the posters and speak to participants about their research. The judges will evaluate the research (quality, novelty, and significance) and the presentation of the research (poster, discussion); some of the students will be selected to advance to the next round of the competition.
 
-### Step 3: Third Round Competition – Give a Presentation
+## Step 3: Third Round Competition – Give a Presentation
 A subset of the SRC participants will be selected to continue in the third round of the competition by giving a short presentation of their research before a panel of judges in a special session at the conference. After each presentation, there will be a short question and answer session.
 
 Evaluations will be based on the presenter's knowledge of his/her research area, contribution of the research, and the quality of the oral and visual presentation. Three winners will be chosen in each category, undergraduate and graduate, and receive prizes.
 
-### Final Step: MODELS 2018 Awardees Participate in SRC Grand Finals
+## Final Step: MODELS 2018 Awardees Participate in SRC Grand Finals
 The first-place winners in both categories (undergraduate and graduate) from the SRC held at MODELS 2018 will advance to the SRC Grand Finals. A different panel of judges will evaluate the winners of all SRCs held during the calendar year against each other via the web. Three undergraduates and three graduates will be chosen as the SRC Grand Finals winners. They are invited, along with their advisors, to the annual ACM Awards Banquet, where they receive formal recognition.
 
 ## Submissions
 The core content of your proposal must not exceed 5 pages, including all text, appendices, and figures. However, please note that for this SRC, references do not count against the page limit: the list of references may expand into a sixth page but no content (text, figures) is allowed on the sixth page, i.e., the sixth page, if any, should contain nothing except all or part of your references. Submissions must be in English, and in PDF format.
-
-Papers must be submitted electronically through the ACM SRC@MODELS 2018 EasyChair submission web pages:
-[https://easychair.org/conferences/?conf=models2018src](https://easychair.org/conferences/?conf=models2018src).
+Papers must be submitted electronically through the ACM SRC@MODELS 2018 EasyChair submission web page: 
+[https://easychair.org/conferences/?conf=models2018src](https://easychair.org/conferences/?conf=models2018src)
 
 ## Prizes and Student Support Information
 Students who are selected to participate in the main competition at the MODELS conference are entitled to a stipend for their travel expenses, up to a maximum of US$500, which will be reimbursed by ACM (with support from Microsoft) after the conference.
 
-The top three winners in each category (undergraduate and graduate) will be recognized during the conference and will receive prizes of US$500, US$300, and US$200, respectively. The first-place winners of the MODELS SRC are also invited to compete with winners from other conferences in the ACM Student Research Competition Grand Finals.
+The top three winners in each category (undergraduate and graduate) will be recognized during the conference and will receive prizes of US$500, US$300, and US$200, respectively. The first-place winners of the MODELS ACM SRC are also invited to compete with winners from other conferences in the ACM Student Research Competition Grand Finals.
 
-## Important Dates
-
+## Important Dates ACM SRC@MODELS2018:
 **Up to MODELS 2018**
 * August 5, 2018 ACM SRC submission (via EasyChair)
 * August 28, 2018 Notification to students (via EasyChair/email)
-
 All deadlines are hard. No extensions will be allowed. Deadline is midnight for Anywhere on Earth (AoE, time zone UTC-12)
 
 **During MODELS 2018 (October 14-19, 2018)**
-* Exact dates to be announced
-* Round 2 – ACM SRC Poster Session 
-* Round 3 – ACM SRC Presentation Session
-* ACM SRC Awards Ceremony (during conference dinner)
+
+Exact dates to be announced
+* **Wednesday, October 17th**: Round 2 – ACM SRC Poster Session
+(as part of the MODELS 2018 poster session)
+* **Thursday, October 18th**: Round 3 – ACM SRC Presentation Session
+* ACM SRC Awards Ceremony (during some conference event, TBA)
 
 ## Sponsors
 We gratefully acknowledge Microsoft Research for their support of the ACM SRC.
 
-## Organizers and Contact Information
+## Organizers
 * Ekkart Kindler, Technical University of Denmark, Denmark
 * Michel Chaudron, Chalmers and Gothenborg University, Sweden
 
@@ -85,6 +83,7 @@ models2018src@easychair.org
 
 ## Program Committee / Jury
 To be announced
+
 
 
 
