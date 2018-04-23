@@ -117,6 +117,7 @@ As in previous years, participants will pay a single satellite fee, which will c
 * Emilio Insfran, Universitat Politècnica de València (Spain)
 * Harald König, FHDW Hannover (Germany)
 * Levi Lucio, fortiss (Germany)
+* Ernesto Posse, Zeligsoft (Canada)
 * Rick Salay, University of Toronto (Canada)
 * Bran Selic, Malina Software (Canada)
 * Arnor Solberg, SINTEF (Norway)
