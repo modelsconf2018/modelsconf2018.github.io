@@ -12,55 +12,21 @@ slug: tutorials-program
 ### Speakers: Yentl Van Tendeloo and Hans Vangheluwe
 
 ### Abstract 
-DEVS is a popular formalism for modelling complex
-dynamic systems using a discrete-event abstraction. At this
-abstraction level, a timed sequence of pertinent “events” input
-to a system (or internal, in the case of timeouts) cause
-instantaneous changes to the state of the system. Due to its
-rigorous formal definition, and its support for modular composition,
-several advantages are achieved: 1) it is an appropriate
-formalisms to model (software) architectures with a precise
-behavioural description, granting performance analysis, realtime
-execution, and interoperation with actual systems; 2) it is
-a “simulation assembly language” to which other simulation
-languages can be mapped, granting formalism coupling at the
-DEVS level; and 3) it is a hierarchical framework for cosimulation
-or orchestration of discrete-event simulators. This
-tutorial introduces the Classic DEVS formalism in a bottomup
-fashion, using a simple traffic light example. The syntax
-and operational semantics of Atomic (behavioural) models are
-introduced first, after which Coupled (structural) models are
-introduced. We continue to actual applications of DEVS, for example in performance analysis of queueing systems. All examples are presented with the tool PythonPDEVS, though
-this introduction is equally applicable to other DEVS tools.
+DEVS is a popular formalism for modelling the structure and dynamics of complex systems using a discrete-event abstraction. At this abstraction level, a timed sequence of pertinent "events" input to a system (or internal to the system, in the case of timeouts) cause instantaneous changes to the state of the system. The syntax and semantics of DEVS are precisely defined, and support modular composition. DEVS allows for performance analysis, realtime execution, and interoperation with real-world systems. DEVS may serve as a "simulation assembly language"
+to which other discrete-event simulation languages such as Statecharts, Timed Automata and Cellular Automata can be mapped, preserving behaviour traces. DEVS' modular composition allows models in these different formalisms to be meaningfully coupled, after their translation to DEVS.
+DEVS has also been used as a hierarchical framework for co-simulation or orchestration of discrete-event simulators. This tutorial introduces the Classic DEVS formalism in a bottom-up fashion, using a simple traffic light example. The syntax and operational semantics of Atomic
+(behavioural) models are introduced first, followed by Coupled
+(structural) models. Applications of DEVS are introduced by an example in performance analysis of queueing systems. The tutorial uses the tool PythonPDEVS, though this introduction is equally applicable to other DEVS tools.
+
 
 Length: half day
 
 ### Biography 
 
-**[Yentl Van Tendeloo](http://msdl.cs.mcgill.ca/people/yentl)** is a PhD student at the
-University of Antwerp (Belgium). He is a member of the
-Modelling, Simulation and Design (MSDL) research lab. In
-his Master’s thesis, he worked on MDSL’s PythonPDEVS
-simulator, a parallel and distributed simulator for Classic
-DEVS, Parallel DEVS, and Dynamic Structure DEVS with
-support for computational resource usage models. The topic
-of his PhD is the conceptualization and development of
-a new meta-modelling framework and model management
-system called the Modelverse. 
+**[Yentl Van Tendeloo](http://msdl.cs.mcgill.ca/people/yentl)** is a PhD student at the University of Antwerp (Belgium). He is a member of the Modelling, Simulation and Design (MSDL) research lab. In his Master’s thesis, he worked on MDSL’s PythonPDEVS simulator, a parallel and distributed simulator for Classic DEVS, Parallel DEVS, and Dynamic Structure DEVS with support for computational resource usage models. The topic of his PhD is the conceptualization and development of a new meta-modelling framework and model management system called the Modelverse.
 
-**[Hans Vangheluwe](https://www.uantwerpen.be/en/staff/hans-vangheluwe)** is a Professor at the University of
-Antwerp (Belgium), an Adjunct Professor at McGill Univer-
-sity (Canada) and an Adjunct Professor at the National Univer-
-sity of Defense Technology (NUDT) in Changsha, China. He
-heads the Modelling, Simulation and Design (MSDL) research
-lab. He has a long-standing interest in the DEVS formalism
-and is a contributer to the DEVS community of fundamental
-and technical research results. In a variety of projects, often
-with industrial partners, he develops and applies the model-
-based theory and techniques of Multi-Paradigm Modelling
-(MPM). His current interests are in domain-specific mod-
-elling and simulation, including the development of graphical
-user interfaces for multiple platforms.
+
+**[Hans Vangheluwe](https://www.uantwerpen.be/en/staff/hans-vangheluwe)** is a Professor at the University of Antwerp (Belgium), and an Adjunct Professor at McGill University (Canada). He heads the Modelling, Simulation and Design (MSDL) research lab distributed over both locations. He has a long-standing interest in the DEVS formalism and has contributed fundamental and technical research results to the DEVS community. In a variety of projects, often with industrial partners, he develops and applies the model-based theory and techniques of Multi-Paradigm Modelling (MPM). His current interests are in domain-specific modelling and simulation, including the development of graphical user interfaces for multiple platforms. He is co-founder and chair of the European COST Action IC1404 "Multi-Paradigm Modelling for Cyber-Physical Systems" (MPM4CPS).
 
 <hr>
 
@@ -172,6 +138,15 @@ papers. Since 2007, Brice published more than 60 peer-
 reviewed papers totaling more than 1900 citations, including
 10 papers at MODELS.
 
+**[Jakob Høgenes](https://www.sintef.no/en/all-employees/employee/?empId=5340)** is a research scientist at SINTEF
+Digital in Oslo, Norway. He holds a MSc degree in
+Engineering Cybernetics from the Norwegian University of
+Science and Technology. His research focuses on applying
+tools and methods from dynamical systems and control
+theory to complex and distributed software systems, currently
+addressing security in the IoT domain. Jakob will not present
+at the tutorial.
+
 **[Nicolas Ferry](https://www.sintef.no/en/all-employees/employee/?empId=4464)** is a research scientist at SINTEF Digital
 (Norway). He holds a PhD degree from the University of Nice
 and is interested in the application of model-driven techniques
@@ -182,20 +157,10 @@ engineering, domain-specific languages, Internet of Things,
 cloud-computing, self-adaptive systems, and dynamically
 adaptive systems. He has been involved in several national and
 international projects and is currently the technical manager
-1 Author only; will not be presenting
 of the ENACT H2020 EU Project. He has been member
 of program committees of several international conferences
 and workshops such as the UIC conference series and the
 CloudWays workshops. Nicolas will not present at the tutorial.
-
-**[Jakob Høgenes](https://www.sintef.no/en/all-employees/employee/?empId=5340)** is a research scientist at SINTEF
-Digital in Oslo, Norway. He holds a MSc degree in
-Engineering Cybernetics from the Norwegian University of
-Science and Technology. His research focuses on applying
-tools and methods from dynamical systems and control
-theory to complex and distributed software systems, currently
-addressing security in the IoT domain. Jakob will not present
-at the tutorial.
 
 <hr>
 
@@ -234,11 +199,9 @@ Length: half day
 at Queen’s University. He received a Ph.D. in Computer
 Science in 1999 from Carnegie Mellon University. He was
 PC Co-chair of the FMOODS-FORTE and MODELS con-
-ferences in 2011 and 2014, respectively. He is on the edi-
-torial board of the Springer journal Software and Systems
+ferences in 2011 and 2014, respectively. He is on the editorial board of the Springer journal Software and Systems
 Modeling (SoSyM), and currently serves as chair of the
-MODELS Steering Committee. Juergen’s research inter-
-ests include software modelling, model-driven engineering,
+MODELS Steering Committee. Juergen’s research interests include software modelling, model-driven engineering,
 formal methods, and software quality assurance. He has
 collaborated with a range of industrial partners on these
 topics including IBM, General Motors, and Ericsson.
@@ -253,8 +216,7 @@ of distributed systems for IoT applications.
 (2009) Ltd. in Gatineau, Quebec, Canada, working on the
 development modelling tools with focus on code generation
 and mixed textual/graphical modelling. Before Zeligsoft
-he was a Post-Doctoral Fellow at the School of Comput-
-ing in Queen’s University (Canada). He holds Ph.D. and
+he was a Post-Doctoral Fellow at the School of Computing in Queen’s University (Canada). He holds Ph.D. and
 M.Sc. degrees in Computer Science from McGill University
 (Canada). He has long-standing research interests in the
 design, implementation and semantics of programming and
@@ -279,14 +241,11 @@ Length: full day
 **[Levi Lúcio](https://www.fortiss.org/ueber-uns/mitarbeiter/levi-lucio/)** is a senior scientist and project manager
 at fortiss. He was awarded a PhD from the University of
 Geneva, Switzerland, in 2008, for his work on Model-Based
-Testing. At fortiss he works tightly with aerospace and auto-
-motive companies to develop novel tools that include model-
-based software engineering and domain specificity at their
+Testing. At fortiss he works tightly with aerospace and automotive companies to develop novel tools that include model-based software engineering and domain specificity at their
 core. After completing his PhD, Levi worked extensively in
 the area of model transformations, having proposed several
 tools and surveys in the domain. He has been part of the
-organizing committee of 10+ workshops, many of them co-
-located with MODELS. Levi’s current research interests are
+organizing committee of 10+ workshops, many of them co-located with MODELS. Levi’s current research interests are
 domain-specific modeling, usability in formal methods and,
 more recently, how machine learning can help in modeling
 software and in software engineering in general.
@@ -294,16 +253,12 @@ software and in software engineering in general.
 **[Sebastian Voss](https://www.fortiss.org/en/about-us/people/sebastian-voss/)** has done his PhD in the avionic context
 at EADS Innovation Works in the Sensors, Electronics and
 Systems Integration department. At fortiss he is heading the
-Model-based Systems Engineering department and the re-
-search group Design Space Exploration, for finding optimized
-system configurations. His research interests include tech-
-niques and tools for the professional development of software-
-intensive systems, efficient design space exploration methods
+Model-based Systems Engineering department and the research group Design Space Exploration, for finding optimized
+system configurations. His research interests include techniques and tools for the professional development of software-intensive systems, efficient design space exploration methods
 and their model-based (tool) development in A UTO FOCUS3.
 
 **[Tatiana Chuprina]()** started at fortiss as a Master student
-with a study of experimental comparison between A UTO FO-
-CUS3 and Papyrus-RT. After her successful graduation from
+with a study of experimental comparison between A UTO FOCUS3 and Papyrus-RT. After her successful graduation from
 the Frankfurt University of Applied Science in 2016, she has
 been developing her work as a computer scientist at the Model-based System Engineering competence field at fortiss. She is
 currently at the beginning of her doctoral research having
@@ -361,11 +316,8 @@ Length: half day
 
 **[Christian Schlegel](http://www.servicerobotik-ulm.de/)** is the technical Lead of the H2020 RobMoSys project. Elected
 coordinator of the euRobotics Topic Group on Software
-Engineering, System Integration, System Engineering. Co-
-Founder and Associate Editor of the open access journal
-JOSER – Journal of Software Engineering for Robotics. Co-
-Organizer of the series of International Workshop on Domain-
-Specific Languages and Models for Robotics Systems
+Engineering, System Integration, System Engineering. Co-Founder and Associate Editor of the open access journal
+JOSER – Journal of Software Engineering for Robotics. Co-Organizer of the series of International Workshop on Domain-Specific Languages and Models for Robotics Systems
 (DSLRob). Head of the service robotics research group at
 Hochschule Ulm, Professor for Real Time Systems and
 Autonomous Systems in the Computer Science Department of
@@ -460,7 +412,7 @@ ITEA3 MEASURE projects.
 **[Dimitris Kolovos](https://www-users.cs.york.ac.uk/dkolovos/)** is a Professor of Software Engineering in
 the Department of Computer Science at the University of York,
 where he researches automated and model-based software
-engineering. He leads the open-source Epsilon model-based
+engineering.Developing  He leads the open-source Epsilon model-based
 software engineering platform, and led the MONDO EU FP7
 work package that produced the Hawk tool. Dimitris has co-
 authored more than 150 peer-reviewed papers and has co-
@@ -497,7 +449,7 @@ and the main contributor of the Mogwaï query framework.
 ### Speakers: Simon Van Mierlo and Hans Vangheluwe
 
 ### Abstract
-Statecharts, introduced by Harel, is used to specify
+Statecharts, introduced by David Harel, is used to specify
 complex, timed, reactive, autonomous discrete-event systems.
 It is an extension of Timed Finite State Automata which adds
 depth, orthogonality, broadcast communication and history. Its
@@ -526,13 +478,11 @@ the Modelling, Simulation and Design (MSDL) research lab.
 For his PhD thesis, he developed debugging techniques for
 modelling and simulation formalisms by explicitly modelling
 their executor’s control flow using Statecharts. He is the main
-developer and maintainer of SCCD [1], a hybrid formalism
+developer and maintainer of SCCD [https://msdl.uantwerpen.be/documentation/SCCD/](https://msdl.uantwerpen.be/documentation/SCCD/), a hybrid formalism
 that combines Statecharts with class diagrams.
 
 **[Hans Vangheluwe](https://www.uantwerpen.be/hans-vangheluwe)** is a Professor at the University of
-Antwerp (Belgium), an Adjunct Professor at McGill Univer-
-sity (Canada) and an Adjunct Professor at the National Univer-
-sity of Defense Technology (NUDT) in Changsha, China. He
+Antwerp (Belgium), an Adjunct Professor at McGill University (Canada) and an Adjunct Professor at the National Univesity of Defense Technology (NUDT) in Changsha, China. He
 heads the Modelling, Simulation and Design (MSDL) research
 lab. In a variety of projects, often with industrial partners, he
 develops and applies the model-based theory and techniques
@@ -577,18 +527,14 @@ Length: half day
 ### Biography
 
 **[Andreas Vogelsang](https://www.dcaiti.tu-berlin.de/staff/vogelsang/)** is professor for automotive software
-engineering at the Daimler Center for Automotive IT Inno-
-vations at the Technical University of Berlin. He received
+engineering at the Daimler Center for Automotive IT Innovations at the Technical University of Berlin. He received
 his PhD from the Technical University of Munich in 2015.
 His research interests comprise model-based requirements
 engineering and software architectures for embedded systems.
-He participated in several research collaborations with in-
-dustrial partners especially from the automotive industry. He
-has published multiple papers at RE, MODELS, ICSE, and
+He participated in several research collaborations with industrial partners especially from the automotive industry. He has published multiple papers at RE, MODELS, ICSE, and
 REFSQ.
 
-**[Wolfgang Böhm](www22.in.tum.de/boehm/)** is a senior research fellow at the soft-
-ware & systems engineering research group at the Technical
+**[Wolfgang Böhm](www22.in.tum.de/boehm/)** is a senior research fellow at the software & systems engineering research group at the Technical
 University of Munich. He holds a PhD in mathematics and
 gained 25 years of professional experience in the IT and
 communication industry. After joining the research group, he
@@ -596,8 +542,7 @@ led the BMBF research projects SPES2020 and SPES XT.
 Model-based development is his main research interest.
 
 **[Sebastian Voss](https://www.fortiss.org/en/about-us/people/sebastian-voss/)** has done his PhD in the avionic context
-at Airbus in the Sensors, Electronics & Systems Integra-
-tion department. Previously, he worked at Daimler research
+at Airbus in the Sensors, Electronics & Systems Integration department. Previously, he worked at Daimler research
 & development. At fortiss, he is heading the Model-based
 Systems Engineering department and the Embedded Systems
 Software Engineering Institute (ESSEI). His research interests
@@ -612,8 +557,7 @@ incl. Modelling Distributed Systems.
 Technical University of Munich in the Software & Systems
 Engineering Research Group. He obtained a PhD in Computer
 Science from the Department of Distributed and Dependable
-Systems, Faculty of Mathematics and Physics, Charles Uni-
-versity in Prague. His main research interests are software
+Systems, Faculty of Mathematics and Physics, Charles University in Prague. His main research interests are software
 architecture, self-adaptive systems, and big data analytics.
 
 <hr>
