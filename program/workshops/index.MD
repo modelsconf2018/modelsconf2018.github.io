@@ -11,16 +11,16 @@ slug: workshops-program
 
 ### Organizers: Achim D. Brucker (The University of Sheffield), Robert Clarisó (Universitat Oberta de Catalunya) and Hao Wu (Maynooth University)
 
-### Abstract 
-Modeling started out with UML and its precursors as a graphical notation. 
-Such visual representations enable direct intuitive capturing of reality, 
+### Abstract
+Modeling started out with UML and its precursors as a graphical notation.
+Such visual representations enable direct intuitive capturing of reality,
 but they have weaknesses: for example, detailed visual representations bear the risk of becoming overcrowded faster than textual models and some of the visual features lack the level of precision required to create complete and unambiguous specifications. These weaknesses of graphical notations encouraged the development of text-based modeling languages that either integrate with or replace graphical notations for modeling. Typical examples of such languages are OCL, textual MOF, Epsilon, and Alloy. Textual modeling languages have their roots in formal language paradigms like logic, programming and databases.
 
-The goal of this workshop is to create a forum where researchers and practitioners 
+The goal of this workshop is to create a forum where researchers and practitioners
 interested in building models using OCL or other kinds of textual languages can directly interact, report advances, share results, identify tools for language development, and discuss appropriate standards. In particular,
-the workshop will encourage discussions for achieving synergy from different 
-modeling language concepts and modeling language use. The close interaction 
-will enable researchers and practitioners to identify common interests 
+the workshop will encourage discussions for achieving synergy from different
+modeling language concepts and modeling language use. The close interaction
+will enable researchers and practitioners to identify common interests
 and options for potential cooperation.
 
 **Length: full day**
@@ -30,22 +30,22 @@ and options for potential cooperation.
 
 ### Organizers: Sebastian Götz (Technische Universät Dresden), Nico Hochgeschwender (Université du Luxembourg), Andreas Wortmann (RWTH Aachen University) and Sebastian Wrede (Universität Bielefeld)
 
-### Abstract 
+### Abstract
 
-With the advent of standardized hardware/software platforms for robots and the 
+With the advent of standardized hardware/software platforms for robots and the
 dynamics with which software ecosystems and app stores develop in application markets, the following research topics arise in the overlap of software engineering and robotics: (1) Model-driven software Development for robotic systems, (2) software and app reuse for robotics, (3) end-user app development, (4) the compliance to legal and safety constraints, and (5) total cost of ownership. Model-driven engineering helps to design, develop, and integrated complex systems by automating the development process concentrating on different levels of abstraction. With the advances in the robotic research communities and the increasing complexity of application scenarios for future robotic systems, model-driven techniques must be established to improve the quality (e.g., re-usability, reliability, maintainability) of the developed systems. Therefore, there is a need for a new paradigm of software and systems engineering for robots. This suggests establishing a new joint community of researchers from robotics and software engineering.
 <hr>
-## 13th International Workshop on Models@run.time. 
+## 13th International Workshop on Models@run.time.
 
 ### Organizers: Sebastian Götz (Technische Universät Dresden), Nelly Bencomo (Aston University), Kirstie Bellman (The Aerospace Corporation) and G. Blair (Lancaster University)
 
 ### Abstract
 
-The complexity of adapting software during runtime has spawned interest in how models can be used to validate, monitor and adapt runtime behaviour. The use of models during runtime extends the use of modelling techniques beyond the design and implementation phases. The goal of this workshop is to look at issues related to 
-developing appropriate model-driven approaches to managing and monitoring the execution of systems. We aim to continue the discussion of research ideas and proposals from researchers who work in relevant areas such as MDE, software architectures, reflection, and autonomic and self-adaptive systems, and provide a "state-of-the-art" 
+The complexity of adapting software during runtime has spawned interest in how models can be used to validate, monitor and adapt runtime behaviour. The use of models during runtime extends the use of modelling techniques beyond the design and implementation phases. The goal of this workshop is to look at issues related to
+developing appropriate model-driven approaches to managing and monitoring the execution of systems. We aim to continue the discussion of research ideas and proposals from researchers who work in relevant areas such as MDE, software architectures, reflection, and autonomic and self-adaptive systems, and provide a "state-of-the-art"
 research assessment expressed in terms of challenges and achievements. Although this is already the 13th edition of the workshop, the past years showed that the workshop is still well visited, has lively discussion and a good number of submissions.
 <hr>
-## COMMitMDE: Collaborative Modelling in MDE. 
+## COMMitMDE: Collaborative Modelling in MDE.
 
 ### Organizers: Jan Bosch (Chalmers University of Technology), Ivano Malavolta (Vrije Universiteit Amsterdam), Sébastien Gérard (CEA List), Henry Muccini (University of L'Aquila) and Dimitris Kolovos (University of York)
 
@@ -62,7 +62,7 @@ The goal of COMMitMDE 2018 is to bring together researchers and practitioners to
 
 Model-based approaches promote the use of models and related artefacts (such as metamodels and model transformations) as central elements to tackle the complexity of building systems. Both in academia and in industry there is a growing need to efficiently i) store; ii) analyse; and ii) search & navigate, and iii) curate large collections of models. Such collections include for example large sets of software models such as the Lindholmen UML dataset, or of heterogeneous models in large MDE ecosystems and systems-of-systems, including e.g. software, hardware, and business models.
 
-The workshop Analytics and Mining of Model Repositories (AMMoRe) aims to gather modelling researchers and practitioners to discuss the emerging problems and propose solutions. The scope ranges from industrial reports and empirical analyses in the problem domain to novel cross-disciplinary approaches for large-scale analytics and management, e.g. exploiting techniques from data analytics, repository mining and machine learning. 
+The workshop Analytics and Mining of Model Repositories (AMMoRe) aims to gather modelling researchers and practitioners to discuss the emerging problems and propose solutions. The scope ranges from industrial reports and empirical analyses in the problem domain to novel cross-disciplinary approaches for large-scale analytics and management, e.g. exploiting techniques from data analytics, repository mining and machine learning.
 <hr>
 ##  Second International Workshop on Model-Driven Engineering for IoT (MDE4IoT)
 
@@ -70,14 +70,14 @@ The workshop Analytics and Mining of Model Repositories (AMMoRe) aims to gather 
 
 ### Abstract
 
-The number of Internet-of-Things (IoT) endpoints has been continuously increasing in the recent years and is planned to explode by 2020. In this context, it is critical to facilitate the creation and operation of IoT systems. In particular, because these systems can act on the physical world, aspects related to trustworthiness (e.g., security and privacy concerns, resilience) are challenging and of paramount importance. The goal of this workshop is to look at issues related to developing appropriate model-driven approaches to design, develop, monitor, and operate IoT systems. We aim at triggering discussions between researchers from the model-driven software development and IoT communities, as well as to promote discussions between theoreticians and practitioners. 
+The number of Internet-of-Things (IoT) endpoints has been continuously increasing in the recent years and is planned to explode by 2020. In this context, it is critical to facilitate the creation and operation of IoT systems. In particular, because these systems can act on the physical world, aspects related to trustworthiness (e.g., security and privacy concerns, resilience) are challenging and of paramount importance. The goal of this workshop is to look at issues related to developing appropriate model-driven approaches to design, develop, monitor, and operate IoT systems. We aim at triggering discussions between researchers from the model-driven software development and IoT communities, as well as to promote discussions between theoreticians and practitioners.
 <hr>
 ##  Flexible MDE Workshop
 
 ### Organizers: Alfonso Pierantonio (University of L'Aquila), Juan De Lara (Universidad Autonoma de Madrid) and Davide Di Ruscio (Università degli Studi dell'Aquila)
 
 ### Abstract
-Over the last years, several modeling platforms have been devel- oped to simplify and automate many steps of Model-Driven Engi- neering (MDE) processes. However, still several challenges have to be solved for enabling a wider adoption of MDE. One of the most important impediments in adopting MDE tools is related to the reduced exibility of existing modeling platforms that do not permit to relax or enforce their rigidity depending on the stages of the applied development process. For instance, EMF does not permit to enter models which are not conforming to a metamodel. On one hand this allows only valid models to be de ned, but on the other, it makes the corresponding pragmatics more di cult. Thus there is an increasing need for techniques supporting exibility in a wide range of modeling activities, including metamodel, model, and model transformation development and reuse. The workshop aims at identifying the di culties in the current practice of MDE related to the lack of exibility, and soliciting contributions of ideas, concepts, and techniques also from other areas of software devel- opment which could be useful to revise certain MDE fundamental typing concepts, and to de ne agile model sketching techniques. 
+Over the last years, several modeling platforms have been developed to simplify and automate many steps of Model-Driven Engineering (MDE) processes. However, still several challenges have to be solved for enabling a wider adoption of MDE. One of the most important impediments in adopting MDE tools is related to the reduced flexibility of existing modeling platforms that do not permit to relax or enforce their rigidity depending on the stages of the applied development process. For instance, EMF does not permit to enter models which are not conforming to a metamodel. On one hand this allows only valid models to be defined, but on the other, it makes the corresponding pragmatics more difficult. Thus there is an increasing need for techniques supporting flexibility in a wide range of modeling activities, including metamodel, model, and model transformation development and reuse. The workshop aims at identifying the difficulties in the current practice of MDE related to the lack of flexibility, and soliciting contributions of ideas, concepts, and techniques also from other areas of software development which could be useful to revise certain MDE fundamental typing concepts, and to de ne agile model sketching techniques.
 <hr>
 ## Models and Evolution Workshop 2018
 
@@ -90,7 +90,7 @@ Software artefacts constantly increase in complexity, variety and novelty. Envir
 
 ### Organizers: Bernd Neumayr (Johannes Kepler University Linz), Adrian Rutle (Western Norway University of Applied Sciences Bergen) and Tony Clark (Sheffield Hallam University)
 
-### Abstract 
+### Abstract
 
  MULTI 2018 is the fifth workshop in the MULTI workshop series focusing on multi-level modeling. Although multi-level modelling approaches have been successfully used in industrial projects and standards definitions there is still no clear consensus on precisely what multi-level modelling is and how it can be best supported. For example, there are different views on whether it is sound to combine instance facets and type facets into so-called clabjects, whether strict metamodeling is too restrictive and what tool architectures provide the best framework for supporting modeling with multiple-classification levels. The goal of this workshop is to build on the success of the previous MULTI workshops at MODELS 2014, 2015, 2016, and 2017, and provide a forum for researchers and practitioners to discuss advances in this field.
 <hr>
@@ -100,19 +100,19 @@ Software artefacts constantly increase in complexity, variety and novelty. Envir
 
 ### Abstract
 
-Software engineering research must always be solidly rooted in 
-industrial needs. Such needs must be given a medium to be clearly 
-communicated between industry and research. Otherwise, research becomes 
-untethered while the industry's needs are not met. 
-The objective of the PAINS workshop is to bring together people from 
+Software engineering research must always be solidly rooted in
+industrial needs. Such needs must be given a medium to be clearly
+communicated between industry and research. Otherwise, research becomes
+untethered while the industry's needs are not met.
+The objective of the PAINS workshop is to bring together people from
 industry and the research community to discuss concrete pains, issues
 and challenges faced in the industrial practice of MDE.
 
-Previous approaches to eliciting MDE requirements often brought forth 
-academic perspectives. With a unique focus on the needs of industrial practitioners, the PAINS 
-workshop aims to close the gap between industrial requirements in 
-model-driven engineering and academic solutions. To achieve this, we propose a workshop format of short presentations of industrial pains, followed by problem-specific or domain-specific 
-breakout sessions better accessible to industrial practitioners. 
+Previous approaches to eliciting MDE requirements often brought forth
+academic perspectives. With a unique focus on the needs of industrial practitioners, the PAINS
+workshop aims to close the gap between industrial requirements in
+model-driven engineering and academic solutions. To achieve this, we propose a workshop format of short presentations of industrial pains, followed by problem-specific or domain-specific
+breakout sessions better accessible to industrial practitioners.
 <hr>
 ## Workshop on Executable Modeling (EXE)
 
@@ -120,7 +120,7 @@ breakout sessions better accessible to industrial practitioners.
 
 ### Abstract
 
- Executable models have the potential of bringing major benefits to the development of complex systems, as they provide abstractions of complex system behaviors and enable early analyses ofthat behavior. Despite the potential benefits of executable models, there are still many challenges to solve, such as the lack of maturity in the definition of and tooling for executable modeling languages, and the limited experience with executable modeling in much of the software and systems development industry. The objective of this workshop is to draw attention to the potentials and challenges of executable modeling and advance the state-of-the-art in executable modeling. We aim at bringing together researchers working towards overcoming challenges in executable modeling, as well as practitioners from different application domains and application contexts of executable modeling. The workshop intends to provide a forum for exchanging recent results, ideas, opinions, requirements, and experiences in executable modeling. 
+ Executable models have the potential of bringing major benefits to the development of complex systems, as they provide abstractions of complex system behaviors and enable early analyses of that behavior. Despite the potential benefits of executable models, there are still many challenges to solve, such as the lack of maturity in the definition of and tooling for executable modeling languages, and the limited experience with executable modeling in much of the software and systems development industry. The objective of this workshop is to draw attention to the potentials and challenges of executable modeling and advance the state-of-the-art in executable modeling. We aim at bringing together researchers working towards overcoming challenges in executable modeling, as well as practitioners from different application domains and application contexts of executable modeling. The workshop intends to provide a forum for exchanging recent results, ideas, opinions, requirements, and experiences in executable modeling.
 <hr>
 ## Third International Workshop on Human Factors in Modeling (HuFaMo’ 18)
 
@@ -128,7 +128,7 @@ breakout sessions better accessible to industrial practitioners.
 
 ### Abstract
 
-Modeling is an intrinsically human endeavour. Therefore, many of the questions related to modeling can only be answered by empirical studies of human factors and activities. Yet, empirical research with human subjects is not in the mainstream of major scienti c events in the eld of modeling. The HuFaMo-workshop was created in 2015 to promote this form of research by creating a venue where these topics can be discussed and disseminated. For that purpose, HuFaMo invites both reports of completed research and proposals of study designs. We encourage the sharing of experience and invite new researchers into the eld of human factors in modeling. Thanks to the di erent editions of the workshop, a community of researchers and practitioners began to form to broaden the foothold of human factors research in the MDE community. With the 2018 edition, we intend to strengthen this community. While maintaining the principle of sharing experience through reports and proposals, we will focus on starting up a replicated experiment in order to promote a collaborative e ort of the participants.
+Modeling is an intrinsically human endeavour. Therefore, many of the questions related to modeling can only be answered by empirical studies of human factors and activities. Yet, empirical research with human subjects is not in the mainstream of major scienti c events in the eld of modeling. The HuFaMo-workshop was created in 2015 to promote this form of research by creating a venue where these topics can be discussed and disseminated. For that purpose, HuFaMo invites both reports of completed research and proposals of study designs. We encourage the sharing of experience and invite new researchers into the eld of human factors in modeling. Thanks to the different editions of the workshop, a community of researchers and practitioners began to form to broaden the foothold of human factors research in the MDE community. With the 2018 edition, we intend to strengthen this community. While maintaining the principle of sharing experience through reports and proposals, we will focus on starting up a replicated experiment in order to promote a collaborative e ort of the participants.
 <hr>
 ## MDEbug: 2nd Workshop on Debugging in Model-Driven Engineering.
 
@@ -151,28 +151,28 @@ Inspired by "tool challenge and competition" workshops in other fields (e.g., [1
 
 <hr>
 
-## MoDeVVa'18 - Model Driven Engineering, Verification and Validation Integrating Verification and Validation in MDE. 
+## MoDeVVa'18 - Model Driven Engineering, Verification and Validation Integrating Verification and Validation in MDE.
 
 ### Organizers: Ernesto Posse (Zeligsoft), Raquel Araújo de Oliveira (University of Toulouse III - Paul Sabatier & IRIT), Levi Lúcio (fortiss) and Faiez Zalila (INRIA)
 
 ### Abstract
 
-Models are purposeful abstractions of systems and their environments. They can be used to understand, simulate, and validate complex systems at different abstraction levels. Thus, the use of models is of increasing importance for industrial applications. Model-Driven Engineering (MDE) is a development methodology that is based on models, metamodels, and model transformations. The shift from code-centric software develop- ment to model-centric software development in MDE opens up promising opportunities for the verification and validation (V&V) of software. On the other hand, the growing complexity of models and model transformations requires efficient V&V techniques in the context of MDE.
+Models are purposeful abstractions of systems and their environments. They can be used to understand, simulate, and validate complex systems at different abstraction levels. Thus, the use of models is of increasing importance for industrial applications. Model-Driven Engineering (MDE) is a development methodology that is based on models, metamodels, and model transformations. The shift from code-centric software development to model-centric software development in MDE opens up promising opportunities for the verification and validation (V&V) of software. On the other hand, the growing complexity of models and model transformations requires efficient V&V techniques in the context of MDE.
 
 The workshop on Model Driven Engineering, Verification and Validation (MoDeVVa) offers a forum for researchers and practitioners who are working on V&V and MDE. The main goals of the workshop are to identify, investigate, and discuss mutual impacts of MDE and V&V.
 
-For the 2018 edition of the MoDeVVa workshop we would like to propose an emphasis on usability, user friendliness and approaches, tools and techniques that enable the applicability of V&V in MDE as well as the use of MDE in V&V activities. We would additionally like to invite submissions where machine learning is used as an enabler to ease the usage and applicability in practice of modeling and verification techniques. 
+For the 2018 edition of the MoDeVVa workshop we would like to propose an emphasis on usability, user friendliness and approaches, tools and techniques that enable the applicability of V&V in MDE as well as the use of MDE in V&V activities. We would additionally like to invite submissions where machine learning is used as an enabler to ease the usage and applicability in practice of modeling and verification techniques.
 
 <hr>
 
-##  ModComp’18: 5th International Workshop on Interplay of Model-Driven and Component-Based Software Engineering. 
+##  ModComp’18: 5th International Workshop on Interplay of Model-Driven and Component-Based Software Engineering.
 
 ### Organizers: Federico Ciccozzi (Mälardalen University), Antonio Cicchetti (Mälardalen University) and Andreas Wortmann (RWTH Aachen University)
 
 ### Abstract
 Model-Driven Engineering (MDE) and Component-Based Software Engineering (CBSE) have been shown to effectively reduce software development complexity by (i) shifting the focus from source code to models and (ii) building software systems as composition of new and existing components. Moreover, the interplay of MDE and CBSE is gaining recognition as a very promising means to boost the development of software systems by reducing costs and risks and shorten time-to-market. In addition, most of the advancements in MDE techniques are of great interest for CBSE, and vice-versa. While several attempts to effectively combine MDE and CBSE have been documented, there are still unsolved clashes raising when exploiting this combination, mostly due to differences in their basic assumptions and focus.
 
-The goal of ModComp'18 is to gather researchers and practitioners to share opinions, propose solutions to open challenges and generally explore the frontiers of intertwining between MDE and CBSE. ModComp'18 aims at attracting contributions related to the subject at different levels, from modelling to analysis, from componentisation to composition, from consistency to versioning; foundational contributions as well as concrete applicative experiments are sought.
+The goal of ModComp'18 is to gather researchers and practitioners to share opinions, propose solutions to open challenges and generally explore the frontiers of intertwining between MDE and CBSE. ModComp'18 aims at attracting contributions related to the subject at different levels, from modelling to analysis, from componentization to composition, from consistency to versioning; foundational contributions as well as concrete applicative experiments are sought.
 
 <hr>
 
@@ -183,9 +183,11 @@ The goal of ModComp'18 is to gather researchers and practitioners to share opini
 
 ### Abstract
 
-To cope with complexity, modern software-intensive systems are often split in different concerns to serve the needs of diverse stakeholders. These concerns are often associated with specialized description languages and technologies, which are based on concern-specific problems and solution concepts. Developers thus face the challenging task of integrating the different languages and associated technologies used to produce software artifacts in the different concern spaces. The proposed GEMOC 2018 will be a full-day workshop bringing together researchers and practitioners in the modeling language community to discuss the challenges associated with integrating multiple, heterogeneous modeling languages. The workshop interests include techniques, frameworks, and environments to facilitate the creation, integration, and automated processing of heterogeneous modeling languages. Languages of interest range from requirements, to design and runtime languages, and include both general-purpose and domain-specific languages. Challenges related to engineering composable languages, well-formed semantic composition of languages and reasoning about systems described using heterogeneous languages are of particular interest. Following the five previous editions, the objective is to continue expanding a community focused on problems arising from the globalization of modeling languages; i.e., the use of multiple DSLs to support coordinated development of diverse aspects of a system. 
+To cope with complexity, modern software-intensive systems are often split in different concerns to serve the needs of diverse stakeholders. These concerns are often associated with specialized description languages and technologies, which are based on concern-specific problems and solution concepts. Developers thus face the challenging task of integrating the different languages and associated technologies used to produce software artifacts in the different concern spaces. The proposed GEMOC 2018 will be a full-day workshop bringing together researchers and practitioners in the modeling language community to discuss the challenges associated with integrating multiple, heterogeneous modeling languages. The workshop interests include techniques, frameworks, and environments to facilitate the creation, integration, and automated processing of heterogeneous modeling languages. Languages of interest range from requirements, to design and runtime languages, and include both general-purpose and domain-specific languages. Challenges related to engineering composable languages, well-formed semantic composition of languages and reasoning about systems described using heterogeneous languages are of particular interest. Following the five previous editions, the objective is to continue expanding a community focused on problems arising from the globalization of modeling languages; i.e., the use of multiple DSLs to support coordinated development of diverse aspects of a system.
 
 
 </div>
 </div>
+
+
 
