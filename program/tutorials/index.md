@@ -314,7 +314,7 @@ euRobotics association. Full professor at KU Leuven and part-time at Eindhoven U
 
 ## How to Build Domain Specific Modeling Languages and Interpreters with WebGME – an Online, Collaborative Metamodeling Environment
 
-### Speakers: Patrik Meijer
+### Speaker: Patrik Meijer
 
 ### Abstract
 WebGME (Generic Modeling Environment) is a
@@ -398,6 +398,7 @@ Length: half day
 ### Speakers: Simon Van Mierlo and Hans Vangheluwe
 
 ### Abstract
+
 Statecharts, introduced by David Harel in 1987, is a formalism used to specify the behaviour of timed, autonomous and reactive systems using a discrete-event abstraction. It is an extension of Timed Finite State Automata which adds depth, orthogonality, broadcast communication and history. Its visual representation is based on higraphs, which combine graphs and Venn diagrams. Many tools offer visual editing, simulation and code synthesis support for the Statecharts formalism. Examples include STATEMATE, Rhapsody, Yakindu, and Stateflow, each implementing different variants of Harel's original Semantics. This tutorial introduces Statecharts modelling, simulation, and testing. As a running example, the behaviour of a traffic light, a simple timed, autonomous and reactive system is modelled. We start from the basic concepts of states and transitions and explain the more advanced concepts of Statecharts by extending the example incrementally. We discuss several semantics variants, such as STATEMATE and Rhapsody. We use Yakindu to model the example system.
 
 Length: half day
