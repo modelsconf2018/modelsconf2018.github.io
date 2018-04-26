@@ -419,7 +419,7 @@ IC1404 "Multi-Paradigm Modelling for Cyber-Physical Systems" (MPM4CPS).
 
 <hr>
 
-## Seamless Modelbased Systems Engineering: The SPES Approach
+## Seamless Model-Based Systems Engineering: The SPES Approach
 
 ### Speakers: Andreas Vogelsang, Wolfgang Böhm, Sebastian Voss and Ilias Gerostathopoulos
 
@@ -478,7 +478,7 @@ their model-based tooling. He has a lectureship at the TU
 Munich from the department of informatics for various lectures
 incl. Modelling Distributed Systems.
 
-**[Ilias Gerostathopoulos](www4.in.tum.de/~gerostat/)** is a Postdoctoral researcher at the
+**[Ilias Gerostathopoulos](http://www4.in.tum.de/~gerostat/)** is a postdoctoral researcher at the
 Technical University of Munich in the Software & Systems
 Engineering Research Group. He obtained a PhD in Computer
 Science from the Department of Distributed and Dependable
