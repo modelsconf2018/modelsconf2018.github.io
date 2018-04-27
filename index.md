@@ -32,8 +32,9 @@ slug: call
 
 # MODELS 2018, 14-19 October 2018 Copenhagen, Denmark
 
+<h4> Events @ MODELS 2018 </h4>
 * Research conference: on [Model Driven Engineering Languages and Systems](https://modelsconf2018.github.io/calls/call/)
-* Industry activities: Industry Day, [Practice and Innovation Track](https://modelsconf2018.github.io/calls/call/#practice-and-innovation-track), and Exhibition
+* Industry activities: [Industry Day](https://modelsconf2018.github.io/program/industryday/), [Practice and Innovation Track](https://modelsconf2018.github.io/calls/call/#practice-and-innovation-track), and Exhibition
 * Collocated: [SAM2018 - Languages, Methods, and Tools for Systems Engineering](http://sdl-forum.org/Events/SAM2018/index.htm)
 
 <p class="text-justify">
