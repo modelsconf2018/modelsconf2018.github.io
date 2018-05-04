@@ -26,7 +26,7 @@ and options for potential cooperation.
 **Length: full day**
 
 <hr>
-## MORSE: 5th International Workshop on Model-Driven Robot Software Engineering
+## 5th International Workshop on Model-Driven Robot Software Engineering (MORSE)
 
 ### Organizers: Sebastian Götz (Technische Universät Dresden), Nico Hochgeschwender (Université du Luxembourg), Andreas Wortmann (RWTH Aachen University) and Sebastian Wrede (Universität Bielefeld)
 
