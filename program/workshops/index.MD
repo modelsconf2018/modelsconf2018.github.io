@@ -5,6 +5,11 @@ slug: workshops-program
 <div class="row">
  <div class="col-md-11" markdown="1">
 
+# Workshop Paper Submission Deadline
+Paper submission deadline: July 17, 2018
+
+**Some workshops may have an abstract submission deadline. Please check again at a later date.**
+
 # Accepted Workshops
 
 ## Workshop on OCL and Textual Modeling
