@@ -43,7 +43,7 @@ slug: important-dates
       <td> Sun 15 July 2018 <br />Paper Submission Deadline - Doctoral Symposium</td>
       </tr>
       <tr>
-      <td> Tue 17 July 2018 <br />Paper Submission Deadline - Workshop Papers (an abstract deadline might exist. Please check again later.)</td>
+      <td> Tue 17 July 2018 <br />Paper Submission Deadline - Workshop Papers (Some workshops may have an abstract submission deadline. Please check again at a later date.)</td>
       </tr>
       <tr>
       <td> Fri 20 July 2018 <br />Abstract Submission Deadline - Tools and Demonstrations</td>
