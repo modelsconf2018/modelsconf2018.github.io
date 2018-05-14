@@ -1,6 +1,6 @@
 ---
 layout: default
-slug: keynotes
+slug: student-volunteers
 ---
 <div class="row">
  <div class="col-md-11" markdown="1">
