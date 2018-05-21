@@ -81,7 +81,7 @@ slug: program-overview
   <tr>
     <td class="tg-h01i">FlexibleMDE</td>
     <td class="tg-g26m">GEMOC</td>
-    <td class="tg-hpnp">Make Modeling Cool Again</td>
+    <td class="tg-hpnp">Making Modeling Cool Again</td>
     <td class="tg-g26m">MDEbug</td>
     <td class="tg-g26m">Systems Modeling Meeting</td>
     <td class="tg-obcv"></td>
