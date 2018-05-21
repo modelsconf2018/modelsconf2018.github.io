@@ -8,6 +8,7 @@ slug: program-overview
 ## Conference program overview
 
 #### Warning, this is just a preliminary schedule. Changes may occur. 
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
@@ -15,16 +16,17 @@ slug: program-overview
 .tg .tg-g26m{background-color:#d5f3ff;border-color:#000000;text-align:center}
 .tg .tg-urx7{color:#000000;border-color:#000000;text-align:center}
 .tg .tg-obcv{border-color:#000000;text-align:center}
-.tg .tg-8kx2{background-color:#efefef;color:#fe0000;border-color:#000000;text-align:center}
 .tg .tg-rkmt{background-color:#fffdc8;color:#000000;border-color:#000000;text-align:center}
+.tg .tg-e1d6{background-color:#efefef;color:#ff534e;border-color:#000000;text-align:center}
 .tg .tg-h01i{background-color:#d5f3ff;color:#333333;border-color:#000000;text-align:center}
 .tg .tg-wg6e{background-color:#f9eadb;color:#986536;border-color:#000000;text-align:center}
+.tg .tg-p1jy{background-color:#f1f2ff;color:#ff534e;border-color:#000000;text-align:center}
 .tg .tg-m3ne{background-color:#d7ffd7;border-color:#000000;text-align:center}
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-urx7" colspan="5"><br><span style="font-weight:bold;color:rgb(139, 232, 138)">Conference pre-events</span>, <span style="font-weight:bold;color:rgb(52, 205, 249)">Workshops</span><span style="font-weight:bold">, </span><span style="font-weight:bold;color:rgb(100, 52, 3)">Co-located events</span></th>
-    <th class="tg-urx7" colspan="3"><br><span style="color:rgb(254, 0, 0)">Main Conference</span></th>
+    <th class="tg-urx7" colspan="5"><span style="font-weight:bold;color:rgb(139, 232, 138)">Conference pre-events</span>, <span style="font-weight:bold;color:rgb(52, 205, 249)">Workshops</span><span style="font-weight:bold">, </span><span style="font-weight:bold;color:rgb(100, 52, 3)">Co-located events</span></th>
+    <th class="tg-e1d6" colspan="3"><span style="font-weight:bold">Main conference</span></th>
   </tr>
   <tr>
     <td class="tg-rkmt">Sun 14 May</td>
@@ -40,9 +42,9 @@ slug: program-overview
     <td class="tg-wg6e"><a href="https://xtuml.org/xtuml-days-2018-copenhagen/">xtUMLDays</a></td>
     <td class="tg-wg6e"><a href="http://sdl-forum.org/Events/SAM2018/index.htm">SAM Conference</a></td>
     <td class="tg-wg6e"><a href="https://xtuml.org/xtuml-days-2018-copenhagen/">xtUMLDays</a></td>
-    <td class="tg-8kx2">Keynote - <a href="https://modelsconf2018.github.io/program/keynotes/">Silvja Seres</a></td>
-    <td class="tg-8kx2">Keynote - <a href="https://modelsconf2018.github.io/program/keynotes/">Matjin Wisse</a></td>
-    <td class="tg-8kx2">Keynote - <a href="https://modelsconf2018.github.io/program/keynotes/">James R. Cordy</a></td>
+    <td class="tg-p1jy">Keynote - <a href="https://modelsconf2018.github.io/program/keynotes/">Silvja Seres</a></td>
+    <td class="tg-p1jy">Keynote - <a href="https://modelsconf2018.github.io/program/keynotes/">Matjin Wisse</a></td>
+    <td class="tg-p1jy">Keynote - <a href="https://modelsconf2018.github.io/program/keynotes/">James R. Cordy</a></td>
   </tr>
   <tr>
     <td class="tg-h01i">ModComp</td>
@@ -50,9 +52,9 @@ slug: program-overview
     <td class="tg-g26m">MDETools</td>
     <td class="tg-g26m">Robomsys</td>
     <td class="tg-g26m">SPES</td>
-    <td class="tg-8kx2">Foundations Track</td>
-    <td class="tg-8kx2">Foundations Track<br></td>
-    <td class="tg-8kx2">Foundations Track</td>
+    <td class="tg-p1jy">Foundations Track</td>
+    <td class="tg-p1jy">Foundations Track<br></td>
+    <td class="tg-p1jy">Foundations Track</td>
   </tr>
   <tr>
     <td class="tg-g26m">MODELS@Runtime</td>
@@ -60,9 +62,9 @@ slug: program-overview
     <td class="tg-g26m">GEMOC</td>
     <td class="tg-g26m">MoDeVVa</td>
     <td class="tg-g26m">AMMoRe</td>
-    <td class="tg-8kx2">Industry Day</td>
-    <td class="tg-8kx2">Practice and Innovation Track</td>
-    <td class="tg-8kx2">Student Competition Awards</td>
+    <td class="tg-p1jy">Industry Day</td>
+    <td class="tg-p1jy">Practice and Innovation Track</td>
+    <td class="tg-p1jy">Student Competition Awards</td>
   </tr>
   <tr>
     <td class="tg-h01i">OCL</td>
@@ -70,9 +72,9 @@ slug: program-overview
     <td class="tg-g26m">DevYrCar</td>
     <td class="tg-g26m">WebGME</td>
     <td class="tg-g26m">Models and Evolution</td>
-    <td class="tg-8kx2">SoSyM Editorial Meeting</td>
-    <td class="tg-8kx2">Banquet at the Opera</td>
-    <td class="tg-8kx2">Steering Committee Meeting</td>
+    <td class="tg-p1jy">SoSyM Editorial Meeting</td>
+    <td class="tg-p1jy">Banquet at the Opera</td>
+    <td class="tg-p1jy">Steering Committee Meeting</td>
   </tr>
   <tr>
     <td class="tg-h01i">FlexibleMDE</td>
