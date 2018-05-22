@@ -28,7 +28,7 @@ slug: program-overview
 .tg .tg-tutorials{background-color:#ffb377;border-color:#000000;text-align:center;border-right: 2px solid black;}
 .tg .tg-workshops{background-color:#d5f3ff;border-color:#000000;text-align:center; border-right: 2px solid black;}
 .tg .tg-colocated{background-color:#f9eadb;color:#986536;border-color:#000000;text-align:center;border-right: 2px solid black;}
-.tg .tg-preevents{background-color:#d7ffd7;color:#986536;border-color:#000000;text-align:center;border-right: 2px solid black;}
+.tg .tg-preevents{background-color:#d7ffd7;color:#000000;border-color:#000000;text-align:center;border-right: 2px solid black;}
 .tg .tg-mon-tutorials{background-color:#ffb377;border-color:#000000;text-align:center;border-right: 2px solid black; border-left: 2px solid black;}
 .tg .tg-mon-workshops{background-color:#d5f3ff;border-color:#000000;text-align:center;border-right: 2px solid black; border-left: 2px solid black;}
 
