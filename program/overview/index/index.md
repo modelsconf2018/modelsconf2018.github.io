@@ -16,14 +16,23 @@ slug: program-overview
 .tg .tg-gpqd{font-weight:bold;background-color:#efefef;color:#ff534e;border-color:#000000;text-align:center}
 .tg .tg-g26m{background-color:#d5f3ff;border-color:#000000;text-align:center}
 .tg .tg-urx7{color:#000000;border-color:#000000;text-align:center}
-.tg .tg-obcv{border-color:#000000;text-align:center}
-.tg .tg-rkmt{background-color:#fffdc8;color:#000000;border-color:#000000;text-align:center}
+.tg .tg-obcv{border-color:#000000;text-align:center; border-right: 2px solid black;}
+.tg .tg-rkmt{background-color:#fffdc8;color:#000000;border-color:#000000;text-align:center; border-right: 2px solid black; border-top: 2px solid black; border-left: 2px solid black;}
 .tg .tg-h01i{background-color:#d5f3ff;color:#333333;border-color:#000000;text-align:center}
 .tg .tg-wg6e{background-color:#f9eadb;color:#986536;border-color:#000000;text-align:center}
-.tg .tg-p1jy{background-color:#f1f2ff;color:#ff534e;border-color:#000000;text-align:center}
+.tg .tg-p1jy{background-color:#f1f2ff;color:#ff534e;border-color:#000000;text-align:center; border-right: 2px solid black;}
 .tg .tg-tazt{background-color:#ffb377;color:#333333;border-color:#000000;text-align:center}
 .tg .tg-hpnp{background-color:#ffb377;border-color:#000000;text-align:center}
 .tg .tg-m3ne{background-color:#d7ffd7;border-color:#000000;text-align:center}
+
+.tg .tg-tutorials{background-color:#ffb377;border-color:#000000;text-align:center;border-right: 2px solid black;}
+.tg .tg-workshops{background-color:#d5f3ff;border-color:#000000;text-align:center; border-right: 2px solid black;}
+.tg .tg-colocated{background-color:#f9eadb;color:#986536;border-color:#000000;text-align:center;border-right: 2px solid black;}
+.tg .tg-preevents{background-color:#d7ffd7;color:#986536;border-color:#000000;text-align:center;border-right: 2px solid black;}
+.tg .tg-mon-tutorials{background-color:#ffb377;border-color:#000000;text-align:center;border-right: 2px solid black; border-left: 2px solid black;}
+.tg .tg-mon-workshops{background-color:#d5f3ff;border-color:#000000;text-align:center;border-right: 2px solid black; border-left: 2px solid black;}
+
+
 </style>
 <table class="tg">
   <tr>
@@ -39,75 +48,82 @@ slug: program-overview
     <td class="tg-rkmt">Fri 19 May</td>
   </tr>
   <tr>
-    <td class="tg-h01i">ModComp</td>
+    <td class="tg-mon-workshops">ModComp</td>
     <td class="tg-wg6e"><a href="http://sdl-forum.org/Events/SAM2018/index.htm">SAM Conference</a></td>
-    <td class="tg-wg6e"><a href="https://xtuml.org/xtuml-days-2018-copenhagen/">xtUMLDays</a></td>
+    <td class="tg-colocated"><a href="https://xtuml.org/xtuml-days-2018-copenhagen/">xtUMLDays</a></td>
     <td class="tg-wg6e"><a href="http://sdl-forum.org/Events/SAM2018/index.htm">SAM Conference</a></td>
-    <td class="tg-wg6e"><a href="https://xtuml.org/xtuml-days-2018-copenhagen/">xtUMLDays</a></td>
+    <td class="tg-colocated"><a href="https://xtuml.org/xtuml-days-2018-copenhagen/">xtUMLDays</a></td>
     <td class="tg-p1jy">Keynote - <a href="https://modelsconf2018.github.io/program/keynotes/">Silvja Seres</a></td>
     <td class="tg-p1jy">Keynote - <a href="https://modelsconf2018.github.io/program/keynotes/">Matjin Wisse</a></td>
-    <td class="tg-p1jy">Keynote - <a href="https://modelsconf2018.github.io/program/keynotes/">James R. Cordy</a></td>
+    <td class="tg-p1jy">Foundations Track</td>
   </tr>
   <tr>
-    <td class="tg-tazt">Hawk</td>
+    <td class="tg-mon-tutorials">Hawk</td>
     <td class="tg-hpnp">DEVS</td>
-    <td class="tg-hpnp">ThingML</td>
+    <td class="tg-tutorials">ThingML</td>
     <td class="tg-hpnp">Robomsys</td>
-    <td class="tg-hpnp">SPES</td>
+    <td class="tg-tutorials">SPES</td>
     <td class="tg-p1jy">Foundations Track</td>
     <td class="tg-p1jy">Foundations Track<br></td>
-    <td class="tg-p1jy">Foundations Track</td>
-  </tr>
-  <tr>
-    <td class="tg-g26m">MODELS@Runtime</td>
-    <td class="tg-hpnp">Statecharts</td>
-    <td class="tg-hpnp">DevYrCar</td>
-    <td class="tg-hpnp">WebGME</td>
-    <td class="tg-g26m">AMMoRe</td>
-    <td class="tg-p1jy">Industry Day</td>
-    <td class="tg-p1jy">Practice and Innovation Track</td>
     <td class="tg-p1jy">Student Competition Awards</td>
   </tr>
   <tr>
-    <td class="tg-h01i">OCL</td>
+    <td class="tg-mon-workshops">MODELS@Runtime</td>
+    <td class="tg-hpnp">Statecharts</td>
+    <td class="tg-tutorials">DevYrCar</td>
+    <td class="tg-hpnp">WebGME</td>
+    <td class="tg-workshops">AMMoRe</td>
+    <td class="tg-p1jy">Industry Day</td>
+    <td class="tg-p1jy">Practice and Innovation Track</td>
+    <td class="tg-p1jy">Keynote - <a href="https://modelsconf2018.github.io/program/keynotes/">James R. Cordy</a></td>
+  </tr>
+  <tr>
+    <td class="tg-mon-workshops">OCL</td>
     <td class="tg-hpnp">Actors</td>
-    <td class="tg-hpnp">Co-Evolution</td>
+    <td class="tg-tutorials">Co-Evolution</td>
     <td class="tg-g26m">MoDeVVa</td>
-    <td class="tg-g26m">Models and Evolution</td>
+    <td class="tg-workshops">Models and Evolution</td>
     <td class="tg-p1jy">SoSyM Editorial Meeting</td>
     <td class="tg-p1jy">Banquet at the Opera</td>
+    
     <td class="tg-p1jy">Steering Committee Meeting</td>
   </tr>
   <tr>
-    <td class="tg-h01i">FlexibleMDE</td>
+    <td class="tg-mon-workshops">FlexibleMDE</td>
     <td class="tg-g26m">GEMOC</td>
-    <td class="tg-hpnp">Making Modeling Cool Again</td>
+    <td class="tg-tutorials">Making Modeling Cool Again</td>
     <td class="tg-g26m">MDEbug</td>
-    <td class="tg-g26m">Systems Modeling Meeting</td>
+    <td class="tg-workshops">Systems Modeling Meeting</td>
     <td class="tg-obcv"></td>
     <td class="tg-obcv"></td>
     <td class="tg-obcv"></td>
   </tr>
   <tr>
-    <td class="tg-h01i">EXE</td>
+    <td class="tg-mon-workshops">EXE</td>
     <td class="tg-g26m">MORSE<br></td>
-    <td class="tg-g26m">MDETools</td>
+    <td class="tg-workshops">MDETools</td>
     <td class="tg-g26m">MULTI</td>
-    <td class="tg-g26m">PAINS</td>
+    <td class="tg-workshops">PAINS</td>
     <td class="tg-obcv"></td>
     <td class="tg-obcv"></td>
     <td class="tg-obcv"></td>
   </tr>
   <tr>
-    <td class="tg-h01i">Cool</td>
+    <td class="tg-mon-workshops">Cool</td>
     <td class="tg-g26m">COMMitMDE</td>
-    <td class="tg-g26m">HuFaMo</td>
+    <td class="tg-workshops">HuFaMo</td>
     <td class="tg-m3ne">Doctoral Symposium</td>
-    <td class="tg-m3ne">Educators Symposium</td>
+    <td class="tg-preevents">Educators Symposium</td>
+    <td class="tg-obcv">Reception at IT University</td>
     <td class="tg-obcv"></td>
     <td class="tg-obcv"></td>
-    <td class="tg-obcv"></td>
+    
   </tr>
+  <tr>
+    <td style="border: 1px solid white; border-right: 2px solid black"></td>
+
+   <td colspan="2" class="tg-obcv">Satellite Reception at Royal Library</td>
+   </tr> 
 </table>
 
 </div>
