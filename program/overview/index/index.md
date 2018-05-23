@@ -40,12 +40,12 @@ slug: program-overview
     <th class="tg-gpqd" colspan="3">Main conference</th>
   </tr>
   <tr>
-    <td class="tg-rkmt">Sun 14 May</td>
-    <td class="tg-rkmt" colspan="2">Mon 15 May</td>
-    <td class="tg-rkmt" colspan="2">Tue 16 May</td>
-    <td class="tg-rkmt">Wed 17 May</td>
-    <td class="tg-rkmt">Thu 18 May</td>
-    <td class="tg-rkmt">Fri 19 May</td>
+    <td class="tg-rkmt">Sun 14 Oct</td>
+    <td class="tg-rkmt" colspan="2">Mon 15 Oct</td>
+    <td class="tg-rkmt" colspan="2">Tue 16 Oct</td>
+    <td class="tg-rkmt">Wed 17 Oct</td>
+    <td class="tg-rkmt">Thu 18 Oct</td>
+    <td class="tg-rkmt">Fri 19 Oct</td>
   </tr>
   <tr>
     <td class="tg-mon-workshops">ModComp</td>
