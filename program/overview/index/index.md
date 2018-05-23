@@ -7,7 +7,7 @@ slug: program-overview
 
 ## Conference program overview
 
-#### Warning, this is just a preliminary schedule. Changes may occur. 
+#### Warning, this is just a preliminary schedule and does not necessarily reflect the actual order of events. Changes may occur. 
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;}
@@ -63,7 +63,7 @@ slug: program-overview
     <td class="tg-tutorials">ThingML</td>
     <td class="tg-hpnp">Robomsys</td>
     <td class="tg-tutorials">SPES</td>
-    <td class="tg-p1jy">Foundations Track</td>
+    <td class="tg-p1jy">Industry Day</td>
     <td class="tg-p1jy">Foundations Track<br></td>
     <td class="tg-p1jy">Student Competition Awards</td>
   </tr>
@@ -73,7 +73,7 @@ slug: program-overview
     <td class="tg-tutorials">DevYrCar</td>
     <td class="tg-hpnp">WebGME</td>
     <td class="tg-workshops">AMMoRe</td>
-    <td class="tg-p1jy">Industry Day</td>
+    <td class="tg-p1jy">Foundations Track</td>
     <td class="tg-p1jy">Practice and Innovation Track</td>
     <td class="tg-p1jy">Keynote - <a href="https://modelsconf2018.github.io/program/keynotes/">James R. Cordy</a></td>
   </tr>
@@ -84,7 +84,7 @@ slug: program-overview
     <td class="tg-g26m">MoDeVVa</td>
     <td class="tg-workshops">Models and Evolution</td>
     <td class="tg-p1jy">SoSyM Editorial Meeting</td>
-    <td class="tg-p1jy">Banquet at the Opera</td>
+    <td class="tg-p1jy"></td>
     
     <td class="tg-p1jy">Steering Committee Meeting</td>
   </tr>
@@ -114,7 +114,7 @@ slug: program-overview
     <td class="tg-workshops">HuFaMo</td>
     <td class="tg-m3ne">Doctoral Symposium</td>
     <td class="tg-preevents">Educators Symposium</td>
-    <td class="tg-obcv">Reception at IT University</td>
+    <td class="tg-obcv"></td>
     <td class="tg-obcv"></td>
     <td class="tg-obcv"></td>
     
@@ -123,6 +123,10 @@ slug: program-overview
     <td style="border: 1px solid white; border-right: 2px solid black"></td>
 
    <td colspan="2" class="tg-obcv">Satellite Reception at Royal Library</td>
+   <td colspan="2" style="border: 1px solid white"></td>
+   <td style= "border-left: 2px solid black; border-bottom: 1px black solid" >Reception at IT University</td>
+   <td style= "border-left: 2px solid black; border-right: 2px solid black; border-bottom: 1px black solid" >Banquet at the Opera</td>
+   
    </tr> 
 </table>
 
