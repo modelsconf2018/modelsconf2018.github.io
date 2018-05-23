@@ -124,7 +124,7 @@ slug: program-overview
 
    <td colspan="2" class="tg-obcv">Satellite Reception at Royal Library</td>
    <td colspan="2" style="border: 1px solid white"></td>
-   <td style= "border-left: 2px solid black; border-bottom: 1px black solid" >Reception at IT University</td>
+   <td style= "border-left: 2px solid black; border-bottom: 1px black solid" >Poster Session and Reception</td>
    <td style= "border-left: 2px solid black; border-right: 2px solid black; border-bottom: 1px black solid" >Banquet at the Opera</td>
    
    </tr> 
