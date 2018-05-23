@@ -74,7 +74,7 @@ slug: program-overview
     <td class="tg-hpnp">WebGME</td>
     <td class="tg-workshops">AMMoRe</td>
     <td class="tg-p1jy">Main Conference</td>
-    <td class="tg-p1jy">Practice and Innovation Track</td>
+    <td class="tg-p1jy">Main Conference</td>
     <td class="tg-p1jy">Keynote - <a href="https://modelsconf2018.github.io/program/keynotes/">James R. Cordy</a></td>
   </tr>
   <tr>
