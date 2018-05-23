@@ -55,7 +55,7 @@ slug: program-overview
     <td class="tg-colocated"><a href="https://xtuml.org/xtuml-days-2018-copenhagen/">xtUMLDays</a></td>
     <td class="tg-p1jy">Keynote - <a href="https://modelsconf2018.github.io/program/keynotes/">Silvja Seres</a></td>
     <td class="tg-p1jy">Keynote - <a href="https://modelsconf2018.github.io/program/keynotes/">Matjin Wisse</a></td>
-    <td class="tg-p1jy">Foundations Track</td>
+    <td class="tg-p1jy">Main Conference</td>
   </tr>
   <tr>
     <td class="tg-mon-tutorials">Hawk</td>
@@ -64,7 +64,7 @@ slug: program-overview
     <td class="tg-hpnp">Robomsys</td>
     <td class="tg-tutorials">SPES</td>
     <td class="tg-p1jy">Industry Day</td>
-    <td class="tg-p1jy">Foundations Track<br></td>
+    <td class="tg-p1jy">Main Conference<br></td>
     <td class="tg-p1jy">Student Competition Awards</td>
   </tr>
   <tr>
@@ -73,7 +73,7 @@ slug: program-overview
     <td class="tg-tutorials">DevYrCar</td>
     <td class="tg-hpnp">WebGME</td>
     <td class="tg-workshops">AMMoRe</td>
-    <td class="tg-p1jy">Foundations Track</td>
+    <td class="tg-p1jy">Main Conference</td>
     <td class="tg-p1jy">Practice and Innovation Track</td>
     <td class="tg-p1jy">Keynote - <a href="https://modelsconf2018.github.io/program/keynotes/">James R. Cordy</a></td>
   </tr>
