@@ -11,7 +11,7 @@ MODELS 2018: ACM/IEEE 21st International Conference on Model Driven Engineering 
 
 October 14-19, 2018, Copenhagen, Denmark
 
-http://www.modelsconference.org
+[http://www.modelsconference.org](http://www.modelsconference.org)
 
 
 
@@ -31,13 +31,13 @@ MoDELS this year.
 
 Abstract Submission: July 20, Full Submission: July 27
 
-https://modelsconf2018.github.io/calls/tools-and-demos/ 
+[https://modelsconf2018.github.io/calls/tools-and-demos/](https://modelsconf2018.github.io/calls/tools-and-demos/)
 
 ### Posters
 
 Abstract Submission: July 20, Full Submission: July 27
 
-https://modelsconf2018.github.io/calls/posters/
+[https://modelsconf2018.github.io/calls/posters/](https://modelsconf2018.github.io/calls/posters/)
 
 
 
@@ -45,7 +45,7 @@ https://modelsconf2018.github.io/calls/posters/
 
 Submission: August 5
 
-https://modelsconf2018.github.io/calls/acm-src/
+[https://modelsconf2018.github.io/calls/acm-src/](https://modelsconf2018.github.io/calls/acm-src/)
 
 
 
@@ -53,7 +53,7 @@ https://modelsconf2018.github.io/calls/acm-src/
 
 Abstract Submission: July 8, Paper Submission: July 15
 
-https://modelsconf2018.github.io/calls/doctoral-symposium/ 
+[https://modelsconf2018.github.io/calls/doctoral-symposium/](https://modelsconf2018.github.io/calls/doctoral-symposium/)
 
 
 
@@ -61,7 +61,7 @@ https://modelsconf2018.github.io/calls/doctoral-symposium/
 
 Abstract Submission: July 20, Full Submission: July 27
 
-http://www.edusymp.org/2018/
+[http://www.edusymp.org/2018/](http://www.edusymp.org/2018/)
 
 
 
