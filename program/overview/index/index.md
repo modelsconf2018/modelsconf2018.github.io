@@ -34,8 +34,9 @@ slug: program-overview
 .tg .tg-utq8{background-color:#ffffff;color:#333333;border-color:inherit;text-align:center}
 .tg .tg-b28d{background-color:#ffb377;border-color:inherit;text-align:center}
 .tg .tg-g9tr{background-color:#d5f3ff;border-color:inherit;text-align:center;vertical-align:top}
+
 </style>
-<table class="tg">
+<table class="tg" id="fixedheight">
   <tr>
     <th class="tg-1fcj" colspan="6"><span style="font-weight:bold;color:rgb(50, 203, 0)">Conference pre-events</span>,  <span style="font-weight:bold;color:rgb(152, 101, 54)">Co-located events</span>, <span style="font-weight:bold;color:rgb(245, 107, 0)">Tutorials</span>, <span style="font-weight:bold;color:rgb(52, 205, 249)">Workshops</span></th>
     <th class="tg-nd5p" colspan="3">Main conference</th>
@@ -52,39 +53,39 @@ slug: program-overview
     <td class="tg-5twz">Fri 19 May</td>
   </tr>
   <tr>
-    <td class="tg-acm6" colspan="2"><a href="http://www.mrtc.mdh.se/ModComp18/">ModComp</a></td>
+    <td class="tg-acm6" colspan="2"><a href="http://www.mrtc.mdh.se/ModComp18/">W1 ModComp</a></td>
     <td class="tg-jxbq" colspan="4">SAM Conference</td>
     <td class="tg-ie4m">Keynote - <a href="https://modelsconf2018.github.io/program/keynotes/">Silvja Seres</a></td>
     <td class="tg-ie4m">Keynote - <a href="https://modelsconf2018.github.io/program/keynotes/">Matjin Wisse</a></td>
     <td class="tg-ie4m">Keynote - <a href="https://modelsconf2018.github.io/program/keynotes/">James R. Cordy</a></td>
   </tr>
   <tr>
-    <td class="tg-acm6" colspan="2"><a href="http://st.inf.tu-dresden.de/MRT18/?site=cfp">MODELS@Runtime</a></td>
+    <td class="tg-acm6" colspan="2"><a href="http://st.inf.tu-dresden.de/MRT18/?site=cfp">W2 MODELS@Runtime</a></td>
     <td class="tg-ev52" colspan="4">xtUML Days</td>
     <td class="tg-ie4m">Foundations Track</td>
     <td class="tg-ie4m">Foundations Track<br></td>
     <td class="tg-ie4m">Foundations Track</td>
   </tr>
   <tr>
-    <td class="tg-mply" colspan="2"><a href="https://oclworkshop.github.io/2018/cfp.html">OCL</a></td>
-    <td class="tg-mply" colspan="2"><a href="http://cs.gssi.it/commitmde2018/">COMMitMDE</a></td>
+    <td class="tg-mply" colspan="2"><a href="https://oclworkshop.github.io/2018/cfp.html">W3 OCL</a></td>
+    <td class="tg-mply" colspan="2"><a href="http://cs.gssi.it/commitmde2018/">W6 COMMitMDE</a></td>
         <td class="tg-jxbq" colspan="2">Systems Modeling Meeting</td>
     <td class="tg-ie4m">Industry Day</td>
     <td class="tg-ie4m">Practice and Innovation Track</td>
     <td class="tg-ie4m">Student Competition Awards</td>
   </tr>
   <tr>
-    <td class="tg-acm6" colspan="2"><a href="http://www.di.univaq.it/flexmde/">FlexibleMDE</a></td>
-    <td class="tg-mply" colspan="2">MDETools</td>
-    <td class="tg-mply" colspan="2"><a href="https://msdl.uantwerpen.be/conferences/MDEbug/2018/">MDEbug</a></td>
+    <td class="tg-acm6" colspan="2"><a href="http://www.di.univaq.it/flexmde/">W4 FlexibleMDE</a></td>
+    <td class="tg-mply" colspan="2">W7 MDETools</td>
+    <td class="tg-mply" colspan="2"><a href="https://msdl.uantwerpen.be/conferences/MDEbug/2018/">W11 MDEbug</a></td>
     <td class="tg-ie4m">SoSyM Editorial Meeting</td>
     <td class="tg-ie4m">ACM Student Research Competition</td>
     <td class="tg-ie4m"></td>
   </tr>
   <tr>
-    <td class="tg-acm6" colspan="2"><a href="http://www.modelexecution.org/?page_id=2173">EXE</a></td>
-    <td class="tg-mply" colspan="2"><a href="http://gemoc.org/events/gemoc2018.html">GEMOC</a></td>
-    <td class="tg-mply" colspan="2"><a href="https://sites.google.com/site/modevva/home">MoDeVVA</a></td>
+    <td class="tg-acm6" colspan="2"><a href="http://www.modelexecution.org/?page_id=2173">W5 EXE</a></td>
+    <td class="tg-mply" colspan="2"><a href="http://gemoc.org/events/gemoc2018.html">W8 GEMOC</a></td>
+    <td class="tg-mply" colspan="2"><a href="https://sites.google.com/site/modevva/home">W12 MoDeVVA</a></td>
     
     <td class="tg-ie4m">Conference Reception &amp; Poster Session &amp; Posters of ACM SRC</td>
     <td class="tg-ie4m">Banquet at the Opera</td>
@@ -92,10 +93,10 @@ slug: program-overview
 
   </tr>
   <tr>
-    <td class="tg-mnkh">Hawk</td>
-    <td class="tg-r9d8">Making Modeling <br>Cool Again</td>
-    <td class="tg-mply" colspan="2"><a href="http://st.inf.tu-dresden.de/MORSE18/">MORSE</a></td>
-    <td class="tg-mply" colspan="2">PAINS</td>
+    <td class="tg-mnkh">T1 Hawk</td>
+    <td class="tg-r9d8">T2 Making Modeling <br>Cool Again</td>
+    <td class="tg-mply" colspan="2"><a href="http://st.inf.tu-dresden.de/MORSE18/">W9 MORSE</a></td>
+    <td class="tg-mply" colspan="2">W13 PAINS</td>
     
     <td class="tg-uys7"></td>
     <td class="tg-uys7"></td>
@@ -104,8 +105,8 @@ slug: program-overview
   <tr>
     <td class="tg-utq8"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-b28d" colspan="2">DevYrCar</td>
-    <td class="tg-mply" colspan="2"><a href="http://www.models-and-evolution.com/2018/">Models and Evolution</a></td>
+    <td class="tg-b28d" colspan="2">T3 DevYrCar</td>
+    <td class="tg-mply" colspan="2"><a href="http://www.models-and-evolution.com/2018/">W14 Models and Evolution</a></td>
     
     <td class="tg-uys7"></td>
     <td class="tg-uys7"></td>
@@ -114,9 +115,9 @@ slug: program-overview
   <tr>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-r9d8">DEVS</td>
-    <td class="tg-r9d8">Statecharts</td>
-    <td class="tg-mply" colspan="2"><a href="https://www.wi-inf.uni-duisburg-essen.de/MULTI2018/">MULTI</a></td>
+    <td class="tg-r9d8">T4 DEVS</td>
+    <td class="tg-r9d8">T5 Statecharts</td>
+    <td class="tg-mply" colspan="2"><a href="https://www.wi-inf.uni-duisburg-essen.de/MULTI2018/">W15 MULTI</a></td>
     
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
@@ -125,9 +126,9 @@ slug: program-overview
   <tr>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-r9d8">Actors</td>
-    <td class="tg-r9d8">Co-Evolution</td>
-    <td class="tg-g9tr" colspan="2"><a href="https://hufamo.univ-lille.fr/">HuFaMo</a></td>
+    <td class="tg-r9d8">T6 Actors</td>
+    <td class="tg-r9d8">T7 Co-Evolution</td>
+    <td class="tg-g9tr" colspan="2"><a href="https://hufamo.univ-lille.fr/">W16 HuFaMo</a></td>
 
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
@@ -136,10 +137,10 @@ slug: program-overview
   <tr>
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
-    <td class="tg-g9tr"><a href="http://www.mrtc.mdh.se/MDE4IoT/index.html">MDE4IoT</a></td>
-    <td class="tg-n7co">ThingML</td>
-        <td class="tg-r9d8">RobMoSys</td>
-    <td class="tg-r9d8">WebGME</td>
+    <td class="tg-g9tr"><a href="http://www.mrtc.mdh.se/MDE4IoT/index.html">W10 MDE4IoT</a></td>
+    <td class="tg-n7co">T8 ThingML</td>
+        <td class="tg-r9d8">T9 RobMoSys</td>
+    <td class="tg-r9d8">T10 WebGME</td>
 
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
@@ -149,8 +150,8 @@ slug: program-overview
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
     <td class="tg-us36" colspan="2">Satellite Reception at Royal Library</td>
-        <td class="tg-r9d8">SPES</td>
-    <td class="tg-g9tr"><a href="https://modelanalytics.wordpress.com/ammore18/">AMMoRe</a></td>
+        <td class="tg-r9d8">T11 SPES</td>
+    <td class="tg-g9tr"><a href="https://modelanalytics.wordpress.com/ammore18/">W17 AMMoRe</a></td>
 
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
@@ -161,7 +162,7 @@ slug: program-overview
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
-    <td class="tg-ifhh" colspan="2">Doctoral Symposium</td>
+    <td class="tg-ifhh" colspan="2">Doctoral Symposium<br><br></td>
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
@@ -171,21 +172,12 @@ slug: program-overview
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
-    <td class="tg-ifhh" colspan="2">Educators Symposium</td>
+    <td class="tg-ifhh" colspan="2">Educators Symposium<br><br></td>
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
   </tr>
-  <tr>
-    <td class="tg-us36"></td>
-    <td class="tg-us36"></td>
-    <td class="tg-us36"></td>
-    <td class="tg-us36"></td>
-    <td class="tg-us36" colspan="2"></td>
-    <td class="tg-us36"></td>
-    <td class="tg-us36"></td>
-    <td class="tg-us36"></td>
-  </tr>
+
 </table>
 
 </div>
