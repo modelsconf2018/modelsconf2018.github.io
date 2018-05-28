@@ -77,9 +77,8 @@ slug: program-overview
     <td class="tg-acm6" colspan="2"><a href="http://www.di.univaq.it/flexmde/">FlexibleMDE</a></td>
     <td class="tg-mply" colspan="2">MDETools</td>
     <td class="tg-mply" colspan="2"><a href="https://msdl.uantwerpen.be/conferences/MDEbug/2018/">MDEbug</a></td>
-    
     <td class="tg-ie4m">SoSyM Editorial Meeting</td>
-    <td class="tg-ie4m">Banquet at the Opera</td>
+    <td class="tg-ie4m">ACM Student Research Competition</td>
     <td class="tg-ie4m"></td>
   </tr>
   <tr>
@@ -87,9 +86,10 @@ slug: program-overview
     <td class="tg-mply" colspan="2"><a href="http://gemoc.org/events/gemoc2018.html">GEMOC</a></td>
     <td class="tg-mply" colspan="2"><a href="https://sites.google.com/site/modevva/home">MoDeVVA</a></td>
     
-    <td class="tg-83il">Conference Reception &amp; Poster Session &amp; Posters of ACM SRC</td>
+    <td class="tg-ie4m">Conference Reception &amp; Poster Session &amp; Posters of ACM SRC</td>
+    <td class="tg-ie4m">Banquet at the Opera</td>
     <td class="tg-uys7"></td>
-    <td class="tg-uys7"></td>
+
   </tr>
   <tr>
     <td class="tg-mnkh">Hawk</td>
