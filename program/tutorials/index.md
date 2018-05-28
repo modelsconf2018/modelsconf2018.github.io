@@ -7,7 +7,151 @@ slug: tutorials-program
 
 # Accepted Tutorials
 
-## DEVS Modelling and Simulation
+## [T1] Taming Large Models using Hawk and NeoEMF
+
+### Speakers: Antonio Garcia-Dominguez, Dimitris Kolovos, Konstantinos Barmpis, Gwendal Daniel and Gerson Sunyé
+
+### Abstract
+Industrial models can quickly reach a complexity
+and size that makes storing them entirely in single files prohibitive.
+These larger models are typically either broken up
+into smaller files, or stored in a database. Using smaller files
+is simpler, but running a global query can still require loading
+all the files and therefore run into the same scalability issues. As
+for databases, most people go directly for well-known relational
+databases. However, a relational database is not the only answer
+for scalability: we can use NoSQL databases to solve the issues
+with queries over fragmented models, or replace relational model
+stores altogether.
+In this tutorial, we will discuss two approaches for achieving
+scalable model persistence and querying through our Hawk
+and NeoEMF open-source tools. Hawk’s approach is to use a
+NoSQL database as an efficient index to the models, focusing on
+improving query speed while keeping your existing persistence as
+is. NeoEMF allows for persisting models in a NoSQL database,
+which can speed up loading and writing of the models as well.
+The presenters are the original developers of the tools, which
+have seen industrial adoption through the MONDO EU FP7 and
+ITEA3 MEASURE projects.
+
+Length: half day
+
+### Biography 
+
+**[Antonio Garcia-Dominguez](https://www.cs.aston.ac.uk/~garcia-a/)** is Lecturer in Computer Science in the School of Engineering and Applied Science at Aston University. Antonio's current research focuses on sca able model-driven engineering, specifically high-performance querying through the development of the Hawk model indexing framework. Antonio has driven the adoption of Hawk in several European companies over the MONDO EU FP7 and ITEA3 MEASURE projects.
+
+**[Dimitris Kolovos](https://www-users.cs.york.ac.uk/dkolovos/)** is a Professor of Software Engineering in the Department of Computer Science at the University of York, where he researches automated and model-based software engineering. He leads the open-source Epsilon model-based software engineering platform, and led the MONDO EU FP7 work package that produced the Hawk tool. Dimitris has co-authored more than 150 peer-reviewed papers and has co-organised several workshops (including BigMDE at STAF and COMMitMDE at MODELS).
+
+**[Konstantinos Barmpis](https://www-users.cs.york.ac.uk/~kb/home.html)** is a Research Associate in the Department of Computer Science at the University of York, currently focusing on repository mining, distributed systems and domain-specific languages. He has produced the core components of the Hawk tool as part of the MONDO EU FP7 project and continues to support its development.
+
+**[Gerson Sunyé](https://sunye.github.io)** is an Associate Professor of Software Engineering in the Department of Computer Science at the University of Nantes, where he researches software testing and model-based software engineering. He leads the Atlanmod open-source modelling platform and is the initiator of the NeoEMF tool. Gerson has co-authored more than 60 peer-reviewed papers.
+
+**[Gwendal Daniel](https://gdaniel.github.io/)** is a post-doctoral fellow in the SOM Research Lab at Internet Interdisciplinary Institute (IN3), a research centre of the Universitat Oberta de Catalunya (UOC). His research interests include model persistence, query, and transformation techniques, as well as NoSQL data modelling. Gwendal is one of the core committers of the NeoEMF project, and the main contributor of the Mogwaï query framework.
+
+<hr>
+
+## [T2] Making Modeling Cool Again: Teaching and Researching Model-Driven Engineering using Animation, 3D Simulation and the Internet of Things
+
+### Speakers: Juergen Dingel, Karim Jahed and Ernesto Posse
+
+### Abstract
+The tutorial will provide a short overview of modeldriven
+software development (MDSD) with UML-RT and
+Papyrus-RT. UML-RT is a proven UML profile for real-time
+embedded software supported by several tools including IBM
+RSA-RTE, eTrice, and Papyrus-RT, an open-source MDSD
+tool. Moreover, the tutorial will show how Unity3D, a popular
+development tool for three-dimensional video games, can be
+used to animate the executions of code generated from models,
+and to define and implement simulation scenarios that the
+generated code interacts with. Finally, the tutorial will illustrate
+how generated code can leveraged for the development of
+Internet of Things (IoT) applications created with development
+tools such as Node-RED. In each case, a key ingredient is a
+suitable communication mechanism that connects the generated
+code with external and separately developed software in a
+suitable fashion. A central goal of the tutorial is to demonstrate
+how model-driven software development (MDSD) with open
+source tooling can be used in concert with software from other
+technical domains and how this joint use can be mutually
+beneficial by addressing problems in either MDE or the other
+domain.
+
+Length: half day
+
+### Biography
+
+**[Juergen Dingel](research.cs.queensu.ca/home/dingel/)** is professor in the School of Computing
+at Queen’s University. He received a Ph.D. in Computer
+Science in 1999 from Carnegie Mellon University. He was
+PC Co-chair of the FMOODS-FORTE and MODELS con-
+ferences in 2011 and 2014, respectively. He is on the editorial board of the Springer journal Software and Systems
+Modeling (SoSyM), and currently serves as chair of the
+MODELS Steering Committee. Juergen’s research interests include software modelling, model-driven engineering,
+formal methods, and software quality assurance. He has
+collaborated with a range of industrial partners on these
+topics including IBM, General Motors, and Ericsson.
+
+**[Karim Jahed]()** is PhD student in the School of Computing
+at Queen’s University. He received his M.Sc. degree in
+Computer Science from the Lebanese American University.
+His current research focus is the model-driven development
+of distributed systems for IoT applications.
+
+**[Ernesto Posse](https://sites.google.com/site/eposse/)** is a senior software developer at Zeligsoft
+(2009) Ltd. in Gatineau, Quebec, Canada, working on the
+development modelling tools with focus on code generation
+and mixed textual/graphical modelling. Before Zeligsoft
+he was a Post-Doctoral Fellow at the School of Computing in Queen’s University (Canada). He holds Ph.D. and
+M.Sc. degrees in Computer Science from McGill University
+(Canada). He has long-standing research interests in the
+design, implementation and semantics of programming and
+modelling languages, as well as formal methods, specially
+process algebras, temporal logics and model checking.
+
+<hr>
+
+## [T3] Develop your Own Car
+
+### Speakers: Levi Lucio, Sebastian Voss, Tatiana Chuprina, Andreas Bayha, Johannes Eder and Sudeep Kanav
+
+### Abstract
+AUTOFOCUS3 (AF3) is a mature model-driven engineering environment to develop software for embedded systems. For the past 20 years,several versions of AF3 have served as a platform for experimenting with cutting-edge research ideas in Model-Driven Development. AF3 is a tool that fully encompasses the software life cycle, from requirements, to architecture, simulation, deployment, code generation and verification. The attendees of this tutorial will be given the unique opportunity to model and deploy software on a real remote-controlled vehicle, using only AF3. Attendees will start by modeling the software controller for a blinker, which will be integrated with the model of the vehicle’s software. The generated code will then be flashed onto a Raspberry Pi contained in the physical remote-controlled model vehicle which can then be driven in the real world. Attendees who finish early will be able to model more advanced driving assistance functionalities. The last
+part of the tutorial will be dedicated to deepening the attendees’ understanding of the modeling capabilities of AF3 in areas such as requirements engineering, design-space exploration, building
+safety cases, formal verification, modeling processes, testing or variability modeling.
+
+Length: full day
+
+### Biography
+
+**[Levi Lúcio](https://www.fortiss.org/ueber-uns/mitarbeiter/levi-lucio/)** is a senior scientist and project manager at fortiss. He was awarded a PhD from the University of Geneva, Switzerland, in 2008, for his work on Model-Based Testing. At fortiss he works tightly with aerospace and automotive companies to develop novel tools that include model-based software engineering and domain specificity at their core. After completing his PhD, Levi worked extensively in the area of model transformations, having proposed several tools and surveys in the domain. He has been part of the organizing committee of 10+ workshops, many of them co-located with MODELS. Levi’s current research interests are domain-specific modeling, usability in formal methods and,
+more recently, how machine learning can help in modeling software and in software engineering in general.
+
+**[Sebastian Voss](https://www.fortiss.org/en/about-us/people/sebastian-voss/)** has done his PhD in the avionic context at EADS Innovation Works in the Sensors, Electronics and Systems Integration department. At fortiss he is heading the Model-based Systems Engineering department and the research group Design Space Exploration, for finding optimized system configurations. His research interests include techniques and tools for the professional development of software-intensive systems, efficient design space exploration methods
+and their model-based (tool) development in A UTO FOCUS3.
+
+**[Tatiana Chuprina]()** started at fortiss as a Master student with a study of experimental comparison between A UTO FOCUS3 and Papyrus-RT. After her successful graduation from the Frankfurt University of Applied Science in 2016, she has been developing her work as a computer scientist at the Model-based System Engineering competence field at fortiss. She is currently at the beginning of her doctoral research having as main topic requirements engineering. Before moving to fortiss, Tatiana acquired practical knowledge working for a telecommunications company as systems integrator.
+
+**[Andreas Bayha](https://www.fortiss.org/ueber-uns/mitarbeiter/andreas-bayha/)** received his MSc in 2014 from the
+Technical University Munich. Since then he works as a researcher in the model-based systems engineering division of fortiss. His research interests are methodological aspects and
+tooling solutions for model-based product line engineering. In
+this context he was involved in the automotive, avionics and
+industrial automation domains.
+
+**[Johannes Eder]()** received his Master of Science from
+Technical University of Munich in 2015 in computer science.
+Since 2015 he has worked as a research associate and PhD
+candidate at fortiss. His research interests include model-based
+development of embedded systems, design space exploration,
+as well as their tooling support.
+
+**[Sudeep Kanav](https://www.fortiss.org/en/about-us/people/sudeep-kanav/)** studied computer science (MSc) at the
+Technical University Munich with a focus on theorem proving.
+Since 2016 he is a research associate at fortiss in the "Model Based Systems Engineering" competence field. His research interests are formal verification, model based system development, and model to model transformations. He is the main developer and responsible for the formal verification feature of AutoFOCUS3.
+
+<hr>
+
+## [T4] DEVS Modelling and Simulation
 
 ### Speakers: Yentl Van Tendeloo and Hans Vangheluwe
 
@@ -30,7 +174,33 @@ Length: half day
 
 <hr>
 
-## Exploring Decision Space using Actor based Simulation - a Model Based Approach
+## [T5] Developing Reactive Systems with Statecharts
+
+### Speakers: Simon Van Mierlo and Hans Vangheluwe
+
+### Abstract
+
+Statecharts, introduced by David Harel in 1987, is a formalism used to specify the behaviour of timed, autonomous and reactive systems using a discrete-event abstraction. It is an extension of Timed Finite State Automata which adds depth, orthogonality, broadcast communication and history. Its visual representation is based on higraphs, which combine graphs and Venn diagrams. Many tools offer visual editing, simulation and code synthesis support for the Statecharts formalism. Examples include STATEMATE, Rhapsody, Yakindu, and Stateflow, each implementing different variants of Harel's original Semantics. This tutorial introduces Statecharts modelling, simulation, and testing. As a running example, the behaviour of a traffic light, a simple timed, autonomous and reactive system is modelled. We start from the basic concepts of states and transitions and explain the more advanced concepts of Statecharts by extending the example incrementally. We discuss several semantics variants, such as STATEMATE and Rhapsody. We use Yakindu to model the example system.
+
+Length: half day
+
+### Biography
+
+
+**[Simon Van Mierlo](http://msdl.cs.mcgill.ca/people/simonvm/)** is a post-doctoral researcher at
+the University of Antwerp (Belgium). He is a member of
+the Modelling, Simulation and Design (MSDL) research lab.
+For his PhD thesis, he developed debugging techniques for
+modelling and simulation formalisms by explicitly modelling
+their executor’s control flow using Statecharts. He is the main
+developer and maintainer of SCCD [https://msdl.uantwerpen.be/documentation/SCCD/](https://msdl.uantwerpen.be/documentation/SCCD/), a hybrid formalism that combines Statecharts with Class Diagrams.
+
+**[Hans Vangheluwe](https://www.uantwerpen.be/hans-vangheluwe)** is a Professor at the University of Antwerp (Belgium), and an Adjunct Professor at McGill University (Canada). He heads the Modelling, Simulation and Design (MSDL) research lab distributed over both locations. In a variety of projects, often with industrial partners, he develops and applies the model-based theory and techniques of Multi-Paradigm Modelling (MPM). His current interests are in domain-specific modelling and simulation, including the development of graphical user interfaces for multiple platforms. To model such reactive systems, he advocates the use of Statecharts to describe their behaviour. He is co-founder and chair of the European COST Action
+IC1404 "Multi-Paradigm Modelling for Cyber-Physical Systems" (MPM4CPS).
+
+<hr>
+
+## [T6] Exploring Decision Space using Actor based Simulation - a Model Based Approach
 
 ### Speakers: Vinay Kulkarni, Tony Clark, Souvik Barat and Balbir Barn
 
@@ -66,7 +236,7 @@ Engineering including the design and implementation of the IEF.
 
 <hr>
 
-## Managing the Co-Evolution of Domain-Specific Languages and Models
+## [T7] Managing the Co-Evolution of Domain-Specific Languages and Models
 
 ### Speakers: Juha-Pekka Tolvanen and Steven Kelly
 
@@ -83,7 +253,7 @@ Length: half day
 
 <hr>
 
-## ThingML: Model-Driven Software Engineering for Heterogeneous and Distributed Reactive Systems
+## [T8] ThingML: Model-Driven Software Engineering for Heterogeneous and Distributed Reactive Systems
 
 ### Speakers: Franck Fleurey, Brice Morin, Jakob Høgenes and Nicolas Ferry
 
@@ -163,108 +333,11 @@ CloudWays workshops. Nicolas will not present at the tutorial.
 
 <hr>
 
-## Making Modeling Cool Again: Teaching and Researching Model-Driven Engineering using Animation, 3D Simulation and the Internet of Things
 
-### Speakers: Juergen Dingel, Karim Jahed and Ernesto Posse
 
-### Abstract
-The tutorial will provide a short overview of modeldriven
-software development (MDSD) with UML-RT and
-Papyrus-RT. UML-RT is a proven UML profile for real-time
-embedded software supported by several tools including IBM
-RSA-RTE, eTrice, and Papyrus-RT, an open-source MDSD
-tool. Moreover, the tutorial will show how Unity3D, a popular
-development tool for three-dimensional video games, can be
-used to animate the executions of code generated from models,
-and to define and implement simulation scenarios that the
-generated code interacts with. Finally, the tutorial will illustrate
-how generated code can leveraged for the development of
-Internet of Things (IoT) applications created with development
-tools such as Node-RED. In each case, a key ingredient is a
-suitable communication mechanism that connects the generated
-code with external and separately developed software in a
-suitable fashion. A central goal of the tutorial is to demonstrate
-how model-driven software development (MDSD) with open
-source tooling can be used in concert with software from other
-technical domains and how this joint use can be mutually
-beneficial by addressing problems in either MDE or the other
-domain.
 
-Length: half day
 
-### Biography
-
-**[Juergen Dingel](research.cs.queensu.ca/home/dingel/)** is professor in the School of Computing
-at Queen’s University. He received a Ph.D. in Computer
-Science in 1999 from Carnegie Mellon University. He was
-PC Co-chair of the FMOODS-FORTE and MODELS con-
-ferences in 2011 and 2014, respectively. He is on the editorial board of the Springer journal Software and Systems
-Modeling (SoSyM), and currently serves as chair of the
-MODELS Steering Committee. Juergen’s research interests include software modelling, model-driven engineering,
-formal methods, and software quality assurance. He has
-collaborated with a range of industrial partners on these
-topics including IBM, General Motors, and Ericsson.
-
-**[Karim Jahed]()** is PhD student in the School of Computing
-at Queen’s University. He received his M.Sc. degree in
-Computer Science from the Lebanese American University.
-His current research focus is the model-driven development
-of distributed systems for IoT applications.
-
-**[Ernesto Posse](https://sites.google.com/site/eposse/)** is a senior software developer at Zeligsoft
-(2009) Ltd. in Gatineau, Quebec, Canada, working on the
-development modelling tools with focus on code generation
-and mixed textual/graphical modelling. Before Zeligsoft
-he was a Post-Doctoral Fellow at the School of Computing in Queen’s University (Canada). He holds Ph.D. and
-M.Sc. degrees in Computer Science from McGill University
-(Canada). He has long-standing research interests in the
-design, implementation and semantics of programming and
-modelling languages, as well as formal methods, specially
-process algebras, temporal logics and model checking.
-
-<hr>
-
-## Develop your Own Car
-
-### Speakers: Levi Lucio, Sebastian Voss, Tatiana Chuprina, Andreas Bayha, Johannes Eder and Sudeep Kanav
-
-### Abstract
-AUTOFOCUS3 (AF3) is a mature model-driven engineering environment to develop software for embedded systems. For the past 20 years,several versions of AF3 have served as a platform for experimenting with cutting-edge research ideas in Model-Driven Development. AF3 is a tool that fully encompasses the software life cycle, from requirements, to architecture, simulation, deployment, code generation and verification. The attendees of this tutorial will be given the unique opportunity to model and deploy software on a real remote-controlled vehicle, using only AF3. Attendees will start by modeling the software controller for a blinker, which will be integrated with the model of the vehicle’s software. The generated code will then be flashed onto a Raspberry Pi contained in the physical remote-controlled model vehicle which can then be driven in the real world. Attendees who finish early will be able to model more advanced driving assistance functionalities. The last
-part of the tutorial will be dedicated to deepening the attendees’ understanding of the modeling capabilities of AF3 in areas such as requirements engineering, design-space exploration, building
-safety cases, formal verification, modeling processes, testing or variability modeling.
-
-Length: full day
-
-### Biography
-
-**[Levi Lúcio](https://www.fortiss.org/ueber-uns/mitarbeiter/levi-lucio/)** is a senior scientist and project manager at fortiss. He was awarded a PhD from the University of Geneva, Switzerland, in 2008, for his work on Model-Based Testing. At fortiss he works tightly with aerospace and automotive companies to develop novel tools that include model-based software engineering and domain specificity at their core. After completing his PhD, Levi worked extensively in the area of model transformations, having proposed several tools and surveys in the domain. He has been part of the organizing committee of 10+ workshops, many of them co-located with MODELS. Levi’s current research interests are domain-specific modeling, usability in formal methods and,
-more recently, how machine learning can help in modeling software and in software engineering in general.
-
-**[Sebastian Voss](https://www.fortiss.org/en/about-us/people/sebastian-voss/)** has done his PhD in the avionic context at EADS Innovation Works in the Sensors, Electronics and Systems Integration department. At fortiss he is heading the Model-based Systems Engineering department and the research group Design Space Exploration, for finding optimized system configurations. His research interests include techniques and tools for the professional development of software-intensive systems, efficient design space exploration methods
-and their model-based (tool) development in A UTO FOCUS3.
-
-**[Tatiana Chuprina]()** started at fortiss as a Master student with a study of experimental comparison between A UTO FOCUS3 and Papyrus-RT. After her successful graduation from the Frankfurt University of Applied Science in 2016, she has been developing her work as a computer scientist at the Model-based System Engineering competence field at fortiss. She is currently at the beginning of her doctoral research having as main topic requirements engineering. Before moving to fortiss, Tatiana acquired practical knowledge working for a telecommunications company as systems integrator.
-
-**[Andreas Bayha](https://www.fortiss.org/ueber-uns/mitarbeiter/andreas-bayha/)** received his MSc in 2014 from the
-Technical University Munich. Since then he works as a researcher in the model-based systems engineering division of fortiss. His research interests are methodological aspects and
-tooling solutions for model-based product line engineering. In
-this context he was involved in the automotive, avionics and
-industrial automation domains.
-
-**[Johannes Eder]()** received his Master of Science from
-Technical University of Munich in 2015 in computer science.
-Since 2015 he has worked as a research associate and PhD
-candidate at fortiss. His research interests include model-based
-development of embedded systems, design space exploration,
-as well as their tooling support.
-
-**[Sudeep Kanav](https://www.fortiss.org/en/about-us/people/sudeep-kanav/)** studied computer science (MSc) at the
-Technical University Munich with a focus on theorem proving.
-Since 2016 he is a research associate at fortiss in the "Model Based Systems Engineering" competence field. His research interests are formal verification, model based system development, and model to model transformations. He is the main developer and responsible for the formal verification feature of AutoFOCUS3.
-
-<hr>
-
-## RobMoSys: Better Models, Tools and Software for Robotic Systems
+## [T9] RobMoSys: Better Models, Tools and Software for Robotic Systems
 
 ### Speakers: Christian Schlegel and Herman Bruyninckx
 
@@ -312,7 +385,7 @@ euRobotics association. Full professor at KU Leuven and part-time at Eindhoven U
 
 <hr>
 
-## How to Build Domain Specific Modeling Languages and Interpreters with WebGME – an Online, Collaborative Metamodeling Environment
+## [T10] How to Build Domain Specific Modeling Languages and Interpreters with WebGME – an Online, Collaborative Metamodeling Environment
 
 ### Speaker: Patrik Meijer
 
@@ -350,76 +423,11 @@ Length: half day
 
 <hr>
 
-## Taming Large Models using Hawk and NeoEMF
-
-### Speakers: Antonio Garcia-Dominguez, Dimitris Kolovos, Konstantinos Barmpis, Gwendal Daniel and Gerson Sunyé
-
-### Abstract
-Industrial models can quickly reach a complexity
-and size that makes storing them entirely in single files prohibitive.
-These larger models are typically either broken up
-into smaller files, or stored in a database. Using smaller files
-is simpler, but running a global query can still require loading
-all the files and therefore run into the same scalability issues. As
-for databases, most people go directly for well-known relational
-databases. However, a relational database is not the only answer
-for scalability: we can use NoSQL databases to solve the issues
-with queries over fragmented models, or replace relational model
-stores altogether.
-In this tutorial, we will discuss two approaches for achieving
-scalable model persistence and querying through our Hawk
-and NeoEMF open-source tools. Hawk’s approach is to use a
-NoSQL database as an efficient index to the models, focusing on
-improving query speed while keeping your existing persistence as
-is. NeoEMF allows for persisting models in a NoSQL database,
-which can speed up loading and writing of the models as well.
-The presenters are the original developers of the tools, which
-have seen industrial adoption through the MONDO EU FP7 and
-ITEA3 MEASURE projects.
-
-Length: half day
-
-### Biography 
-
-**[Antonio Garcia-Dominguez](https://www.cs.aston.ac.uk/~garcia-a/)** is Lecturer in Computer Science in the School of Engineering and Applied Science at Aston University. Antonio's current research focuses on sca able model-driven engineering, specifically high-performance querying through the development of the Hawk model indexing framework. Antonio has driven the adoption of Hawk in several European companies over the MONDO EU FP7 and ITEA3 MEASURE projects.
-
-**[Dimitris Kolovos](https://www-users.cs.york.ac.uk/dkolovos/)** is a Professor of Software Engineering in the Department of Computer Science at the University of York, where he researches automated and model-based software engineering. He leads the open-source Epsilon model-based software engineering platform, and led the MONDO EU FP7 work package that produced the Hawk tool. Dimitris has co-authored more than 150 peer-reviewed papers and has co-organised several workshops (including BigMDE at STAF and COMMitMDE at MODELS).
-
-**[Konstantinos Barmpis](https://www-users.cs.york.ac.uk/~kb/home.html)** is a Research Associate in the Department of Computer Science at the University of York, currently focusing on repository mining, distributed systems and domain-specific languages. He has produced the core components of the Hawk tool as part of the MONDO EU FP7 project and continues to support its development.
-
-**[Gerson Sunyé](https://sunye.github.io)** is an Associate Professor of Software Engineering in the Department of Computer Science at the University of Nantes, where he researches software testing and model-based software engineering. He leads the Atlanmod open-source modelling platform and is the initiator of the NeoEMF tool. Gerson has co-authored more than 60 peer-reviewed papers.
-
-**[Gwendal Daniel](https://gdaniel.github.io/)** is a post-doctoral fellow in the SOM Research Lab at Internet Interdisciplinary Institute (IN3), a research centre of the Universitat Oberta de Catalunya (UOC). His research interests include model persistence, query, and transformation techniques, as well as NoSQL data modelling. Gwendal is one of the core committers of the NeoEMF project, and the main contributor of the Mogwaï query framework.
-
-<hr>
-
-## Developing Reactive Systems with Statecharts
-
-### Speakers: Simon Van Mierlo and Hans Vangheluwe
-
-### Abstract
-
-Statecharts, introduced by David Harel in 1987, is a formalism used to specify the behaviour of timed, autonomous and reactive systems using a discrete-event abstraction. It is an extension of Timed Finite State Automata which adds depth, orthogonality, broadcast communication and history. Its visual representation is based on higraphs, which combine graphs and Venn diagrams. Many tools offer visual editing, simulation and code synthesis support for the Statecharts formalism. Examples include STATEMATE, Rhapsody, Yakindu, and Stateflow, each implementing different variants of Harel's original Semantics. This tutorial introduces Statecharts modelling, simulation, and testing. As a running example, the behaviour of a traffic light, a simple timed, autonomous and reactive system is modelled. We start from the basic concepts of states and transitions and explain the more advanced concepts of Statecharts by extending the example incrementally. We discuss several semantics variants, such as STATEMATE and Rhapsody. We use Yakindu to model the example system.
-
-Length: half day
-
-### Biography
 
 
-**[Simon Van Mierlo](http://msdl.cs.mcgill.ca/people/simonvm/)** is a post-doctoral researcher at
-the University of Antwerp (Belgium). He is a member of
-the Modelling, Simulation and Design (MSDL) research lab.
-For his PhD thesis, he developed debugging techniques for
-modelling and simulation formalisms by explicitly modelling
-their executor’s control flow using Statecharts. He is the main
-developer and maintainer of SCCD [https://msdl.uantwerpen.be/documentation/SCCD/](https://msdl.uantwerpen.be/documentation/SCCD/), a hybrid formalism that combines Statecharts with Class Diagrams.
 
-**[Hans Vangheluwe](https://www.uantwerpen.be/hans-vangheluwe)** is a Professor at the University of Antwerp (Belgium), and an Adjunct Professor at McGill University (Canada). He heads the Modelling, Simulation and Design (MSDL) research lab distributed over both locations. In a variety of projects, often with industrial partners, he develops and applies the model-based theory and techniques of Multi-Paradigm Modelling (MPM). His current interests are in domain-specific modelling and simulation, including the development of graphical user interfaces for multiple platforms. To model such reactive systems, he advocates the use of Statecharts to describe their behaviour. He is co-founder and chair of the European COST Action
-IC1404 "Multi-Paradigm Modelling for Cyber-Physical Systems" (MPM4CPS).
 
-<hr>
-
-## Seamless Model-Based Systems Engineering: The SPES Approach
+## [T11] Seamless Model-Based Systems Engineering: The SPES Approach
 
 ### Speakers: Andreas Vogelsang, Wolfgang Böhm, Sebastian Voss and Ilias Gerostathopoulos
 
