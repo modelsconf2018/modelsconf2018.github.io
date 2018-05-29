@@ -82,7 +82,20 @@ Questions should be addressed to the chairs and sent to the following email addr
 models2018src@easychair.org
 
 ## Program Committee / Jury
-To be announced
+* Anthony Anjorin, University of Paderborn (Germany)
+* Antonio Cicchetti, Mälardalen University (Sweden)
+* Arend Rensink, University of Twente (The Netherlands)
+* Arnaud Blouin, Université de Rennes, Inria, CNRS, IRISA (France)
+* Barbara König, University of Duisburg (Germany)
+* Daniel Varro, Budapest University of Technology and Economics (Hungary)
+* Davide de Rusico, University of L'Aquila (Italy)
+* Dimitris Kolovos, University of York (UK)
+* Manuel Wimmer, Vienna University of Technology (Austria)
+* Matthew Stephan, Miami University (USA)
+* Matthias Tichy, University of Ulm (Germany)
+* Matthias Weidlich, Humboldt Universität zu Berlin (Germany)
+* Sebastian Götz, University of Technology Dresden (Germany)
+
 
 
 
