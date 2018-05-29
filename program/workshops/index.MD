@@ -81,7 +81,7 @@ Over the last years, several modeling platforms have been developed to simplify 
 The goal of COMMitMDE 2018 is to bring together researchers and practitioners to explore (i) the impact of collaborative SE methods and principles on MDE practices and (ii) how MDE methods and techniques can support collaborative software engineering activities. Also, the workshop aims at assessing the state of the research and practice on Collaborative MDE, creating new synergies between tool vendors, researchers, and practitioners, informing the community about the new means for collaborative MDE, and identifying needs and research gaps in the collaborative MDE area.
 <hr>
 
-## [W7] 2nd Workshop on Model-Driven Engineering Tools (MDETools’18)
+## [W7] [2nd Workshop on Model-Driven Engineering Tools (MDETools’18)](https://mdetools.github.io/mdetools18/)
 
 ### Organizers: Mojtaba Bagherzadeh (Queen's University), Francis Bordeleau (Cmind), Juergen Dingel (Queen's University), Michalis Famelis (University of Montreal), Antonio Garcia-Dominguez (Aston University), Raquel Araujo Oliveira (University of Toulouse III), Ernesto Posse (Zeligsoft), Ed Seidewitz (nMeta) and Bran Selic (Malina Software Corp.)
 
@@ -146,7 +146,7 @@ For the 2018 edition of the MoDeVVa workshop we would like to propose an emphasi
 <hr>
 
 
-## [W13] 1st Workshop on Pains in Model-Driven Engineering Practice (PAINS).
+## [W13] [1st Workshop on Pains in Model-Driven Engineering Practice (PAINS)](https://sites.google.com/view/pains-2018/home)
 
 ### Organizers: Francis Bordeleau (Cmind Inc.), Michalis Famelis (University of Montreal), Jennifer Horkoff (Chalmers and the University of Gothenburg) and Andreas Wortmann (RWTH Aachen University)
 
