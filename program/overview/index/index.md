@@ -54,14 +54,14 @@ slug: program-overview
   </tr>
   <tr>
     <td class="tg-acm6" colspan="2"><a href="http://www.mrtc.mdh.se/ModComp18/">W1 ModComp</a></td>
-    <td class="tg-jxbq" colspan="4">SAM Conference</td>
+    <td class="tg-jxbq" colspan="4"><a href="http://sdl-forum.org/Events/SAM2018/index.htm">SAM Conference</a></td>
     <td class="tg-ie4m">Keynote - <a href="https://modelsconf2018.github.io/program/keynotes/">Silvja Seres</a></td>
     <td class="tg-ie4m">Keynote - <a href="https://modelsconf2018.github.io/program/keynotes/">Matjin Wisse</a></td>
     <td class="tg-ie4m">Keynote - <a href="https://modelsconf2018.github.io/program/keynotes/">James R. Cordy</a></td>
   </tr>
   <tr>
     <td class="tg-acm6" colspan="2"><a href="http://st.inf.tu-dresden.de/MRT18/?site=cfp">W2 MODELS@Runtime</a></td>
-    <td class="tg-ev52" colspan="4">xtUML Days</td>
+    <td class="tg-ev52" colspan="4"><a href="https://xtuml.org/xtuml-days-2018-copenhagen/">xtUML Days</a></td>
     <td class="tg-ie4m">Foundations Track</td>
     <td class="tg-ie4m">Foundations Track<br></td>
     <td class="tg-ie4m">Foundations Track</td>
