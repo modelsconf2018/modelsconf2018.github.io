@@ -73,6 +73,7 @@ Exact dates to be announced
 
 ## Sponsors
 We gratefully acknowledge Microsoft Research for their support of the ACM SRC.
+![Microsoft Logo](https://raw.githubusercontent.com/modelsconf2018/modelsconf2018.github.io/master/assets/logos/microsoft-logo.PNG)
 
 ## Organizers
 * Ekkart Kindler, Technical University of Denmark, Denmark
