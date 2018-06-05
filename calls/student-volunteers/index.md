@@ -56,7 +56,7 @@ This program will cover registration fees (workshops and conference included, ba
 ## Volunteer Organisation and Contact Information
 
 Student Volunteer Chairs:
-* Djamel E. Khelladi (Johannes Kepler University Linz, Austria) - djamel.e.khelladi@gmail.com
+* Djamel E. Khelladi (Johannes Kepler University Linz, Austria) - djamel_eddine.khelladi@jku.at
 * Adam Alami (IT University of Copenhagen, Denmark) - adaa@itu.dk
 * Nicholas Matragkas (University of Hull, UK) - n.matragkas@hull.ac.uk
 
