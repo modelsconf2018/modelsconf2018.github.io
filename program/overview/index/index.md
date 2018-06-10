@@ -76,7 +76,7 @@ slug: program-overview
   </tr>
   <tr>
     <td class="tg-acm6" colspan="2"><a href="http://www.di.univaq.it/flexmde/">W4 FlexibleMDE</a></td>
-    <td class="tg-mply" colspan="2">W7 MDETools</td>
+   <td class="tg-mply" colspan="2"><a href="https://mdetools.github.io/mdetools18/">W7 MDETools</a></td>
     <td class="tg-mply" colspan="2"><a href="https://msdl.uantwerpen.be/conferences/MDEbug/2018/">W11 MDEbug</a></td>
     <td class="tg-ie4m">SoSyM Editorial Meeting</td>
     <td class="tg-ie4m">ACM Student Research Competition</td>
@@ -96,7 +96,7 @@ slug: program-overview
     <td class="tg-mnkh">T1 Hawk</td>
     <td class="tg-r9d8">T2 Making Modeling <br>Cool Again</td>
     <td class="tg-mply" colspan="2"><a href="http://st.inf.tu-dresden.de/MORSE18/">W9 MORSE</a></td>
-    <td class="tg-mply" colspan="2">W13 PAINS</td>
+    <td class="tg-mply" colspan="2"><a href="https://sites.google.com/view/pains-2018/home">W13 PAINS</a></td>
     
     <td class="tg-uys7"></td>
     <td class="tg-uys7"></td>
