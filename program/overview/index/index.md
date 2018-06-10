@@ -128,7 +128,8 @@ slug: program-overview
     <td class="tg-c3ow"></td>
     <td class="tg-r9d8">T6 Actors</td>
     <td class="tg-r9d8">T7 Co-Evolution</td>
-    <td class="tg-g9tr" colspan="2"><a href="https://hufamo.univ-lille.fr/">W16 HuFaMo</a></td>
+            <td class="tg-r9d8">T9 RobMoSys</td>
+    <td class="tg-r9d8">T10 WebGME</td>
 
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
@@ -139,17 +140,6 @@ slug: program-overview
     <td class="tg-c3ow"></td>
     <td class="tg-g9tr"><a href="http://www.mrtc.mdh.se/MDE4IoT/index.html">W10 MDE4IoT</a></td>
     <td class="tg-n7co">T8 ThingML</td>
-        <td class="tg-r9d8">T9 RobMoSys</td>
-    <td class="tg-r9d8">T10 WebGME</td>
-
-    <td class="tg-us36"></td>
-    <td class="tg-us36"></td>
-    <td class="tg-us36"></td>
-  </tr>
-  <tr>
-    <td class="tg-us36"></td>
-    <td class="tg-us36"></td>
-    <td class="tg-us36" colspan="2">Satellite Reception at Royal Library</td>
         <td class="tg-r9d8">T11 SPES</td>
     <td class="tg-g9tr"><a href="https://modelanalytics.wordpress.com/ammore18/">W17 AMMoRe</a></td>
 
@@ -160,9 +150,9 @@ slug: program-overview
   <tr>
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
-    <td class="tg-us36"></td>
-    <td class="tg-us36"></td>
-    <td class="tg-ifhh" colspan="2">Doctoral Symposium<br><br></td>
+    <td class="tg-g9tr" colspan="2"><a href="https://hufamo.univ-lille.fr/">W16 HuFaMo</a></td>
+        <td class="tg-ifhh" colspan="2">Doctoral Symposium<br><br></td>
+
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
@@ -170,12 +160,16 @@ slug: program-overview
   <tr>
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
+    <td class="tg-us36" colspan="2">Satellite Reception at Royal Library</td>
+        <td class="tg-ifhh" colspan="2">Educators Symposium<br><br></td>
+
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
-    <td class="tg-ifhh" colspan="2">Educators Symposium<br><br></td>
     <td class="tg-us36"></td>
-    <td class="tg-us36"></td>
-    <td class="tg-us36"></td>
+  </tr>
+  <tr>
+
+    
   </tr>
 
 </table>
