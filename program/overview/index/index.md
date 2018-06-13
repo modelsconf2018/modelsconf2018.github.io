@@ -48,9 +48,9 @@ slug: program-overview
     <td class="tg-5twz">Mon PM (Oct 15th)</td>
     <td class="tg-5twz">Tue AM (Oct 16th)</td>
     <td class="tg-5twz">Tue PM (Oct 16th)</td>
-    <td class="tg-5twz">Wed 17 May</td>
-    <td class="tg-5twz">Thu 18 May</td>
-    <td class="tg-5twz">Fri 19 May</td>
+    <td class="tg-5twz">Wed Oct 17th </td>
+    <td class="tg-5twz">Thu Oct 18th </td>
+    <td class="tg-5twz">Fri Oct 19th </td>
   </tr>
   <tr>
     <td class="tg-acm6" colspan="2"><a href="http://www.mrtc.mdh.se/ModComp18/">W1 ModComp</a></td>
