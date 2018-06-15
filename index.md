@@ -2,7 +2,13 @@
 layout: default
 slug: call
 ---
+<div class = "row">
+ <div class="col-md-11" markdown="1">
 
+# ACM/IEEE 21st International Conference on Model Driven Engineering Languages and Systems (MODELS)
+## 14-19 October 2018 Copenhagen, Denmark
+</div>
+</div>
   <div class="row">
     <div class="col-xs-12">
       <!-- <img class="logo img-responsive" src="/assets/logos/models-logo.png" alt="models2018-logo" /> -->
@@ -27,10 +33,13 @@ slug: call
     </div>
   </div>
 
+
 <div class="row">
+
  <div class="col-md-8" markdown="1">
 
-# MODELS 2018, 14-19 October 2018 Copenhagen, Denmark
+
+
 
 <h4> Events @ MODELS 2018 </h4>
 * Research conference: on [Model Driven Engineering Languages and Systems](https://modelsconf2018.github.io/calls/call/)
