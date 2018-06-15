@@ -337,7 +337,7 @@ CloudWays workshops. Nicolas will not present at the tutorial.
 
 
 
-## [T9] RobMoSys: Better Models, Tools and Software for Robotic Systems
+## [[T9] RobMoSys: Better Models, Tools and Software for Robotic Systems](http://www.servicerobotik-ulm.de/models2018/)
 
 ### Speakers: Christian Schlegel and Herman Bruyninckx
 
