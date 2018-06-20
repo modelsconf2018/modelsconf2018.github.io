@@ -56,7 +56,7 @@ slug: program-overview
     <td class="tg-acm6" colspan="2"><a href="http://www.mrtc.mdh.se/ModComp18/">W1 ModComp</a></td>
     <td class="tg-jxbq" colspan="4"><a href="http://sdl-forum.org/Events/SAM2018/index.htm">SAM Conference</a></td>
     <td class="tg-ie4m">Keynote - <a href="https://modelsconf2018.github.io/program/keynotes/">Silvja Seres</a></td>
-    <td class="tg-ie4m">Keynote - <a href="https://modelsconf2018.github.io/program/keynotes/">Matjin Wisse</a></td>
+    <td class="tg-ie4m">Keynote - <a href="https://modelsconf2018.github.io/program/keynotes/">Martijn Wisse</a></td>
     <td class="tg-ie4m">Keynote - <a href="https://modelsconf2018.github.io/program/keynotes/">James R. Cordy</a></td>
   </tr>
   <tr>
