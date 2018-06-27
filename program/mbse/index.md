@@ -5,7 +5,8 @@ slug: mbse-meeting
 <div class="row">
  <div class="col-md-11" markdown="1">
 
-# Model-Based Systems Engineering Meeting, Tuesday October, 16th 2018
+# Model-Based Systems Engineering Meeting @ MODELS 2018
+## Tuesday October, 16th 2018
 
 ## Abstract 
 
@@ -37,4 +38,4 @@ This year MODELS will host a dedicated meeting on MBSE that will explore the spe
   * Panel & Discussions: « How can we improve MBSE adoption in industry ? »
 
 </div>
-</div
+</div>
