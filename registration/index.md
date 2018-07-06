@@ -121,6 +121,8 @@ slug: registration
 
 </center>
 
+<br/>
+<br/>
 
 Prices do NOT include 25% VAT, which will be added by the registration system for EU delegates. VAT is added before checkout for EU delegates (and waived for others).
 
