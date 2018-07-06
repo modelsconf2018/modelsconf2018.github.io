@@ -23,6 +23,7 @@ This year MODELS will host a dedicated meeting on MBSE that will explore the spe
   * Industrial talks:
 	  * Mattias Mohlin (HCL)
 	  * To be announced (Continental)
+	  * Christian Zingel (AVL)
 
   * Panel & Discussions: « What are the challenges facing Automotive industry in terms of MBSE? »
 
@@ -34,8 +35,7 @@ This year MODELS will host a dedicated meeting on MBSE that will explore the spe
     * Stéphane Bonnet (Thalès)
     * Marco Ferrogalini (Bombardier Transport)
     * Pascal Roques (PRFC)
-    * Christian Zingel (AVL)
-
+   
   * Panel & Discussions: « How can we improve MBSE adoption in industry ? »
 
 </div>
