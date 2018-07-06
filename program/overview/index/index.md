@@ -69,7 +69,7 @@ slug: program-overview
   <tr>
     <td class="tg-mply" colspan="2"><a href="https://oclworkshop.github.io/2018/cfp.html">W3 OCL</a></td>
     <td class="tg-mply" colspan="2"><a href="http://cs.gssi.it/commitmde2018/">W6 COMMitMDE</a></td>
-        <td class="tg-jxbq" colspan="2">Model-Based Systems Engineering Meeting</td>
+        <td class="tg-jxbq" colspan="2"><a href="https://modelsconf2018.github.io/program/mbse/">Model-Based Systems Engineering Meeting</a></td>
     <td class="tg-ie4m">Industry Day</td>
     <td class="tg-ie4m">Practice and Innovation Track</td>
     <td class="tg-ie4m">Student Competition Awards</td>
