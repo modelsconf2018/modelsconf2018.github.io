@@ -127,9 +127,7 @@ The conference program is longer this year: Plan to be able to leave the confere
 <br/>
 <br/>
 
-Prices do NOT include 25%.  VAT is added before checkout for EU delegates (and not charged for extra-EU delegates).
-
-If the bill is paid by an EU VAT registered European organization, it should be able to effectively not pay VAT as your accounting should be able to deduce it locally (enter your tax number during registration).
+Prices do NOT include 25%.  VAT is added before checkout for EU delegates (and not charged for extra-EU delegates).  You should be able to effectively not pay VAT, if the bill is paid by a registered VAT organization.  Your accountant will know what to do (enter your VAT number during registration).
 
 
 ## Registrant Types
