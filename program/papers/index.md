@@ -104,8 +104,8 @@ Andreas Kästner, [Martin Gogolla](http://www.db.informatik.uni-bremen.de) and B
 MODELS 2018 Accepted Papers for Practice & Innovation Track
 ===========================================================
 
-### Preciado. Digital Behavioral Twins for Safe Connected Cars
-Ximing Chen, Zhihao Jiang, Eunsuk Kang, Shinichi Shiraishi and Victor M. 
+### Digital Behavioral Twins for Safe Connected Cars
+Ximing Chen, Zhihao Jiang, Eunsuk Kang, Shinichi Shiraishi and Victor M. Preciado.
 <hr>
 ### Enabling Model Testing of Cyber-Physical Systems
 Carlos A. González, Mojtaba Varmazyar, Shiva Nejati, Briand Lionel and Yago Isasi Parache. 
