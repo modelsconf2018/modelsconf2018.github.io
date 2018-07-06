@@ -34,6 +34,7 @@ This year MODELS will host a dedicated meeting on MBSE that will explore the spe
     * Stéphane Bonnet (Thalès)
     * Marco Ferrogalini (Bombardier Transport)
     * Pascal Roques (PRFC)
+    * Christian Zingel (AVL)
 
   * Panel & Discussions: « How can we improve MBSE adoption in industry ? »
 
