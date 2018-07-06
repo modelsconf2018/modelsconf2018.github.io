@@ -11,9 +11,6 @@ Please read the following page before proceeding to the registration system.
 
 The conference program is longer this year: Plan to be able to leave the conference area at 1500 hours on Friday (lunch will be included on Friday).
 
-## Price overview tables
-
-<center>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:black;}
@@ -115,13 +112,14 @@ The conference program is longer this year: Plan to be able to leave the confere
     <td class="tg-rzac">€ 795.00 </td>
   </tr>
 </table>
-<br>
+
+<br/>
+<br/>
 
 <table style="border-collapse:collapse;border-spacing:0"><tr><th style="font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:inherit;text-align:center" colspan="2"><span style="font-weight:bold">Industry Rates</span></th><th style="font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:inherit;background-color:#cbcefb">Early</th><th style="font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:inherit;background-color:#cbcefb;vertical-align:top">Late</th></tr><tr><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:inherit" colspan="2">3 consecutive days selected from Mon to Thursday</td><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:inherit;background-color:#efefef">€ 495.00 </td><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:inherit;background-color:#efefef;vertical-align:top">€ 645.00</td></tr></table>
 
 
 
-</center>
 
 <br/>
 <br/>
