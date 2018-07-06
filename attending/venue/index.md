@@ -30,13 +30,13 @@ IT University is located at Rued Langgaards Vej 7, 2300 Copenhagen S, Denmark. [
 Copenhagen is very well connected to many cities in Europe as well as to North America and Asia. There are direct flights from Toronto, New York, Boston, Washington, San Francisco, Chicago, as well as Shanghai, Beijing, Tokyo, Bangkok and many others. From the airport, it takes 15-20 min by metro to reach the city centre of Copenhagen. IT University is easily reached from the airport in 20-30 minutes. 
 
 ### By car
-If you wish to come to Copenhagen by car, please check online the optimal route to reach Copenhagen. Denmark has extensive highway roads, and can be reached either on land or by taking a ferry from Germany.
+Denmark has extensive highway roads, and can be reached either on land or by taking a ferry from Germany. Note that there is no free parking at the conference venue. It is best to arrange parking with your hotel if planning to come by car. Otherwise the car park in front of the building is charged per hour.
 
 ### By train
 Copenhagen can be easily reached by train either from Germany or from Sweden. There are multiple direct trains from these countries to Copenhagen, and the train station is centrally located, making it easy to quickly access any part of the city. Train access from other countries is possible as well though it may take longer. 
 
 ### Taxis
-Taxis are good quality and  easily accessible at the airport. The trip from the airport to the city costs around 300kr,  a bit less to ITU. All taxis accept credit cards onboard.
+Taxis are good quality and  easily accessible at the airport. The trip from the airport to the city costs around 300kr,  a bit less to ITU. All taxis accept credit cards onboard (2-3 EUR per hour during the day).
 
 ## How to reach IT University
 IT University is easily reachable by metro, bike, foot or car. Please note that in general everybody speaks English fluently, thus do not hesitate to ask for directions in case you are confused. 

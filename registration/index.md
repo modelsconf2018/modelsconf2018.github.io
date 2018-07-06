@@ -122,45 +122,48 @@ slug: registration
 </center>
 
 
-<center> <h3> Prices above do NOT include 25% VAT, which will be added by the registration system.</h3></center>
+Prices do NOT include 25% VAT, which will be added by the registration system for EU delegates. VAT is added before checkout for EU delegates (and waived for others).
+
+**If the bill is paid by an EU VAT registered European organization, it should be able to effectively not pay VAT as your accounting should be able to deduce it locally (enter your tax number during registration).
 
 
-<br> 
+## Registrant Types
+
+All registration rates include access to all tracks and all open events on the days specified. You can freely switch between events and tracks during the day.  All registration rates include coffee breaks, refreshments and lunches on the days specified. We will do our best to meet your dietary restrictions. 
 
 
-#### **Industry rates can only be used by industry affiliated delegates (not by academics and researchers from public research institutions or from universities). Industrial participants interested in more than 3 days are requested to use academic rates (above).**
+Besides a regular rate, there are four discounted registrant types, defined below.  The registration system makes the change of the registrant type cumbersome.  Please study the table with prices above and make up your mind before starting the process, to minimize trouble.  If you selected a wrong registrant type it might be easiest to start a new registration (with another email address) or, if this is impossible, contact general chair by email.
 
-#### **If the bill is paid by a European organization with a registered VAT number, you should be able to effectively not pay VAT as it will be deduced locally.  Rules in other countries may very (but mostly you would have to pay it).**
+### Member Rates
 
+A discounted rate is applicable to both members of ACM and to members of IEEE, regardless of member grade, and whether they are affiliated with industry or academia.  Your membership has to be valid from the registration time to the conference time, and you should be able to show the membership card on arrival. Industry participants partaking in the conference for up to 3 days, retirees and students will likely find other rates more attractive.
 
-## Payment form
+### Retiree Rates
 
-We accept major credit cards.  No cash registrations and no direct money transfers are accepted.  On-site registration uses the same system as remote registration, and you have to be able to use your credit card.
-
-## Rates
-
-### Member rates
-
-The rate is applicable to both members of ACM and to members of IEEE, regardless of member grade, and whether they are affiliated with industry or academia.  Your membership has to be valid from the registration time to the conference time, and you should be able to show the membership card on arrival. Industry participants partaking in the conference for up to 3 days, retirees and students will likely find other rates more attractive.
-
-### Retiree rates
-
-This rate has been introduced to facilitate participation of senior members of the modeling community who already retired from their academic and industrial 
-employment. The retiree rate does not include participation in the banquet (this can be added extra for a fee).
+This rate has been introduced to facilitate participation of senior members of the modeling community who already retired from their academic and industrial employment. The retiree rate does not include participation in the banquet (this can be added for an extra fee).
 
 ### Student rates
 
-You have to be enrolled as an undergraduate or graduate student (incl. PhD students) in an accredited higher education institution. You must be able to show your student card on arrival. Note that student registration rates do not include participation in the banquet (this can be added extra for a fee).
+You have to be enrolled as an undergraduate or graduate student (incl. PhD students) in an accredited higher education institution. You must be able to show your student card on arrival. Note that student registration rates do not include participation in the banquet (can be added for a fee).
 
 ### Industry rates
 
-Industrial participants have to be able to show that they are affiliated with an industrial organization. Industrial registration does not include access to the banquet.  It covers participation on three selected days of the conference that have to be indicated during registration.  If banquet participation is needed, please purchase an extra banquet ticket. If you need more than three days, please choose another set of rates (the member/non-member rates) — to get them you need to change your participant type on the profile page. The special industry rate has been introduced in order to help industrial participation in the MODESLS18 industry program.  Academic participants are kindly asked not to use this rate.
+The special industry rate has been introduced in order to stimulate industrial participation in the MODELS'18 industry program.  Industrial participants must be able to show that they are affiliated with an industrial organization. 
 
- All registration rates include access to all tracks and all open events on the days specified. All registration rates include coffee breaks, refreshments and lunches on the days specified. We will do our best to meet your dietary restrictions.
+Industrial registration does not include access to the banquet.  It covers participation on three consecutive days of the conference that have to be indicated during registration (does not cover Friday).  If banquet participation is needed, please purchase an extra banquet ticket. If you need more than three days, please choose another set of rates (the member/non-member rates). Consider that before choosing an industrial rate (hard to revert in regonline).
 
-## Receptions
+**Industry rates can only be used by industry affiliated delegates (not by academics and researchers from public research institutions or from universities). 
 
-Sattelite registrations (and full registrations) give access to the reception on Monday at the Royal Library.  Main conference registrations (and full registrations) give access to the reception, exhibition, and poster session on Wednesday at IT University of Copenhagen (conference venue). Industrial registration gives access to the reception on Monday and Wednesday only if the respective day has been selected during registration.  Drinks (limited) and light snacks are offerred at the reception.
+
+## Events and Functions
+
+### Receptions (Mon & Wed)
+
+Sattelite registrations (and full registrations) give access to the reception on Monday at the Royal Library.  
+
+Main conference registrations (and full registrations) give access to the reception, exhibition, and poster session on Wednesday at IT University of Copenhagen.
+
+Industrial registration gives access to the reception on Monday and Wednesday only if the respective day has been selected during registration.  Drinks (limited) and light snacks are offerred at the reception.
 
 ### Banquet
 
@@ -168,15 +171,32 @@ In order to participate in the banquet you need a regular/member registration fo
 
 Space in all functions is limited.  Based on the data from previous editions the organizers believe that there will be space for everybody  in the venues. However, we don't guarantee this, so if you register late you may be denied the ticket.  Participants registering after October 1 and on-site can be almost sure to miss the banquet.
 
-### Cancellation and Changes
+### Matchmaking Event
 
-We allow (and strongly prefer) name changes on the registrations over cancellations. Name change is free in the same registration category. Industry rate can be changed to other days free of charge. Until September 30th cancellation fee is 25%.  After September 30th cancellations are not refundable.
+Students and post-docs (regardless of used registration rate) can join a hiring/matchmaking  event on Wednesday.  This requires choosing a registration package that includes Wednesday. 
 
-### Hiring Event
+There is a limited number of seats for professors in this event.  In either case indicate your interest to attend on the registration form (in your profile). If you indicate interest, please attend.  Your lunch will be served in a separate room on Wednesday. 
 
-Students and post-docs (regardless of used registration rate) can join a hiring/matchmaking  event on Wednesday.  This requires choosing a registration package that includes wednesday. There is a limited number of seats for professors in this event.  In either case indicate your interest to attend on the registration form (in your profile). If you indicate interest, please attend.  Your lunch will be served in a separate room on Wednesday. Industry participants can only attend this event by entering a suitable sponsorship agreement instead of using the usual registration procedure.
+Industry participants can only attend this event by entering a suitable sponsorship agreement instead of using the usual registration procedure.  Please contact general chair or sponsorship chairs.
+
+
+## Cancellation and Changes
+
+We allow (and strongly prefer) name changes on the registrations over cancellations. Name change is only possible in the same registration category. Industry rate can be changed to other days free of charge (contact general chair by email). Until September 30th cancellation fee is 25%.  After September 30th cancellations are not refundable.
+
+## Payment & Receipt
+
+We accept major credit cards (Visa/Mastercard/American Express) and some related debit cards.  No cash registrations and no direct money transfers are accepted.  On-site registration uses the same system as remote registration, and you have to be able to use your credit card.
+
+You can access the receipt link from the payment confirmation page (or from the page linked in the Regonline confirmation email).  This is the only payment receipt you will receive.  For EU residents this receipt contains all the necessary VAT information. 
+
+## Privacy
+
+The conference is organized by IT University of Copenhagen on behalf of ACM SIGSOFT.  By registering, you  agree that your name, address, email, phone number, type of membership, affiliation, and the registration cost will be passed to ACM with the purpose as detailed in ACM privacy policy (https://www.acm.org/about-acm/privacy-policy) and will not be shared by ACM any further.
 
 <a href="https://www.regonline.com/models2018" target="_blank" class="btn btn-primary btn-lg btn-block btn-huge">REGISTER HERE</a>
+
+
 
 </div>
 </div>
