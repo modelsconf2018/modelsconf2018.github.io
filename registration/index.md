@@ -11,6 +11,9 @@ Please read the following page before proceeding to the registration system.
 
 The conference program is longer this year: Plan to be able to leave the conference area at 1500 hours on Friday (lunch will be included on Friday).
 
+<br/>
+<br/>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:black;}
