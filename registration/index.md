@@ -127,9 +127,9 @@ The conference program is longer this year: Plan to be able to leave the confere
 <br/>
 <br/>
 
-Prices do NOT include 25% VAT, which will be added by the registration system for EU delegates. VAT is added before checkout for EU delegates (and waived for others).
+Prices do NOT include 25%.  VAT is added before checkout for EU delegates (and not charged for extra-EU delegates).
 
-**If the bill is paid by an EU VAT registered European organization, it should be able to effectively not pay VAT as your accounting should be able to deduce it locally (enter your tax number during registration).
+If the bill is paid by an EU VAT registered European organization, it should be able to effectively not pay VAT as your accounting should be able to deduce it locally (enter your tax number during registration).
 
 
 ## Registrant Types
@@ -157,7 +157,7 @@ The special industry rate has been introduced in order to stimulate industrial p
 
 Industrial registration does not include access to the banquet.  It covers participation on three consecutive days of the conference that have to be indicated during registration (does not cover Friday).  If banquet participation is needed, please purchase an extra banquet ticket. If you need more than three days, please choose another set of rates (the member/non-member rates). Consider that before choosing an industrial rate (hard to revert in regonline).
 
-**Industry rates can only be used by industry affiliated delegates (not by academics and researchers from public research institutions or from universities). 
+Industry rates can only be used by industry affiliated delegates (not by academics and researchers from public research institutions or from universities). 
 
 
 ## Events and Functions
