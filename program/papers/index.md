@@ -71,7 +71,36 @@ MODELS 2018 Accepted Papers for Foundations Track
 * [Oliver Kautz](http://www.se-rwth.de/) and [Bernhard Rumpe](http://www.se-rwth.de/~rumpe/). On Computing Instructions to Repair Failed Model Refinements
 
 * [Artur Boronat](http://www.cs.le.ac.uk/~aboronat/). Expressive and Efficient Model Transformation with an Internal DSL of Xtend
-      
+
+MODELS 2018 Accepted Papers for Practice & Innovation Track
+===========================================================
+
+Ximing Chen, Zhihao Jiang, Eunsuk Kang, Shinichi Shiraishi and Victor M. Preciado. Digital Behavioral Twins for Safe Connected Cars
+
+Carlos A. González, Mojtaba Varmazyar, Shiva Nejati, Briand Lionel and Yago Isasi Parache. Enabling Model Testing of Cyber-Physical Systems
+
+[Juha-Pekka Tolvanen](http://www.metacase.com/jpt.html) and [Steven Kelly](http://www.metacase.com/stevek.html). Effort Used to Create Domain-Specific Modeling Languages
+
+Alexandre Rio, Yoann Maurel, Olivier Barais and Yoran Bugni. Efficient use of local energy: An activity oriented modeling to guide Demand Side Management
+
+Matt Selway, [Georg Grossmann](http://people.unisa.edu.au/georg.grossmann), Kerryn Owen, Richard Dexter and [Markus Stumptner](http://people.unisa.edu.au/Markus.Stumptner). Integration of Visual Contracts and Model Transformation for Enhanced MDE Development
+
+[Hugo Bruneliere](http://web.emn.fr/x-info/atlanmod/index.php?title=User:Bruneliere), Florent Marchand de Kerchove, Gwendal Daniel and [Jordi Cabot](http://jordicabot.com). Towards Scalable Model Views on Heterogeneous Model Resources
+
+Arne Nordmann and Peter Munk. Lessons Learned from Model-Based Safety Assessment with SysML and Component Fault Trees
+
+Antonio Bucchiarone and [Antonio Cicchetti](http://www.es.mdh.se/staff/198-Antonio_Cicchetti). A Model-Driven Solution to support Smart Mobility Planning
+
+Johannes Eder, Andreas Bayha, Sebastian Voss, Alexandru Ipatiov and Maged Khalil. From Deployment to Platform Exploration - Automatic Synthesis of Distributed Automotive Hardware Architectures
+
+[Omar Badreddin](http://Badreddin.com), Rahad Khandoker, Andrew Forward, Omar Masmali and [Timothy Lethbridge](http://www.site.uottawa.ca/~tcl/). A Decade of Software Design and Modeling: A Practitioners Survey to Uncover Trends of the Practice
+
+Cody Kinneer and Sebastian Herzig. Dissimilarity Measures for Clustering Space Mission Architectures
+
+[Manuel Ballarin](http://www.usj.es), [Ana Marcen](http://www.usj.es), [Vicente Pelechano](http://www.upv.es) and [Carlos Cetina](http://www.usj.es). Measures to report the Location Problem of Model Fragment Location
+
+Henrique Henriques, Hugo Lourenço, Vasco Amaral and Miguel Goulão. Improving the developer experience with a Low-Code Process Modelling Language
+
      
 </div>
 </div>
