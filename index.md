@@ -47,7 +47,7 @@ slug: call
 * Collocated: 
   * [SAM2018 - Languages, Methods, and Tools for Systems Engineering](http://sdl-forum.org/Events/SAM2018/index.htm)
   * [xtUML Days @ MODELS](https://xtuml.org/xtuml-days-2018-copenhagen/)
-  * [MBSE Meeting @ MODELS] (https://modelsconf2018.github.io/program/mbse/)
+  * [MBSE Meeting @ MODELS](https://modelsconf2018.github.io/program/mbse/)
 
 
 <p class="text-justify">
