@@ -14,6 +14,10 @@ Model-Driven Engineering has contributed significantly to software engineering a
 Model-Based Systems Engineering (MBSE) is both an experimented area and a current high topic of interest in software-intensive systems such as automotive or complex systems.
 This year MODELS will host a dedicated meeting on MBSE that will explore the specifics of Systems Engineering when it comes to modeling, with industrial invited talks and hopefully fruitful discussions between practitioners and academics on the current working solutions and remaining challenges.
 
+## Registration
+
+Since the MBSE meeting is fully part of MODELS'18, participants will have to register through the MODELS registration system.
+
 ## Preliminary agenda
 
 * Keynote: Ed Seidewitz (ModelDriven.com)
@@ -23,6 +27,7 @@ This year MODELS will host a dedicated meeting on MBSE that will explore the spe
   * Industrial talks:
 	  * Mattias Mohlin (HCL)
 	  * To be announced (Continental)
+	  * Christian Zingel (AVL)
 
   * Panel & Discussions: « What are the challenges facing Automotive industry in terms of MBSE? »
 
@@ -34,7 +39,7 @@ This year MODELS will host a dedicated meeting on MBSE that will explore the spe
     * Stéphane Bonnet (Thalès)
     * Marco Ferrogalini (Bombardier Transport)
     * Pascal Roques (PRFC)
-
+   
   * Panel & Discussions: « How can we improve MBSE adoption in industry ? »
 
 </div>
