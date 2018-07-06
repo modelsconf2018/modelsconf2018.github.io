@@ -182,7 +182,7 @@ There is a limited number of seats for professors in this event.  In either case
 
 Industry participants can only attend this event by entering a suitable sponsorship agreement instead of using the usual registration procedure.  Please contact general chair or sponsorship chairs.
 
-### Proceedings
+## Proceedings
 
 We do not distribute printed proceedings.  The proceedings will be available online from the publisher's website during the conference.
 
