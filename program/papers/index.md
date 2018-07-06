@@ -14,92 +14,134 @@ MODELS 2018 Accepted Papers for Foundations Track
 
 </style>
 
-* [Rodi Jolak](http://www.rodijolak.com), Truong Ho-Quang, Michel R.V. Chaudron and Ramon R.H. Schiffelers. Model-Based Software Engineering: A Multiple-Case Study on Challenges and Development Efforts
+### Model-Based Software Engineering: A Multiple-Case Study on Challenges and Development Efforts
+[Rodi Jolak](http://www.rodijolak.com), Truong Ho-Quang, Michel R.V. Chaudron and Ramon R.H. Schiffelers. 
 
-* Reza Ahmadi, Ernesto Posse and Juergen Dingel. Slicing UML-based Models of Real-time Embedded Systems
+### Slicing UML-based Models of Real-time Embedded Systems
+Reza Ahmadi, Ernesto Posse and Juergen Dingel. 
 
-* [Bernhard Westfechtel](http://ai1.inf.uni-bayreuth.de) and Sandra Greiner. From Single- to Multi-Variant Model Transformations: Trace-Based Propagation of Variability Annotations
+### From Single- to Multi-Variant Model Transformations: Trace-Based Propagation of Variability Annotations
+[Bernhard Westfechtel](http://ai1.inf.uni-bayreuth.de) and Sandra Greiner. 
 
-* Perdita Stevens. Towards sound, optimal, and flexible building from megamodels
+### Towards sound, optimal, and flexible building from megamodels
+Perdita Stevens
 
-* Seung Yeob Shin, Karim Chaouch, Shiva Nejati, Mehrdad Sabetzadeh, Lionel C. Briand and Frank Zimmer. HITECS: A UML Profile and Analysis Framework for Hardware-in-the-Loop Testing of Cyber Physical Systems
+### HITECS: A UML Profile and Analysis Framework for Hardware-in-the-Loop Testing of Cyber Physical Systems
+Seung Yeob Shin, Karim Chaouch, Shiva Nejati, Mehrdad Sabetzadeh, Lionel C. Briand and Frank Zimmer.
 
-* Evgeny Kusmenko, [Bernhard Rumpe](http://www.se-rwth.de/~rumpe/), Sascha Schneiders and [Michael von Wenckstern](http://www.se-rwth.de/~vonwenckstern/). Highly-Optimizing and Multi-Target Compiler for Embedded System Models: C++ Compiler Toolchain for the Component and Connector Language EmbeddedMontiArc
+### Highly-Optimizing and Multi-Target Compiler for Embedded System Models: C++ Compiler Toolchain for the Component and Connector Language EmbeddedMontiArc
+Evgeny Kusmenko, [Bernhard Rumpe](http://www.se-rwth.de/~rumpe/), Sascha Schneiders and [Michael von Wenckstern](http://www.se-rwth.de/~vonwenckstern/). 
 
-* [Brice Morin](http://brice-morin.info), Jakob Høgenes, Hui Song, Nicolas Harrand and Benoit Baudry. Engineering Software Diversity: a Model-Based Approach to Systematically Diversify Communications
+### Engineering Software Diversity: a Model-Based Approach to Systematically Diversify Communications
+[Brice Morin](http://brice-morin.info), Jakob Høgenes, Hui Song, Nicolas Harrand and Benoit Baudry. 
 
-* [Loli Burgueño](http://www.lcc.uma.es/~loli), Manuel F. Bertoa, [Nathalie Moreno](http://www.lcc.uma.es/~nathalie/) and Antonio Vallecillo. Expressing Confidence in Models and in Model Transformations Elements
+### Expressing Confidence in Models and in Model Transformations Elements
+[Loli Burgueño](http://www.lcc.uma.es/~loli), Manuel F. Bertoa, [Nathalie Moreno](http://www.lcc.uma.es/~nathalie/) and Antonio Vallecillo. 
 
-* Wei Dou, [Domenico Bianculli](http://people.svv.lu/bianculli/) and [Lionel Briand](http://people.svv.lu/briand/). Model-Driven Trace Diagnostics for Pattern-based Temporal Specifications
+### Model-Driven Trace Diagnostics for Pattern-based Temporal Specifications
+Wei Dou, [Domenico Bianculli](http://people.svv.lu/bianculli/) and [Lionel Briand](http://people.svv.lu/briand/). 
 
-* Gala Barquero, [Loli Burgueño](http://www.lcc.uma.es/~loli), [Javier Troya](http://www.lsi.us.es/~jtroya/) and [Antonio Vallecillo](http://www.lcc.uma.es/~av). Extending Complex Event Processing to Graph-structured Information
+### Extending Complex Event Processing to Graph-structured Information
+Gala Barquero, [Loli Burgueño](http://www.lcc.uma.es/~loli), [Javier Troya](http://www.lsi.us.es/~jtroya/) and [Antonio Vallecillo](http://www.lcc.uma.es/~av). 
 
-* Salvador Martinez, Sebastien Gerard and Jordi Cabot. Robust Hashing for Models
+### Robust Hashing for Models
+Salvador Martinez, Sebastien Gerard and Jordi Cabot. 
 
-* [Thomas Kuehne](http://www.ecs.vuw.ac.nz/~tk). Exploring Potency
+### Exploring Potency
+[Thomas Kuehne](http://www.ecs.vuw.ac.nz/~tk). 
 
-* [Esther Guerra](http://www.ii.uam.es/~eguerra/) and [Juan De Lara](http://www.ii.uam.es/~jlara). On the Quest for Flexible Modelling
+### On the Quest for Flexible Modelling
+[Esther Guerra](http://www.ii.uam.es/~eguerra/) and [Juan De Lara](http://www.ii.uam.es/~jlara). 
 
-* [Juan De Lara](http://www.ii.uam.es/~jlara), [Esther Guerra](http://www.ii.uam.es/~eguerra/), [Marsha Chechik](http://www.cs.toronto.edu/~chechik/) and [Rick Salay](http://www.cs.utoronto.ca/~rsalay/). Model Transformation Product Lines
+### Model Transformation Product Lines
+[Juan De Lara](http://www.ii.uam.es/~jlara), [Esther Guerra](http://www.ii.uam.es/~eguerra/), [Marsha Chechik](http://www.cs.toronto.edu/~chechik/) and [Rick Salay](http://www.cs.utoronto.ca/~rsalay/). 
 
-* Djamel Eddine Khelladi, Roland Kretschmer and [Alexander Egyed](http://www.alexander-egyed.com/). Change Propagation-based and Composition-based Co-evolution of Transformations with Evolving Metamodels
+### Change Propagation-based and Composition-based Co-evolution of Transformations with Evolving Metamodels
+Djamel Eddine Khelladi, Roland Kretschmer and [Alexander Egyed](http://www.alexander-egyed.com/). 
 
-* Roberto Rodriguez-Echeverria, [Javier Luis Canovas Izquierdo](http://jlcanovas.es), [Jordi Cabot](http://jordicabot.com) and Manuel Wimmer. Towards a Language Server Protocol Infrastructure for Graphical Modeling
+### Towards a Language Server Protocol Infrastructure for Graphical Modeling
+Roberto Rodriguez-Echeverria, [Javier Luis Canovas Izquierdo](http://jlcanovas.es), [Jordi Cabot](http://jordicabot.com) and Manuel Wimmer. 
 
-* Lorena Arcega, Jaime Font and Carlos Cetina. Evolutionary Algorithm for Bug Localization in the Reconfigurations of Models at Runtime
+### Evolutionary Algorithm for Bug Localization in the Reconfigurations of Models at Runtime
+Lorena Arcega, Jaime Font and Carlos Cetina. 
 
-* Valentin Besnard, Matthias Brun, [Frédéric Jouault](http://trame.eseo.fr/en/people/frederic-jouault), [Ciprian Teodorov](http://www.teodorov.ro) and [Philippe Dhaussy](http://http.www.ensta-bretagne.fr). Unified LTL Verification and Embedded Execution of UML Models
+### Unified LTL Verification and Embedded Execution of UML Models
+Valentin Besnard, Matthias Brun, [Frédéric Jouault](http://trame.eseo.fr/en/people/frederic-jouault), [Ciprian Teodorov](http://www.teodorov.ro) and [Philippe Dhaussy](http://http.www.ensta-bretagne.fr). 
 
-* Markus Weckesser, Malte Lochau, Michael Ries and Andy Schürr. Mathematical Programming for Anomaly Analysis of Clafer Models
+### Mathematical Programming for Anomaly Analysis of Clafer Models
+Markus Weckesser, Malte Lochau, Michael Ries and Andy Schürr. 
 
-* Parsa Pourali and Joanne Atlee. An Empirical Investigation to Understand the Difficulties and Challenges of Software Modellers When Using Modelling Tools
+### An Empirical Investigation to Understand the Difficulties and Challenges of Software Modellers When Using Modelling Tools
+Parsa Pourali and Joanne Atlee. 
 
-* Florian Zoubek, Philip Langer and Tanja Mayerhofer. Visualizations of Evolving Graphical Models in the Context of Model Review
+### Visualizations of Evolving Graphical Models in the Context of Model Review
+Florian Zoubek, Philip Langer and Tanja Mayerhofer. 
 
-* Chihab Eddine Mokaddem, [Houari Sahraoui](http://www.iro.umontreal.ca/~sahraouh/) and [Eugene Syriani](http://www.iro.umontreal.ca/~syriani/). Recommending Model Refactoring Rules from Refactoring Examples
+### Recommending Model Refactoring Rules from Refactoring Examples
+Chihab Eddine Mokaddem, [Houari Sahraoui](http://www.iro.umontreal.ca/~sahraouh/) and [Eugene Syriani](http://www.iro.umontreal.ca/~syriani/). 
 
-* [Kristóf Marussy](https://inf.mit.bme.hu/en/members/marussyk), [Oszkár Semeráth](https://inf.mit.bme.hu/en/members/semeratho) and [Dániel Varró](https://inf.mit.bme.hu/en/members/varro). Incremental View Model Synchronization Using Partial Models
+### Incremental View Model Synchronization Using Partial Models
+[Kristóf Marussy](https://inf.mit.bme.hu/en/members/marussyk), [Oszkár Semeráth](https://inf.mit.bme.hu/en/members/semeratho) and [Dániel Varró](https://inf.mit.bme.hu/en/members/varro). 
 
-* Zinovy Diskin, [Tom Maibaum](http://www.cas.mcmaster.ca/~maibaum/), Alan Wassyng, [Mark Lawford](http://www.cas.mcmaster.ca/~lawford) and Stephen Wynn-Williams. Assurance via hierarchies of model transformation refinements
+### Assurance via hierarchies of model transformation refinements
+Zinovy Diskin, [Tom Maibaum](http://www.cas.mcmaster.ca/~maibaum/), Alan Wassyng, [Mark Lawford](http://www.cas.mcmaster.ca/~lawford) and Stephen Wynn-Williams. 
 
-* Wael Kessentini, Manuel Wimmer and [Houari Sahraoui](http://www.iro.umontreal.ca/~sahraouh/). Integrating the Designer in-the-loop for Metamodel/Model Co-Evolution via Interactive Computational Search
+### Integrating the Designer in-the-loop for Metamodel/Model Co-Evolution via Interactive Computational Search
+Wael Kessentini, Manuel Wimmer and [Houari Sahraoui](http://www.iro.umontreal.ca/~sahraouh/). 
 
-* [Ta’id Holmes](http://t.holmes.info/research) and Uwe Zdun. Refactoring Architecture Models for Compliance with Custom Requirements
+### Refactoring Architecture Models for Compliance with Custom Requirements
+[Ta’id Holmes](http://t.holmes.info/research) and Uwe Zdun. 
 
-* Andreas Kästner, [Martin Gogolla](http://www.db.informatik.uni-bremen.de) and Bran Selic. From (Imperfect) Object Diagrams to (Imperfect) Class Diagrams
+### From (Imperfect) Object Diagrams to (Imperfect) Class Diagrams
+Andreas Kästner, [Martin Gogolla](http://www.db.informatik.uni-bremen.de) and Bran Selic. 
 
-* [Oliver Kautz](http://www.se-rwth.de/) and [Bernhard Rumpe](http://www.se-rwth.de/~rumpe/). On Computing Instructions to Repair Failed Model Refinements
+### On Computing Instructions to Repair Failed Model Refinements
+[Oliver Kautz](http://www.se-rwth.de/) and [Bernhard Rumpe](http://www.se-rwth.de/~rumpe/). 
 
-* [Artur Boronat](http://www.cs.le.ac.uk/~aboronat/). Expressive and Efficient Model Transformation with an Internal DSL of Xtend
+### Expressive and Efficient Model Transformation with an Internal DSL of Xtend
+[Artur Boronat](http://www.cs.le.ac.uk/~aboronat/). 
 
 MODELS 2018 Accepted Papers for Practice & Innovation Track
 ===========================================================
 
-Ximing Chen, Zhihao Jiang, Eunsuk Kang, Shinichi Shiraishi and Victor M. Preciado. Digital Behavioral Twins for Safe Connected Cars
+### Preciado. Digital Behavioral Twins for Safe Connected Cars
+Ximing Chen, Zhihao Jiang, Eunsuk Kang, Shinichi Shiraishi and Victor M. 
 
-Carlos A. González, Mojtaba Varmazyar, Shiva Nejati, Briand Lionel and Yago Isasi Parache. Enabling Model Testing of Cyber-Physical Systems
+### Enabling Model Testing of Cyber-Physical Systems
+Carlos A. González, Mojtaba Varmazyar, Shiva Nejati, Briand Lionel and Yago Isasi Parache. 
 
-[Juha-Pekka Tolvanen](http://www.metacase.com/jpt.html) and [Steven Kelly](http://www.metacase.com/stevek.html). Effort Used to Create Domain-Specific Modeling Languages
+### Effort Used to Create Domain-Specific Modeling Languages
+[Juha-Pekka Tolvanen](http://www.metacase.com/jpt.html) and [Steven Kelly](http://www.metacase.com/stevek.html). 
 
-Alexandre Rio, Yoann Maurel, Olivier Barais and Yoran Bugni. Efficient use of local energy: An activity oriented modeling to guide Demand Side Management
+### Efficient use of local energy: An activity oriented modeling to guide Demand Side Management
+Alexandre Rio, Yoann Maurel, Olivier Barais and Yoran Bugni. 
 
-Matt Selway, [Georg Grossmann](http://people.unisa.edu.au/georg.grossmann), Kerryn Owen, Richard Dexter and [Markus Stumptner](http://people.unisa.edu.au/Markus.Stumptner). Integration of Visual Contracts and Model Transformation for Enhanced MDE Development
+### Integration of Visual Contracts and Model Transformation for Enhanced MDE Development
+Matt Selway, [Georg Grossmann](http://people.unisa.edu.au/georg.grossmann), Kerryn Owen, Richard Dexter and [Markus Stumptner](http://people.unisa.edu.au/Markus.Stumptner). 
 
-[Hugo Bruneliere](http://web.emn.fr/x-info/atlanmod/index.php?title=User:Bruneliere), Florent Marchand de Kerchove, Gwendal Daniel and [Jordi Cabot](http://jordicabot.com). Towards Scalable Model Views on Heterogeneous Model Resources
+### Towards Scalable Model Views on Heterogeneous Model Resources
+[Hugo Bruneliere](http://web.emn.fr/x-info/atlanmod/index.php?title=User:Bruneliere), Florent Marchand de Kerchove, Gwendal Daniel and [Jordi Cabot](http://jordicabot.com). 
 
-Arne Nordmann and Peter Munk. Lessons Learned from Model-Based Safety Assessment with SysML and Component Fault Trees
+### Lessons Learned from Model-Based Safety Assessment with SysML and Component Fault Trees
+Arne Nordmann and Peter Munk. 
 
-Antonio Bucchiarone and [Antonio Cicchetti](http://www.es.mdh.se/staff/198-Antonio_Cicchetti). A Model-Driven Solution to support Smart Mobility Planning
+### A Model-Driven Solution to support Smart Mobility Planning
+Antonio Bucchiarone and [Antonio Cicchetti](http://www.es.mdh.se/staff/198-Antonio_Cicchetti). 
 
-Johannes Eder, Andreas Bayha, Sebastian Voss, Alexandru Ipatiov and Maged Khalil. From Deployment to Platform Exploration - Automatic Synthesis of Distributed Automotive Hardware Architectures
+### From Deployment to Platform Exploration - Automatic Synthesis of Distributed Automotive Hardware Architectures
+Johannes Eder, Andreas Bayha, Sebastian Voss, Alexandru Ipatiov and Maged Khalil. 
 
-[Omar Badreddin](http://Badreddin.com), Rahad Khandoker, Andrew Forward, Omar Masmali and [Timothy Lethbridge](http://www.site.uottawa.ca/~tcl/). A Decade of Software Design and Modeling: A Practitioners Survey to Uncover Trends of the Practice
+### A Decade of Software Design and Modeling: A Practitioners Survey to Uncover Trends of the Practice
+[Omar Badreddin](http://Badreddin.com), Rahad Khandoker, Andrew Forward, Omar Masmali and [Timothy Lethbridge](http://www.site.uottawa.ca/~tcl/). 
 
-Cody Kinneer and Sebastian Herzig. Dissimilarity Measures for Clustering Space Mission Architectures
+### Dissimilarity Measures for Clustering Space Mission Architectures
+Cody Kinneer and Sebastian Herzig. 
 
-[Manuel Ballarin](http://www.usj.es), [Ana Marcen](http://www.usj.es), [Vicente Pelechano](http://www.upv.es) and [Carlos Cetina](http://www.usj.es). Measures to report the Location Problem of Model Fragment Location
+### Measures to report the Location Problem of Model Fragment Location
+[Manuel Ballarin](http://www.usj.es), [Ana Marcen](http://www.usj.es), [Vicente Pelechano](http://www.upv.es) and [Carlos Cetina](http://www.usj.es). 
 
-Henrique Henriques, Hugo Lourenço, Vasco Amaral and Miguel Goulão. Improving the developer experience with a Low-Code Process Modelling Language
+### Improving the developer experience with a Low-Code Process Modelling Language
+Henrique Henriques, Hugo Lourenço, Vasco Amaral and Miguel Goulão. 
 
      
 </div>
