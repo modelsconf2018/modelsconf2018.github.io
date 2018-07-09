@@ -18,10 +18,11 @@ This year MODELS will host a dedicated meeting on MBSE that will explore the spe
 
 Since the MBSE meeting is fully part of MODELS'18, participants will have to register through the MODELS registration system.
 
-## Preliminary agenda
+## Speakers
 
-* Keynote: Ed Seidewitz (ModelDriven.com)
-
+* Keynote: SysML v2 and MBSE: The next ten years, Ed Seidewitz (Model Driven Solutions)
+  	   
+	   
 * Morning session focussing in Automotive Challenges
 
   * Industrial talks:
