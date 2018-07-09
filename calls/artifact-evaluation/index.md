@@ -33,7 +33,7 @@ This badge explicitly communicates to the paper's readers that the authors have 
 
 ## Important Dates
 * Thu 5 July 2018: Paper Notification - Foundation/Practice and Innovation Tracks; call for artifacts
-* Tue 10 July 2018: Artifact submission (via Github, see <em>Submission</em>)
+* Tue 11 July 2018: Artifact submission (via Github, see <em>Submission</em>)
 * 11--17 July 2018: Reviewing period
 * Thu 19 July 2018: Artifact notification
 * Sat 21 July 2018: Camera ready due; including AEC badges
@@ -75,7 +75,7 @@ Quetions should be addressed to the chairs of the Artifact Evaluation committee 
       <td>Thu 5 July 2018<br />Paper Notification - Foundation/Practice and Innovation Tracks; Call for artifacts</td>
       </tr>
       <tr>
-       <td>Tue 10 July 2018<br />Artifact submission</td>
+       <td>Tue 11 July 2018<br />Artifact submission</td>
       </tr>
       <tr>
        <td>11-17 July 2018<br />Reviewing period</td>
