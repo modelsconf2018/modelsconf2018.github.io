@@ -131,7 +131,7 @@ Antonio Bucchiarone and [Antonio Cicchetti](http://www.es.mdh.se/staff/198-Anton
 ### From Deployment to Platform Exploration - Automatic Synthesis of Distributed Automotive Hardware Architectures
 Johannes Eder, Andreas Bayha, Sebastian Voss, Alexandru Ipatiov and Maged Khalil. 
 <hr>
-### A Decade of Software Design and Modeling: A Practitioners Survey to Uncover Trends of the Practice
+### A Decade of Software Design and Modeling: A Survey to Uncover Trends of the Practice
 [Omar Badreddin](http://Badreddin.com), Rahad Khandoker, Andrew Forward, Omar Masmali and [Timothy Lethbridge](http://www.site.uottawa.ca/~tcl/). 
 <hr>
 ### Dissimilarity Measures for Clustering Space Mission Architectures
