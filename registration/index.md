@@ -43,7 +43,7 @@ The conference program is longer this year: Plan to be able to leave the confere
   <tr>
     <td class="tg-l711"></td>
     <td class="tg-8m2u">Non-member</td>
-    <td class="tg-p8bj">ACM/IEEE member</td>
+    <td class="tg-p8bj">ACM/IEEE member or <br> SDL Forum Society member</td>
     <td class="tg-p8bj">Retiree</td>
     <td class="tg-p8bj">Student</td>
     <td class="tg-us36"></td>
@@ -141,6 +141,8 @@ Besides a regular rate, there are four discounted registrant types, defined belo
 
 A discounted rate is applicable to both members of ACM and to members of IEEE, regardless of member grade, and whether they are affiliated with industry or academia.  Your membership has to be valid from the registration time to the conference time, and you should be able to show the membership card on arrival. Industry participants partaking in the conference for up to 3 days, retirees and students will likely find other rates more attractive.
 
+SDL Forum Society members get the same discount as ACM/IEEE members.
+
 ### Retiree Rates
 
 This rate has been introduced to facilitate participation of senior members of the modeling community who already retired from their academic and industrial employment. The retiree rate does not include participation in the banquet (this can be added for an extra fee).
@@ -156,7 +158,6 @@ The special industry rate has been introduced in order to stimulate industrial p
 Industrial registration does not include access to the banquet.  It covers participation on three consecutive days of the conference that have to be indicated during registration (does not cover Friday).  If banquet participation is needed, please purchase an extra banquet ticket. If you need more than three days, please choose another set of rates (the member/non-member rates). Consider that before choosing an industrial rate (hard to revert in regonline).
 
 Industry rates can only be used by industry affiliated delegates (not by academics and researchers from public research institutions or from universities). 
-
 
 ## Events and Functions
 
