@@ -156,7 +156,9 @@ You have to be enrolled as an undergraduate or graduate student (incl. PhD stude
 If you are a student coming to MODELS 2018, please consider applying for this travel fund! To be reimbursed costs for conference attendance, you must be a SIGSOFT member prior to registering for the conference and you must enter your member number when registering for the conference; additionally, you must register by the early registration deadline or within five working days of the award notification date (whichever is later). 
 
 Application deadline: August 19th, 2018
+
 Apply here: [https://awards.sigsoft.org/CAPS/](https://awards.sigsoft.org/CAPS/)
+
 More information here: [https://www.sigsoft.org/resources/caps.html](https://www.sigsoft.org/resources/caps.html)
 
 ### Industry rates
