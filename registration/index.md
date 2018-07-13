@@ -151,6 +151,14 @@ This rate has been introduced to facilitate participation of senior members of t
 
 You have to be enrolled as an undergraduate or graduate student (incl. PhD students) in an accredited higher education institution. You must be able to show your student card on arrival. Note that student registration rates do not include participation in the banquet (can be added for a fee).
 
+**ACM & SIGSOFT are offering travel fund support for students (undergrads and grads) to participate at the MODELS 2018 Conference in Copenhagen.**
+
+If you are a student coming to MODELS 2018, please consider applying for this travel fund! To be reimbursed costs for conference attendance, you must be a SIGSOFT member prior to registering for the conference and you must enter your member number when registering for the conference; additionally, you must register by the early registration deadline or within five working days of the award notification date (whichever is later). 
+
+Application deadline: August 19th, 2018
+Apply here: [https://awards.sigsoft.org/CAPS/](https://awards.sigsoft.org/CAPS/)
+More information here: [https://www.sigsoft.org/resources/caps.html](https://www.sigsoft.org/resources/caps.html)
+
 ### Industry rates
 
 The special industry rate has been introduced in order to stimulate industrial participation in the MODELS'18 industry program.  Industrial participants must be able to show that they are affiliated with an industrial organization. 
