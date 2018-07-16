@@ -14,6 +14,13 @@ The Industry Day at MODELS’18 is a unique opportunity to interact with the wor
 
 
 Since the Industry Day is fully part of MODELS’18, participants will have to register through the <a href="https://modelsconf2018.github.io/attending/registration/">MODELS registration system</a>.
+
+<object data="http://modelsconf2018.github.io/assets/industry-day-flier.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://modelsconf2018.github.io/assets/industry-day-flier.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 </div>
 </div>
 
