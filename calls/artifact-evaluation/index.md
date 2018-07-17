@@ -7,7 +7,7 @@ slug: artifact-evaluation
 
 # Artifact Evaluation
 For the second year, MODELS will implement a separate evaluation process to assess the quality of the artifacts supporting the work presented in accepted papers.
-With the artifact evaluation process, we want to acknowledge the considerable effort required to obtain high-quality artifacts, to foster a culture of experimental reproducibility, and to provide a peer review and archiving process for artifacts similar to that of reseach papers.
+With the artifact evaluation process, we want to acknowledge the considerable effort required to obtain high-quality artifacts, to foster a culture of experimental reproducibility, and to provide a peer review and archiving process for artifacts similar to that of research papers.
 
 The goal of artifact archiving is to ensure that the artifacts stay available for a long time, that they can be located easily, and that they can be reused by other researchers. Additionally, archiving allows to designate exactly the version of the artifact that was used to produce the research results.
 
@@ -29,34 +29,34 @@ Authors of accepted papers will receive detailed instructions by e-mail.
 
 ## Benefits
 Authors of papers with accepted artifacts will be invited to include an official [ACM Artifact Evaluation badge](https://www.acm.org/publications/policies/artifact-review-badging) on the first page of the camera-ready version of their paper.
-This badge explicitly communicates to the paper's readers that the authors have undergone a specific evaluation process for their artifact.
+This badge explicitly communicates to the paper’s readers that the authors have undergone a specific evaluation process for their artifact.
 
 ## Important Dates
 * Thu 5 July 2018: Paper Notification - Foundation/Practice and Innovation Tracks; call for artifacts
-* Tue 11 July 2018: Artifact submission (via Github, see <em>Submission</em>)
+* Tue 11 July 2018: Artifact submission (via GitHub, see <em>Submission</em>)
 * 11--17 July 2018: Reviewing period
 * Thu 19 July 2018: Artifact notification
 * Sat 21 July 2018: Camera ready due; including AEC badges
 
 ## Artifact Evaluation Chairs
-* Vadim Zaytsev, Raincode, Belgium
-* Thomas Degueule, Centrum Wiskunde & Informatica, Netherlands
+* Vadim Zaytsev, Raincode Labs, Belgium
+* Thomas Degueule, Centrum Wiskunde & Informatica, the Netherlands
 
 ## Artifact Evaluation Committee
 * Mojtaba Bagherzadeh, Queen’s University, Canada
-* Francesco Basciani, University of L'Aquila, Italy
-* Juri Di Rocco, University of L'Aquila, Italy
+* Francesco Basciani, University of L’Aquila, Italy
+* Juri Di Rocco, University of L’Aquila, Italy
 * Michael Herzberg, University of Sheffield, United Kingdom
-* Karim Jahed, Queen's University, Canada
 * Théo Le Calvar, University of Angers, France
 * Manuel Leduc, Inria, France
 * Hernán Ponce de León, fortiss GmbH, Germany
 * Nicolas Sannier, University of Luxembourg, Luxembourg
 * Stefan Sauer, Paderborn University, Germany
+* Nils Weidmann, Paderborn University, Germany
 * Thanos Zolotas, University of York, United Kingdom
 
 ## Further Information
-Quetions should be addressed to the chairs of the Artifact Evaluation committee using the following e-mail address: models18aec@gmail.com
+Questions should be addressed to the chairs of the Artifact Evaluation committee using the following e-mail address: models18aec@gmail.com
 
 </div>
 <div id="dates" class="col-md-4">
@@ -91,5 +91,3 @@ Quetions should be addressed to the chairs of the Artifact Evaluation committee 
   </div>
  </div>
 </div>
-
-
