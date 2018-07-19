@@ -9,9 +9,8 @@ slug: registration
 
 Please read the following page before proceeding to the registration system. 
 
-The conference program is longer this year: Plan to be able to leave the conference area at 1500 hours on Friday (lunch will be included on Friday).
+The conference program is longer this year: Plan to be able to leave the conference area at 15:00 hours on Friday (lunch will be included on Friday).
 
-<br/>
 <br/>
 
 <style type="text/css">
