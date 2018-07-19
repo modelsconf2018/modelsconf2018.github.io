@@ -55,6 +55,30 @@ MODELS, the ACM/IEEE 21th International Conference on Model Driven Engineering L
 </p>
 
 </div>
+
+<div class="col-md-4">
+    <div class="panel panel-primary">
+      <div class="panel-heading">
+         <h3 class="panel-title">
+             <a href="https://modelsconf2018.github.io/registration/" target="_blank">Registration Deadlines</a> <span class="pull-right"> 
+                                <!-- <span class="glyphicon glyphicon-globe"></span>-->
+                                <!--<span class="glyphicon glyphicon-time"></span>-->
+                                <!--AoE (UTC-12)-->
+                              </span> <br />
+       </h3>
+      </div>
+	     <table class="table table-hover">
+      <tbody>
+      <tr>
+      <td> Until Sun Sept 2 2018 <br />Early Registration Deadline</td>
+      </tr>
+      <tr>
+      <td> Mon Sep 3 - Fri Oct 12 2018<br /> Late Registration Deadline</td>
+      </tr>
+      </tbody>
+      </table>
+      </div>
+   </div>
 <div class="col-md-4">
     <div class="panel panel-primary">
       <div class="panel-heading">
