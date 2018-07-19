@@ -76,7 +76,7 @@ MODELS, the ACM/IEEE 21th International Conference on Model Driven Engineering L
 	      <td> Mon Sep 3 - Fri Oct 12 2018<br /><a href="/registration">Late Registration Deadline</a></td>
       </tr>     
       <tr class="clickable-row" data-href="url://calls/important-dates">
-	<td> All submission & notification deadlines </td>
+	      <td> <a href="/calls/important-dates"> All submission & notification deadlines </a> </td>
       </tr>
 	
       </tbody>
