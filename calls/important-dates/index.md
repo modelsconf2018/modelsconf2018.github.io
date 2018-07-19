@@ -10,7 +10,7 @@ slug: important-dates
 ## All Important Dates
 
 
-<div id="submission-dates" class="col-md-12">
+<div id="registration-dates" class="col-md-12">
     <div class="panel panel-primary">
       <div class="panel-heading">
 	      
@@ -35,7 +35,11 @@ slug: important-dates
       </tr>
       </tbody>
       </table>
-      
+      </div>
+      </div>
+      <div id="submission-dates" class="col-md-12">
+    <div class="panel panel-primary">
+      <div class="panel-heading">
         <div class="panel-title">
              Submission Deadlines <span class="pull-right"> 
                                 <span class="glyphicon glyphicon-globe"></span>
