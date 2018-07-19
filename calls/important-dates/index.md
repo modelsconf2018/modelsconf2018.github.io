@@ -15,7 +15,7 @@ slug: important-dates
       <div class="panel-heading">
 	      
 	 <div class="panel-title">
-             <a href = "https://modelsconf2018.github.io/registration/" target="_blank">Registration Deadlines</a> <span class="pull-right"> 
+             <a href = "https://modelsconf2018.github.io/registration/" >Registration Deadlines</a> <span class="pull-right"> 
                                
                               </span> <br />
 	      
