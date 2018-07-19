@@ -13,11 +13,11 @@ slug: keynotes
 <img align="left" src="/assets/faces/sseres.jpg" alt="Silvija Seres" class="team-face" style="margin-right: 20px"/> 
  
 <p>This talk will focus on addressing the current lack of strategies for future business models in face of rapid technological change. The narrative of finding and keeping a position sustainable competitive  advantage breaks when dominant strategic positions shift in a matter of months, driven by new business models and new critical resources, such as good clean data and sharp analytic tools.
-
+<br>
 Most board members, just as most owners and leaders, still think in terms of the previous industrial revolution, and attempt to regain competitive positions by incremental improvements to their production or marketing processes, while the new players uninhibitedly accumulate the real competitive advantages. Most incumbents are in a paradoxical position where their proprietary data and their unique understanding of critical processes present a strategis liability, while it should and could be used as a clear advantage. Old models of good leadership forces them to think, in Henry Ford's terms, of ever faster horses rather than new vehicles and infrastructure.
-
+<br>
 We'll outline a simple model for constructive strategies for the future, built on three levels: new efficiencies, new business drivers, and new externalities.
-
+<br>
 This is not a research-based talk, but rather a set of observations from an ex-academic techie's wanderings in the world of business, board rooms and investment partnerships. 
 </p>
 
@@ -66,11 +66,11 @@ In recent years Dr. Cordy’s research group has concentrated on similarity in s
 <img align="left" src="/assets/faces/mwisse.jpg" alt="Martijn Wisse" class="team-face" style="margin-right: 20px;" />
  
 This talk will focus on robot and animal motions. For any system in the real world (robots, animals, and humans alike), for any task that they need to execute, the world needs to be predictable. Accurate predictions facilitate anticipation, planning, and optimization. And predictions are made with a model, i.e. a description of (relevant parts of) the world written in a well-defined language. So the key question for this talk is which models and which modelling language are used by robots and by the biological brain, and is there any similarity between the two?
-
+<br>
 We will first review which models and which language are used for the prediction of dynamic motions for robots. We will survey the basics of (systems of) differential equations illustrated with our work on walking robots, self-driving cars, robotic arms, hands, and integrated systems for logistic applications (the "Amazon Picking Challenge").
-
+<br>
 Next, in this presentation we survey the reigning neuroscientific theories for how the brain does modelling and prediction. Prediction will appear to play a deep fundamental role in all of our brain functions, and we will analyse how this is related to the robot approach; the brain has no processing unit for matrix multiplications or differential equations, so how does the brain do dynamic prediction?
-
+<br>
 Finally, we will share a preliminary breakthrough result termed "Dualistic Prediction Error Minimization", a key insight from the brain's ways of prediction error minimization, which will allow for a tremendous improvement in modelling accuracy for our future complex robot systems that require predictability within a complex environment.
 
 <h3> Bio </h3>
