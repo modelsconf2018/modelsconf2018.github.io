@@ -25,10 +25,10 @@ slug: important-dates
       </div>
        <table class="table table-hover">
       <tbody>
-      <tr>
+      <tr class="clickable-row" data-href='url://registration'>
 	      <td> Until Sun Sept 2 2018 <br /><a href="/registration">Early Registration Deadline</a></td>
       </tr>
-      <tr>
+      <tr class="clickable-row" data-href='url://registration'>
 	      <td> Mon Sep 3 - Fri Oct 12 2018<br /><a href="/registration">Late Registration Deadline</a></td>
       </tr>
       </tbody>
