@@ -60,7 +60,7 @@ MODELS, the ACM/IEEE 21th International Conference on Model Driven Engineering L
     <div class="panel panel-primary">
       <div class="panel-heading">
          <h3 class="panel-title">
-             <a href="https://modelsconf2018.github.io/calls/important-dates" target="_blank">Registration & Submission Deadlines</a> <span class="pull-right"> 
+             <a href="https://modelsconf2018.github.io/calls/important-dates" >Registration & Submission Deadlines</a> <span class="pull-right"> 
                                 <!-- <span class="glyphicon glyphicon-globe"></span>-->
                                 <!--<span class="glyphicon glyphicon-time"></span>-->
                                 <!--AoE (UTC-12)-->
