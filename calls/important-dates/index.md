@@ -16,9 +16,7 @@ slug: important-dates
 	      
 	 <div class="panel-title">
              <a href = "https://modelsconf2018.github.io/registration/" target="_blank">Registration Deadlines</a> <span class="pull-right"> 
-                                <span class="glyphicon glyphicon-globe"></span>
-                                <span class="glyphicon glyphicon-time"></span>
-                                AoE (UTC-12)
+                               
                               </span> <br />
 	      
         </div>
