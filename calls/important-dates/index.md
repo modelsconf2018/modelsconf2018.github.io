@@ -13,6 +13,29 @@ slug: important-dates
 <div id="submission-dates" class="col-md-12">
     <div class="panel panel-primary">
       <div class="panel-heading">
+	      
+	 <div class="panel-title">
+             <a href = "https://modelsconf2018.github.io/registration/" target="_blank">Registration Deadlines</a> <span class="pull-right"> 
+                                <span class="glyphicon glyphicon-globe"></span>
+                                <span class="glyphicon glyphicon-time"></span>
+                                AoE (UTC-12)
+                              </span> <br />
+	      
+        </div>
+	
+	
+      </div>
+       <table class="table table-hover">
+      <tbody>
+      <tr>
+      <td> Until Sun Sept 2 2018 <br />Early Registration Deadline</td>
+      </tr>
+      <tr>
+      <td> Mon Sep 3 - Fri Oct 12 2018<br/> Late Registration Deadline</td>
+      </tr>
+      </tbody>
+      </table>
+      
         <div class="panel-title">
              Submission Deadlines <span class="pull-right"> 
                                 <span class="glyphicon glyphicon-globe"></span>
