@@ -65,14 +65,13 @@ In recent years Dr. Cordy’s research group has concentrated on similarity in s
 <h2> Martijn Wisse -  Models for motion prediction; robotic brains versus biological brains</h2>
 <img align="left" src="/assets/faces/mwisse.jpg" alt="Martijn Wisse" class="team-face" style="margin-right: 20px;" />
  
-<p>This talk will focus on robot and animal motions. For any system in the real world (robots, animals, and humans alike), for any task that they need to execute, the world needs to be predictable. Accurate predictions facilitate anticipation, planning, and optimization. And predictions are made with a model, i.e. a description of (relevant parts of) the world written in a well-defined language. So the key question for this talk is which models and which modelling language are used by robots and by the biological brain, and is there any similarity between the two?
+This talk will focus on robot and animal motions. For any system in the real world (robots, animals, and humans alike), for any task that they need to execute, the world needs to be predictable. Accurate predictions facilitate anticipation, planning, and optimization. And predictions are made with a model, i.e. a description of (relevant parts of) the world written in a well-defined language. So the key question for this talk is which models and which modelling language are used by robots and by the biological brain, and is there any similarity between the two?
 
 We will first review which models and which language are used for the prediction of dynamic motions for robots. We will survey the basics of (systems of) differential equations illustrated with our work on walking robots, self-driving cars, robotic arms, hands, and integrated systems for logistic applications (the "Amazon Picking Challenge").
 
 Next, in this presentation we survey the reigning neuroscientific theories for how the brain does modelling and prediction. Prediction will appear to play a deep fundamental role in all of our brain functions, and we will analyse how this is related to the robot approach; the brain has no processing unit for matrix multiplications or differential equations, so how does the brain do dynamic prediction?
 
 Finally, we will share a preliminary breakthrough result termed "Dualistic Prediction Error Minimization", a key insight from the brain's ways of prediction error minimization, which will allow for a tremendous improvement in modelling accuracy for our future complex robot systems that require predictability within a complex environment.
-</p>
 
 <h3> Bio </h3>
 Martijn Wisse is Professor of Biorobotics and Director of the Robotics Institute at Delft University of Technology, The Netherlands. He has co-founded the TU Delft Robotics Institute, the robotics ecosystem “RoboValley”, and the two successful spin-off companies Lacquey (now FTNON Lacquey) and Fizyr. He served as the coordinator of the EU FP7 project “Factory-in-a-Day” and currently coordinates the EU H2020 project “ROSIN” which focuses on the open-source robot software framework ROS-Industrial.  
