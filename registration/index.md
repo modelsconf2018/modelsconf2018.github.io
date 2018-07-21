@@ -205,7 +205,7 @@ We allow (and strongly prefer) name changes on the registrations over cancellati
 
 We accept major credit cards (Visa/Mastercard/American Express) and some related debit cards.  No cash registrations and no direct money transfers are accepted.  On-site registration uses the same system as remote registration, and you have to be able to use your credit card.
 
-You can access the receipt link from the payment confirmation page or from the page linked in the Regonline confirmation email. Please make sure that `events@regonline.com` is white-listed by your spam filter, in order for the confirmation email not to be caught in the spam filter.
+You can access the receipt link from the payment confirmation page or from the page linked in the Regonline confirmation email. Please make sure that `events@regonline.com` is white-listed by your spam filter, in order for the confirmation email not to be marked as spam or quarantined.
 
 This is the only payment receipt you will receive.  For EU residents this receipt contains all the necessary VAT information. 
 
