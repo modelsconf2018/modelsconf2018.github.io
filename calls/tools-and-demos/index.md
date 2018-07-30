@@ -16,7 +16,7 @@ We will also be inviting “lightning demos” as a second opportunity to run a 
 ## Important Dates
 All submission deadlines are AoE (i.e. UTC-12).
 * July 20, 2018, Abstract 
-* July 27, 2018, Full submission
+* July 31, 2018, Full submission (extended)
 * August 17, 2018, Acceptance notification
 * August 24, 2018, Camera ready
 * TBD (October 14-19, 2018), Demo session
