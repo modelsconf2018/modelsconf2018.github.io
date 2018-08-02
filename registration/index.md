@@ -183,7 +183,9 @@ Industrial registration gives access to the reception on Monday and Wednesday on
 
 In order to participate in the banquet you need a regular/member registration for main conference or the full week.  Otherwise, you need to purchase the extra ticket during the registration.
 
-Space in all functions is limited.  Based on the data from previous editions the organizers believe that there will be space for everybody  in the venues. However, we don't guarantee this, so if you register late you may be denied the ticket.  Participants registering after October 1 and on-site can be almost sure to miss the banquet.
+It is possible to buy an extra ticket with a child menu.  Such ticket is 41.25 EUR including VAT. Don't use it for adults as the restaurant will refuse to serve.
+
+Space in all functions is limited.  Based on the data from previous editions the organizers believe that there will be space for everybody  in the venues. However, we don't guarantee this, so if you register late you may be denied the ticket.  Participants registering after October 3 and on-site can be almost sure to miss the banquet.
 
 ### Matchmaking Event
 
