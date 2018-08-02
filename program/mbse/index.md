@@ -27,7 +27,7 @@ Since the MBSE meeting is fully part of MODELS'18, participants will have to reg
 
   * Industrial talks:
 	  * Mattias Mohlin (HCL)
-	  * To be announced (Continental)
+	  * Maged Khalil (Continental)
 	  * Christian Zingel (AVL)
 	  * Thibault Thomas (Plastic Omnium)
 
