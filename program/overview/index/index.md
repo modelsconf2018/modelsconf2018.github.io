@@ -102,7 +102,7 @@ slug: program-overview
     <td class="tg-uys7"></td>
   </tr>
   <tr>
-    <td class="tg-utq8">ML + FV = ♥!</td>
+    <td class="tg-mnkh">T12 ML + FV = ♥!</td>
     <td class="tg-c3ow"></td>
     <td class="tg-b28d" colspan="2">T3 DevYrCar</td>
     <td class="tg-mply" colspan="2"><a href="http://www.models-and-evolution.com/2018/">W14 Models and Evolution</a></td>
