@@ -40,7 +40,7 @@ IT University of Copenhagen is easily reachable by public transport.
 
 *Booking:* Before Sept 21<sup>st</sup>. Taxes are included in price. Cancellation must happen before or Imperial reserves right to full compensation.
 
-<a href="https://www.imperial-hotel-copenhagen.com/arpbe/web/en/login/67299236">
+<a href="https://www.imperial-hotel-copenhagen.com/arpbe/web/en/login/67299236" target="_blank">
 <span class="glyphicon glyphicon glyphicon-new-window" aria-hidden="true"></span> Reservation</a>
 
 #### Wakeup Copenhagen
@@ -75,7 +75,7 @@ Please select rate marked with MODELS2018 as can be seen on the picture below:
 
 (Note: The marginally cheaper Economy rate on the picture does not include breakfast nor allows cancellation)
 
-<a href="https://www.wakeupcopenhagen.com/arpbe/web/en/login/66626868">
+<a href="https://www.wakeupcopenhagen.com/arpbe/web/en/login/66626868" target="_blank">
 <span class="glyphicon glyphicon glyphicon-new-window" aria-hidden="true"></span> Reservation</a>
 
 ## Student-friendly Accomodation
@@ -86,7 +86,7 @@ Please select rate marked with MODELS2018 as can be seen on the picture below:
 Within walking distance to the IT University of Copenhagen, this hostel provides a good student-friendly accommodation for the conference.
 It’s also close to the town square and attractions such as Ny Carlsberg Glyptotek and the Tivoli Gardens.
 
-<a href="https://www.danhostel.dk/en/hostel/danhostel-copenhagen-city-0">
+<a href="https://www.danhostel.dk/en/hostel/danhostel-copenhagen-city-0" target="_blank">
 <span class="glyphicon glyphicon glyphicon-new-window" aria-hidden="true"></span> Reservation</a>
 
 #### Danhostel Copenhagen Amager
@@ -95,7 +95,7 @@ It’s also close to the town square and attractions such as Ny Carlsberg Glypto
 This hostel lies in the middle of a beautiful naturally green area on Amager.
 You can easily get to the IT University of Copenhagen and the city center using the always-available Metro trains.
 
-<a href="https://www.danhostel.dk/en/hostel/danhostel-copenhagen-amager">
+<a href="https://www.danhostel.dk/en/hostel/danhostel-copenhagen-amager" target="_blank">
 <span class="glyphicon glyphicon glyphicon-new-window" aria-hidden="true"></span> Reservation</a>
 
 #### Steel House Copenhagen
@@ -104,7 +104,7 @@ You can easily get to the IT University of Copenhagen and the city center using 
 A self-described luxus hostel in the trendy Vesterbro area with plenty of facilities: game room, gym, pool, cinema, and SoMe garden.
 With a bit of walking, you can get to the IT University of Copenhagen using Bus or Metro in under 30 minutes. Alternatively, you can rent a bike from the hostel and try the Copenhagen way of transport.
 
-<a href="https://www.steelhousecopenhagen.com/">
+<a href="https://www.steelhousecopenhagen.com/" target="_blank">
 <span class="glyphicon glyphicon glyphicon-new-window" aria-hidden="true"></span> Reservation</a>
 
 #### CABINN Metro
@@ -115,7 +115,7 @@ Hotel
 Low priced hotel with modern design. Close to the Field’s shopping center, which includes a modern cinema with state of the art technologies and plenty of restaurants.
 You can easily get to the IT University of Copenhagen and the city center using the always-available Metro trains.
 
-<a href="https://www.cabinn.com/en/hotel/cabinn-metro-hotel">
+<a href="https://www.cabinn.com/en/hotel/cabinn-metro-hotel" target="_blank">
 <span class="glyphicon glyphicon glyphicon-new-window" aria-hidden="true"></span> Reservation</a>
 
 </div>
