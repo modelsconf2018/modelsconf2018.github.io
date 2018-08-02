@@ -495,7 +495,65 @@ architecture, self-adaptive systems, and big data analytics.
 
 <hr>
 
+## [T12] ML + FV = ♥! A Gentle Introduction to the Application of Machine Learning to Formal Verification
 
+### Speakers: Moussa Amrani, Levi Lúcio, Adrien Bibal
+
+### Abstract
+
+Formal Verification (FV) and Machine Learning
+(ML) can seem incompatible due to their opposite mathematical
+foundations and their use in real-life problems: FV mostly relies
+on discrete mathematics and aims at ensuring correctness; ML
+often relies on probabilistic models and consists of learning
+patterns from training data. In this tutorial, we will explore
+how ML helps FV in some classical approaches: static analysis,
+model-checking, theorem-proving, and SAT solving. We draw
+a landscape of the current practice and catalog some of the
+most prominent uses of ML inside FV tools, thus offering a
+new perspective on FV techniques that can help researchers
+and practitioners to better locate the possible synergies. We will
+discuss lessons learned from a survey we have done during the
+past year, point to possible improvements and offer visions for the
+future of the domain in the light of the science of software and
+systems modeling. The last part of the tutorial will be devoted
+to discussions with the audience in order to both challenge the
+views we present throughout the tutorial and gather directions
+for future research on this topic.
+
+### Biography
+
+[Moussa Amrani](https://directory.unamur.be/staff/mamrani) is a post-doc researcher at Université
+de Namur, Belgium. He graduated with a Ph.D from the
+University of Luxembourg in 2013 for his work on the formal
+verification of model transformation languages. In Namur, he
+works with local industries to help them introduce Model-Driven Software Engineering and Domain-Specific Languages
+in their development processes, and ensure the correctness of
+their software through testing and formal verification tools.
+He is currently involved in a Walloon Region project aiming
+at certifying applications (for aeronautics DO-178C; for trains
+EN 50155 and EN 5012x). Moussa’s current research interests
+include software modeling, formal verification, and software
+certification.
+
+[Levi Lúcio](https://www.fortiss.org/ueber-uns/mitarbeiter/levi-lucio/)  is a senior scientist and project manager
+at fortiss GmbH in Munich, Germany. He was awarded a
+PhD from the University of Geneva, Switzerland, in 2008, for
+his work on Model-Based Testing. At fortiss he works with
+aerospace and automotive companies to develop novel tools
+that include model-based software engineering and domain
+specificity at their core. After completing his PhD, Levi
+worked extensively in the area of model transformations,
+having proposed techniques for model transformation specification, execution and verification, as well as surveys in
+the domain. He has been part of the organizing committee
+of 10+ workshops, many of them co-located with MODELS.
+Levi’s current research interests are domain-specific modeling,
+usability in formal methods and, more recently, how machine
+learning can help in modeling software and in software engineering in general.
+
+[Adrien Bibal](https://directory.unamur.be/staff/abibal) is a Ph.D. student at the Université
+de Namur (Belgium) under the supervision of Professor Benoît Frénay. He received an M.S. degree in Computer Science and an M.A. degree in Philosophy from the Université catholique de Louvain (Belgium) in 2013 and 2015 respectively. His Ph.D. thesis in Machine Learning is on the
+interpretability of dimensionality reduction models.
 </div>
 </div>
 
