@@ -124,8 +124,7 @@ Length: full day
 
 ### Biography
 
-**[Levi Lúcio](https://www.fortiss.org/ueber-uns/mitarbeiter/levi-lucio/)** is a senior scientist and project manager at fortiss. He was awarded a PhD from the University of Geneva, Switzerland, in 2008, for his work on Model-Based Testing. At fortiss he works tightly with aerospace and automotive companies to develop novel tools that include model-based software engineering and domain specificity at their core. After completing his PhD, Levi worked extensively in the area of model transformations, having proposed several tools and surveys in the domain. He has been part of the organizing committee of 10+ workshops, many of them co-located with MODELS. Levi’s current research interests are domain-specific modeling, usability in formal methods and,
-more recently, how machine learning can help in modeling software and in software engineering in general.
+**[Levi Lúcio](https://www.fortiss.org/ueber-uns/mitarbeiter/levi-lucio/)** is a senior scientist and project manager at fortiss GmbH in Munich, Germany. He was awarded a PhD from the University of Geneva, Switzerland, in 2008, for his work on Model-Based Testing. At fortiss he works with aerospace and automotive companies to develop novel tools that include model-based software engineering and domain specificity at their core. After completing his PhD, Levi worked extensively in the area of model transformations, having proposed techniques for model transformation specification, execution and verification, as well as surveys in the domain. He has been part of the organizing committee of 10+ workshops, many of them co-located with MODELS. Levi’s current research interests are domain-specific modeling, usability in formal methods and, more recently, how machine learning can help in modeling software and in software engineering in general.
 
 **[Sebastian Voss](https://www.fortiss.org/en/about-us/people/sebastian-voss/)** has done his PhD in the avionic context at EADS Innovation Works in the Sensors, Electronics and Systems Integration department. At fortiss he is heading the Model-based Systems Engineering department and the research group Design Space Exploration, for finding optimized system configurations. His research interests include techniques and tools for the professional development of software-intensive systems, efficient design space exploration methods
 and their model-based (tool) development in A UTO FOCUS3.
@@ -337,7 +336,7 @@ CloudWays workshops. Nicolas will not present at the tutorial.
 
 
 
-## [[T9] RobMoSys: Better Models, Tools and Software for Robotic Systems](http://www.servicerobotik-ulm.de/models2018/)
+## [T9] RobMoSys: Better Models, Tools and Software for Robotic Systems](http://www.servicerobotik-ulm.de/models2018/)
 
 ### Speakers: Christian Schlegel and Herman Bruyninckx
 
@@ -417,9 +416,9 @@ Length: half day
 
 ### Biography
 
-[Patrik Meijer](http://www.isis.vanderbilt.edu/user/277) is a Senior Research Engineer at Vanderbilt University in Nashville, TN. He is currently one of the core developers of the WebGME framework and has taught and demonstrated WebGME at numerous occasions. He earned his MSc degree in Engineering Mathematics from Lund University, Sweden, in 2012 and has since worked for Vanderbilt University in the area of Model Integrated Computing.
+**[Patrik Meijer](http://www.isis.vanderbilt.edu/user/277)** is a Senior Research Engineer at Vanderbilt University in Nashville, TN. He is currently one of the core developers of the WebGME framework and has taught and demonstrated WebGME at numerous occasions. He earned his MSc degree in Engineering Mathematics from Lund University, Sweden, in 2012 and has since worked for Vanderbilt University in the area of Model Integrated Computing.
 
-[Tamas Kecskes](http://www.isis.vanderbilt.edu/user/394) is a Senior Research Engineer at Vanderbilt University in Nashville, TN. He took part in the architectural design of  WebGME and has been a core developer of the framework since. He earned his university diploma in 2003 from the University of Szeged, Hungary. He worked as a Software Engineer - and later as a Senior Software Engineer and Product Architect - at Nokia Ltd. for 8 years. He joined Vanderbilt University in 2012 where he started his PhD studies in 2014. He held product trainings for software engineers at Nokia and also participated in teaching courses in Model Integrated Computing at Vanderbilt.
+**[Tamas Kecskes](http://www.isis.vanderbilt.edu/user/394)** is a Senior Research Engineer at Vanderbilt University in Nashville, TN. He took part in the architectural design of  WebGME and has been a core developer of the framework since. He earned his university diploma in 2003 from the University of Szeged, Hungary. He worked as a Software Engineer - and later as a Senior Software Engineer and Product Architect - at Nokia Ltd. for 8 years. He joined Vanderbilt University in 2012 where he started his PhD studies in 2014. He held product trainings for software engineers at Nokia and also participated in teaching courses in Model Integrated Computing at Vanderbilt.
 
 <hr>
 
@@ -501,29 +500,13 @@ architecture, self-adaptive systems, and big data analytics.
 
 ### Abstract
 
-Formal Verification (FV) and Machine Learning
-(ML) can seem incompatible due to their opposite mathematical
-foundations and their use in real-life problems: FV mostly relies
-on discrete mathematics and aims at ensuring correctness; ML
-often relies on probabilistic models and consists of learning
-patterns from training data. In this tutorial, we will explore
-how ML helps FV in some classical approaches: static analysis,
-model-checking, theorem-proving, and SAT solving. We draw
-a landscape of the current practice and catalog some of the
-most prominent uses of ML inside FV tools, thus offering a
-new perspective on FV techniques that can help researchers
-and practitioners to better locate the possible synergies. We will
-discuss lessons learned from a survey we have done during the
-past year, point to possible improvements and offer visions for the
-future of the domain in the light of the science of software and
-systems modeling. The last part of the tutorial will be devoted
-to discussions with the audience in order to both challenge the
-views we present throughout the tutorial and gather directions
-for future research on this topic.
+Formal Verification (FV) and Machine Learning (ML) can seem incompatible due to their opposite mathematical foundations and their use in real-life problems: FV mostly relies on discrete mathematics and aims at ensuring correctness; ML often relies on probabilistic models and consists of learning patterns from training data. In this tutorial, we will explore how ML helps FV in some classical approaches: static analysis, theorem-proving, and SAT solving. We draw a landscape of the current practice and demonstrate with practical examples from state-of-the-art tools some of the most prominent uses of ML in FV, thus offering a new perspective on FV techniques that can help researchers and practitioners to better locate potential synergies. We will discuss lessons learned from a survey we have done during the past year, point to possible improvements and offer visions for the future of the domain in the light of the science of software and systems modelling. The tutorial will be interactive in the sense that we will hold discussions with the audience in order to both challenge the views we present throughout the tutorial and gather directions for future research on this topic.
+
+Length: half day
 
 ### Biography
 
-[Moussa Amrani](https://directory.unamur.be/staff/mamrani) is a post-doc researcher at Université
+**[Moussa Amrani](https://directory.unamur.be/staff/mamrani)** is a post-doc researcher at Université
 de Namur, Belgium. He graduated with a Ph.D from the
 University of Luxembourg in 2013 for his work on the formal
 verification of model transformation languages. In Namur, he
@@ -536,7 +519,7 @@ EN 50155 and EN 5012x). Moussa’s current research interests
 include software modeling, formal verification, and software
 certification.
 
-[Levi Lúcio](https://www.fortiss.org/ueber-uns/mitarbeiter/levi-lucio/)  is a senior scientist and project manager
+**[Levi Lúcio](https://www.fortiss.org/ueber-uns/mitarbeiter/levi-lucio/)**  is a senior scientist and project manager
 at fortiss GmbH in Munich, Germany. He was awarded a
 PhD from the University of Geneva, Switzerland, in 2008, for
 his work on Model-Based Testing. At fortiss he works with
@@ -551,7 +534,7 @@ Levi’s current research interests are domain-specific modeling,
 usability in formal methods and, more recently, how machine
 learning can help in modeling software and in software engineering in general.
 
-[Adrien Bibal](https://directory.unamur.be/staff/abibal) is a Ph.D. student at the Université
+**[Adrien Bibal](https://directory.unamur.be/staff/abibal)** is a Ph.D. student at the Université
 de Namur (Belgium) under the supervision of Professor Benoît Frénay. He received an M.S. degree in Computer Science and an M.A. degree in Philosophy from the Université catholique de Louvain (Belgium) in 2013 and 2015 respectively. His Ph.D. thesis in Machine Learning is on the
 interpretability of dimensionality reduction models.
 </div>
