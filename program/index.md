@@ -13,7 +13,7 @@ slug: program-overview
 .day {
 
   font-weight: bold;
-  background-color: #f2f2f2; 
+  background-color: #f8f8f8; 
   text-align: left;
   padding-top: 8px;
   padding-bottom: 8px;
@@ -46,7 +46,7 @@ slug: program-overview
 .day-lunch{
   text-align: center;
   font-weight: bold;
-  background-color: #f2f2f2;
+  background-color: #f8f8f8;
 }
 
 h4{
