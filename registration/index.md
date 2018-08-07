@@ -127,8 +127,12 @@ The conference program is longer this year: Plan to be able to leave the confere
 <br/>
 
 Prices do **NOT** include 25% VAT. VAT is added before checkout for everyone.
-Your acconting department MIGHT be able to deduce VAT domestically in your country, if you are VAT
-exempt (or a VAT payer) in EU.  Enter your VAT number during registration.
+
+Make sure to enter your VAT number during registration.  Your acconting
+department MIGHT be able to deduce VAT domestically in your country, if you are
+VAT exempt (or a VAT payer) in EU. See details
+[here](https://ec.europa.eu/taxation_customs/business/vat/eu-vat-rules-topic/vat-refunds_en).
+This is may be routine for your accounting department.  
 
 ## Registrant Types
 
