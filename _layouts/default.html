@@ -57,7 +57,7 @@ $(window).load(function() {
       var actives = $('.active')
       var dateButtonsActive = false;
       var tracksButtonsActive = false;
-      if($('.active').length > 0){
+      if(actives.length > 0){
         // go through elements and check if we can find a data or track active
         actives.each(function (index, element){
           var parent = $(this).parent();  
@@ -71,7 +71,7 @@ $(window).load(function() {
         //console.log("date buttons active: " + dateButtonsActive);
         //console.log("tracksButtonsActive: " + tracksButtonsActive);
 
-        // inneficient. we need now to go through the active buttons and show only those that are active
+        // inneficient. we need now to go through the active buttons again and show only those that are active
         // for smaller sets seems fast enough
         if(dateButtonsActive){
           $days.hide();
