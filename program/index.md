@@ -2,6 +2,8 @@
 layout: default
 slug: program-overview
 ---
+
+<!-- inspired by the icse 2018 program page -->
 <div class="row">
  <div class="col-md-14" markdown="1">
 
@@ -55,10 +57,44 @@ h4{
 
 </style>
 
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <div class="panel-title">Filter</div>
+    <div class="panel-body">
+      <div class="row date-facets">
+        <div class="col-sm-1">
+          <h4>Dates</h4>
+        </div>
+      <div class="col-sm-13">
+        <div data-facet-type="date" class="facet-placeholder" data-selected-facets="">
+          <div class="btn-s btn btn-default facet-false filter_link" data-filter="sunday">Sun 14 Oct 2018</div>
+          <div class="btn-s btn btn-default facet-false filter_link" data-filter="monday">Mon 15 Oct 2018</div>
+          <div class="btn-s btn btn-default facet-false filter_link" data-filter="tuesday">Tue 16 Oct 2018</div>
+          <div class="btn-s btn btn-default facet-false filter_link" data-filter="wednesday">Wed 17 Oct 2018</div>
+          <div class="btn-s btn btn-default facet-false filter_link" data-filter="thursday">Thu 18 Oct 2018</div>
+          <div class="btn-s btn btn-default facet-false filter_link" data-filter="friday">Fri 19 Oct 2018</div>
+        </div>
+      </div>
+      </div>
+      <div class="row">
+      <div class="col-sm-1">
+        <h4>Tracks</h4>
+      </div>
+      <div class="col-sm-13">
+        <div data-facet-type="tracks" class="facet-placeholder" data-selected-facets="">
+        <div class="btn-s btn btn-default facet-false filter_link" data-filter="industry">Industry</div>
+        <div class="btn-s btn btn-default facet-false filter_link" data-filter="research">Foundations</div>
+        <div class="btn-s btn btn-default facet-false filter_link" data-filter="practice">Practice and Innovation</div>
+      </div>
+      </div>
+    </div>
+  </div>
+  </div>
+</div>
 
 <!--  Wednesday  -->
-<div class="day">
-<h4>  Wednesday 18 Oct 2018</h4>
+<div class="day wednesday">
+<h4>  Wednesday 17 Oct 2018</h4>
 
 
 <!--  Industry Session morning -->

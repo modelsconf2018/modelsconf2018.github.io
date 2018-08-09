@@ -44,6 +44,65 @@ $(window).load(function() {
       
       $('[data-submenu]').submenupicker();
     </script>
+
+    <script type="text/javascript">
+
+  var $session = $('.session');
+  var $days = $('.day');
+  
+  $('.filter_link').click(function(e){
+      e.preventDefault();
+      $(this).toggleClass('active');
+      // get if any buttons from data and tracks facets are active
+      var actives = $('.active')
+      var dateButtonsActive = false;
+      var tracksButtonsActive = false;
+      if($('.active').length > 0){
+        // go through elements and check if we can find a data or track active
+        actives.each(function (index, element){
+          var parent = $(this).parent();  
+          if(parent.attr('data-facet-type') === 'date'){
+            dateButtonsActive = true;
+          }        
+          if(parent.attr('data-facet-type') === 'tracks'){
+            tracksButtonsActive = true;
+          }
+        })
+        //console.log("date buttons active: " + dateButtonsActive);
+        //console.log("tracksButtonsActive: " + tracksButtonsActive);
+
+        // inneficient. we need now to go through the active buttons and show only those that are active
+        // for smaller sets seems fast enough
+        if(dateButtonsActive){
+          $days.hide();
+          actives.each(function (index, element){
+            console.log($(this).data('filter'));
+            $days.filter('.' + $(this).data('filter')).show()          
+          })
+        }
+        else {
+          $days.show();
+        }
+        
+        if(tracksButtonsActive){
+          $session.hide();
+          actives.each(function (index, element){
+            console.log($(this).data('filter'));
+            $session.filter('.' + $(this).data('filter')).show()   
+          })
+        }
+        else {
+          $session.show();
+        }
+      }
+      else {
+        $days.show();
+        $session.show();
+      }
+
+  });
+
+</script>
 	  
   </body>
 </html>
