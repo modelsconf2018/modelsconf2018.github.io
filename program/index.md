@@ -85,12 +85,48 @@ h4{
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="industry">Industry</div>
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="research">Foundations</div>
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="practice">Practice and Innovation</div>
+        <div class="btn-s btn btn-default facet-false filter_link" data-filter="practice">MBSE</div>
       </div>
       </div>
     </div>
   </div>
   </div>
 </div>
+
+<div class="day tuesday">
+
+<h4> Tuesday 16 Oct 2018</h4>
+
+<!--  MBSE Session morning -->
+<div class="session mbse">
+
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        09:00 - 10:30: Model-Based Systems Engineering Meeting at XXX Room
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">09:00-10:30</td>
+      <td>TBA</td>
+      <td>TBA
+        <br>
+        <a href="" target="_blank"> 
+          <span class="name"></span>
+        </a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+  </tbody>
+
+</table>
+</div> <!-- end of MBSE session morning-->
+
+</div> <!-- end of Tuesday -->
 
 <!--  Wednesday  -->
 <div class="day wednesday">
