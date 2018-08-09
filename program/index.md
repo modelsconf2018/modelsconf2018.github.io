@@ -85,7 +85,7 @@ h4{
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="industry">Industry</div>
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="research">Foundations</div>
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="practice">Practice and Innovation</div>
-        <div class="btn-s btn btn-default facet-false filter_link" data-filter="practice">MBSE</div>
+        <div class="btn-s btn btn-default facet-false filter_link" data-filter="mbse">MBSE</div>
       </div>
       </div>
     </div>
