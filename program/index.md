@@ -1,6 +1,6 @@
 --- 
 layout: default
-slug: program-overview
+slug: detailed-program
 ---
 
 <!-- inspired by the icse 2018 program page -->
