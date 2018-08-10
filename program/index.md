@@ -7,7 +7,7 @@ slug: program-overview
 <div class="row">
  <div class="col-md-14" markdown="1">
 
-<h1 style="color:red; text-align: center"> Program is under construction </h1>
+<h1 style="color:red; text-align: center"> Page is under construction </h1>
 
 # Detailed program
 
