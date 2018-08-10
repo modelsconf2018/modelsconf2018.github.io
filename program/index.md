@@ -7,7 +7,9 @@ slug: program-overview
 <div class="row">
  <div class="col-md-14" markdown="1">
 
-# Conference program
+<h1 style="color:red; text-align: center"> Program is under construction </h1>
+
+# Detailed program
 
 
 <style type="text/css">
@@ -17,6 +19,8 @@ slug: program-overview
   font-weight: bold;
   background-color: #f8f8f8; 
   text-align: left;
+  margin-top: -8px;
+  margin-bottom: -2px;
   padding-top: 8px;
   padding-bottom: 8px;
   text-indent: 4px;
