@@ -29,7 +29,7 @@ Since the MBSE meeting is fully part of MODELS'18, participants will have to reg
 	  * Mattias Mohlin (HCL)
 	  * Maged Khalil (Continental)
 	  * Christian Zingel (AVL)
-	  * Thibault Thomas (Plastic Omnium)
+	  * Thibaud Thomas (Plastic Omnium)
 
   * Panel & Discussions: « What are the challenges facing Automotive industry in terms of MBSE? »
 
