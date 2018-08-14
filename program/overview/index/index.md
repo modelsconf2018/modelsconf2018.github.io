@@ -77,7 +77,8 @@ slug: program-overview
   <tr>
     <td class="tg-acm6" colspan="2"><a href="http://www.di.univaq.it/flexmde/">W4 FlexibleMDE</a></td>
    <td class="tg-mply" colspan="2"><a href="https://mdetools.github.io/mdetools18/">W7 MDETools</a></td>
-    <td class="tg-mply" colspan="2"><a href="https://msdl.uantwerpen.be/conferences/MDEbug/2018/">W11 MDEbug</a></td>
+    <td class="tg-jxbq"><a href="https://info.jetbrains.com/mps-day-models-2018-registration.html>MPS day</a></td>
+    <td class="tg-c3ow"></td>
     <td class="tg-ie4m">Conference Reception &amp; Poster Session &amp; Posters of ACM SRC</td>
     <td class="tg-ie4m">SoSyM Editorial Meeting</td>
     <td class="tg-ie4m"></td>
@@ -85,7 +86,7 @@ slug: program-overview
   <tr>
     <td class="tg-acm6" colspan="2"><a href="http://www.modelexecution.org/?page_id=2173">W5 EXE</a></td>
     <td class="tg-mply" colspan="2"><a href="http://gemoc.org/events/gemoc2018.html">W8 GEMOC</a></td>
-    <td class="tg-mply" colspan="2"><a href="https://sites.google.com/site/modevva/home">W12 MoDeVVA</a></td>
+    <td class="tg-mply" colspan="2"><a href="https://msdl.uantwerpen.be/conferences/MDEbug/2018/">W11 MDEbug</a></td>
     <td class="tg-uys7"></td>
     <td class="tg-ie4m">ACM Student Research Competition</td>
     <td class="tg-uys7"></td>
@@ -95,7 +96,7 @@ slug: program-overview
     <td class="tg-mnkh">T1 Hawk</td>
     <td class="tg-r9d8">T2 Making Modeling <br>Cool Again</td>
     <td class="tg-mply" colspan="2"><a href="http://st.inf.tu-dresden.de/MORSE18/">W9 MORSE</a></td>
-    <td class="tg-mply" colspan="2"><a href="https://sites.google.com/view/pains-2018/home">W13 PAINS</a></td>
+    <td class="tg-mply" colspan="2"><a href="https://sites.google.com/site/modevva/home">W12 MoDeVVA</a></td>
     
     <td class="tg-uys7"></td>
     <td class="tg-ie4m">Banquet at the Opera</td>
@@ -105,7 +106,8 @@ slug: program-overview
     <td class="tg-mnkh">T12 ML + FV = ♥!</td>
     <td class="tg-c3ow"></td>
     <td class="tg-b28d" colspan="2">T3 DevYrCar</td>
-    <td class="tg-mply" colspan="2"><a href="http://www.models-and-evolution.com/2018/">W14 Models and Evolution</a></td>
+ 
+    <td class="tg-mply" colspan="2"><a href="https://sites.google.com/view/pains-2018/home">W13 PAINS</a></td>
     
     <td class="tg-uys7"></td>
     <td class="tg-uys7"></td>
@@ -116,7 +118,8 @@ slug: program-overview
     <td class="tg-c3ow"></td>
     <td class="tg-r9d8">T4 DEVS</td>
     <td class="tg-r9d8">T5 Statecharts</td>
-    <td class="tg-mply" colspan="2"><a href="https://www.wi-inf.uni-duisburg-essen.de/MULTI2018/">W15 MULTI</a></td>
+ 
+    <td class="tg-mply" colspan="2"><a href="http://www.models-and-evolution.com/2018/">W14 Models and Evolution</a></td>
     
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
@@ -127,8 +130,9 @@ slug: program-overview
     <td class="tg-c3ow"></td>
     <td class="tg-r9d8">T6 Actors</td>
     <td class="tg-r9d8">T7 Co-Evolution</td>
-            <td class="tg-r9d8"><a href="http://www.servicerobotik-ulm.de/models2018/">T9 RobMoSys</a></td>
-    <td class="tg-r9d8">T10 WebGME</td>
+ 
+    <td class="tg-mply" colspan="2"><a href="https://www.wi-inf.uni-duisburg-essen.de/MULTI2018/">W15 MULTI</a></td>
+
 
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
@@ -139,6 +143,18 @@ slug: program-overview
     <td class="tg-c3ow"></td>
     <td class="tg-g9tr"><a href="http://www.mrtc.mdh.se/MDE4IoT/index.html">W10 MDE4IoT</a></td>
     <td class="tg-n7co">T8 ThingML</td>
+             <td class="tg-r9d8"><a href="http://www.servicerobotik-ulm.de/models2018/">T9 RobMoSys</a></td>
+    <td class="tg-r9d8">T10 WebGME</td>
+
+    <td class="tg-us36"></td>
+    <td class="tg-us36"></td>
+    <td class="tg-us36"></td>
+  </tr>
+  <tr>
+    <td class="tg-us36"></td>
+    <td class="tg-us36"></td>
+    <td class="tg-g9tr" colspan="2"><a href="https://hufamo.univ-lille.fr/">W16 HuFaMo</a></td>
+ 
         <td class="tg-r9d8">T11 SPES</td>
     <td class="tg-g9tr"><a href="https://modelanalytics.wordpress.com/ammore18/">W17 AMMoRe</a></td>
 
@@ -149,19 +165,20 @@ slug: program-overview
   <tr>
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
-    <td class="tg-g9tr" colspan="2"><a href="https://hufamo.univ-lille.fr/">W16 HuFaMo</a></td>
+    <td class="tg-us36" colspan="2">Satellite Reception at Royal Library</td>
+ 
         <td class="tg-ifhh" colspan="2">Doctoral Symposium<br><br></td>
 
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
   </tr>
-  <tr>
+    <tr>
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
-    <td class="tg-us36" colspan="2">Satellite Reception at Royal Library</td>
-        <td class="tg-ifhh" colspan="2">Educators Symposium<br><br></td>
-
+    <td class="tg-us36"></td>
+    <td class="tg-us36"></td>
+    <td class="tg-ifhh" colspan="2">Educators Symposium<br><br></td>
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
