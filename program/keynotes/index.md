@@ -8,7 +8,7 @@ slug: keynotes
 <div class="row">
 <h1>Keynote Speakers for MODELS 2018</h1>
 </div>
-<div class="row">
+<div class="row" id="seres">
 <h2> Silvija Seres - Incremental and disruptive models for business development</h2>
 <img align="left" src="/assets/faces/sseres.jpg" alt="Silvija Seres" class="team-face" style="margin-right: 20px"/> 
  
@@ -41,7 +41,7 @@ Silvija is married, and has four children. She lives in Oslo, Norway.
 </div>
 
 <hr>
-<div class="row">
+<div class="row" id="cordy">
 <h2> Jim Cordy - Genetics of Computer Programs</h2>
 <img align="right" src="/assets/faces/jcordy.jpg" alt="Jim Cordy" class="team-face" style="margin-right: 20px; "/>
  
@@ -64,7 +64,7 @@ Dr. Cordy is a Senior Member of the IEEE, a Distinguished Scientist of the Assoc
 In recent years Dr. Cordy’s research group has concentrated on similarity in software systems, with particular application to model-driven systems in Simulink using the SIMONE near-miss model clone detector. Most recently, he has been studying profiles of language feature use in transformation languages such as TXL and ATL, with an eye to informing the future of model transformation systems.
 </div>
 <hr>
-<div class="row">
+<div class="row" id="wisse">
 <h2> Martijn Wisse -  Models for motion prediction; robotic brains versus biological brains</h2>
 <img align="left" src="/assets/faces/mwisse.jpg" alt="Martijn Wisse" class="team-face" style="margin-right: 20px;" />
  
