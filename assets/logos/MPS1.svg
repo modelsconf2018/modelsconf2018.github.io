@@ -1,0 +1,37 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="320" height="90" viewBox="0 0 320 90">
+  <defs>
+    <linearGradient id="linear-gradient" x1="65.43296" y1="107.5933" x2="-6.76421" y2="15.11603" gradientUnits="userSpaceOnUse">
+      <stop offset="0.0914" stop-color="#0b8fff"/>
+      <stop offset="0.2077" stop-color="#0d94f6"/>
+      <stop offset="0.39603" stop-color="#11a3de"/>
+      <stop offset="0.63282" stop-color="#18bbb7"/>
+      <stop offset="0.87097" stop-color="#21d789"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="104.79089" y1="76.8665" x2="32.59372" y2="-15.61077" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="50.58808" y1="63.93078" x2="76.44415" y2="-5.60108" gradientUnits="userSpaceOnUse">
+      <stop offset="0.12297" stop-color="#21d789"/>
+      <stop offset="0.13191" stop-color="#27d788"/>
+      <stop offset="0.21553" stop-color="#59d87b"/>
+      <stop offset="0.30328" stop-color="#85d970"/>
+      <stop offset="0.39353" stop-color="#abda67"/>
+      <stop offset="0.487" stop-color="#cadb5f"/>
+      <stop offset="0.58469" stop-color="#e1db59"/>
+      <stop offset="0.68842" stop-color="#f2dc55"/>
+      <stop offset="0.80231" stop-color="#fcdc53"/>
+      <stop offset="0.94595" stop-color="#ffdc52"/>
+    </linearGradient>
+  </defs>
+  <title>MPS1</title>
+  <g>
+    <g>
+      <polygon points="8 82.618 83.87 82.618 45.766 44.581 8 6.749 8 82.618" fill="url(#linear-gradient)"/>
+      <polygon id="_Path_" data-name="&lt;Path&gt;" points="83.87 82.618 45.766 44.581 83.869 6.749 83.87 82.618" fill="url(#linear-gradient-2)"/>
+      <polygon id="_Path_2" data-name="&lt;Path&gt;" points="63.15 61.899 45.766 44.581 83.869 6.749 63.15 61.899" fill="url(#linear-gradient-3)"/>
+    </g>
+    <g id="_Group_" data-name="&lt;Group&gt;">
+      <path id="_Compound_Path_" data-name="&lt;Compound Path&gt;" d="M112.01289,7.08274h17.97663l19.92582,32.054,19.92583-32.054H187.8178V82.88765H171.249V33.39752L149.91534,65.777h-.433L128.365,33.723V82.88765H112.01289Z"/>
+      <path id="_Compound_Path_2" data-name="&lt;Compound Path&gt;" d="M193.22759,7.08274h30.9717c18.085,0,29.0225,10.72122,29.0225,26.20685v.21586c0,17.54405-13.6448,26.6403-30.64661,26.6403H209.90476v22.7419H193.22759Zm29.889,38.22667c8.33858,0,13.21179-4.98113,13.21179-11.47844v-.21673c0-7.47213-5.19829-11.47931-13.53687-11.47931H209.90476V45.30941Z"/>
+      <path id="_Compound_Path_3" data-name="&lt;Compound Path&gt;" d="M252.414,71.84178l9.85477-11.804c6.8224,5.6313,13.96988,9.205,22.63355,9.205,6.822,0,10.93708-2.70685,10.93708-7.14748v-.21673c0-4.2239-2.59893-6.38939-15.26891-9.63761-15.26935-3.89926-25.12412-8.1223-25.12412-23.17448V28.849C255.44637,15.09624,266.49224,6,281.97788,6a43.88174,43.88174,0,0,1,28.15648,9.63761l-8.66367,12.56206c-6.714-4.65648-13.32015-7.47213-19.70867-7.47213-6.38982,0-9.74684,2.92357-9.74684,6.60524v.21759c0,4.98113,3.24866,6.60524,16.35209,9.96226,15.3777,4.00719,24.04137,9.53056,24.04137,22.74191v.21672c0,15.05219-11.47932,23.49914-27.83184,23.49914A48.23723,48.23723,0,0,1,252.414,71.84178Z"/>
+    </g>
+  </g>
+</svg>
