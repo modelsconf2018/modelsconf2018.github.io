@@ -90,6 +90,7 @@ h4{
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="research">Foundations</div>
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="practice">Practice and Innovation</div>
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="mbse">MBSE</div>
+        <div class="btn-s btn btn-default facet-false filter_link" data-filter="mps">MPS Day</div>
       </div>
       </div>
     </div>
@@ -100,6 +101,64 @@ h4{
 <div class="day tuesday">
 
 <h4> Tuesday 16 Oct 2018</h4>
+
+<!-- MPS Day Session morning only --> 
+
+<div class="session mps">
+
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        09:00 - 12:30: MPS Day at XXX Room
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">09:00-10:00</td>
+      <td>Why modern language workbenches matter?
+        <br>
+        <a href="http://www.vaclavpech.eu/" target="_blank"> 
+          <span class="name">Václav Pech</span>
+        </a>
+          <span class="affiliation">JetBrains</span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">10:00-10:30</td>
+      <td>Biological knowledge base project
+         <br>
+        <a href="https://github.com/ashatalin" target="_blank"> 
+          <span class="name">Alexander Shatalin</span>
+        </a>
+          <span class="affiliation">JetBrains</span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">10:30-11:00</td>
+      <td> Coffee Break (Atrium ground floor) </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">11:00-12:30</td>
+      <td> Coding a Language Extension with MPS
+         <br>
+        <a href="http://www.voelter.de/" target="_blank"> 
+          <span class="name">Markus Völter</span>
+        </a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">12:30-14:00</td>
+      <td> Lunch (Atrium ground floor)                             </td>
+    </tr>
+
+  </tbody>
+
+</table>
+</div> <!-- end of MPS Day session morning-->
 
 <!--  MBSE Session morning -->
 <div class="session mbse">
