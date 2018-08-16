@@ -3,7 +3,7 @@ layout: default
 slug: keynotes
 ---
 <div class="row">
- <div class="col-md-11" markdown="1">
+ <div class="col-md-14" markdown="1">
 
 <h1>Industry Day @ MODELS</h1>
 

@@ -3,7 +3,7 @@ layout: default
 slug: mbse-meeting
 ---
 <div class="row">
- <div class="col-md-11" markdown="1">
+ <div class="col-md-14" markdown="1">
 
 # Model-Based Systems Engineering Meeting @ MODELS 2018
 ## Tuesday October, 16th 2018
