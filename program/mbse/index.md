@@ -192,15 +192,15 @@ h4{
       <td class="col-md-1">14:00-14:30</td>
       <td>MBSE Adoption Challenges
           <br>
-        <a href="" target="_blank"> 
+        <a href=""> 
           <span class="name">Jesko Lamm  </span>
         </a>
           <span class="affiliation">Bernafon</span>,
-        <a href="" target="_blank"> 
+        <a href="https://fr.linkedin.com/in/yves-bernard-4b486aa" target="_blank"> 
           <span class="name">Yves Bernard </span>
         </a>
           <span class="affiliation">Airbus</span>,
-        <a href="" target="_blank"> 
+        <a href="https://fr.linkedin.com/in/marco-ferrogalini-493b9ba" target="_blank"> 
           <span class="name">Marco Ferrogalini  </span>
         </a>
           <span class="affiliation">Bombardier Transport</span>
@@ -231,12 +231,12 @@ h4{
       <td class="col-md-1">16:00-17:00</td>
       <td>MBSE Adoption Challenges
           <br>
-        <a href="" target="_blank"> 
-          <span class="name">Stéphane Bonnet  </span>
+        <a href="https://www.linkedin.com/in/stephane-bonnet-946703/" target="_blank"> 
+          <span class="name">Stéphane Bonnet</span>
         </a>
           <span class="affiliation">Thalès</span>,
-        <a href="" target="_blank"> 
-          <span class="name">Pascal Roques  </span>
+        <a href="https://fr.linkedin.com/in/pascalroques" target="_blank"> 
+          <span class="name">Pascal Roques</span>
         </a>
           <span class="affiliation">PRFC</span>
       </td>
