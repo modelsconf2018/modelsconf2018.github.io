@@ -205,8 +205,8 @@ h4{
       <td class="col-md-1">11:00-12:00</td>
       <td> Automotive Challenges
          <br>
-        <a href="https://se.linkedin.com/in/mattias-mohlin-7a2436" target="_blank"> 
-          <span class="name">Mattias Mohlin </span>
+        <a href=""> 
+          <span class="name">David Williams</span>
         </a>
           <span class="affiliation">HCL</span>,
          <a href="https://de.linkedin.com/in/magedkhalil" target="_blank"> 
