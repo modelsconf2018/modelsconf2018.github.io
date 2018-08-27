@@ -26,7 +26,7 @@ Since the MBSE meeting is fully part of MODELS'18, participants will have to reg
 * Morning session focussing in Automotive Challenges
 
   * Industrial talks:
-	  * Mattias Mohlin (HCL)
+	  * David Williams (HCL)
 	  * Maged Khalil (Continental)
 	  * Christian Zingel (AVL)
 	  * Thibaud Thomas (Plastic Omnium)
@@ -147,8 +147,8 @@ h4{
       <td class="col-md-1">11:00-12:00</td>
       <td> Automotive Challenges
          <br>
-        <a href="https://se.linkedin.com/in/mattias-mohlin-7a2436" target="_blank"> 
-          <span class="name">Mattias Mohlin </span>
+        <a href="" target="_blank"> 
+          <span class="name">David Williams</span>
         </a>
           <span class="affiliation">HCL</span>,
          <a href="https://de.linkedin.com/in/magedkhalil" target="_blank"> 
