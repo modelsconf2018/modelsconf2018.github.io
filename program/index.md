@@ -99,8 +99,8 @@ h4{
   </div>
 </div>
 
-<!-- Start Friday -->
-<div class="day friday">
+<!-- Start Sunday -->
+<div class="day sunday">
 <h4> Sunday 14 Oct 2018 </h4>
 
 <div class="session sun w1-modcomp">
