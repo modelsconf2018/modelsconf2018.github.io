@@ -111,7 +111,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 12:30: MPS Day at XXX Room
+        09:00 - 12:30: MPS Day in 2A14
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -168,7 +168,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 12:30: Model-Based Systems Engineering Meeting at XXX Room
+        09:00 - 12:30: Model-Based Systems Engineering Meeting in 2A12
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -241,7 +241,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: MBSE Adoption Challenges - Model-Based Systems Engineering Meeting at XXX Room 
+        14:00 - 15:30: MBSE Adoption Challenges - Model-Based Systems Engineering Meeting in 2A12 
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -280,7 +280,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 17:30: MBSE Adoption Challenges - Model-Based Systems Engineering Meeting at XXX Room
+        16:00 - 17:30: MBSE Adoption Challenges - Model-Based Systems Engineering Meeting in 2A12
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -472,6 +472,19 @@ h4{
     <tr>
       <td class="info" colspan="14">
         12:00 - 13:30: Lunch (Atrium Ground Floor) 
+        <br> &nbsp;
+      </td>
+    </tr>
+  </tbody>
+</table>
+  </div>
+
+  <div class="session hiring-lunch">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        12:00 - 13:30: Hiring Lunch (by registration) in Scroll Bar (Ground Floor)
         <br> &nbsp;
       </td>
     </tr>
@@ -800,6 +813,31 @@ h4{
 </table>
 </div> <!-- end of Industry session afternoon -->
 
+<div class="session break">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+       17:00-19:00: Steering Commitee Meeting (by invitation only) in 3A20
+        <br> &nbsp;
+      </td>
+    </tr>
+  </tbody>
+</table>
+  </div>
+
+<div class="session break">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        17:00-19:00: Break (go for walk, ice cream, check-in into your hotel, visit exhibit, working spaces available)  
+        <br> &nbsp;
+      </td>
+    </tr>
+  </tbody>
+</table>
+  </div>
 
 <div class="session evening">
   <table class="table">
@@ -971,6 +1009,19 @@ h4{
 </table>
 </div>
 
+<div class="session acm-src">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        10:00 - 11:30: ACM SRC in Aud 3
+        <br> &nbsp;
+      </td>
+    </tr>
+  </tbody>
+</table>
+  </div>
+
 
 <div class="session lunch">
   <table class="table">
@@ -985,6 +1036,19 @@ h4{
 </table>
   </div>
 
+<div class="session steering">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        11:30 - 13:00: Steering Committee Lunch (by invitation only) in Scroll Bar (Ground Floor)
+        <br> &nbsp;
+      </td>
+    </tr>
+  </tbody>
+  </table>
+</div>
+
 <div class="session research">
   <table class="table">
     <tbody>
@@ -997,59 +1061,70 @@ h4{
     </tr>
     <tr class="normalrow">
       <td class="col-md-1"></td>
-      <td>
-        <a href="" target="_blank"> <span class="name"></span> </a>
+      <td>Model-Based Software Engineering: A Multiple-Case Study on Challenges and Development Efforts
+        <br>
+        <a href="" target="_blank"> <span class="name">Rodi Jolak</span> </a>
         <span class="affiliation"></span>,
-        <a href="" target="_blank"> <span class="name"></span> </a>
+        <a href="" target="_blank"> <span class="name">Truong Ho-Quang</span> </a>
         <span class="affiliation"></span>,
-        <a href="" target="_blank"> <span class="name"></span> </a>
+        <a href="" target="_blank"> <span class="name">Michel R.V. Chaudron</span> </a>
         <span class="affiliation"></span>,
-        <a href="" target="_blank"> <span class="name"></span> </a>
-        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Ramon R.H. Schiffelers</span> </a>
+        <span class="affiliation"></span>
       </td>
     </tr>
     <tr class="normalrow">
       <td class="col-md-1"></td>
-      <td>
-        <a href="" target="_blank"> <span class="name"></span> </a>
+      <td>An Empirical Investigation to Understand the Difficulties and Challenges of Software Modellers When Using Modelling Tools
+        <br>
+        <a href="" target="_blank"> <span class="name">Parsa Pourali</span> </a>
         <span class="affiliation"></span>,
-        <a href="" target="_blank"> <span class="name"></span> </a>
-        <span class="affiliation"></span>,
-        <a href="" target="_blank"> <span class="name"></span> </a>
-        <span class="affiliation"></span>,
-        <a href="" target="_blank"> <span class="name"></span> </a>
-        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Joanne Atlee</span> </a>
+        <span class="affiliation"></span>
       </td>
     </tr>
     <tr class="normalrow">
       <td class="col-md-1"></td>
-      <td>
-        <a href="" target="_blank"> <span class="name"></span> </a>
+      <td>Effort Used to Create Domain-Specific Modeling Languages (P&I)
+        <br>
+        <a href="" target="_blank"> <span class="name">Juha-Pekka Tolvanen </span> </a>
         <span class="affiliation"></span>,
-        <a href="" target="_blank"> <span class="name"></span> </a>
-        <span class="affiliation"></span>,
-        <a href="" target="_blank"> <span class="name"></span> </a>
-        <span class="affiliation"></span>,
-        <a href="" target="_blank"> <span class="name"></span> </a>
-        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Steven Kelly</span> </a>
+        <span class="affiliation"></span>
       </td>
     </tr>
     <tr class="normalrow">
       <td class="col-md-1"></td>
-      <td>
-        <a href="" target="_blank"> <span class="name"></span> </a>
+      <td>A Decade of Software Design and Modeling: A Survey to Uncover Trends of the Practice (P&I)
+        <br>
+        <a href="" target="_blank"> <span class="name">Omar Badreddin</span> </a>
         <span class="affiliation"></span>,
-        <a href="" target="_blank"> <span class="name"></span> </a>
+        <a href="" target="_blank"> <span class="name">Rahad Khandoker</span> </a>
         <span class="affiliation"></span>,
-        <a href="" target="_blank"> <span class="name"></span> </a>
+        <a href="" target="_blank"> <span class="name">Andrew Forward</span> </a>
         <span class="affiliation"></span>,
-        <a href="" target="_blank"> <span class="name"></span> </a>
+        <a href="" target="_blank"> <span class="name">Omar Masmali</span> </a>
         <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Timothy Lethbridge</span> </a>
+        <span class="affiliation"></span>
       </td>
     </tr>
 
   </tbody>
 </table>
+</div>
+
+<div class="session panel">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        13:00 - 14:30: Panel in Aud 2
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
 </div>
 
 <div class="session coffee break">
@@ -1077,59 +1152,64 @@ h4{
     </tr>
     <tr class="normalrow">
       <td class="col-md-1"></td>
-      <td>
-        <a href="" target="_blank"> <span class="name"></span> </a>
+      <td>Recommending Model Refactoring Rules from Refactoring Examples
+        <br>
+        <a href="" target="_blank"> <span class="name">Chihab Eddine Mokaddem</span> </a>
         <span class="affiliation"></span>,
-        <a href="" target="_blank"> <span class="name"></span> </a>
+        <a href="" target="_blank"> <span class="name">Houari Sahraoui </span> </a>
         <span class="affiliation"></span>,
-        <a href="" target="_blank"> <span class="name"></span> </a>
-        <span class="affiliation"></span>,
-        <a href="" target="_blank"> <span class="name"></span> </a>
-        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Eugene Syriani</span> </a>
+        <span class="affiliation"></span>
       </td>
     </tr>
     <tr class="normalrow">
       <td class="col-md-1"></td>
-      <td>
-        <a href="" target="_blank"> <span class="name"></span> </a>
+      <td>Refactoring Architecture Models for Compliance with Custom Requirements
+        <br>
+        <a href="" target="_blank"> <span class="name">Ta’id Holmes</span> </a>
         <span class="affiliation"></span>,
-        <a href="" target="_blank"> <span class="name"></span> </a>
-        <span class="affiliation"></span>,
-        <a href="" target="_blank"> <span class="name"></span> </a>
-        <span class="affiliation"></span>,
-        <a href="" target="_blank"> <span class="name"></span> </a>
-        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Uwe Zdun</span> </a>
+        <span class="affiliation"></span>
       </td>
     </tr>
     <tr class="normalrow">
       <td class="col-md-1"></td>
-      <td>
-        <a href="" target="_blank"> <span class="name"></span> </a>
+      <td>Model-Driven Trace Diagnostics for Pattern-based Temporal Specifications
+        <br>
+        <a href="" target="_blank"> <span class="name">Wei Dou</span> </a>
         <span class="affiliation"></span>,
-        <a href="" target="_blank"> <span class="name"></span> </a>
+        <a href="" target="_blank"> <span class="name">Domenico Bianculli </span> </a>
         <span class="affiliation"></span>,
-        <a href="" target="_blank"> <span class="name"></span> </a>
-        <span class="affiliation"></span>,
-        <a href="" target="_blank"> <span class="name"></span> </a>
-        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Lionel Briand</span> </a>
+        <span class="affiliation"></span>
       </td>
     </tr>
     <tr class="normalrow">
       <td class="col-md-1"></td>
-      <td>
-        <a href="" target="_blank"> <span class="name"></span> </a>
+      <td>On Computing Instructions to Repair Failed Model Refinements
+        <br>
+        <a href="" target="_blank"> <span class="name">Oliver Kautz </span> </a>
         <span class="affiliation"></span>,
-        <a href="" target="_blank"> <span class="name"></span> </a>
-        <span class="affiliation"></span>,
-        <a href="" target="_blank"> <span class="name"></span> </a>
-        <span class="affiliation"></span>,
-        <a href="" target="_blank"> <span class="name"></span> </a>
-        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Bernhard Rumpe</span> </a>
+        <span class="affiliation"></span>
       </td>
     </tr>
 
   </tbody>
 </table>
+</div>
+
+<div class="session tool-demos">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        15:00 - 16:30: Tool Demo Talks in Aud 2
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
 </div>
 
 <div class="session coffee break">
@@ -1138,6 +1218,32 @@ h4{
     <tr>
       <td class="info" colspan="14">
         16:30 - 17:00: Coffee Break (Atrium Ground) 
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="session tool-demos">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        17:00 - 18:15: Tool Demo Talks in Aud 2
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="session sosym">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        17:00 - 18:15: SoSyM editorial board meeting (by invitation only) in 3A20
         <br> &nbsp;
       </td>
     </tr>
@@ -1159,7 +1265,416 @@ h4{
   </table>
 </div>
 
+</div> <!--  End of Thursday -->
+
+<div class="day friday">
+<h4> Friday 19 Oct 2018 </h4>
+
+<div class="session fri mip-talks">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        08:30 - 09:30: MODELS MIP talk & SOSYM MIP talk
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
 </div>
+
+<div class="session fri coffee break">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        9:30 - 10:00: Coffee Break (Atrium Ground)
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+
+<div class="session fri research">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        10:00 - 11:30: Model Management in Aud 1
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Towards sound, optimal, and flexible building from megamodels
+        <br>
+        <a href="" target="_blank"> <span class="name">Perdita Stevens</span> </a>
+        <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Robust Hashing for Models
+        <br>
+        <a href="" target="_blank"> <span class="name">Salvador Martinez</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Sebastien Gerard</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Jordi Cabot</span> </a>
+        <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Incremental View Model Synchronization Using Partial Models
+        <br>
+        <a href="" target="_blank"> <span class="name">Kristóf Marussy</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Oszkár Semeráth</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Dániel Varró</span> </a>
+        <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Towards Scalable Model Views on Heterogeneous Model Resources (P&I)
+        <br>
+        <a href="" target="_blank"> <span class="name">Hugo Bruneliere</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Florent Marchand de Kerchove</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Gwendal Daniel </span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Jordi Cabot</span> </a>
+        <span class="affiliation"></span>
+      </td>
+    </tr>
+
+  </tbody>
+</table>
+</div>
+
+<div class="session fri research aud2">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        10:00 - 11:30: Hardware Embedded Systems and CPS in Aud 2
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Slicing UML-based Models of Real-time Embedded Systems
+        <br>
+        <a href="" target="_blank"> <span class="name">Reza Ahmadi</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Ernesto Posse</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Juergen Dingel</span> </a>
+        <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>HITECS: A UML Profile and Analysis Framework for Hardware-in-the-Loop Testing of Cyber Physical Systems
+        <br>
+        <a href="" target="_blank"> <span class="name">Seung Yeob Shin</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Karim Chaouch</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Shiva Nejati</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Mehrdad Sabetzadeh</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Lionel Briand </span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Frank Zimmer</span> </a>
+        <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Hybrid co-simulation: it’s about time (SOSYM First)
+        <br>
+        <a href="" target="_blank"> <span class="name">Fabio Cremona</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Marten Lohstroh</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">David Broman</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Edward A. Lee</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Michael Masin</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Stavros Tripakis</span> </a>
+        <span class="affiliation"></span>
+      </td>
+    </tr>
+    
+
+  </tbody>
+</table>
+</div>
+
+<div class="session fri research aud3">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        10:00 - 11:30: Tool Demo Talks Aud 3
+        <br>&nbsp;
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+<div class="session fri lunch">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        11:30 - 12:30: Lunch (Atrium Ground Floor) 
+        <br> &nbsp;
+      </td>
+    </tr>
+  </tbody>
+  </table>
+</div>
+
+<div class="session fri research aud1">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        12:30 - 13:30: Graphical Modelling and Modelling Applications in Aud 1
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Towards a Language Server Protocol Infrastructure for Graphical Modeling
+        <br>
+        <a href="" target="_blank"> <span class="name">Roberto Rodriguez-Echeverria</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Javier Luis Canovas Izquierdo</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Jordi Cabot</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Manuel Wimmer</span> </a>
+        <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Visualizations of Evolving Graphical Models in the Context of Model Review
+        <br>
+        <a href="" target="_blank"> <span class="name">Florian Zoubek</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Philip Langer </span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Tanja Mayerhofer</span> </a>
+        <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Dissimilarity Measures for Clustering Space Mission Architectures (P&I)
+        <br>
+        <a href="" target="_blank"> <span class="name">Cody Kinneer </span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Sebastian Herzig</span> </a>
+        <span class="affiliation"></span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div class="session fri research aud2">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        12:30 - 13:30: Transformations 2 in Aud 2
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Change Propagation-based and Composition-based Co-evolution of Transformations with Evolving Metamodels
+        <br>
+        <a href="" target="_blank"> <span class="name">Djamel Eddine Khelladi</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Roland Kretschmer</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Alexander Egyed</span> </a>
+        <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Integration of Visual Contracts and Model Transformation for Enhanced MDE Development (P&I)
+        <br>
+        <a href="" target="_blank"> <span class="name">Matt Selway</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Georg Grossmann</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Kerryn Owen</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Richard Dexter</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Markus Stumptner</span> </a>
+        <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Assurance via hierarchies of model transformation refinements
+        <br>
+        <a href="" target="_blank"> <span class="name">Zinovy Diskin</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Tom Maibaum</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Alan Wassyng</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Mark Lawford</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Stephen Wynn-Williams</span> </a>
+        <span class="affiliation"></span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div class="session fri research aud3">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        12:30 - 13:30: Synthesis & Simulation in Aud 3
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>From Deployment to Platform Exploration - Automatic Synthesis of Distributed Automotive Hardware Architectures (P&I)
+        <br>
+        <a href="" target="_blank"> <span class="name">Johannes Eder</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Andreas Bayha</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Sebastian Voss</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Alexandru Ipatiov</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Maged Khalil</span> </a>
+        <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Highly-Optimizing and Multi-Target Compiler for Embedded System Models: C++ Compiler Toolchain for the Component and Connector Language EmbeddedMontiArc
+        <br>
+        <a href="" target="_blank"> <span class="name">Evgeny Kusmenko</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Bernhard Rumpe</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Sascha Schneiders</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Michael von Wenckstern</span> </a>
+        <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Efficient use of local energy: An activity oriented modeling to guide Demand Side Management (P&I)
+        <br>
+        <a href="" target="_blank"> <span class="name">Alexandre Rio</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Yoann Maurel</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Olivier Barais</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Yoran Bugni</span></a>
+        <span class="affiliation"></span>
+      </td>
+    </tr>
+
+  </tbody>
+</table>
+</div>
+
+<div class="session fri coffee break">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        13:30 - 14:00: Coffee Break  (Atrium Ground)  
+        <br> &nbsp;
+      </td>
+    </tr>
+  </tbody>
+  </table>
+</div>
+
+<div class="session fri research">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        14:00 - 15:15: Keynote, Student SRC Awards, MODELS'19 in Aud 1
+        <br>&nbsp;
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">14:00-14:10</td>
+      <td>Student SRC Awards 
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">14:10:15:10</td>
+      <td>Keynote
+        <br>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">15:10-15:15</td>
+      <td>MODELS'19 presentation (5 min.)
+      </td>
+    </tr>
+
+  </tbody>
+</table>
+</div>
+
+<div class="session fri coffee break">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        15:15 - ... : Thank you and goodbye (Aud 1)
+        <br> &nbsp;
+      </td>
+    </tr>
+  </tbody>
+  </table>
+</div>
+
+
+
+</div> 
 
 </div>
 </div>
