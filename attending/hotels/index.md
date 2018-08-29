@@ -16,7 +16,7 @@ logistics, and to increase the chance of interaction.  However
 MODELS18 has no financial benefit from these blocks,
 so if you find a better rate for the same hotels elsewhere, feel
 free to use it. It has come to our attention that such rates pop
-up.".
+up.
 
 #### Imperial Copenhagen
 <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
