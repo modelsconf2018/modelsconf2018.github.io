@@ -10,6 +10,14 @@ slug: hotels
 The official conference hotels have been selected for their central location and accessibility to the conference venue.
 We have worked closely with ACM and the hotels to ensure that you get excellent rates and expected services included.
 
+**NOTE** The conference has organized these room blocks primarily to
+support that the attendees stay in few locations, to simplify
+logistics, and to increase the chance of interaction.  However
+MODELS18 has no financial benefit from these blocks,
+so if you find a better rate for the same hotels elsewhere, feel
+free to use it. It has come to our attention that such rates pop
+up.
+
 #### Imperial Copenhagen
 <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
 <span class="glyphicon glyphicon-star" aria-hidden="true"></span>
