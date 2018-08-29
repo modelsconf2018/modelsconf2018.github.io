@@ -87,7 +87,7 @@ h4{
       <div class="col-sm-13">
         <div data-facet-type="tracks" class="facet-placeholder" data-selected-facets="">
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="industry">Industry</div>
-        <div class="btn-s btn btn-default facet-false filter_link" data-filter="research">Foundations</div>
+        <div class="btn-s btn btn-default facet-false filter_link" data-filter="foundations">Foundations</div>
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="practice">Practice and Innovation</div>
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="mbse">MBSE</div>
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="mps">MPS Day</div>
@@ -152,7 +152,7 @@ h4{
     </tr>
     <tr class="normalrow">
       <td class="col-md-1">12:30-14:00</td>
-      <td> Lunch (Atrium ground floor)                             </td>
+      <td> Lunch (Atrium Ground Floor)                              </td>
     </tr>
 
   </tbody>
@@ -225,7 +225,7 @@ h4{
     </tr>
     <tr class="normalrow">
       <td class="col-md-1">12:30-14:00</td>
-      <td> Lunch (Atrium ground floor)                             </td>
+      <td> Lunch (Atrium Ground Floor)                              </td>
     </tr>
 
   </tbody>
@@ -319,6 +319,88 @@ h4{
 <h4>  Wednesday 17 Oct 2018</h4>
 
 
+<div class="session foundations">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        10:30 - 12:00: Foundations in Aud 1
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Exploring Potency
+        <a href="https://ecs.victoria.ac.nz/Main/ThomasKuehne" target="_blank"> 
+          <span class="name">Thomas Kuehne</span>
+        </a>
+          <span class="affiliation">Victoria University of Wellington</span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>From (Imperfect) Object Diagrams to (Imperfect) Class Diagrams
+         <br>
+        <a href="" target="_blank"> 
+          <span class="name">Andreas Kästner</span>
+        </a>
+          <span class="affiliation"></span>,
+        <a href="http://www.db.informatik.uni-bremen.de/~gogolla/" target="_blank"> 
+          <span class="name">Martin Gogolla</span>
+        </a>
+          <span class="affiliation">University of Bremen</span>,
+        <a href="scholar.google.com/citations?user=bzxh-TsAAAAJ&hl=en" target="_blank"> 
+          <span class="name">Bran Selic</span>
+        </a>
+          <span class="affiliation">Malina Software Corp.</span>  
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>On the Quest for Flexible Modelling
+         <br>
+        <a href="http://arantxa.ii.uam.es/~eguerra/" target="_blank"> 
+          <span class="name">Esther Guerra</span>
+        </a>
+          <span class="affiliation">Universidad Autónoma de Madrid</span>,
+        <a href="http://arantxa.ii.uam.es/~jlara/" target="_blank"> 
+          <span class="name">Juan De Lara</span>
+        </a>
+          <span class="affiliation">Universidad Autónoma de Madrid</span>
+      </td>
+    </tr>
+      <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Mathematical Programming for Anomaly Analysis of Clafer Models
+         <br>
+        <a href="https://www.es.tu-darmstadt.de/es/team/markus-weckesser/" target="_blank"> 
+          <span class="name">Markus Weckesser</span>
+        </a>
+          <span class="affiliation">TU Darmstadt</span>,
+        <a href="https://www.es.tu-darmstadt.de/es/team/malte-lochau/" target="_blank"> 
+          <span class="name">Malte Lochau</span>
+        </a>
+          <span class="affiliation">TU Darmstadt</span>,
+        <a href="" target="_blank"> 
+          <span class="name">Michael Ries</span>
+        </a>
+          <span class="affiliation"></span>,
+        <a href="https://www.es.tu-darmstadt.de/es/team/andy-schuerr/" target="_blank"> 
+          <span class="name">Andy Schürr</span>
+        </a>
+          <span class="affiliation">TU Darmstadt</span>    
+      </td>
+    </tr>  
+        
+
+  </tbody>
+
+  </table>
+
+
+</div>
+
 <!--  Industry Session morning -->
 <div class="session industry">
 
@@ -327,7 +409,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        10:00 - 12:00: Industry Day at XXX Room
+        10:00 - 12:00: Industry Day in Aud 2
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -372,7 +454,7 @@ h4{
     </tr>
     <tr class="normalrow">
       <td class="col-md-1"> 12:00-13:30</td>
-      <td> Lunch (Atrium Ground Floor)  </td>
+      <td> Lunch (Atrium Ground Floor)   </td>
       <td></td>
     </tr>
 
@@ -380,6 +462,107 @@ h4{
 
 </table>
 </div> <!-- end of Industry session morning-->
+
+
+
+
+<div class="session lunch">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        12:00 - 13:30: Lunch (Atrium Ground Floor) 
+        <br> &nbsp;
+      </td>
+    </tr>
+  </tbody>
+</table>
+  </div>
+
+<div class="session transformations">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        13:30 - 15:00: Transformations in Aud 1
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>From Single- to Multi-Variant Model Transformations: Trace-Based Propagation of Variability Annotations
+        <br>
+        <a href="http://www.ai1.uni-bayreuth.de/en/team/Westfechtel_Bernhard/" target="_blank"> 
+          <span class="name">Bernhard Westfechtel</span>
+        </a>
+          <span class="affiliation">Uni Bayreuth</span>,
+        <a href="http://www.ai1.uni-bayreuth.de/en/team/Greiner_Sandra/index.php" target="_blank">
+          <span class="name">Sandra Greiner</span>
+        </a>
+          <span class="affiliation">Uni Bayreuth</span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Expressing Confidence in Models and in Model Transformations Elements
+         <br>
+        <a href="http://www.lcc.uma.es/~loli/" target="_blank"> 
+          <span class="name">Loli Burgueño</span>
+        </a>
+          <span class="affiliation">University of Málaga</span>,
+        <a href="scholar.google.es/citations?user=Ye69J68AAAAJ&hl=es" target="_blank"> 
+          <span class="name">Manuel F. Bertoa</span>
+        </a>
+          <span class="affiliation">University of Málaga</span>,
+        <a href="http://www.lcc.uma.es/contenidos/informacion_personal.action?id=165" target="_blank"> 
+          <span class="name">Nathalie Moreno </span>
+        </a>
+          <span class="affiliation">University of Málaga</span>,
+        <a href="http://www.lcc.uma.es/~av/" target="_blank"> 
+          <span class="name"> Antonio Vallecillo</span>
+        </a>
+          <span class="affiliation">University of Málaga</span>   
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Model Transformation Product Lines
+         <br>
+        <a href="http://arantxa.ii.uam.es/~jlara/" target="_blank"> 
+          <span class="name">Juan De Lara</span>
+        </a>
+          <span class="affiliation">Universidad Autónoma de Madrid</span>,
+        <a href="http://arantxa.ii.uam.es/~eguerra/" target="_blank"> 
+          <span class="name">Esther Guerra</span>
+        </a>
+          <span class="affiliation">Universidad Autónoma de Madrid</span>,
+        <a href="http://www.cs.toronto.edu/~chechik/" target="_blank"> 
+          <span class="name">Marsha Chechik</span>
+        </a>
+          <span class="affiliation">University of Toronto</span>,
+        <a href="http://www.cs.toronto.edu/~rsalay/" target="_blank"> 
+          <span class="name">Rick Salay</span>
+        </a>
+          <span class="affiliation">University of Toronto</span>
+      </td>
+    </tr>
+      <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Expressive and Efficient Model Transformation with an Internal DSL of Xtend
+         <br>
+        <a href="http://www.cs.le.ac.uk/people/aboronat/" target="_blank"> 
+          <span class="name">Artur Boronat</span>
+        </a>
+          <span class="affiliation">University of Leicester</span>
+      </td>
+    </tr>  
+  </tbody>
+
+  </table>
+
+</div> <!-- End of transformation session --> 
+
 
 <!--  Industry Session after lunch  -->
 <div class="session industry">
@@ -389,7 +572,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        13:30 - 15:00: Industry Day at XXX Room
+        13:30 - 15:00: Industry Day in Aud 2
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -438,6 +621,113 @@ h4{
 </table>
 </div> <!-- end of Industry session after lunch -->
 
+
+
+  <div class="session coffee break">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        15:00 - 15:30: Coffee Break + Exhibit (Atrium Ground) 
+      </td>
+    </tr>
+  </tbody>
+</table>
+  </div>
+
+<div class="session transformations">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        15:30 - 17:00: Verification, Validation and Planning in Aud 1
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Evolutionary Algorithm for Bug Localization in the Reconfigurations of Models at Runtime
+        <br>
+        <a href="https://scholar.google.com/citations?user=wfLyBR0AAAAJ&hl=en&oi=ao" target="_blank"> 
+          <span class="name">Lorena Arcega</span>
+        </a>
+          <span class="affiliation">Universidad San Jorge</span>,
+        <a href="https://scholar.google.com/citations?user=0jl7BHwAAAAJ&hl=es" target="_blank">
+          <span class="name">Jaime Font</span>
+        </a>
+          <span class="affiliation">Universidad San Jorge</span>,
+         <a href="http://carloscetina.com/" target="_blank">
+          <span class="name">Carlos Cetina</span>
+        </a>
+          <span class="affiliation">Universidad San Jorge</span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Integrating the Designer in-the-loop for Metamodel/Model Co-Evolution via Interactive Computational Search
+         <br>
+        <a href="https://dblp.org/pers/hd/k/Kessentini:Wael" target="_blank"> 
+          <span class="name">Wael Kessentini</span>
+        </a>
+          <span class="affiliation">University of Montreal</span>,
+        <a href="https://www.big.tuwien.ac.at/people/mwimmer/" target="_blank"> 
+          <span class="name">Manuel Wimmer </span>
+        </a>
+          <span class="affiliation">TU Wien</span>,
+        <a href="http://www.iro.umontreal.ca/~sahraouh/" target="_blank"> 
+          <span class="name">Houari Sahraoui </span>
+        </a>
+          <span class="affiliation">University of Montreal</span>,
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Unified LTL Verification and Embedded Execution of UML Models
+         <br>
+        <a href="" target="_blank"> 
+          <span class="name">Valentin Besnard</span>
+        </a>
+          <span class="affiliation"></span>,
+        <a href="https://scholar.google.fr/citations?hl=fr&user=Ck3TnmYAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"> 
+          <span class="name">Matthias Brun</span>
+        </a>
+          <span class="affiliation">ESEO</span>,
+        <a href="https://scholar.google.com/citations?user=BqfL80YAAAAJ&hl=en" target="_blank"> 
+          <span class="name">Frédéric Jouault</span>
+        </a>
+          <span class="affiliation">ESEO</span>,
+        <a href="https://www.ensta-bretagne.fr/teodorov/" target="_blank"> 
+          <span class="name">Ciprian Teodorov</span>
+        </a>
+          <span class="affiliation">ENSTA </span>,
+        <a href="https://dblp.uni-trier.de/pers/d/Dhaussy:Philippe" target="_blank"> 
+          <span class="name">Philippe Dhaussy</span>
+        </a>
+          <span class="affiliation">ENSTA</span>
+      </td>
+    </tr>
+      <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>A Model-Driven Solution to support Smart Mobility Planning (P&I)
+         <br>
+        <a href="http://soa.fbk.eu/bucchiarone/" target="_blank"> 
+          <span class="name">Antonio Bucchiarone</span>
+        </a>
+          <span class="affiliation">FBK</span>,
+        <a href="http://www.es.mdh.se/~acicchetti/" target="_blank"> 
+          <span class="name">Antonio Cicchetti</span>
+        </a>
+          <span class="affiliation">Malardalen University</span>
+      </td>
+    </tr>  
+  </tbody>
+
+  </table>
+
+
+</div> <!-- end of session-->
+
 <!--  Industry Session afternoon  -->
 <div class="session industry">
 
@@ -445,7 +735,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        15:30 - 17:00: Industry Day at XXX Room
+        15:30 - 17:00: Industry Day in Aud 2
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -511,8 +801,365 @@ h4{
 </div> <!-- end of Industry session afternoon -->
 
 
+<div class="session evening">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        18:30-21:30: Poster Session, ACM SRC posters, and Exhibit Conference Reception & Poster Session & Posters of ACM SRC (Atrium Ground Floor)
+        <br> &nbsp;
+      </td>
+    </tr>
+  </tbody>
+</table>
+  </div>
 
 </div> <!-- end of Wednesday  --> 
+
+<!-- Start of Thursday -->
+
+<div class="day thursday">
+<h4>  Thursday 17 Oct 2018</h4>
+
+
+<div class="session research">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        10:00 - 11:30: Model Analysis and Testing in Aud 1
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>
+        Engineering Software Diversity: a Model-Based Approach to Systematically Diversify Communications
+        <br>
+        <a href="http://brice-morin.info/" target="_blank"> <span class="name">Brice Morin</span> </a>
+        <span class="affiliation">SINTEF</span>,
+        <a href="https://www.sintef.no/en/all-employees/employee/?empId=5340" target="_blank"> <span class="name">Jakob Høgenes</span> </a>
+        <span class="affiliation">SINTEF</span>,
+        <a href="scholar.google.com/citations?user=lT6h24IAAAAJ&hl=en" target="_blank"> <span class="name">Hui Song</span> </a>
+        <span class="affiliation">SINTEF</span>,
+        <a href="https://www.kth.se/profile/harrand" target="_blank"> <span class="name">Nicolas Harrand </span> </a>
+        <span class="affiliation">KTH</span>,
+        <a href="https://softwarediversity.eu/" target="_blank"> <span class="name"> Benoit Baudry</span> </a>
+        <span class="affiliation">KTH</span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Extending Complex Event Processing to Graph-structured Information
+        <br>
+        <a href="" target="_blank"> <span class="name">Gala Barquero</span> </a>
+        <span class="affiliation"></span>,
+        <a href="http://www.lcc.uma.es/~loli/" target="_blank"><span class="name">Loli Burgueño</span> </a>
+        <span class="affiliation">University of Málaga</span>,
+        <a href="http://www.lsi.us.es/~jtroya/" target="_blank"> <span class="name">Javier Troya</span> </a>
+        <span class="affiliation">University of Sevilla</span>,
+        <a href="http://www.lcc.uma.es/~av/" target="_blank"><span class="name"> Antonio Vallecillo</span> </a>
+        <span class="affiliation">University of Málaga</span>   
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Enabling Model Testing of Cyber-Physical Systems (P&I)
+        <br>
+        <a href="" target="_blank"> <span class="name">Carlos A. González</span> </a>
+        <span class="affiliation"></span>,
+        <a href="https://wwwen.uni.lu/snt/people/mojtaba_varmazyar" target="_blank"> <span class="name">Mojtaba Varmazyar</span> </a>
+        <span class="affiliation">University of Luxembourg</span>,
+        <a href="http://people.svv.lu/nejati/" target="_blank"> <span class="name">Shiva Nejati</span> </a>
+        <span class="affiliation">University of Luxembourg</span>,
+        <a href="https://wwwfr.uni.lu/snt/people/lionel_briand" target="_blank"> <span class="name">Lionel Briand </span> </a>
+        <span class="affiliation">University of Luxembourg</span>,
+        <a href="" target="_blank"> <span class="name">Lionel Briand </span> </a>
+        <span class="affiliation">LuxSpace</span>,
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Toward testing from finite state machines with symbolic inputs and outputs (SOSYM First)
+          <br>
+        <a href="https://www.crim.ca/en/researchers-directory/alexandre-petrenko" target="_blank"> <span class="name">Alexandre Petrenko</span> </a>
+        <span class="affiliation">CRIM</span>
+      </td>
+    </tr>
+
+  </tbody>
+</table>
+</div>
+
+<div class="session research">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        10:00 - 11:30: Experience Reports in Aud 2
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Measures to report the Location Problem of Model Fragment Location (P&I)
+        <br>
+        <a href="" target="_blank"> <span class="name">Manuel Ballarín</span> </a>
+        <span class="affiliation">Universidad San Jorge</span>,
+        <a href="" target="_blank"> <span class="name">Ana Marcen</span> </a>
+        <span class="affiliation"> Universidad San Jorge</span>,
+        <a href="https://scholar.google.es/citations?user=zxtey-MAAAAJ&hl=en" target="_blank"> <span class="name">Vicente Pelechano </span> </a>
+        <span class="affiliation">Universitat Politècnica de València</span>,
+        <a href="http://carloscetina.com/" target="_blank"><span class="name">Carlos Cetina</span></a>
+        <span class="affiliation">Universidad San Jorge</span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Using language workbenches and domain-specific languages for safety-critical software development (SOSYM First)
+        <br>
+        <a href="http://voelter.de/" target="_blank"> <span class="name">Markus Voelter</span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Bernd Kolb</span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Klaus Birken</span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Federico Tomassetti</span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Patrick Alff</span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Laurent Wiart</span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Andreas Wortmann</span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Arne Nordmann</span></a>
+        <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Improving the developer experience with a Low-Code Process Modelling Language (P&I)
+        <br>
+        <a href="" target="_blank"> <span class="name">Henrique Henriques</span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Hugo Lourenço</span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Vasco Amaral </span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Miguel Goulão</span></a>
+        <span class="affiliation"></span>,
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>A feature-based survey of model view approaches (SOSYM First)
+        <br>
+        <a href="" target="_blank"> <span class="name">Hugo Bruneliere</span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Erik Burger</span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Jordi Cabot</span> 
+       </a><span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Manuel Wimmer</span></a>
+        <span class="affiliation"></span>,
+      </td>
+    </tr>
+
+  </tbody>
+</table>
+</div>
+
+
+<div class="session lunch">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        11:30 - 13:00: Lunch (Atrium Ground Floor) 
+        <br> &nbsp;
+      </td>
+    </tr>
+  </tbody>
+</table>
+  </div>
+
+<div class="session research">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        13:00 - 14:30: Empirical Studies in Aud 1
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>
+        <a href="" target="_blank"> <span class="name"></span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name"></span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name"></span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name"></span> </a>
+        <span class="affiliation"></span>,
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>
+        <a href="" target="_blank"> <span class="name"></span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name"></span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name"></span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name"></span> </a>
+        <span class="affiliation"></span>,
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>
+        <a href="" target="_blank"> <span class="name"></span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name"></span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name"></span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name"></span> </a>
+        <span class="affiliation"></span>,
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>
+        <a href="" target="_blank"> <span class="name"></span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name"></span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name"></span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name"></span> </a>
+        <span class="affiliation"></span>,
+      </td>
+    </tr>
+
+  </tbody>
+</table>
+</div>
+
+<div class="session coffee break">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        14:30 - 15:00: Coffee Break (Atrium Ground) 
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="session research">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        15:00 - 16:30: Patterns, Refactoring and Refinement in Aud 1
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>
+        <a href="" target="_blank"> <span class="name"></span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name"></span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name"></span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name"></span> </a>
+        <span class="affiliation"></span>,
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>
+        <a href="" target="_blank"> <span class="name"></span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name"></span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name"></span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name"></span> </a>
+        <span class="affiliation"></span>,
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>
+        <a href="" target="_blank"> <span class="name"></span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name"></span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name"></span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name"></span> </a>
+        <span class="affiliation"></span>,
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>
+        <a href="" target="_blank"> <span class="name"></span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name"></span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name"></span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name"></span> </a>
+        <span class="affiliation"></span>,
+      </td>
+    </tr>
+
+  </tbody>
+</table>
+</div>
+
+<div class="session coffee break">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        16:30 - 17:00: Coffee Break (Atrium Ground) 
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+
+<div class="session coffee break">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        19:00 - 23:00: Banquet at the New Royal Opera House (including Awards)  
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+</div>
 
 </div>
 </div>
