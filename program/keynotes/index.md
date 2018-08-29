@@ -8,7 +8,7 @@ slug: keynotes
 <div class="row">
 <h1>Keynote Speakers for MODELS 2018</h1>
 </div>
-<div class="row" id="seres">
+<!-- <div class="row" id="seres">
 <h2> Silvija Seres - Incremental and disruptive models for business development</h2>
 <img align="left" src="/assets/faces/sseres.jpg" alt="Silvija Seres" class="team-face" style="margin-right: 20px"/> 
  
@@ -38,9 +38,9 @@ in Information Technology from University of Oslo and an M.B.A. From INSEAD.
 She has worked as a Professor in Saudi Arabia at Dar al Hekma Univeristy and
 at DEC SRC in Silicon Valley.
 Silvija is married, and has four children. She lives in Oslo, Norway.
-</div>
+</div> 
 
-<hr>
+<hr>-->
 <div class="row" id="cordy">
 <h2> Jim Cordy - Genetics of Computer Programs</h2>
 <img align="right" src="/assets/faces/jcordy.jpg" alt="Jim Cordy" class="team-face" style="margin-right: 20px; "/>
