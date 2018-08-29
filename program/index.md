@@ -91,12 +91,203 @@ h4{
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="practice">Practice and Innovation</div>
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="mbse">MBSE</div>
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="mps">MPS Day</div>
+        <div class="btn-s btn btn-default facet-false filter_link" data-filter="w1-modcomp">[W1] ModComp</div>
       </div>
       </div>
     </div>
   </div>
   </div>
 </div>
+
+<!-- Start Friday -->
+<div class="day friday">
+<h4> Sunday 14 Oct 2018 </h4>
+
+<div class="session sun w1-modcomp">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        09:00 - 10:30: W1 ModComp in 2A54
+        <br>
+        <small>Chairs: TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">09:15-10:30</td>
+      <td>The Forgotten Interfaces: A Critique of Component-based Models of Computing
+      <br>
+      <a href="" target="_blank"><span class="name">Bran Selic</span></a>
+      <span class="affiliation"></span>
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="session sun coffee break">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        10:30 - 11:00: Coffee Break
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+
+<div class="session sun w1-modcomp">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        11:00 - 12:30: W1 ModComp Session 1 in 2A54
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Interface protocol inference to aid understanding legacy software components
+        <br>
+        <a href="" target="_blank"> <span class="name">Kousar Aslam</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Yaping Luo</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Ramon Schiffelers</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Mark van den Brand</span> </a>
+        <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>On the Model-driven Synthesis of Adaptable Choreographies
+        <br>
+        <a href="" target="_blank"> <span class="name">Marco Autili</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Amleto Di Salle</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Francesco Gallo</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Claudio Pompilio</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Massimo Tivoli</span> </a>
+        <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>A Model-Based Approach to Managing Feature Binding Time in Software Product Line Engineering
+        <br>
+        <a href="" target="_blank"> <span class="name">Armayau Zango Umar</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Jaejoon Lee</span> </a>
+        <span class="affiliation"></span>
+      </td>
+    </tr>
+   
+  </tbody>
+</table>
+</div>
+
+<div class="session sun lunch">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        12:30 - 14:00: Lunch
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="session sun w1-modcomp">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        14:00 - 15:30: W1 ModComp in 2A54
+        <br>
+        <small>Chairs: TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">09:15-10:30</td>
+      <td>Model-driven and component based engineering in the era of smart software-intensive systems
+      <br>
+      <a href="" target="_blank"><span class="name">Martin Törngren</span></a>
+      <span class="affiliation"></span>
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="session sun coffee break">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        15:30 - 16:00: Coffee Break
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="session sun w1-modcomp">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        16:00 - 17:30: W1 ModComp Session 3 & Closing in 2A54
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">16:00-16:30</td>
+      <td>Compiling Protocols to Promela and Verifying their LTL Properties
+        <br>
+        <a href="" target="_blank"> <span class="name">Benjamin Lion</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Samir Chouali</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Farhad Arbab</span> </a>
+        <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">16:30-17:00</td>
+      <td>A Component-Based and Model-Driven Approach to Deal with Non-Functional Properties through Global QoS Metrics
+        <br>
+        <a href="" target="_blank"> <span class="name">Cristina Vicente-Chicote</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Juan F. Ingles-Romero</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Jesus Martinez</span> </a>
+        <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">17:00-17:30</td>
+      <td>Open discussion and conclusions</td>
+    </tr>
+   
+  </tbody>
+</table>
+</div>
+
+
+</div> <!-- End of Sunday -->
+
 
 <div class="day tuesday">
 
@@ -1267,6 +1458,7 @@ h4{
 
 </div> <!--  End of Thursday -->
 
+<!-- Start Friday -->
 <div class="day friday">
 <h4> Friday 19 Oct 2018 </h4>
 
@@ -1674,7 +1866,7 @@ h4{
 
 
 
-</div> 
+</div> <!-- End of Friday -->
 
 </div>
 </div>
