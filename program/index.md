@@ -623,7 +623,7 @@ h4{
     </tr>
     <tr class="normalrow">
       <td class="col-md-1">11:00-11:30</td>
-      <td>TBA
+      <td>Automated and Scalable Solutions for Software Testing: The Essential Role of MDE 
         <br>
         <a href="http://people.svv.lu/briand/" target="_blank"> 
           <span class="name">Lionel Briand</span>

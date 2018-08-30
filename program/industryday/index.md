@@ -79,7 +79,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        10:00 - 12:00: Industry Day at XXX Room
+        10:00 - 12:00: Industry Day in Aud 2
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -102,7 +102,7 @@ h4{
     </tr>
     <tr class="normalrow">
       <td class="col-md-1">11:00-11:30</td>
-      <td>TBA
+      <td>Automated and Scalable Solutions for Software Testing: The Essential Role of MDE
         <br>
         <a href="http://people.svv.lu/briand/" target="_blank"> 
           <span class="name">Lionel Briand</span>
@@ -141,7 +141,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        13:30 - 15:00: Industry Day at XXX Room
+        13:30 - 15:00: Industry Day in Aud 2
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -197,7 +197,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        15:30 - 17:00: Industry Day at XXX Room
+        15:30 - 17:00: Industry Day in Aud 2
         <br>
         <small>Chair(s): TBA</small>
       </td>
