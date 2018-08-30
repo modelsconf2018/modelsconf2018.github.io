@@ -8,39 +8,20 @@ slug: keynotes
 <div class="row">
 <h1>Keynote Speakers for MODELS 2018</h1>
 </div>
-<!-- <div class="row" id="seres">
-<h2> Silvija Seres - Incremental and disruptive models for business development</h2>
-<img align="left" src="/assets/faces/sseres.jpg" alt="Silvija Seres" class="team-face" style="margin-right: 20px"/> 
+<div class="row" id="seres">
+<h2> Noelle Eckley Selin - Modeling air pollution: Informing policies to address a global environmental challenge</h2>
+<img align="left" src="/assets/faces/nselin.jpg" alt="Noelle Eckley Selin" class="team-face" style="margin-right: 20px"/> 
  
-<p>This talk will focus on addressing the current lack of strategies for future business models in face of rapid technological change. The narrative of finding and keeping a position sustainable competitive  advantage breaks when dominant strategic positions shift in a matter of months, driven by new business models and new critical resources, such as good clean data and sharp analytic tools.
-<br>
-<br>
-Most board members, just as most owners and leaders, still think in terms of the previous industrial revolution, and attempt to regain competitive positions by incremental improvements to their production or marketing processes, while the new players uninhibitedly accumulate the real competitive advantages. Most incumbents are in a paradoxical position where their proprietary data and their unique understanding of critical processes present a strategis liability, while it should and could be used as a clear advantage. Old models of good leadership forces them to think, in Henry Ford's terms, of ever faster horses rather than new vehicles and infrastructure.
-<br>
-<br>
-We'll outline a simple model for constructive strategies for the future, built on three levels: new efficiencies, new business drivers, and new externalities.
-<br>
-<br>
-This is not a research-based talk, but rather a set of observations from an ex-academic techie's wanderings in the world of business, board rooms and investment partnerships. 
+<p>
+Air pollution is a leading cause of global mortality: according to the World Health Organization, 90% of people worldwide breathe polluted air, and outdoor air pollution causes over 4 million deaths annually. Different models can simulate various aspects of the air pollution problem by quantifying pollutant emissions from different sectors and their socio-economic drivers, tracing the chemistry and transport of atmospheric processes, attributing pollutant concentrations to specific sources, and quantifying the health and economic burdens of pollutant exposure. To inform efforts to mitigate air pollution, however, we need to trace the entire pathway by which policies to address emissions translate into societal benefits. Doing this requires connecting models from different academic fields, and which exist in different modeling languages, with different temporal and spatial scales, and with different core scientific assumptions. In this talk, I summarize work from my research group evaluating the impacts of air pollution policies by connecting and integrating models across this conceptual chain. Examples provided include assessing the air pollution and related health impacts of proposed policies to address climate change in the U.S. and China, and quantifying the domestic and international benefits of mercury reduction policies in China, India, and the U.S. Technical challenges of linking models include accounting for issues of temporal and spatial scale, complexity, and boundaries. Effectively informing decision-making, however, also requires that decision-makers see models as credible, salient, and legitimate. Thus, I also describe ways in which we have engaged with stakeholders and decision-makers, and examine how these efforts have influenced the impact of this research on policy.
 </p>
-
+<p>
 <h3> Bio </h3>
-
-
-Silvija Seres is an independent advisor, investor and board member, now
-serving as a Board Director of Nordea Bank AB, Norwegian Broadcasting
-Corporation, Oslo Stock Exchange and DNV-GL. She has previously worked as a
-leader at Microsoft and Fast Search & Transfer. She invests actively in
-technology startups through TechnoRocks, focusing on energy, media and
-telecommunications companies.
-Silvija holds a Ph.D. in Mathematical Sciences from Oxford University, MSc
-in Information Technology from University of Oslo and an M.B.A. From INSEAD.
-She has worked as a Professor in Saudi Arabia at Dar al Hekma Univeristy and
-at DEC SRC in Silicon Valley.
-Silvija is married, and has four children. She lives in Oslo, Norway.
+Noelle Eckley Selin is Associate Professor in the Institute for Data, Systems and Society and the Department of Earth, Atmospheric and Planetary Sciences at the Massachusetts Institute of Technology. She is also Director of MIT's Technology and Policy Program. Her research uses atmospheric chemistry modeling to inform decision-making on air pollution, climate change and hazardous substances such as mercury and persistent organic pollutants (POPs). She received her PhD from Harvard University in Earth and Planetary Sciences as part of the Atmospheric Chemistry Modeling Group. Her M.A. (Earth and Planetary Sciences) and B.A. (Environmental Science and Public Policy) are also from Harvard University. Before joining the MIT faculty, she was a research scientist with the MIT Joint Program on the Science and Policy of Global Change.  She has published 70+ articles in the peer-reviewed literature, addressing atmospheric chemistry, air pollution, and interactions between science and policy in international environmental negotiations. Her articles were selected as the best environmental policy papers in 2015 and 2016 by the journal Environmental Science & Technology.  She is the recipient of a U.S. National Science Foundation CAREER award (2011), a Leopold Leadership fellow (2013-2014), Kavli fellow (2015), a member of the Global Young Academy (2014-2018), an American Association for the Advancement of Science Leshner Leadership Institute Fellow (2016-2017), and a Hans Fischer Senior Fellow at the Technical University of Munich Institute for Advanced Study (2018-2021).
+</p>
 </div> 
 
-<hr>-->
+<hr>
 <div class="row" id="cordy">
 <h2> Jim Cordy - Genetics of Computer Programs</h2>
 <img align="right" src="/assets/faces/jcordy.jpg" alt="Jim Cordy" class="team-face" style="margin-right: 20px; "/>
