@@ -70,7 +70,7 @@ MODELS, the ACM/IEEE 21th International Conference on Model Driven Engineering L
 	     <table class="table table-hover">
       <tbody>
        <tr class="clickable-row" data-href="url://registration">
-	      <td> Until Sun Sept 2 2018 <br /><a href="/registration">Early Registration Deadline</a></td>
+	      <td> <del>Until Sun Sept 2 2018</del> <br /><del>Early Registration Deadline</del></td>
       </tr>
       <tr class="clickable-row" data-href="url://registration">
 	      <td> Mon Sep 3 - Fri Oct 12 2018<br /><a href="/registration">Late Registration Deadline</a></td>
