@@ -137,7 +137,7 @@ This is may be routine for your accounting department.
 ## Registrant Types
 
 All registration rates include access to all tracks and all open events on the days specified. You can freely switch between events and tracks during the day.  All registration rates include coffee breaks, refreshments and lunches on the days specified. We will do our best to meet your dietary restrictions. 
-
+Unless explicitly marked as &quot;invitation only&quot;, all events are accessible by both academic and industrial participants who are registered on the given days.
 
 Besides a regular rate, there are four discounted registrant types, defined below.  The registration system makes the change of the registrant type cumbersome.  Please study the table with prices above and make up your mind before starting the process, to minimize trouble.  If you selected a wrong registrant type it might be easiest to start a new registration (with another email address) or, if this is impossible, contact general chair by email.
 
