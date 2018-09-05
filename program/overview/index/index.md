@@ -171,7 +171,7 @@ slug: program-overview
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
-    <td class="tg-jxbq">HCL Event: DevOps & Agile</td>
+    <td class="tg-jxbq"><a href="https://modelsconf2018.github.io/program/mad/">Models, Agile and DevOps: MAD@MODELS</a></td>
     <td class="tg-ifhh" colspan="2">Educators Symposium<br><br></td>
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
