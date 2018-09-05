@@ -267,15 +267,6 @@ h4{
 </div> <!-- end of Wednesday  --> 
 
 
-
-## Flyer
-
-<object data="https://modelsconf2018.github.io/assets/industry-day-flyer.pdf" type="application/pdf" width="100%" height="900px">
-    <embed src="https://modelsconf2018.github.io/assets/industry-day-flyer.png">
-    	<p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://modelsconf2018.github.io/assets/industry-day-flyer.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-
 </div>
 </div>
 
