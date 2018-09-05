@@ -13,7 +13,7 @@ slug: call
     <div class="col-xs-12">
       <!-- <img class="logo img-responsive" src="/assets/logos/models-logo.png" alt="models2018-logo" /> -->
       <div class="flexslider">
-      <ul class="slides">
+      <ul class="slides" style="min-width: 6000px;">
         <li>
           <img src="/assets/copenhagen-pictures/opera-resized.jpg" />
         </li>
