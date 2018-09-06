@@ -19,7 +19,7 @@ All submission deadlines are AoE (i.e. UTC-12).
 * July 31, 2018, Full submission (extended)
 * August 17, 2018, Acceptance notification
 * August 24, 2018, Camera ready
-* TBD (October 14-19, 2018), Demo session
+* October 18-19, 2018, Demo sessions
 
 ## Submission Guidelines
 A short abstract describing the tool and demonstration must be submitted via EasyChair by July 20, 2018. 
