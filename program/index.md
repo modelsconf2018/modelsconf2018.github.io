@@ -1048,7 +1048,7 @@ h4{
 <!-- Start of Thursday -->
 
 <div class="day thursday">
-<h4>  Thursday 17 Oct 2018</h4>
+<h4>  Thursday 18 Oct 2018</h4>
 
 
 <div class="session research">
