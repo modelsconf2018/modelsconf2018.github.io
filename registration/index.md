@@ -23,11 +23,11 @@ The conference program is longer this year: Plan to be able to leave the confere
 .tg .tg-c4ww{background-color:#cbcefb;border-color:inherit;text-align:center;vertical-align:top}
 .tg .tg-yfmt{background-color:#cbcefb;border-color:inherit}
 .tg .tg-l711{border-color:inherit}
-.tg .tg-5ml2{font-weight:bold;background-color:#dddddd;border-color:inherit;vertical-align:top}
+.tg .tg-5ml2{font-weight:bold;background-color:#dddddd;border-color:inherit;vertical-align:top; text-decoration: line-through; color: #80808}
 .tg .tg-us36{border-color:inherit;vertical-align:top}
 .tg .tg-z029{background-color:#ecf4ff;border-color:inherit;vertical-align:top}
 .tg .tg-rzac{font-weight:bold;background-color:#e7e3e3;border-color:inherit;vertical-align:top}
-.tg .tg-15mq{background-color:#dddddd;border-color:inherit; text-decoration: line-through; color: #505050}
+.tg .tg-15mq{background-color:#dddddd;border-color:inherit; text-decoration: line-through; color: #808080}
 .tg .tg-kfkg{background-color:#dae8fc;border-color:inherit;text-align:center;vertical-align:top}
 .tg .tg-p8bj{font-weight:bold;border-color:inherit;vertical-align:top}
 .tg .tg-fqhn{background-color:#dddddd;border-color:inherit;vertical-align:top}
