@@ -128,6 +128,10 @@ The conference program is longer this year: Plan to be able to leave the confere
 
 Prices do **NOT** include 25% VAT. VAT is added before checkout for everyone.
 
+The invoice for late and on-site registration displays the registration price
+as for early rates, and a separate late registration surcharge (respective 150
+EUR and 300 EUR for late and on-site registration).  
+
 Make sure to enter your VAT number during registration.  Your acconting
 department MIGHT be able to deduce VAT domestically in your country, if you are
 VAT exempt (or a VAT payer) in EU. See details
