@@ -73,7 +73,7 @@ The conference program is longer this year: Plan to be able to leave the confere
     <td class="tg-z029">satellites only</td>
     <td class="tg-kiyw">€ 745.00 </td>
     <td class="tg-y5xj">€ 645.00 </td>
-    <td class="tg-kiyw">€ 395.00 </td>
+    <td class="tg-kiyw">€ 545.00 </td>
     <td class="tg-y5xj">€ 445.00 </td>
     <td class="tg-kfkg" rowspan="3"><br><br>Late<br>(from Sep 3rd)</td>
   </tr>
