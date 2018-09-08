@@ -11,6 +11,9 @@ slug: detailed-program
 
 # Detailed program
 
+Unless explicitly marked as "invitation only", all events in this program are accessible by both academic and industrial participants who are registered on the given days.
+
+
 
 <style type="text/css">
 
