@@ -1336,6 +1336,19 @@ h4{
 </table>
 </div>
 
+<div class="session mon event">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        14:00 - 15:30: HCL Event: Devops & Agile
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
 
 <div class="session mon tutorials">
   <table class="table">
@@ -1381,13 +1394,15 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: <a href="tutorials/#t8-thingml-model-driven-software-engineering-for-heterogeneous-and-distributed-reactive-systems" target="_blank"> T8 MThingML: Model-Driven Software Engineering for Heterogeneous and Distributed Reactive Systems</a>
+        14:00 - 15:30: <a href="tutorials/#t8-thingml-model-driven-software-engineering-for-heterogeneous-and-distributed-reactive-systems" target="_blank"> T8 ThingML: Model-Driven Software Engineering for Heterogeneous and Distributed Reactive Systems</a>
         <br> &nbsp;
       </td>
     </tr>
     </tbody>
   </table>
 </div>
+
+
 
 
 <!-- W7 MDE Tools -->
@@ -1662,6 +1677,19 @@ h4{
   </table>
 </div>
 
+<div class="session mon event">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        16:00 - 17:30: HCL Event: Devops & Agile
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
 <div class="session mon tutorials">
   <table class="table">
     <tbody>
@@ -1706,7 +1734,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 17:30: <a href="tutorials/#t8-thingml-model-driven-software-engineering-for-heterogeneous-and-distributed-reactive-systems" target="_blank"> T8 MThingML: Model-Driven Software Engineering for Heterogeneous and Distributed Reactive Systems</a>
+        16:00 - 17:30: <a href="tutorials/#t8-thingml-model-driven-software-engineering-for-heterogeneous-and-distributed-reactive-systems" target="_blank"> T8 ThingML: Model-Driven Software Engineering for Heterogeneous and Distributed Reactive Systems</a>
         <br> &nbsp;
       </td>
     </tr>
