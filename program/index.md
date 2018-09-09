@@ -1718,7 +1718,7 @@ h4{
     </tr>
     </tbody>
   </table>
-
+</div>
 
 <div class="session sam">
 <table class="table">
