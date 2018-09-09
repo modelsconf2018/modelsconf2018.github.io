@@ -753,7 +753,7 @@ h4{
 <div class="day monday">
 <h4> Monday 15 Oct 2018 </h4>
 
-<div class="session sam">
+<div class="session mon sam">
 <table class="table">
       
   <tbody>
@@ -782,7 +782,7 @@ h4{
 </div>
 
 
-<div class="session workshops">
+<div class="session mon workshops">
 <table class="table">
       
   <tbody>
@@ -810,7 +810,7 @@ h4{
 </table>
 </div>
 
-<div class="session workshops">
+<div class="session mon workshops">
 <table class="table">
       
   <tbody>
@@ -832,6 +832,29 @@ h4{
           <br>
           <a href="https://www.tue.nl/en/research/researchers/mark-van-den-brand/" target="_blank"><span class="name">Mark van den Brand</span></a>
           <span class="affiliation">TU Eindhoven</span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div class="session mon workshops">
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        09:00 - 10:30: W9 Model-driven Robot Software Engineering (MORSE)
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Keynote: The Role of Higher-order Models in Robotics and its Reasoning Challenges
+          <br>
+          <a href="" target="_blank"><span class="name">Herman Bruyninckx</span></a>
+          <span class="affiliation"></span>
       </td>
     </tr>
   </tbody>
@@ -1032,6 +1055,63 @@ h4{
 </table>
 </div>
 
+<div class="session mon workshops">
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        11:00 - 12:30: W9 Model-driven Robot Software Engineering (MORSE) - Languages for Robotics
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Keynote: The Role of Higher-order Models in Robotics and its Reasoning Challenges
+          <br>
+          <a href="" target="_blank"><span class="name">Adrian Rutle</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Jonas Backer</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Kolbein Foldøy</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Robin T. Bye</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Embedding Scenario-based Modeling in Statecharts 
+        <br>
+          <a href="" target="_blank"><span class="name">Assaf Marron</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Yotam Hacohen</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">David Harel</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Andreas Mülder</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Axel Terfloth</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Continuous Integration for Testing Full Robotic Behaviours in a GUI-stripped Simulation 
+        <br>
+          <a href="" target="_blank"><span class="name">Vladimir Estivill-Castro</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Rene Hexel </span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Carl Lusty</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
 <div class="session mon lunch">
   <table class="table">
     <tbody>
@@ -1220,6 +1300,68 @@ h4{
 </div>
 <!-- end of W8 GEMOC session -->
 
+<!-- W9 MORSE --> 
+
+<div class="session mon workshops">
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        14:00 - 15:30: W9 Model-driven Robot Software Engineering (MORSE) - Applications
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Towards the use of Quality-of-Service Metrics in Reinforcement Learning: A robotics example 
+          <br>
+          <a href="" target="_blank"><span class="name">Juan Francisco Inglés-Romero</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Juan Manuel Espín</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Rubén Jiménez-Andreu</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Roberto Font</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Cristina Vicente-Chicote</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Using IEC 61499 to Implement a Self-Organising Plug and Produce System information on submission 
+        <br>
+          <a href="" target="_blank"><span class="name">Jörg Walter</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Kim Gruettner</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Wolfgang Nebel</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>A Context-Based Behavioral Language for IoT 
+        <br>
+          <a href="" target="_blank"><span class="name">Achiya Elyasaf</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Assaf Marron </span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Arnon Sturm</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Gera Weiss</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+<!-- END of W9 MORESE -->
+
 <div class="session mon coffee break">
   <table class="table">
     <tbody>
@@ -1260,6 +1402,27 @@ h4{
    <tr class="normalrow">
       <td class="col-md-1"></td>
       <td>Discussion
+        <br> &nbsp;
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div class="session workshops">
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        16:00 - 17:30: W9 Model-driven Robot Software Engineering (MORSE) - Applications
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+   <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Session 4: TBA
         <br> &nbsp;
       </td>
     </tr>
