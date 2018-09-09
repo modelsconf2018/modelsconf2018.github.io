@@ -781,6 +781,37 @@ h4{
 </table>
 </div>
 
+
+<div class="session workshops">
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        09:00 - 10:30: W7 Model-Driven Engineering Tools (MDETools)
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">09:00-09:15</td>
+      <td>Welcome and Intro
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">09:15-10:30</td>
+      <td>Keynote: Developing a Modeling Tool Someone Wants to Use: Challenges, trends and solutions for how to develop modeling tools that people actually can and want to use
+          <br>
+          <a href="" target="_blank"><span class="name">Mattias Mohlin</span></a>
+          <span class="affiliation">HCL Technologies, Sweden</span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+
 <div class="session mon coffee break">
   <table class="table">
     <tbody>
@@ -849,6 +880,75 @@ h4{
 </table>
 </div>
 
+<div class="session workshops">
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        11:00 - 12:30: W7 Model-Driven Engineering Tools (MDETools) - Session: Research papers 
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Improved traceability for bidirectional model transformations 
+        <br>
+          <a href="" target="_blank"><span class="name">Romina Eramo</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Alfonso Pierantonio</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Michele Tucci</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Robotic system testing with AMSA framework 
+        <br>
+          <a href="" target="_blank"><span class="name">Hamza El Baccouri</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Goulven Guillou</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Jean-Philippe Babau</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>An LSP infrastructure to build EMF language servers for web-deployable model editors 
+        <br>
+          <a href="" target="_blank"><span class="name">Roberto Rodriguez-Echeverria</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Javier Luis Canovas Izquierdo</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Manuel Wimmer</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Jordi Cabot</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>A study design template for identifying usability issues in graphical modeling tools
+        <br>
+          <a href="" target="_blank"><span class="name">Jakob Pietron</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Alexander Raschke</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Michael Stegmaier</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Matthias Tichy</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Enrico Rukzio</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
 <div class="session mon lunch">
   <table class="table">
     <tbody>
@@ -908,6 +1008,89 @@ h4{
   </tbody>
 </table>
 </div>
+
+<!-- W7 MDE Tools -->
+<div class="session workshops">
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        14:30 - 16:00: W7 Model-Driven Engineering Tools (MDETools) - Session: Challenge problem
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Implementing the MDETools’18 challenge with ThingML
+        <br>
+          <a href="" target="_blank"><span class="name">Jakob Høgenes</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Brice Morin</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Controlling a virtual rover using AutoFOCUS3 SHM
+        <br>
+          <a href="" target="_blank"><span class="name">Levi Lucio</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Sudeep Kanav</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Andreas Bayha</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Johannes Eder</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>SHM An evaluation of Papyrus-RT in solving the leader-follower challenge problem SHM
+        <br>
+          <a href="" target="_blank"><span class="name">Karim Jahed</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>SHM Modeling and programming a leader-lollower challenge problem with scenario-based toolsSHM
+        <br>
+          <a href="" target="_blank"><span class="name">Joel Greenyer</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Michael Bar-Sinai</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Gera Weiss</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Aviran Sadon</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Assaf Marron</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>SHM Applying Umple to the rover control challenge problem: A case study in model-driven engineering SHM
+        <br>
+          <a href="" target="_blank"><span class="name">Timothy Lethbridge</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Abdulaziz Algablan</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>SHM Navigating the rover with xtUML SHM
+        <br>
+          <a href="" target="_blank"><span class="name">Keith Brown</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!-- end of W7 MDE Tools session -->
 
 <div class="session mon coffee break">
   <table class="table">
