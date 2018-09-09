@@ -810,6 +810,34 @@ h4{
 </table>
 </div>
 
+<div class="session workshops">
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        09:00 - 10:30: W8 The Globalization of Modeling Languages (GEMOC)
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">09:00-09:15</td>
+      <td>Opening
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">09:15-10:30</td>
+      <td>Keynote: Model Driven Software Engineering creates tomorrow’s legacy
+          <br>
+          <a href="https://www.tue.nl/en/research/researchers/mark-van-den-brand/" target="_blank"><span class="name">Mark van den Brand</span></a>
+          <span class="affiliation">TU Eindhoven</span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
 
 
 <div class="session mon coffee break">
@@ -942,6 +970,61 @@ h4{
           <a href="" target="_blank"><span class="name">Matthias Tichy</span></a>
           <span class="affiliation"></span>,
           <a href="" target="_blank"><span class="name">Enrico Rukzio</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div class="session workshops">
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        11:00 - 12:30: W8 The Globalization of Modeling Languages (GEMOC) - Paper Presentations #1
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+   <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Model Consistency ensured by Metamodel Integration
+        <br>
+          <a href="" target="_blank"><span class="name">Johannes Meier</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Andreas Winter</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>A Common Integrated Framework for Heterogeneous Modeling Services
+        <br>
+          <a href="" target="_blank"><span class="name">Anastasia Mavridou</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Tamas Kecskes</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Qishen Zhang</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Janos Sztipanovits</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Tool-Support of Socio-Technical Coordination in the Context of Heterogeneous Modeling
+        <br>
+          <a href="" target="_blank"><span class="name">Francis Bordeleau</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Benoit Combemale</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Romina Eramo</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Mark van den Brand</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Manuel Wimmer</span></a>
           <span class="affiliation"></span>
       </td>
     </tr>
@@ -1092,6 +1175,51 @@ h4{
 </div>
 <!-- end of W7 MDE Tools session -->
 
+<!-- W8 GEMOC -->
+<div class="session workshops">
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        14:00 - 15:30: W8 The Globalization of Modeling Languages (GEMOC) - Paper Presentations #2
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+   <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>CPS simulation models categories in Extended Enterprises
+        <br>
+          <a href="" target="_blank"><span class="name">Renan Leroux</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Marc Pantel</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Ileana Ober</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Jean-Michel Bruel</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Adding a HenshinEngine to GEMOC Studio: An experience report 
+        <br>
+          <a href="" target="_blank"><span class="name">Steffen Zschaler</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Organization of the discussion
+        <br> &nbsp;
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!-- end of W8 GEMOC session -->
+
 <div class="session mon coffee break">
   <table class="table">
     <tbody>
@@ -1116,6 +1244,27 @@ h4{
     </tr>
     </tbody>
   </table>
+</div>
+
+<div class="session workshops">
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        16:00 - 17:30: W8 The Globalization of Modeling Languages (GEMOC) 
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+   <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Discussion
+        <br> &nbsp;
+      </td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
 </div> <!-- End of Monday -->
