@@ -336,7 +336,7 @@ CloudWays workshops. Nicolas will not present at the tutorial.
 
 
 
-## [T9] RobMoSys: Better Models, Tools and Software for Robotic Systems](http://www.servicerobotik-ulm.de/models2018/)
+## [[T9] RobMoSys: Better Models, Tools and Software for Robotic Systems](http://www.servicerobotik-ulm.de/models2018/)
 
 ### Speakers: Christian Schlegel and Herman Bruyninckx
 
@@ -384,7 +384,7 @@ euRobotics association. Full professor at KU Leuven and part-time at Eindhoven U
 
 <hr>
 
-## [T10] How to Build Domain Specific Modeling Languages and Interpreters with WebGME – an Online, Collaborative Metamodeling Environment
+## [[T10] How to Build Domain Specific Modeling Languages and Interpreters with WebGME – an Online, Collaborative Metamodeling Environment](https://webgme.readthedocs.io/en/latest/)
 
 ### Speaker: Patrik Meijer
 
@@ -397,7 +397,7 @@ Specific Modeling Languages (DSML) and the creation of
 corresponding domain models. The main design drivers have
 been scalability, extensibility and version control. WebGME
 provides a variety of extension points to customize the
-application and build up Design Studios suiting articular needs.
+application and build up Design Studios suiting particular needs.
 These extensions include: plugins/interpreters, decorators,
 visualizers, server routers, webhooks, layouts etc. These can be
 neatly generated, shared and imported using a command line
