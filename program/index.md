@@ -229,6 +229,36 @@ h4{
   </table>
 </div>
 
+<div class="session sun workshops">
+  <table class="table">
+
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        09:00 - 10:30: W5 Executable Modeling - Opening and Industry Talks
+        <br>
+        <small>Chairs: TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td> Workshop Opening 
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Invited Industry Talk: Managing Build Configuration Complexity in Industrial Embedded Systems
+      <br>
+      <a href="" target="_blank"><span class="name">Elena Strabykina</span></a>
+      <span class="affiliation">HCL Technologies, Products and Platforms</span>,
+       <a href="" target="_blank"><span class="name">Mattias Mohlin</span></a>
+      <span class="affiliation">HCL Technologies, Products and Platforms</span>
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
 
 <div class="session sun coffee break">
   <table class="table">
@@ -410,6 +440,68 @@ h4{
   </table>
 </div>
 
+<div class="session sun workshops">
+  <table class="table">
+
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        11:00 - 12:35: W5 Executable Modeling - Session 2: Paper Presentations
+        <br>
+        <small>Chairs: TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">11:00-11:25</td>
+      <td>Execution of UTP test cases using fUML
+      <br>
+      <a href="" target="_blank"><span class="name">Marc-Florian Wendland</span></a>
+      <span class="affiliation"></span>,
+       <a href="" target="_blank"><span class="name">Niels Hoppe</span></a>
+      <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">11:25-11:50</td>
+      <td>A generic solution for weaving business code into executable models
+      <br>
+      <a href="" target="_blank"><span class="name">Eric Cariou</span></a>
+      <span class="affiliation"></span>,
+      <a href="" target="_blank"><span class="name">Olivier Le Goaer</span></a>
+      <span class="affiliation"></span>,
+      <a href="" target="_blank"><span class="name">Lea Brunschwig </span></a>
+      <span class="affiliation"></span>,
+      <a href="" target="_blank"><span class="name">Franck Barbier</span></a>
+      <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">11:50-12:15</td>
+      <td>On executable models that are integrated with program code
+      <br>
+      <a href="" target="_blank"><span class="name">Marco Konersmann</span></a>
+      <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">12:15-12:35</td>
+      <td>EmbeddedMontiArc: Textual modeling alternative to Simulink (Tool Demonstration)
+      <br>
+      <a href="" target="_blank"><span class="name">Evgeny Kusmenko</span></a>
+      <span class="affiliation"></span>,
+      <a href="" target="_blank"><span class="name">Jean-Marc Ronck</span></a>
+      <span class="affiliation"></span>,
+      <a href="" target="_blank"><span class="name">Bernhard Rumpe </span></a>
+      <span class="affiliation"></span>,
+      <a href="" target="_blank"><span class="name">Michael von Wenckstern</span></a>
+      <span class="affiliation"></span>
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+
 <div class="session sun lunch">
   <table class="table">
     <tbody>
@@ -491,6 +583,26 @@ h4{
   </table>
 </div>
 
+<div class="session sun lunch">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        14:00 - 15:30: W5 Executable Modeling - EXE
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Keynote: Model Execution: Past, Present and Future 
+      <br> 
+      <a href="" target="_blank"><span class="name"> Benoit Combemale</span></a>
+      <span class="affiliation"></span>
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
 
 <div class="session sun coffee break">
   <table class="table">
@@ -560,7 +672,28 @@ h4{
   </table>
 </div>
 
+
+<div class="session sun workshops">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+       16:00 – 17:30: W5 Executable Modeling - EXE 
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Session 4: TBA
+      <br> 
+      <a href="" target="_blank"><span class="name"></span></a>
+      <span class="affiliation"></span>
+      </td>
+    </tr>
+    </tbody>
+  </table>
 </div>
+
+</div> <!-- End of Sunday -->
 
 
 <div class="day tuesday">
