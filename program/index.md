@@ -541,6 +541,21 @@ h4{
   </table>
 </div>
 
+<div class="session sun tutorials">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        14:00 - 15:30: <a href="tutorials/#t2-making-modeling-cool-again-teaching-and-researching-model-driven-engineering-using-animation-3d-simulation-and-the-internet-of-things" target="_blank">T2 Make Modelling Cool Again</a>
+       <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+
+
 <div class="session sun workshops">
   <table class="table">
     <tbody>
@@ -637,6 +652,19 @@ h4{
       <td class="info" colspan="14">
         15:30 - 16:00: Coffee Break
         <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="session sun tutorials">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        16:00 - 17:30: <a href="tutorials/#t2-making-modeling-cool-again-teaching-and-researching-model-driven-engineering-using-animation-3d-simulation-and-the-internet-of-things" target="_blank">T2 Make Modelling Cool Again</a>
+       <br> &nbsp;
       </td>
     </tr>
     </tbody>
