@@ -96,6 +96,7 @@ h4{
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="mps">MPS Day</div>
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="workshops">Workshops</div>
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="tutorials">Tutorials</div>
+        <div class="btn-s btn btn-default facet-false filter_link" data-filter="sam">SAM</div>
       </div>
       </div>
     </div>
@@ -749,10 +750,221 @@ h4{
 
 </div> <!-- End of Sunday -->
 
+<div class="day monday">
+<h4> Monday 15 Oct 2018 </h4>
+
+<div class="session sam">
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        09:00 - 10:30: Systems Analysis and Modeling (SAM)
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">09:00-09:15</td>
+      <td>Opening
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">09:15-10:30</td>
+      <td>Keynote 1 - Industrial Transformation, Cloud, IoT and 5G and the relevance of Formal Methods 
+          <br>
+          <a href="" target="_blank"><span class="name">Azimeh Sefidcon</span></a>
+          <span class="affiliation">Ericsson, Sweden</span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div class="session mon coffee break">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        10:30 - 11:00: Coffee Break
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="session sam">
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        11:00 - 12:30: Systems Analysis and Modeling (SAM) - Session 1: Cloud Systems
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Modelling Data Protection Vulnerabilities of Cloud Systems using Risk Patterns
+          <br>
+          <a href="" target="_blank"><span class="name">Alexander Palm</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Zoltán Ádám Mann</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Andreas Metzger</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Scheduling Architectures for Scientific Workflows in the Cloud  (short paper)
+          <br>
+          <a href="" target="_blank"><span class="name">Johannes Erbel</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Fabian Korte</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Jens Grabowski</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>The Impact of Integrating Agile Software Development and Model-Driven Development: A Comparative Case Study
+          <br>
+          <a href="" target="_blank"><span class="name">Hessa Alfraihi</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Kevin Lano</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Shekoufeh Kolahdouz-Rahimi</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Mohammadreza Sharbaf</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Howard Haughton</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div class="session mon lunch">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        12:30 - 14:00: Lunch
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="session sam">
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        14:00 - 15:30: Systems Analysis and Modeling (SAM) - Session 2: Notations and Semantics
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>CREST - A DSL for Reactive Cyber-Physical Systems
+          <br>
+          <a href="" target="_blank"><span class="name">Stefan Klikovits</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Alban Linard</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Didier Buchs</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>On the Ontological Expressiveness of the High-Level Constraint Language for Product Line Specification
+          <br>
+          <a href="" target="_blank"><span class="name">Angela Villota Gomez</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Raul Mazo</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Camille Salinesi</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Distributed Computing on Distributed Memory
+          <br>
+          <a href="" target="_blank"><span class="name">Andreas Prinz</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div class="session mon coffee break">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        15:30 - 16:00: Coffee Break
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="session mon sam">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        16:00 – 17:30: Systems Analysis and Modeling (SAM) - SDL Forum Society AGM
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+</div> <!-- End of Monday -->
+
 
 <div class="day tuesday">
 
 <h4> Tuesday 16 Oct 2018</h4>
+
+
+<div class="session sam">
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        09:00 - 10:30: Systems Analysis and Modeling (SAM)
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">09:00-10:30</td>
+      <td>Keynote 2 - Developing Distributed Applications with Open-source MDE Tooling
+          <br>
+          <a href="" target="_blank"><span class="name">Juergen Dingel</span></a>
+          <span class="affiliation">Queens University, Canada</span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div> <!-- end of sam session -->
 
 <!-- MPS Day Session morning only --> 
 
@@ -763,7 +975,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 12:30: MPS Day in 2A14
+        09:00 - 10:30: MPS Day in 2A14
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -788,39 +1000,17 @@ h4{
           <span class="affiliation">JetBrains</span>
       </td>
     </tr>
-    <tr class="normalrow">
-      <td class="col-md-1">10:30-11:00</td>
-      <td> Coffee Break (Atrium ground floor) </td>
-    </tr>
-    <tr class="normalrow">
-      <td class="col-md-1">11:00-12:30</td>
-      <td> Coding a Language Extension with MPS
-         <br>
-        <a href="http://www.voelter.de/" target="_blank"> 
-          <span class="name">Markus Völter</span>
-        </a>
-          <span class="affiliation"></span>
-      </td>
-    </tr>
-    <tr class="normalrow">
-      <td class="col-md-1">12:30-14:00</td>
-      <td> Lunch (Atrium Ground Floor)                              </td>
-    </tr>
-
+  
   </tbody>
-
 </table>
-</div> <!-- end of MPS Day session morning-->
+</div>
 
-<!--  MBSE Session morning -->
 <div class="session mbse">
-
 <table class="table">
-      
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 12:30: Model-Based Systems Engineering Meeting in 2A12
+        09:00 - 10:30: Model-Based Systems Engineering Meeting in 2A12
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -849,9 +1039,106 @@ h4{
           <span class="affiliation">AVL</span>
       </td>
     </tr>
+    </tbody>
+  </table>
+</div>
+
+<!--  MBSE Session morning -->
+
+<div class="session tue coffee break">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        10:30 - 11:00: Coffee Break (Atrium ground floor)
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+
+
+<div class="session sam">
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        11:00 - 12:30: Systems Analysis and Modeling (SAM) - Session 3: Performance, Safety and realizability
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
     <tr class="normalrow">
-      <td class="col-md-1">10:30-11:00</td>
-      <td> Coffee Break (Atrium ground floor) </td>
+      <td class="col-md-1"></td>
+      <td>Pattern libraries guiding the model-based reuse of automotive solutions
+          <br>
+          <a href="" target="_blank"><span class="name">Maged Khalil</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Enabling Performance Modeling for the Masses: Initial Experiences
+          <br>
+          <a href="" target="_blank"><span class="name">Abel Gómez</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Connie U. Smith</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Amy Spellmann</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Jordi Cabot</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td> Realizability of Service Specifications
+          <br>
+          <a href="" target="_blank"><span class="name">Mohammad F. Al-Hammouri</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Gregor V. Bochmann</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div class="session mps">
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        11:00 - 12:30: MPS Day in 2A14 
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">11:00-12:30</td>
+      <td> Coding a Language Extension with MPS
+         <br>
+        <a href="http://www.voelter.de/" target="_blank"> 
+          <span class="name">Markus Völter</span>
+        </a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div> <!-- end of MPS Day session morning-->
+
+<div class="session mbse">
+<table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        11:00 - 12:30: Model-Based Systems Engineering Meeting in 2A12
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
     </tr>
     <tr class="normalrow">
       <td class="col-md-1">11:00-12:00</td>
@@ -875,19 +1162,79 @@ h4{
       <td class="col-md-1">12:00-12:30</td>
       <td> Panel & Discussions: « What are the challenges facing Automotive industry in terms of MBSE? » </td>
     </tr>
-    <tr class="normalrow">
-      <td class="col-md-1">12:30-14:00</td>
-      <td> Lunch (Atrium Ground Floor)                              </td>
-    </tr>
-
   </tbody>
-
 </table>
 </div> <!-- end of MBSE session morning-->
 
+<div class="session tue lunch">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        12:30 - 14:00: Lunch (Atrium ground floor)
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+
+
+<div class="session sam">
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        14:00 - 15:30: Systems Analysis and Modeling (SAM) - Session 4: MSC, URN, GRL
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>An Arithmetic Semantics for GRL Goal Models with Function Generation
+          <br>
+          <a href=""><span class="name">Yuxuan Fan</span></a>
+          <span class="affiliation"></span>,
+          <a href=""><span class="name">Amal Anda</span></a>
+          <span class="affiliation"></span>,
+          <a href=""><span class="name">Daniel Amyot</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Textual User Requirements Notation
+          <br>
+          <a href=""><span class="name">Ruchika Kumar</span></a>
+          <span class="affiliation"></span>,
+          <a href=""><span class="name">Gunter Mussbacher</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td> A comparative analysis of MSC-based requirements specification approaches used in the automotive industry
+          <br>
+          <a href=""><span class="name">Kevin Keller</span></a>
+          <span class="affiliation"></span>,
+          <a href=""><span class="name">Jennifer Brings</span></a>
+          <span class="affiliation"></span>,
+          <a href=""><span class="name">Marian Daun</span></a>
+          <span class="affiliation"></span>,
+          <a href=""><span class="name">Thorsten Weyer</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+   </tbody>
+</table>
+</div>
+
+
 <!--  MBSE Session afternoon1 -->
 <div class="session mbse">
-
 <table class="table">
       
   <tbody>
@@ -916,18 +1263,74 @@ h4{
           <span class="affiliation">Bombardier Transport</span>
       </td>
     </tr>
-    <tr class="normalrow">
-      <td class="col-md-1">15:30-16:00</td>
-      <td> Coffee Break (Atrium ground floor) </td>
-    </tr>
    </tbody>
-
 </table>
 </div> <!-- end of MBSE session afternoon1-->
 
+
+<div class="session tue coffee break">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        15:30 - 16:00: Coffee Break (Atrium ground floor)
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="session sam">
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        16:00 - 17:30: Systems Analysis and Modeling (SAM) - Session 5: Collaborative Modeling 
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Towards Online Collaborative Multi-View Modelling
+          <br>
+          <a href=""><span class="name">Nirmal Kanagasabai</span></a>
+          <span class="affiliation"></span>,
+          <a href=""><span class="name">Omar Alam</span></a>
+          <span class="affiliation"></span>,
+          <a href=""><span class="name">Jörg Kienzle</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Collaborative Software Design and Modeling in Open Source Systems  (short paper)
+          <br>
+          <a href=""><span class="name">Omar Badreddin</span></a>
+          <span class="affiliation"></span>,
+          <a href=""><span class="name">Wahab Hamou-Lhadj</span></a>
+          <span class="affiliation"></span>,
+          <a href=""><span class="name">Vahdat Abdelzad</span></a>
+          <span class="affiliation"></span>,
+          <a href=""><span class="name">Rahad Khandoker</span></a>
+          <span class="affiliation"></span>,
+          <a href=""><span class="name">Maged Elassar</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td> Closing</td>
+    </tr>
+   </tbody>
+</table>
+</div>
+
+
 <!--  MBSE Session afternoon2 -->
 <div class="session mbse">
-
 <table class="table">
   <tbody>
     <tr>
@@ -952,7 +1355,7 @@ h4{
       </td>
     </tr>
     <tr class="normalrow">
-      <td class="col-md-1">14:00-14:30</td>
+      <td class="col-md-1">17:00-17:30</td>
       <td> Panel & Discussions: « How can we improve MBSE adoption in industry ? » </td>
     </tr>
     <tr class="normalrow">
@@ -960,7 +1363,6 @@ h4{
      <td> The End </td>
     </tr>
    </tbody>
-
 </table>
 </div> <!-- end of MBSE session afternoon2-->
 
