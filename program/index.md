@@ -1099,7 +1099,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:30 - 16:00: W7 Model-Driven Engineering Tools (MDETools) - Session: Challenge problem
+        14:00 - 15:30: W7 Model-Driven Engineering Tools (MDETools) - Session: Challenge problem
         <br>
         <small>Chair(s): TBA</small>
       </td>
