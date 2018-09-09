@@ -94,7 +94,8 @@ h4{
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="practice">Practice and Innovation</div>
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="mbse">MBSE</div>
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="mps">MPS Day</div>
-        <div class="btn-s btn btn-default facet-false filter_link" data-filter="w1-modcomp">[W1] ModComp</div>
+        <div class="btn-s btn btn-default facet-false filter_link" data-filter="workshops">Workshops</div>
+        <div class="btn-s btn btn-default facet-false filter_link" data-filter="tutorials">Tutorials</div>
       </div>
       </div>
     </div>
@@ -106,7 +107,21 @@ h4{
 <div class="day sunday">
 <h4> Sunday 14 Oct 2018 </h4>
 
-<div class="session sun w1-modcomp">
+
+<div class="session sun tutorials">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        09:00 - 10:30: T1 Hawk
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="session sun workshops">
   <table class="table">
     <tbody>
     <tr>
@@ -128,6 +143,93 @@ h4{
   </table>
 </div>
 
+<div class="session sun workshops">
+  <table class="table">
+
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        09:00 - 10:30: W3 Workshop on OCL and Textual Modeling
+        <br>
+        <small>Chairs: TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Parallel execution of first-order operations
+      <br>
+      <a href="" target="_blank"><span class="name">Sina Madani</span></a>
+      <span class="affiliation"></span>,
+       <a href="" target="_blank"><span class="name">Dimitrios S. Kolovos</span></a>
+      <span class="affiliation"></span>,
+       <a href="" target="_blank"><span class="name">Richard F. Paige</span></a>
+      <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Introducing the Active Map operation to unify and improve efficiency of active operations
+      <br>
+      <a href="" target="_blank"><span class="name">Frédéric Jouault</span></a>
+      <span class="affiliation"></span>,
+       <a href="" target="_blank"><span class="name">Fabien Chhel</span></a>
+      <span class="affiliation"></span>
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Using process algebra to statically analyze incremental propagation graphs
+      <br>
+      <a href="" target="_blank"><span class="name">Théo Le Calvar</span></a>
+      <span class="affiliation"></span>,
+       <a href="" target="_blank"><span class="name">Fabien Chhel</span></a>
+      <span class="affiliation"></span>,
+       <a href="" target="_blank"><span class="name">Frédéric Jouault</span></a>
+      <span class="affiliation"></span>,
+       <a href="" target="_blank"><span class="name">Frédéric Saubion</span></a>
+      <span class="affiliation"></span>
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="session sun workshops">
+  <table class="table">
+
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        09:00 - 10:30: W4 FlexMDE - Flexible modelling I
+        <br>
+        <small>Chairs: TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Degrees of Rigorousness
+      <br>
+      <a href="https://ecs.victoria.ac.nz/Main/ThomasKuehne" target="_blank"><span class="name">Thomas Kuehne</span></a>
+      <span class="affiliation">University of Wellington</span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Towards flexible object and class modeling tools: an experience report
+      <br>
+      <a href="" target="_blank"><span class="name">Andreas Kästner</span></a>
+      <span class="affiliation"></span>,
+       <a href="" target="_blank"><span class="name">Martin Gogolla</span></a>
+      <span class="affiliation"></span>,
+      <a href="" target="_blank"><span class="name">Bran Selic</span></a>
+      <span class="affiliation"></span>
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+
 <div class="session sun coffee break">
   <table class="table">
     <tbody>
@@ -141,8 +243,21 @@ h4{
   </table>
 </div>
 
+<div class="session sun tutorials">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        11:00 - 12:30: T1 Hawk
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
 
-<div class="session sun w1-modcomp">
+
+<div class="session sun workshops">
   <table class="table">
     <tbody>
     <tr>
@@ -192,9 +307,107 @@ h4{
         <span class="affiliation"></span>
       </td>
     </tr>
-   
   </tbody>
 </table>
+</div>
+
+<div class="session sun workshops">
+  <table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        11:00 - 12:30: W3 Workshop on OCL and Textual Modeling
+        <br>
+        <small>Chairs: TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>A text model - Use your favourite M2M for M2T
+      <br>
+      <a href="" target="_blank"><span class="name">Edward D. Willink</span></a>
+      <span class="affiliation"></span>
+    </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Multi-Level Constraints
+      <br>
+      <a href="" target="_blank"><span class="name">Tony Clark</span></a>
+      <span class="affiliation"></span>,
+       <a href="" target="_blank"><span class="name">Ulrich Frank</span></a>
+      <span class="affiliation"></span>
+    </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Goal-driven elaboration of OCL enriched UML class diagrams
+      <br>
+      <a href="" target="_blank"><span class="name">Robert Darimont</span></a>
+      <span class="affiliation"></span>,
+       <a href="" target="_blank"><span class="name">Christophe Ponsard</span></a>
+      <span class="affiliation"></span>,
+       <a href="" target="_blank"><span class="name"> Michel Lemoine</span></a>
+      <span class="affiliation"></span>
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="session sun workshops">
+  <table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        11:00 - 12:30: W4 FlexMDE - Flexible modelling II
+        <br>
+        <small>Chairs: TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Stakeholder speciﬁc visualisation from heterogeneous modeling tools 
+      <br>
+      <a href="" target="_blank"><span class="name">Abdil Kaya</span></a>
+      <span class="affiliation"></span>,
+      <a href="" target="_blank"><span class="name">Stefan Dutre</span></a>
+      <span class="affiliation"></span>,
+      <a href="" target="_blank"><span class="name">Jef Stegen</span></a>
+      <span class="affiliation"></span>,
+      <a href="" target="_blank"><span class="name">Satya Prakash Jha</span></a>
+      <span class="affiliation"></span>,
+      <a href="" target="_blank"><span class="name">Joachim Denil</span></a>
+      <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Towards a modular and flexible human-usable textual syntax for EMF models
+      <br>
+      <a href="" target="_blank"><span class="name">Dimitrios S. Kolovos</span></a>
+      <span class="affiliation"></span>,
+       <a href="" target="_blank"><span class="name">Richard F. Paige</span></a>
+      <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Towards a modular and flexible human-usable textual syntax for EMF models
+      <br>
+      <a href="" target="_blank"><span class="name">Dimitrios S. Kolovos</span></a>
+      <span class="affiliation"></span>,
+       <a href="" target="_blank"><span class="name">Richard F. Paige</span></a>
+      <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Discussion. Wrap up and closing
+      </td>
+    </tr>
+    </tbody>
+  </table>
 </div>
 
 <div class="session sun lunch">
@@ -210,7 +423,7 @@ h4{
   </table>
 </div>
 
-<div class="session sun w1-modcomp">
+<div class="session sun workshops">
   <table class="table">
     <tbody>
     <tr>
@@ -221,7 +434,7 @@ h4{
       </td>
     </tr>
     <tr class="normalrow">
-      <td class="col-md-1">09:15-10:30</td>
+      <td class="col-md-1"></td>
       <td>Model-driven and component based engineering in the era of smart software-intensive systems
       <br>
       <a href="" target="_blank"><span class="name">Martin Törngren</span></a>
@@ -231,6 +444,53 @@ h4{
     </tbody>
   </table>
 </div>
+
+<div class="session sun workshops">
+  <table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        14:00 - 15:30: W3 Workshop on OCL and Textual Modeling
+        <br>
+        <small>Chairs: TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>vOCL: A novel approach for UML constraints modeling
+      <br>
+      <a href="" target="_blank"><span class="name">Omar Badreddin</span></a>
+      <span class="affiliation"></span>,
+      <a href="" target="_blank"><span class="name">Gerardo Barraza</span></a>
+      <span class="affiliation"></span>,
+      <a href="" target="_blank"><span class="name">Wahab Hamou-Lhadj</span></a>
+      <span class="affiliation"></span>
+    </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Efficient validation of large models using the Mogwaı̈ tool
+      <br>
+      <a href="" target="_blank"><span class="name">Gwendal Daniel</span></a>
+      <span class="affiliation"></span>
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Model Finding and Model Completion with USE
+      <br>
+      <a href="" target="_blank"><span class="name">Martin Gogolla</span></a>
+      <span class="affiliation"></span>,
+       <a href="" target="_blank"><span class="name">Loli Burgueño</span></a>
+      <span class="affiliation"></span>,
+       <a href="" target="_blank"><span class="name">Antonio Vallecillo</span></a>
+      <span class="affiliation"></span>
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
 
 <div class="session sun coffee break">
   <table class="table">
@@ -245,7 +505,7 @@ h4{
   </table>
 </div>
 
-<div class="session sun w1-modcomp">
+<div class="session sun workshops">
   <table class="table">
     <tbody>
     <tr>
@@ -283,13 +543,24 @@ h4{
       <td class="col-md-1">17:00-17:30</td>
       <td>Open discussion and conclusions</td>
     </tr>
-   
   </tbody>
 </table>
 </div>
 
+<div class="session sun coffee break">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        16:00 - 17:30: W3 Workshop on OCL and Textual Modeling - Panel Discussion and Lightning Talks
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
 
-</div> <!-- End of Sunday -->
+</div>
 
 
 <div class="day tuesday">
@@ -765,9 +1036,7 @@ h4{
       </td>
     </tr>  
   </tbody>
-
   </table>
-
 </div> <!-- End of transformation session --> 
 
 
@@ -821,10 +1090,7 @@ h4{
       <td>Coffee break and industry exhibit</td>
       <td></td>
     </tr>
-    
-
   </tbody>
-
 </table>
 </div> <!-- end of Industry session after lunch -->
 
@@ -929,10 +1195,7 @@ h4{
       </td>
     </tr>  
   </tbody>
-
   </table>
-
-
 </div> <!-- end of session-->
 
 <!--  Industry Session afternoon  -->
@@ -1000,10 +1263,7 @@ h4{
       </td>
       <td></td>
     </tr>
-    
-
   </tbody>
-
 </table>
 </div> <!-- end of Industry session afternoon -->
 
