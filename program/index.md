@@ -781,6 +781,45 @@ h4{
 </table>
 </div>
 
+<div class="session mon tutorials">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        09:00 - 10:30: <a href="tutorials/#t3-develop-your-own-car" target="_blank"> T3 Develop your Own Car</a>
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="session mon tutorials">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        09:00 - 10:30: <a href="tutorials/#t4-devs-modelling-and-simulation" target="_blank"> T4 DEVS Modelling and Simulation </a>
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="session mon tutorials">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        09:00 - 10:30: <a href="tutorials/#t6-exploring-decision-space-using-actor-based-simulation---a-model-based-approach" target="_blank"> T6 Exploring Decision Space using Actor based Simulation - a Model Based Approach (ACTORS) </a>
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
 
 <div class="session mon workshops">
 <table class="table">
@@ -963,6 +1002,47 @@ h4{
   </tbody>
 </table>
 </div>
+
+
+<div class="session mon tutorials">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        09:00 - 10:30: <a href="tutorials/#t3-develop-your-own-car" target="_blank"> T3 Develop your Own Car</a>
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="session mon tutorials">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        09:00 - 10:30: <a href="tutorials/#t4-devs-modelling-and-simulation" target="_blank"> T4 DEVS Modelling and Simulation </a>
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="session mon tutorials">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        09:00 - 10:30: <a href="tutorials/#t6-exploring-decision-space-using-actor-based-simulation---a-model-based-approach" target="_blank"> T6 Exploring Decision Space using Actor based Simulation - a Model Based Approach (ACTORS) </a>
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
 
 <div class="session workshops">
 <table class="table">
@@ -1256,6 +1336,47 @@ h4{
 </table>
 </div>
 
+
+<div class="session mon tutorials">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        14:00 - 15:30: <a href="tutorials/#t3-develop-your-own-car" target="_blank"> T3 Develop your Own Car</a>
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="session mon tutorials">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        14:00 - 15:30: <a href="tutorials/#t5-developing-reactive-systems-with-statecharts" target="_blank"> T5 Developing Reactive Systems with Statecharts </a>
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="session mon tutorials">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        14:00 - 15:30: <a href="tutorials/#t7-managing-the-co-evolution-of-domain-specific-languages-and-models" target="_blank"> T6 Managing the Co-Evolution of Domain-Specific Languages and Models</a>
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+
 <!-- W7 MDE Tools -->
 <div class="session workshops">
 <table class="table">
@@ -1521,6 +1642,45 @@ h4{
     <tr>
       <td class="info" colspan="14">
         16:00 – 17:30: Systems Analysis and Modeling (SAM) - SDL Forum Society AGM
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="session mon tutorials">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        16:00 - 17:30: <a href="tutorials/#t3-develop-your-own-car" target="_blank"> T3 Develop your Own Car</a>
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="session mon tutorials">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        16:00 - 17:30: <a href="tutorials/#t5-developing-reactive-systems-with-statecharts" target="_blank"> T5 Developing Reactive Systems with Statecharts </a>
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="session mon tutorials">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        16:00 - 17:30: <a href="tutorials/#t7-managing-the-co-evolution-of-domain-specific-languages-and-models" target="_blank"> T6 Managing the Co-Evolution of Domain-Specific Languages and Models</a>
         <br> &nbsp;
       </td>
     </tr>
