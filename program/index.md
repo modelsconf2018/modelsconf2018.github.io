@@ -113,8 +113,21 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: T1 Hawk
+        09:00 - 10:30: <a href="tutorials/#t1-taming-large-models-using-hawk-and-neoemf" target="_blank"> T1 Hawk </a>
         <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="session sun tutorials">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        09:00 - 10:30: <a href="tutorials/#t12-ml--fv---a-gentle-introduction-to-the-application-of-machine-learning-to-formal-verification" target="_blank">T12 ML + FV = ♥! A Gentle Introduction to the Application of Machine Learning to Formal Verification</a>
+       <br> &nbsp;
       </td>
     </tr>
     </tbody>
