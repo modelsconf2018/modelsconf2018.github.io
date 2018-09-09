@@ -861,6 +861,39 @@ h4{
 </table>
 </div>
 
+<!-- W10 MDE4IOT --> 
+
+<div class="session mon workshops">
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        09:00 - 10:45: W10 Model-Driven Engineering for the Internet-of-Things (MDE4IoT)
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">09:15-10:00</td>
+      <td>Keynote: 
+          <br>
+          <a href="" target="_blank"><span class="name">Øystein Haugen</span></a>
+          <span class="affiliation">HIOF</span>
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1">10:00-10:45</td>
+      <td>Keynote: 
+          <br>
+          <a href="" target="_blank"><span class="name">Franck Fleurey</span></a>
+          <span class="affiliation">TellU</span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
 
 
 <div class="session mon coffee break">
@@ -1105,6 +1138,57 @@ h4{
           <a href="" target="_blank"><span class="name">Rene Hexel </span></a>
           <span class="affiliation"></span>,
           <a href="" target="_blank"><span class="name">Carl Lusty</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div class="session mon workshops">
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        11:00 - 12:30: W10 Model-Driven Engineering for the Internet-of-Things (MDE4IoT)
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Static Analysis of Complex Event Processing Programs
+        <br>
+          <a href="" target="_blank"><span class="name">Adrián García-López</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Loli Burgueño</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Antonio Vallecillo</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Domain Model-Based Data Stream Validation for Internet of Things Applications
+        <br>
+          <a href="" target="_blank"><span class="name">Simon Pizonka</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Timo Kehrer </span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Matthias Weidlich</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>DSML4TinyOS: Code Generation for Wireless Devices
+        <br>
+          <a href="" target="_blank"><span class="name">Hussein M. Marah</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Raheleh Eslampanah</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Moharram Challenger</span></a>
           <span class="affiliation"></span>
       </td>
     </tr>
@@ -1362,6 +1446,62 @@ h4{
 
 <!-- END of W9 MORESE -->
 
+<!-- W10 MDE4IOT --> 
+
+<div class="session mon workshops">
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        14:00 - 15:30: W10 Model-Driven Engineering for the Internet-of-Things (MDE4IoT)
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>ML4CREST: Machine Learning for CPS Models 
+          <br>
+          <a href="" target="_blank"><span class="name">Stefan Klikovits</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Aurélien Coet</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Didier Buchs</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>ThingML+: Augmenting Model-Driven Software Engineering for the Internet of Things with Machine Learning
+        <br>
+          <a href="" target="_blank"><span class="name">Armin Moin</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Stephan Rössler</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Stephan Günnemann</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>An Initial Mapping Study on MDE4IoT
+        <br>
+          <a href="" target="_blank"><span class="name">Sabine Wolny</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Alexandra Mazak</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Bernhard Wally</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
+<!-- END OF MDE4IOT --> 
+
 <div class="session mon coffee break">
   <table class="table">
     <tbody>
@@ -1423,6 +1563,33 @@ h4{
    <tr class="normalrow">
       <td class="col-md-1"></td>
       <td>Session 4: TBA
+        <br> &nbsp;
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div class="session workshops">
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        16:00 - 17:30: W10 Model-Driven Engineering for the Internet-of-Things (MDE4IoT)
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+   <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>MDE4IoT in EU projects: Fora, ENACT, TBD
+        <br> &nbsp;
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Discussions
         <br> &nbsp;
       </td>
     </tr>
