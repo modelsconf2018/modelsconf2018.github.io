@@ -242,7 +242,7 @@ h4{
       </td>
     </tr>
     <tr class="normalrow">
-      <td class="col-md-1">14:00-14:30</td>
+      <td class="col-md-1">17:00-17:30</td>
       <td> Panel & Discussions: « How can we improve MBSE adoption in industry ? » </td>
     </tr>
     <tr class="normalrow">
