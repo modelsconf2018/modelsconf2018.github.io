@@ -625,7 +625,7 @@ h4{
   </table>
 </div>
 
-<div class="session sun lunch">
+<div class="session workshops">
   <table class="table">
     <tbody>
     <tr>
@@ -714,7 +714,7 @@ h4{
 </table>
 </div>
 
-<div class="session sun coffee break">
+<div class="session sun workshops">
   <table class="table">
     <tbody>
     <tr>
