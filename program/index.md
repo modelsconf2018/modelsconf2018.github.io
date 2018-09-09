@@ -2981,8 +2981,14 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        08:30 - 09:30: MODELS MIP talk & SOSYM MIP talk
-        <br> &nbsp;
+        08:30 - 09:30: MODELS MIP: Precise Semantics of EMF Model Transformations by Graph Transformation
+        <br>
+        <a href="" target="_blank"> <span class="name">Enrico Biermann</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Claudia Ermel</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Gabriele Taentzer</span> </a>
+        <span class="affiliation"></span>
       </td>
     </tr>
     </tbody>
