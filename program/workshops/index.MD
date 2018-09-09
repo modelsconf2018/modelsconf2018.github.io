@@ -62,7 +62,7 @@ and options for potential cooperation.
 Over the last years, several modeling platforms have been developed to simplify and automate many steps of Model-Driven Engineering (MDE) processes. However, still several challenges have to be solved for enabling a wider adoption of MDE. One of the most important impediments in adopting MDE tools is related to the reduced flexibility of existing modeling platforms that do not permit to relax or enforce their rigidity depending on the stages of the applied development process. For instance, EMF does not permit to enter models which are not conforming to a metamodel. On one hand this allows only valid models to be defined, but on the other, it makes the corresponding pragmatics more difficult. Thus there is an increasing need for techniques supporting flexibility in a wide range of modeling activities, including metamodel, model, and model transformation development and reuse. The workshop aims at identifying the difficulties in the current practice of MDE related to the lack of flexibility, and soliciting contributions of ideas, concepts, and techniques also from other areas of software development which could be useful to revise certain MDE fundamental typing concepts, and to de ne agile model sketching techniques.
 <hr>
 
-## [W5] [Workshop on Executable Modeling (EXE)](http://www.modelexecution.org/?page_id=2173)
+## [W5] [Workshop on Executable Modeling (EXE)](https://modelexecution.org/exe2018/)
 
 ### Organizers: Tanja Mayerhofer (Vienna University of Technology), Philip Langer (EclipseSource), Ed Seidewitz (nMeta), Jeff Gray (University of Alabama) and Erwan Bousse (Vienna University of Technology)
 
