@@ -141,8 +141,8 @@ slug: program-overview
     <td class="tg-c3ow"></td>
     <td class="tg-c3ow"></td>
     <td class="tg-n7co">T8 ThingML</td>
-             <td class="tg-r9d8"><a href="http://www.servicerobotik-ulm.de/models2018/">T9 RobMoSys</a></td>
-    <td class="tg-r9d8">T10 WebGME</td>
+    <td class="tg-r9d8"><a href="http://www.servicerobotik-ulm.de/models2018/">T9 RobMoSys</a></td>
+    <td class="tg-r9d8"><a href="https://webgme.readthedocs.io/en/latest/" target="_blank">T10 WebGME</a></td>
 
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
