@@ -5,9 +5,22 @@ slug: mbse-meeting
 <div class="row">
  <div class="col-md-14" markdown="1">
 
-# Models, Agile and DevOps: MAD@MODELS
-## Monday Afternoon, October, 15th 2018
-DevOps and agile goes hand in hand – where does modeling fit?
+# Models, Agile and DevOps: MAD@MODELS'18
+## Monday Afternoon, October, 15th 2018, 14:00-17:00
+## DevOps and agile goes hand in hand – where does modeling fit?
+
+There is Model Driven Development (MDD), there is Agile Development, and now DevOps is all the rage.  These methodologies certainly warrant discussions individually. Many might suggest that it’s hard to adopt all of them while still recognizing the value if it were possible to meet their business needs. Architecture modeling with an agile development methodology could be the key to managing ever changing business requirements.  Ensuring models are integrated into continuous build might streamline your DevOps pipeline.  Could models solve the DevOps hurdles in IoT helping to integrate and deploy into an edge computing environment?  Modeling for your agile distributed teams helps them respond to problems ultimately delivering DevOps solutions through Continuous Integration/ Continuous Deployment.  The goal of MAD@MODELS’18 is to bring together IT professionals and swap ideas and strategies on how to truly accomplish an integrated DevOps pipeline using models on agile teams. Yes, let’s hear about and share successes and failures toward having MDD in an Agile team doing Continuous Integration/ Continuous Deployment.
+
+MAD@MODELS is a new event that will continue to evolve at future Models conferences. If you have a suggested topic that you would like to cover please reach out to [Kimi Cousins](Kimi.Cousins@hcl.com).
+
+## Registration
+
+Since the MAD@MODELS meeting is fully part of MODELS'18, participants will have to register through the MODELS registration system.
+
+## Speakers
+
+* Introduction: Agile Modeling: The next step, Michael Hudson (HCL)
+* Discussion: This is a late breaking session and we expect a very interactive session with input from participants. If you have experiences in the DevOps and Agile combined with modelling that you would like to share contact [Kimi Cousins](Kimi.Cousins@hcl.com) for discussions already before the conference.
 
 ## Program
 
@@ -68,81 +81,36 @@ h4{
 
 <!--  MAD Session afternoon1 -->
 <div class="session mad">
-<!--
+
 <table class="table">
       
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: MBSE Adoption Challenges - Model-Based Systems Engineering Meeting at XXX Room 
+        14:00 - 17:00: MAD@MODELS Meeting at XXX Room 
         <br>
-        <small>Chair(s): TBA</small>
+        <small>Chair(s): Kimi Cousins</small>
       </td>
     </tr>
     <tr class="normalrow">
       <td class="col-md-1">14:00-14:30</td>
-      <td>MBSE Adoption Challenges
+      <td>Introduction: Agile Modeling: The next step
           <br>
-        <a href=""> 
-          <span class="name">Jesko Lamm  </span>
+        <a href="https://www.linkedin.com/in/scarified/"> 
+          <span class="name">Michael Hudsson</span>
         </a>
-          <span class="affiliation">Bernafon</span>,
-        <a href="https://fr.linkedin.com/in/yves-bernard-4b486aa" target="_blank"> 
-          <span class="name">Yves Bernard </span>
+        <a href="https://www.hcltech.com/products-and-platforms"> 
+          <span class="affiliation">HCL</span>,
         </a>
-          <span class="affiliation">Airbus</span>,
-        <a href="https://fr.linkedin.com/in/marco-ferrogalini-493b9ba" target="_blank"> 
-          <span class="name">Marco Ferrogalini  </span>
-        </a>
-          <span class="affiliation">Bombardier Transport</span>
-      </td>
     </tr>
     <tr class="normalrow">
-      <td class="col-md-1">15:30-16:00</td>
-      <td> Coffee Break (Atrium ground floor) </td>
+      <td class="col-md-1">14:30-17:00</td>
+      <td> Discussion </td>
     </tr>
    </tbody>
 
 </table>
 </div>
-
-<div class="session mad">
-
-<table class="table">
-  <tbody>
-    <tr>
-      <td class="info" colspan="14">
-        16:00 - 17:30: MBSE Adoption Challenges - Model-Based Systems Engineering Meeting at XXX Room
-        <br>
-        <small>Chair(s): TBA</small>
-      </td>
-    </tr>
-    <tr class="normalrow">
-      <td class="col-md-1">16:00-17:00</td>
-      <td>MBSE Adoption Challenges
-          <br>
-        <a href="https://www.linkedin.com/in/stephane-bonnet-946703/" target="_blank"> 
-          <span class="name">Stéphane Bonnet</span>
-        </a>
-          <span class="affiliation">Thalès</span>,
-        <a href="https://fr.linkedin.com/in/pascalroques" target="_blank"> 
-          <span class="name">Pascal Roques</span>
-        </a>
-          <span class="affiliation">PRFC</span>
-      </td>
-    </tr>
-    <tr class="normalrow">
-      <td class="col-md-1">14:00-14:30</td>
-      <td> Panel & Discussions: « How can we improve MBSE adoption in industry ? » </td>
-    </tr>
-    <tr class="normalrow">
-     <td class="col-md-1">17:30</td>
-     <td> The End </td>
-    </tr>
-   </tbody>
-
-</table>
-</div> --> <!-- end of MAD session afternoon2--> 
 
 
 </div> <!-- end of Monday -->
