@@ -1934,6 +1934,35 @@ h4{
   </table>
 </div>
 
+<div class="session workshops">
+<table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        09:00 - 10:30: W11 Debugging in Model-Driven Engineering (MDEBug) - Opening and Keynote
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">09:00-09:15</td>
+      <td>Workshop Opening
+        <br> &nbsp;
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">09:15-10:30</td>
+      <td>The Vienna Development Method (VDM)
+          <br>
+          <a href="" target="_blank"><span class="name">Peter Gorm Larsen</span></a>
+          <span class="affiliation">Aarhus University</span>
+      </td>
+    </tr>
+  
+  </tbody>
+</table>
+</div>
+
 <!--  MBSE Session morning -->
 
 <div class="session tue coffee break">
@@ -2057,6 +2086,75 @@ h4{
 </table>
 </div> <!-- end of MBSE session morning-->
 
+<!-- Start of MDEBug --> 
+<div class="session workshops">
+<table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        11:00 - 12:30: W11 Debugging in Model-Driven Engineering (MDEBug) - Paper Presentations
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">11:00-11:20</td>
+      <td>Towards an Automated Fault Localizer while Designing Meta-models
+          <br>
+          <a href="" target="_blank"><span class="name">Adel Ferdjoukh</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Jean-Marie Mottu</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1">11:20-11:40</td>
+      <td>Towards Providing Debugging in the Domain-Specific Modeling Languages for Software Agents
+          <br>
+          <a href="" target="_blank"><span class="name">Baris Tekin Tezel</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Geylani Kardas</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1">11:40-12:00</td>
+      <td>Debugging of Model Transformations and Contracts in SyVOLT
+          <br>
+          <a href="" target="_blank"><span class="name">Bentley Oakes</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Clark Verbrugge</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Levi Lucio</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Hans Vangheluwe</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1">12:00-12:20</td>
+      <td>A Generalized Stepping Semantics for Model Debugging
+          <br>
+          <a href="" target="_blank"><span class="name">Simon Van Mierlo</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Yentl Van Tendeloo</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Hans Vangheluwe</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1">12:20-12:30</td>
+      <td>Discussion
+          <br> &nbsp;
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<!-- End of MDEBug --> 
+
 <div class="session tue lunch">
   <table class="table">
     <tbody>
@@ -2123,6 +2221,19 @@ h4{
 </table>
 </div>
 
+<div class="session tue event">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        14:00 - 15:30: HCL Modeling tools restarted
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
 
 <!--  MBSE Session afternoon1 -->
 <div class="session mbse">
@@ -2158,6 +2269,35 @@ h4{
 </table>
 </div> <!-- end of MBSE session afternoon1-->
 
+
+<!-- Start of MDEBug --> 
+<div class="session workshops">
+<table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        14:00 - 15:30: W11 Debugging in Model-Driven Engineering (MDEBug) - Discussions
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1">14:00-14:45</td>
+      <td>Discussion, deciding on set of topics and forming of groups
+          <br> &nbsp;
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1">14:45-15:30</td>
+      <td>Discussion in groups
+          <br> &nbsp;
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<!-- End of MDEBug --> 
 
 <div class="session tue coffee break">
   <table class="table">
@@ -2219,6 +2359,19 @@ h4{
 </table>
 </div>
 
+<div class="session tue event">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        16:00 - 17:30: HCL Modeling tools restarted
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
 
 <!--  MBSE Session afternoon2 -->
 <div class="session mbse">
@@ -2256,6 +2409,35 @@ h4{
    </tbody>
 </table>
 </div> <!-- end of MBSE session afternoon2-->
+
+<!-- Start of W11 MDEBug --> 
+<div class="session workshops">
+<table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        16:00 - 17:30: W11 Debugging in Model-Driven Engineering (MDEBug) - Discussions continued
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1">14:00-14:45</td>
+      <td>Discussion in groups
+          <br> &nbsp;
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1">14:45-15:30</td>
+      <td>Discussion of results and wrap-up
+          <br> &nbsp;
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<!-- End of W11 MDEBug --> 
 
 </div> <!-- end of Tuesday -->
 
