@@ -1933,6 +1933,7 @@ h4{
     </tbody>
   </table>
 </div>
+<!--  MBSE Session morning -->
 
 <div class="session workshops">
 <table class="table">
@@ -1963,7 +1964,45 @@ h4{
 </table>
 </div>
 
-<!--  MBSE Session morning -->
+
+
+<!-- Start of W15 MULTI --> 
+<div class="session workshops">
+<table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        09:00 - 10:30: W15 Multi-Level Modeling (MULTI)
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Welcome
+          <br>&nbsp;
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Keynote: Multi-Level Modeling in the Wild with AutomationML
+          <br>
+          <a href="" target="_blank"><span class="name">Manuel Wimmer</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1">11:40-12:00</td>
+      <td>Toward a Unified Conception of Multi-Level Modelling: Advanced Requirements
+          <br>
+          <a href="" target="_blank"><span class="name">Ulrich Frank</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!-- End of W15 MULTI --> 
 
 <div class="session tue coffee break">
   <table class="table">
@@ -2155,6 +2194,74 @@ h4{
 
 <!-- End of MDEBug --> 
 
+<!-- Start of W15 MULTI --> 
+<div class="session workshops">
+<table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        09:00 - 10:30: W15 Multi-Level Modeling (MULTI) - Advances in multi-level modeling
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Welcome
+          <br>&nbsp;
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>A Tool for the Convergence of Multilevel Modelling Approaches
+          <br>
+          <a href="" target="_blank"><span class="name">Fernando Macías,</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Adrian Rutle</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Volker Stolz</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Context Aware Factors in Rearchitecting Two-Level Models into Multilevel Models
+          <br>
+          <a href="" target="_blank"><span class="name">Mira Balaban</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Igal Khitron</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Azzam Maraee</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Practical Experiences with Multi-Level Modeling using FMMLx: A Hierarchy of Domain-Specific Modeling Languages in Support of Life-Cycle Assessment
+          <br>
+          <a href="" target="_blank"><span class="name">Monika Kaczmarek</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Mario Nolte</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Andreas Fritsch</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Stefanie Betz</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Multi-Level Modeling with XML
+          <br>
+          <a href="" target="_blank"><span class="name">Jens Gulden</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!-- End of W15 MULTI --> 
+
 <div class="session tue lunch">
   <table class="table">
     <tbody>
@@ -2299,6 +2406,72 @@ h4{
 
 <!-- End of MDEBug --> 
 
+<!-- Start of W15 MULTI --> 
+<div class="session workshops">
+<table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        09:00 - 10:30: W15 Multi-Level Modeling (MULTI) - Process modelling & Bicycle challenge
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Multilevel Modelling of Coloured Petri Nets (in Process modelling)
+          <br>
+          <a href="" target="_blank"><span class="name">Alejandro Rodríguez</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Adrian Rutle</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Francisco Durán</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Lars Michael Kristensen</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Fernando Macías</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>A Contribution to the MULTI Challenge Using the FMMLx (in Bycicle challenge)
+          <br>
+          <a href="" target="_blank"><span class="name">Ulrich Frank</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Tony Clark</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Multi-level modeling with MELANEE (in Bycicle challenge)
+          <br>
+          <a href="" target="_blank"><span class="name">Arne Lange</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Colin Atkinson</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>The Bicycle Challenge in DMLA, where Validation Means Correct Modeling (in Bycicle challenge)
+          <br>
+          <a href="" target="_blank"><span class="name">Gergely Mezei</span></a>
+          <span class="affiliation"></span>,
+           <a href="" target="_blank"><span class="name">Zoltan Theisz</span></a>
+          <span class="affiliation"></span>,
+           <a href="" target="_blank"><span class="name">Dániel Urbán</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Sándor Bácsi</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!-- End of W15 MULTI --> 
+
 <div class="session tue coffee break">
   <table class="table">
     <tbody>
@@ -2438,6 +2611,60 @@ h4{
 </div>
 
 <!-- End of W11 MDEBug --> 
+
+<!-- Start of W15 MULTI --> 
+<div class="session workshops">
+<table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        09:00 - 10:30: W15 Multi-Level Modeling (MULTI) - Discussion and Position
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Multilevel Modeling: What's in a Level? A Position Paper
+          <br>
+          <a href="" target="_blank"><span class="name">Mira Balaban</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Igal Khitron</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Michael Kifer</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Azzam Maraee</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>A Story of Levels
+          <br>
+          <a href="" target="_blank"><span class="name">Thomas Kuehne</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Multi-level modeling with MELANEE (in Bycicle challenge)
+          <br>
+          <a href="" target="_blank"><span class="name">Arne Lange</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Colin Atkinson</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Present and future of multi-level modeling (Plenary session)
+          <br> &nbsp;
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!-- End of W15 MULTI --> 
 
 </div> <!-- end of Tuesday -->
 
