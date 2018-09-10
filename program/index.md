@@ -2275,7 +2275,7 @@ h4{
       <td class="col-md-1"></td>
       <td>A Tool for the Convergence of Multilevel Modelling Approaches
           <br>
-          <a href="" target="_blank"><span class="name">Fernando Macías,</span></a>
+          <a href="" target="_blank"><span class="name">Fernando Macías</span></a>
           <span class="affiliation"></span>,
           <a href="" target="_blank"><span class="name">Adrian Rutle</span></a>
           <span class="affiliation"></span>,
