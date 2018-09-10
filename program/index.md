@@ -1828,6 +1828,7 @@ h4{
 
 </div> <!-- End of Monday -->
 
+<!-- start of tuesday --> 
 
 <div class="day tuesday">
 
@@ -1994,6 +1995,37 @@ h4{
 </table>
 </div>
 <!-- End of W11 MDEBug -->
+
+<!-- Start of W12 MoDeVVA -->
+<div class="session workshops">
+<table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        09:00 - 10:30: W12 Model Driven Engineering, Verification and Validation (MoDeVVA)
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">09:00-09:15</td>
+      <td>Welcome
+        <br> &nbsp;
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">09:15-10:30</td>
+      <td>Keynote: V&V for behavioral modeling in practice
+          <br>
+          <a href="" target="_blank"><span class="name">Eugene Syriani</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+  
+  </tbody>
+</table>
+</div>
+<!-- End of W12 MoDeVVA -->
 
 
 <!-- Start of W15 MULTI --> 
@@ -2252,7 +2284,66 @@ h4{
 </table>
 </div>
 
-<!-- End of MDEBug --> 
+<!-- End of W11 MDEBug --> 
+
+<!-- Start of W12 MoDeVVA -->
+<div class="session workshops">
+<table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        11:00 - 12:30: W12 Model Driven Engineering, Verification and Validation (MoDeVVA)
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">11:00-11:30</td>
+      <td>ProVer: an SMT-based approach for process verification
+          <br>
+          <a href="" target="_blank"><span class="name">Souheib Baarir</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Reda Bendraou</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Hakan Metin</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">11:30-12:00</td>
+      <td>Generation of test strategies for Model-based Functional Safety testing using an Artifact-centric approach
+          <br>
+          <a href="" target="_blank"><span class="name">Bert Van Acker</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Joachim Denil</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Paul De Meulenaere</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Bjorn Aelvoet</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Dries Mahieu</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Jan van den Oudenhoven</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">12:00-12:30</td>
+      <td>Balancing Model Usability and Verifiability with SBVR and Answer Set Programming
+          <br>
+          <a href="" target="_blank"><span class="name">Deepali Kholkar</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Dushyanthi Mulpuru</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Vinay Kulkarni</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+  
+  </tbody>
+</table>
+</div>
+<!-- End of W12 MoDeVVA -->
 
 <!-- Start of W15 MULTI --> 
 <div class="session workshops">
