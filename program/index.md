@@ -1935,6 +1935,36 @@ h4{
 </div>
 <!--  MBSE Session morning -->
 
+
+<!-- Start of Tuesday Tutorials -->
+<div class="session tutorials">
+<table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        09:00 - 10:30: <a href="/tutorials/#t9-robmosys-better-models-tools-and-software-for-robotic-systems">T9 RobMoSys: Better Models, Tools and Software for Robotic Systems</a>
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+</table>
+</div>
+
+<div class="session tutorials">
+<table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        09:00 - 10:30: <a href="/tutorials/#t11-seamless-model-based-systems-engineering-the-spes-approach">T11 Seamless Model-Based Systems Engineering: The SPES Approach</a>
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+</table>
+</div>
+<!-- End of Tuesday Tutorials -->
+
+<!-- Start of W11 MDEBug -->
 <div class="session workshops">
 <table class="table">
   <tbody>
@@ -1963,7 +1993,7 @@ h4{
   </tbody>
 </table>
 </div>
-
+<!-- End of W11 MDEBug -->
 
 
 <!-- Start of W15 MULTI --> 
@@ -2125,6 +2155,36 @@ h4{
 </table>
 </div> <!-- end of MBSE session morning-->
 
+
+<!-- Start of Tuesday Tutorials -->
+<div class="session tutorials">
+<table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        11:00 - 12:30: <a href="/tutorials/#t9-robmosys-better-models-tools-and-software-for-robotic-systems">T9 RobMoSys: Better Models, Tools and Software for Robotic Systems</a>
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+</table>
+</div>
+
+<div class="session tutorials">
+<table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        11:00 - 12:30: <a href="/tutorials/#t11-seamless-model-based-systems-engineering-the-spes-approach">T11 Seamless Model-Based Systems Engineering: The SPES Approach</a>
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+</table>
+</div>
+<!-- End of Tuesday Tutorials -->
+
+
 <!-- Start of MDEBug --> 
 <div class="session workshops">
 <table class="table">
@@ -2200,7 +2260,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: W15 Multi-Level Modeling (MULTI) - Advances in multi-level modeling
+        11:00 - 12:30: W15 Multi-Level Modeling (MULTI) - Advances in multi-level modeling
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -2375,6 +2435,24 @@ h4{
    </tbody>
 </table>
 </div> <!-- end of MBSE session afternoon1-->
+
+
+<!-- Start of Tuesday Tutorials -->
+<div class="session tutorials">
+<table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        14:00 - 15:30: <a href="/tutorials/#t10-how-to-build-domain-specific-modeling-languages-and-interpreters-with-webgme--an-online-collaborative-metamodeling-environment">T10 How to Build Domain Specific Modeling Languages and Interpreters with WebGME – an Online, Collaborative Metamodeling Environment</a>
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+</table>
+</div>
+
+<!-- End of Tuesday Tutorials -->
+
 
 
 <!-- Start of MDEBug --> 
@@ -2583,6 +2661,23 @@ h4{
 </table>
 </div> <!-- end of MBSE session afternoon2-->
 
+<!-- Start of Tuesday Tutorials -->
+<div class="session tutorials">
+<table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        16:00 - 17:30: <a href="/tutorials/#t10-how-to-build-domain-specific-modeling-languages-and-interpreters-with-webgme--an-online-collaborative-metamodeling-environment">T10 How to Build Domain Specific Modeling Languages and Interpreters with WebGME – an Online, Collaborative Metamodeling Environment</a>
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+</table>
+</div>
+
+<!-- End of Tuesday Tutorials -->
+
+
 <!-- Start of W11 MDEBug --> 
 <div class="session workshops">
 <table class="table">
@@ -2665,6 +2760,19 @@ h4{
 </table>
 </div>
 <!-- End of W15 MULTI --> 
+
+<div class="session tue dinner">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        19:00 - 23:00: Doctoral Symposium Dinner (in town)
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
 
 </div> <!-- end of Tuesday -->
 
