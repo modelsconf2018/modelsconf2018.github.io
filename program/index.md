@@ -1811,6 +1811,21 @@ h4{
 </table>
 </div>
 
+<div class="session mon coffee break">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        19:00 - 23:00: Satellite Reception (Royal Library, Den Sorte Diamant)
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+
+
 </div> <!-- End of Monday -->
 
 
