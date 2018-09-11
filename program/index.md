@@ -97,6 +97,7 @@ h4{
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="workshops">Workshops</div>
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="tutorials">Tutorials</div>
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="sam">SAM</div>
+        <div class="btn-s btn btn-default facet-false filter_link" data-filter="edusymp">EduSymp</div>
       </div>
       </div>
     </div>
@@ -1936,6 +1937,44 @@ h4{
 </div>
 <!--  MBSE Session morning -->
 
+<!-- Start of EduSymp -->
+<div class="session edusymp">
+<table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        09:00 - 10:30: Educators Symposium
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">09:00-10:10</td>
+      <td>Keynote: Teaching and learning about abstraction
+          <br>
+          <a href="" target="_blank"><span class="name">Perdita Stevens</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">10:10-10:30</td>
+      <td>Teaching Model-Based Systems Engineering for Industry 4.0: Student Challenges and Expectations
+          <br>
+          <a href="" target="_blank"><span class="name">Arvid Butting</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Sinem Konar</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Bernhard Rumpe</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Andreas Wortmann</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+<!--  EduSymp session morning -->
+
 
 <!-- Start of Tuesday Tutorials -->
 <div class="session tutorials">
@@ -2226,6 +2265,70 @@ h4{
   </tbody>
 </table>
 </div> <!-- end of MBSE session morning-->
+
+<!-- Start of EduSymp -->
+<div class="session edusymp">
+<table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        11:00 - 12:30: Educators Symposium
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Towards a Body of Knowledge for Model-Based Software Engineering
+          <br>  
+          <a href="" target="_blank"><span class="name">Federico Ciccozzi, Michalis Famelis, Gerti Kappel, Leen Lambers, Sebastien Mosser, Richard Paige, Alfonso Pierantonio, Arend Rensink, Rick Salay, Gabi Taentzer, Antonio Vallecillo and Manuel Wimmer</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>The impact of opt-in gamification on students' grades in a software design course
+          <br>
+          <a href="" target="_blank"><span class="name">Kiko Fernandez-Reyes</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Dave Clarke</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Janina Hornbach</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Using MOOC Technology and Formative Assessment in a Conceptual Modelling Course: an Experience Report
+          <br>
+          <a href="" target="_blank"><span class="name">Daria Bogdanova</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Monique Snoeck</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>We'll Make Modelers Out of 'Em Yet: Introducing Modeling into a Curriculum
+          <br>
+          <a href="" target="_blank"><span class="name">Eric J. Rapos</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Practicing Domain-Specific Languages: From Code to Models
+          <br>
+          <a href="" target="_blank"><span class="name">Laure Gonnord</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Sebastien Mosser</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+<!--  EduSymp session morning -->
 
 
 <!-- Start of Tuesday Tutorials -->
@@ -2619,6 +2722,74 @@ h4{
 </table>
 </div> <!-- end of MBSE session afternoon1-->
 
+<!-- Start of EduSymp -->
+<div class="session edusymp">
+<table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        14:00 - 15:30: Educators Symposium
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>How do we teach Modelling and Model-Driven Engineering? A survey 
+          <br>  
+          <a href="" target="_blank"><span class="name">Alfonso Pierantonio, Federico Ciccozzi, Michalis Famelis, Gerti Kappel, Leen Lembers, Sebastien Mosser, Richard Paige, Arend Rensink, Rick Salay, Gabriele Taentzer, Antonio Vallecillo and Manuel Wimmer</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>How to Improve the Understanding of Roles in Modeling
+          <br>
+          <a href="" target="_blank"><span class="name">Markus Hamann</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Juliane Pfeffer</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Birgit Demuth</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Adapting Kirkpatrick´s Evaluation Model to Technology Enhanced Learning 
+          <br>
+          <a href="" target="_blank"><span class="name">Jenny Ruiz de la Peña</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Monique Snoeck</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Bringing Model-Driven Engineering into the Software Engineering curriculum 
+          <br>
+          <a href="" target="_blank"><span class="name">Fabian Gilson</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Evolution towards a holistic course in Model-driven System Development - Modeling for Enterprise Architecture with Business and System Architecture and Platform-based development 
+          <br>
+          <a href="" target="_blank"><span class="name">Arne.J. Berre</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Shihong Huang</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Hani Murad </span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Ewa Kabza</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+<!--  EduSymp session morning -->
+
 
 <!-- Start of Tuesday Tutorials -->
 <div class="session tutorials">
@@ -2891,6 +3062,28 @@ h4{
    </tbody>
 </table>
 </div> <!-- end of MBSE session afternoon2-->
+
+<!-- Start of EduSymp -->
+<div class="session edusymp">
+<table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        16:00 - 17:30: Educators Symposium
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Discussion
+          <br>  &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+<!--  End of EduSymp session evening -->
 
 <!-- Start of Tuesday Tutorials -->
 <div class="session tutorials">
