@@ -97,7 +97,7 @@ h4{
       <td>Introduction: Agile Modeling: The next step
           <br>
         <a href="https://www.linkedin.com/in/scarified/"> 
-          <span class="name">Michael Hudsson</span>
+          <span class="name">Michael Hudson</span>
         </a>
         <a href="https://www.hcltech.com/products-and-platforms"> 
           <span class="affiliation">HCL</span>
