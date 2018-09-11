@@ -3750,6 +3750,78 @@ h4{
         <br> &nbsp;
       </td>
     </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">15:00-15:10</td>
+      <td>A tool for Automatically Selecting Optimal Model Transformation Chains
+        <br>
+        <a href="" target="_blank"><span class="name">Francesco Basciani</span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"><span class="name">Mattia D'Emidio</span></a>
+        <span class="affiliation"></span>,
+         <a href="" target="_blank"><span class="name">Davide Di Ruscio</span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"><span class="name">Daniele Frigioni</span></a>
+        <span class="affiliation"></span>,
+         <a href="" target="_blank"><span class="name">Ludovico Iovino</span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"><span class="name">Alfonso Pierantonio</span></a>
+        <span class="affiliation"></span>
+      </td>
+    </tr>
+        <tr class="normalrow">
+      <td class="col-md-1">15:15-15:25</td>
+      <td>Collaborative Creation and Versioning of Modeling Languages with MetaEdit+
+        <br>
+        <a href="" target="_blank"><span class="name">Steven Kelly </span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"><span class="name">Juha-Pekka Tolvanen</span></a>
+        <span class="affiliation"></span>
+      </td>
+    </tr>
+        <tr class="normalrow">
+      <td class="col-md-1">15:30-15:40</td>
+      <td>Modularizing and Layering Metamodels with the Modular EMF Designer
+        <br>
+        <a href="" target="_blank"><span class="name">Amine Kechaou</span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"><span class="name">Misha Strittmatter</span></a>
+        <span class="affiliation"></span>
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1">15:45-15:55</td>
+      <td>Towards an Adaptive City Journey Planner with MDE
+        <br>
+        <a href="" target="_blank"><span class="name">Antonio Bucchiarone</span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"><span class="name">Antonio Cicchetti</span></a>
+        <span class="affiliation"></span>
+      </td>
+    </tr>
+        <tr class="normalrow">
+      <td class="col-md-1">16:00-16:10</td>
+      <td> Documenting Simulink Designs of Embedded Systems
+        <br>
+        <a href="" target="_blank"><span class="name">Alexander Schaap, Gordon Marks</span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"><span class="name">Vera Pantelic</span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"><span class="name">Mark Lawford</span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"><span class="name">Gehan Selim</span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"><span class="name">Alan Wassyng</span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"><span class="name">Lucian Patcas</span></a>
+        <span class="affiliation"></span>
+      </td>
+    </tr>
+      <tr class="normalrow">
+      <td class="col-md-1">16:10-16:30</td>
+      <td>Lightning demos
+        <br> &nbsp;
+      </td>
+    </tr>
     </tbody>
   </table>
 </div>
@@ -3767,7 +3839,7 @@ h4{
   </table>
 </div>
 
-<div class="session tool-demos">
+<!-- <div class="session tool-demos">
   <table class="table">
     <tbody>
     <tr>
@@ -3778,7 +3850,7 @@ h4{
     </tr>
     </tbody>
   </table>
-</div>
+</div> -->
 
 <div class="session sosym">
   <table class="table">
@@ -3978,6 +4050,86 @@ h4{
       <td class="info" colspan="14">
         10:00 - 11:30: Tool Demo Talks Aud 3
         <br>&nbsp;
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">10:00-10:10</td>
+      <td>Supporting Systematic Literature Reviews in Computer Science
+        <br>
+        <a href="" target="_blank"> <span class="name">Sebastian Götz</span> </a>
+        <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">10:15-10:25</td>
+      <td>SimGen: A Tool for Generating Simulations and Visualizations of Embedded Systems on the Unity Game Engine
+        <br>
+        <a href="" target="_blank"> <span class="name">Michal Pasternak</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Nafiseh Kahani</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Mojtaba Bagherzadeh</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Juergen Dingel </span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Jim Cordy</span> </a>
+        <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">10:30-10:40</td>
+      <td>MDEOptimiser: A Search Based Model Engineering Tool
+        <br>
+        <a href="" target="_blank"> <span class="name">Alexandru Burdusel</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Steffen Zschaler</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Daniel Strüber</span> </a>
+        <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">10:45-10:55</td>
+      <td>IncQuery Server for Teamwork Cloud
+        <br>
+        <a href="" target="_blank"> <span class="name">Ábel Hegedüs</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Gábor Bergmann</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Csaba Debreceni</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Ákos Horváth</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Ákos Menyhért</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Péter Lunk</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">István Papp</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Dániel Varró</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Tomas Vileiniskis</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">István Ráth</span> </a>
+        <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">11:00-11:10</td>
+      <td>Optimal Mapping of Task-based Computation Models over Heterogeneous Hardware using Placer
+        <br>
+        <a href="" target="_blank"> <span class="name">Renaud De Landtsheer</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Jean-Christophe Deprez</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Christophe Ponsard</span> </a>
+        <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">11:10-11:30</td>
+      <td>Lightning demos
+        <br> &nbsp;
       </td>
     </tr>
   </tbody>
