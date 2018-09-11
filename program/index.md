@@ -2066,6 +2066,44 @@ h4{
 </div>
 <!-- End of W12 MoDeVVA -->
 
+<!-- Start of W13 PAINS -->
+<div class="session workshops">
+<table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        09:00 - 10:30: W13 Pains in Model-Driven Engineering Practice (PAINS)
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Intro
+        <br> &nbsp;
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Invited Talk: Pains in Modeling: SysML-based Deployment in an Engineering Domain 
+          <br>
+          <a href="" target="_blank"><span class="name">Stefan Kriebel</span></a>
+          <span class="affiliation">BMW Group</span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Invited Talk: Applying model based approaches in industry environments: key challenges and issues 
+          <br>
+          <a href="" target="_blank"><span class="name">Nikolaus Regnat</span></a>
+          <span class="affiliation">Siemens</span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!-- End of W13 PAINS -->
+
 <!-- Start of W14 ME -->
 <div class="session workshops">
 <table class="table">
@@ -2488,6 +2526,118 @@ h4{
 </div>
 <!-- End of W12 MoDeVVA -->
 
+<!-- Start of W13 PAINS -->
+<div class="session workshops">
+<table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        11:00 - 12:30: W13 Pains in Model-Driven Engineering Practice (PAINS) - Flash Talks
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr> 
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>User Experience for DSLs - Aspects in regard to the Introduction of MDE within an Industrial Environment
+          <br>
+          <a href="" target="_blank"><span class="name">Gerald Stieglbauer</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Philip Langer</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Stefan Sobernig</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>The Pains of Working with Spreadsheets in Model-Driven Engineering
+          <br>
+          <a href="" target="_blank"><span class="name">Jonathan Co</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Richard F. Paige</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Peter Thomas</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Stephen Hobson</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Pains in Adopting MDE for Safety in Highly-Automated Driving
+          <br>
+          <a href="" target="_blank"><span class="name">Arne Nordmann</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Model Based System Engineering Challenges @ PLASTIC OMNIUM
+          <br>
+          <a href="" target="_blank"><span class="name">Thibaud Thomas </span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Sutra Iris</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Code Generation Pains
+          <br>
+          <a href="" target="_blank"><span class="name">Garry Craig</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Simplification and dynamic customization of MDE tools 
+          <br>
+          <a href="" target="_blank"><span class="name">Elena Strabykina</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Mattias Mohlin</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Pains with MDE
+          <br>
+          <a href="" target="_blank"><span class="name">Vinay Kulkarni</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Sreedhar Reddy</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Pains in Model-Based Engineering: Views from an IV&V Perspective
+          <br>
+          <a href="" target="_blank"><span class="name">Robert Pettit</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>How to provide “experience” to doubters? On introducing MDE into an organization
+          <br>
+          <a href="" target="_blank"><span class="name">Juha-Pekka Tolvanen</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td> The PAINS after 15 years of practicing MDE 
+          <br>
+          <a href="" target="_blank"><span class="name">Levi Lucio</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!-- End of W13 PAINS -->
+
 <!-- Start of W14 ME -->
 <div class="session workshops">
 <table class="table">
@@ -2838,6 +2988,29 @@ h4{
 
 <!-- End of MDEBug --> 
 
+<!-- Start of W13 PAINS --> 
+<div class="session workshops">
+<table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        14:00 - 15:30: W13 Pains in Model-Driven Engineering Practice (PAINS)
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">14:00-15:30</td>
+      <td>Breakout Sessions
+          <br> &nbsp;          
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<!-- End of W13 PAINS  --> 
+
 <!-- Start of W14 ME -->
 <div class="session workshops">
 <table class="table">
@@ -3131,6 +3304,29 @@ h4{
 
 <!-- End of W11 MDEBug --> 
 
+<!-- Start of W13 PAINS --> 
+<div class="session workshops">
+<table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        16:00 - 17:30: W13 Pains in Model-Driven Engineering Practice (PAINS)
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">16:00-17:30</td>
+      <td>Plenary and conclusion
+          <br> &nbsp;          
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<!-- End of W13 PAINS  --> 
+
 <!-- Start of W15 MULTI --> 
 <div class="session workshops">
 <table class="table">
@@ -3183,6 +3379,8 @@ h4{
   </tbody>
 </table>
 </div>
+
+
 <!-- End of W15 MULTI --> 
 
 <div class="session tue dinner">
