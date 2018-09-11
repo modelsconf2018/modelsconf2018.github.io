@@ -2027,6 +2027,46 @@ h4{
 </div>
 <!-- End of W12 MoDeVVA -->
 
+<!-- Start of W14 ME -->
+<div class="session workshops">
+<table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        09:00 - 10:30: <a href="http://www.models-and-evolution.com/2018/index.html#section-ajenda" target="_blank">W14 Models and Evolution (ME)</a>
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">09:00-09:20</td>
+      <td>Opening Remarks
+        <br> &nbsp;
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">09:20-10:00</td>
+      <td>Invited Talk: TBA 
+          <br>
+          <a href="" target="_blank"><span class="name">Eugene Syriani</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">10:00-10:20</td>
+      <td>Semantic Differencing of Activity Diagrams by a Translation into Finite Automata
+          <br>
+          <a href="" target="_blank"><span class="name">Oliver Kautz</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Bernhard Rumpe</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+  
+  </tbody>
+</table>
+</div>
+<!-- End of W14 ME -->
 
 <!-- Start of W15 MULTI --> 
 <div class="session workshops">
@@ -2345,6 +2385,58 @@ h4{
 </div>
 <!-- End of W12 MoDeVVA -->
 
+<!-- Start of W14 ME -->
+<div class="session workshops">
+<table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        11:00 - 12:30: <a href="http://www.models-and-evolution.com/2018/index.html#section-ajenda" target="_blank">W14 Models and Evolution (ME)</a>
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">11:00-11:20</td>
+      <td>Improving Trace-Based Propagation of Feature Annotations in Model Transformations 
+          <br>
+          <a href="" target="_blank"><span class="name">Sandra Greiner</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Bernhard Westfechtel</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">10:00-10:20</td>
+      <td>Towards Hybrid Model Persistence
+          <br>
+          <a href="" target="_blank"><span class="name">Alfa Yohannis</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Horacio Hoyos Rodriguez</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Fiona Polack</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Dimitris Kolovos</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">10:00-10:20</td>
+      <td>Towards a Metamodel for Modular Simulation Environments
+          <br>
+          <a href="" target="_blank"><span class="name">Sandro Koch</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Frederik Reiche</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Robert Heinrich</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!-- End of W14 ME -->
+
 <!-- Start of W15 MULTI --> 
 <div class="session workshops">
 <table class="table">
@@ -2575,13 +2667,61 @@ h4{
 
 <!-- End of MDEBug --> 
 
+<!-- Start of W14 ME -->
+<div class="session workshops">
+<table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        14:00 - 15:30: <a href="http://www.models-and-evolution.com/2018/index.html#section-ajenda" target="_blank">W14 Models and Evolution (ME)</a>
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">14:00-14:20</td>
+      <td>Reuse Considerations in Evolving Software Products: The Software Product Line Perspective 
+          <br>
+          <a href="" target="_blank"><span class="name">Iris Reinhartz-Berger</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Amir Tomer</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Malki Grossman</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">14:30-14:50</td>
+      <td>Resilience in Sirius Editors: Understanding the Impact of Metamodel Changes
+          <br>
+          <a href="" target="_blank"><span class="name">Alfonso Pierantonio</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Juri Di Rocco</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Davide Di Ruscio</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Hrishikesh Narayanankutty</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">15:00-15:30</td>
+      <td>  Discussion and closing
+          <br> &nbsp;
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!-- End of W14 ME -->
+
 <!-- Start of W15 MULTI --> 
 <div class="session workshops">
 <table class="table">
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: W15 Multi-Level Modeling (MULTI) - Process modelling & Bicycle challenge
+        14:00 - 15:30: W15 Multi-Level Modeling (MULTI) - Process modelling & Bicycle challenge
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -2804,7 +2944,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: W15 Multi-Level Modeling (MULTI) - Discussion and Position
+        16:00 - 17:30: W15 Multi-Level Modeling (MULTI) - Discussion and Position
         <br>
         <small>Chair(s): TBA</small>
       </td>
