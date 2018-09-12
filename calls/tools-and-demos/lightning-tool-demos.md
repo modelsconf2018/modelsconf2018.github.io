@@ -18,6 +18,27 @@ The deadline for submitting your lightning tool demo proposals is October 16 (Ao
 
 If you cannot attend the conference, please send us a recorded demo of your tool (with voice) and we will project it during one of the tool demo sessions.
 
+<div id="dates" class="col-md-4">
+    <div class="panel panel-primary" style="position: fixed;">
+      <div class="panel-heading">
+        <div class="panel-title">
+           Lightning Tool Demonstrations <br>Important Dates  <span class="pull-right"> 
+                                <span class="glyphicon glyphicon-globe"></span>
+                                <span class="glyphicon glyphicon-time"></span>
+                                AoE (UTC-12)
+                              </span> <br /></div>
+      </div>
+      <table class="table table-hover important-dates-in-sidebar">
+      <tbody>
+      <tr>
+      <td> 16 October 2018 <br />Deadline</td>
+      </tr>
+      <tr>
+      <td> 18-19 October 2018 <br />Demo sessions </td>
+      </tr>  
+   </tbody>
+   </table>  
+  </div>
  </div>
 </div>
 
