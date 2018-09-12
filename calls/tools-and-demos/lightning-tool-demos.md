@@ -7,11 +7,11 @@ slug: lightning-tool-demos
 
 # Call for Lightning Tool Demonstrations
 
-This is an opportunity to deliver a tool demo at the conference even if you have missed the main deadline of the tools and demos track, or you cannot attend the conference. 
+This is an opportunity to deliver a tool demo at MODELS even if you have missed the main deadline of the tools and demos track, or you cannot attend the conference. 
 
 For this category of demos, no official paper submission is required and no publication will be made. To reserve a 10-minute slot, please send an email with a brief description of the demo and links to any relevant relevant resources (e.g. tool website, articles, papers) to Dimitris Kolovos (dimitris.kolovos@york.ac.uk).
 
-The deadline for submitting your lightning tool demo proposals is October 16 (AoE) and demos will be delivered during the following slots (please let us know if you have a preference)
+The deadline for submitting your lightning tool demo proposals is October 15 (AoE) and demos will be delivered during the following slots (please let us know if you have a preference)
 
 * October 18, 2018 (15:00 - 16:30)
 * October 19, 2018 (10:00 - 11:30)
@@ -31,8 +31,11 @@ If you cannot attend the conference, please send us a recorded demo of your tool
       <table class="table table-hover important-dates-in-sidebar">
       <tbody>
       <tr>
-      <td> 16 October 2018 <br />Deadline</td>
+      <td> 15 October 2018 <br />Deadline</td>
       </tr>
+      <tr>
+      <td> 16 October 2018 <br />Notifications</td>
+      </tr>      
       <tr>
       <td> 18-19 October 2018 <br />Demo sessions </td>
       </tr>  
