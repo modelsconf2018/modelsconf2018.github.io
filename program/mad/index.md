@@ -20,7 +20,7 @@ Since the MAD@MODELS meeting is fully part of MODELS'18, participants will have 
 ## Speakers
 
 * Introduction: Agile Modeling: The next step, Michael Hudson (HCL)
-* Discussion: This is a late breaking session and we expect a very interactive session with input from participants. If you have experiences in the DevOps and Agile combined with modelling that you would like to share contact [Kimi Cousins](mailto:Kimi.Cousins@hcl.com) for discussions already before the conference.
+* Discussion: This is a late breaking session and we expect a very interactive session with input from participants. If you have experiences in the DevOps and Agile combined with modelling that you would like to share contact [Kimi Cousins](mailto:Kimi.Cousins@hcl.com) for discussions already before the conference. We are continuously updating the program below with relevant topics.
 
 ## Program
 
@@ -106,7 +106,27 @@ h4{
     </tr>
     <tr class="normalrow">
       <td class="col-md-1">14:30-17:00</td>
-      <td> Discussion </td>
+      <td> Discussion 
+        <ul>
+          <li>Modeling in the continuous pipeline
+            <ul>
+              <li>Successes that work</li>
+              <li>Challenges and how to overcome them</li>
+            </ul>
+          </li>
+          <li> Architecture in an agile and DevOps project
+            <ul>
+              <li>How to maintain architecture integrity while delivering every 2-3 week</li>
+            </ul>
+          </li>
+          <li>Decision History, remembering the WHY
+            <ul>
+              <li>Maintaining your intellectual capital</li>
+            </ul>
+          </li>
+
+        </ul>
+      </td>
     </tr>
    </tbody>
 
