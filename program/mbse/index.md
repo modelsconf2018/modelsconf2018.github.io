@@ -103,6 +103,196 @@ h4{
 <h4> Tuesday 16 Oct 2018</h4>
 
 <!--  MBSE Session morning -->
+
+
+<div class="session mbse">
+<table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        09:00 - 10:30: Model-Based Systems Engineering Meeting in 2A12
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">09:00-09:15</td>
+      <td>Welcome & Opening</td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">09:15-10:00</td>
+      <td>Keynote: SysML v2 and MBSE: The next ten years
+         <br>
+        <a href="https://www.linkedin.com/in/seidewitz" target="_blank"> 
+          <span class="name">Ed Seidewitz </span>
+        </a>
+          <span class="affiliation">Model Driven Solutions</span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">10:00-10:30</td>
+      <td> « MBSE: A debate on potentials and impediments for large organizations »
+         <br>
+        <a href="https://www.linkedin.com/in/dr-christian-zingel-808039107/?locale=de_DE" target="_blank"> 
+          <span class="name">Christian Zingel </span>
+        </a>
+          <span class="affiliation">AVL</span>
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+<!--  MBSE Session morning -->
+
+
+
+<div class="session tue coffee break">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        10:30 - 11:00: Coffee Break (Atrium ground floor)
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+<div class="session mbse">
+<table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        11:00 - 12:30: Model-Based Systems Engineering Meeting in 2A12
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">11:00-12:00</td>
+      <td> Automotive Challenges
+          <br>
+          <a href=""><span class="name">Jianlin Shi</span></a>
+          <span class="affiliation">Volvo Cars</span>,
+          <a href="https://de.linkedin.com/in/magedkhalil" target="_blank"><span class="name">Maged Khalil  </span></a>
+          <span class="affiliation">Continental</span>, 
+          <a href="" target="_blank"> 
+          <span class="name">Thibaud Thomas</span>
+        </a>
+          <span class="affiliation">Plastic Omnium</span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">12:00-12:30</td>
+      <td> Panel & Discussions: « What are the challenges facing Automotive industry in terms of MBSE? » </td>
+    </tr>
+  </tbody>
+</table>
+</div> <!-- end of MBSE session morning-->
+
+<div class="session tue lunch">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        12:30 - 14:00: Lunch (Atrium ground floor)
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+<!--  MBSE Session afternoon1 -->
+<div class="session mbse">
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        14:00 - 15:30: MBSE Adoption Challenges - Model-Based Systems Engineering Meeting in 2A12 
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">14:00-15:30</td>
+      <td>MBSE Adoption Challenges
+          <br>
+        <a href=""> 
+          <span class="name">Jesko Lamm  </span>
+        </a>
+          <span class="affiliation">Bernafon</span>,
+        <a href="https://fr.linkedin.com/in/yves-bernard-4b486aa" target="_blank"> 
+          <span class="name">Yves Bernard </span>
+        </a>
+          <span class="affiliation">Airbus</span>,
+        <a href="https://fr.linkedin.com/in/marco-ferrogalini-493b9ba" target="_blank"> 
+          <span class="name">Marco Ferrogalini  </span>
+        </a>
+          <span class="affiliation">Bombardier Transport</span>
+      </td>
+    </tr>
+   </tbody>
+</table>
+</div> <!-- end of MBSE session afternoon1-->
+
+
+<div class="session tue coffee break">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        15:30 - 16:00: Coffee Break (Atrium ground floor)
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+
+<!--  MBSE Session afternoon2 -->
+<div class="session mbse">
+<table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        16:00 - 17:30: MBSE Adoption Challenges - Model-Based Systems Engineering Meeting in 2A12
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">16:00-17:00</td>
+      <td>MBSE Adoption Challenges
+          <br>
+          <a href="" target="_blank"> <span class="name">David Williams</span></a>
+          <span class="affiliation">HCL</span>
+        <a href="https://www.linkedin.com/in/stephane-bonnet-946703/" target="_blank"> 
+          <span class="name">Stéphane Bonnet</span>
+        </a>
+          <span class="affiliation">Thalès</span>,
+        <a href="https://fr.linkedin.com/in/pascalroques" target="_blank"> 
+          <span class="name">Pascal Roques</span>
+        </a>
+          <span class="affiliation">PRFC</span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">17:00-17:30</td>
+      <td> Panel & Discussions: « How can we improve MBSE adoption in industry ? » </td>
+    </tr>
+    <tr class="normalrow">
+     <td class="col-md-1">17:30</td>
+     <td> The End </td>
+    </tr>
+   </tbody>
+</table>
+</div> <!-- end of MBSE session afternoon2-->
+<!--
+
 <div class="session mbse">
 
 <table class="table">
@@ -173,9 +363,11 @@ h4{
   </tbody>
 
 </table>
-</div> <!-- end of MBSE session morning-->
+
+</div> --> <!-- end of MBSE session morning-->
 
 <!--  MBSE Session afternoon1 -->
+<!--
 <div class="session mbse">
 
 <table class="table">
@@ -213,9 +405,10 @@ h4{
    </tbody>
 
 </table>
-</div> <!-- end of MBSE session afternoon1-->
+</div>--> <!-- end of MBSE session afternoon1-->
 
 <!--  MBSE Session afternoon2 -->
+<!--
 <div class="session mbse">
 
 <table class="table">
@@ -252,7 +445,7 @@ h4{
    </tbody>
 
 </table>
-</div> <!-- end of MBSE session afternoon2-->
+</div> --><!-- end of MBSE session afternoon2-->
 
 </div> <!-- end of Tuesday -->
 

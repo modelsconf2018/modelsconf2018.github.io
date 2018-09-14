@@ -2847,7 +2847,7 @@ h4{
       </td>
     </tr>
     <tr class="normalrow">
-      <td class="col-md-1">14:00-14:30</td>
+      <td class="col-md-1">14:00-15:30</td>
       <td>MBSE Adoption Challenges
           <br>
         <a href=""> 
