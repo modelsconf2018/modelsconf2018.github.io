@@ -3396,10 +3396,56 @@ h4{
 
 </div> <!-- end of Tuesday -->
 
-<!--  Wednesday  -->
+<!-- Start of Wednesday  -->
 <div class="day wednesday">
 <h4>  Wednesday 17 Oct 2018</h4>
 
+<div class="session ">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        08:30 - 10:00: Plenary Session in Aud 1
+        <br>
+        <small> Chair: Øystein Haugen</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Welcome to MODELS 2018
+        <br> &nbsp;
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td><a href="keynotes/" target="_blank">Keynote: Modeling air pollution: Informing policies to address a global environmental challenge</a>
+        <br>
+        <a href="http://www.selingroup.org/noelle-eckley-selin/" target="_blank"><span class="name">Noelle Eckley Selin</span></a>
+        <span class="affiliation">MIT</span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Lightning talks from exhibit presenters
+        <br> &nbsp;
+      </td>
+    </tr>
+  </tbody>
+  </table>
+</div>
+
+<div class="session tue dinner">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        19:00 - 23:00: Doctoral Symposium Dinner (in town)
+        <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
 
 <div class="session foundations">
   <table class="table">
@@ -3930,6 +3976,40 @@ h4{
 <div class="day thursday">
 <h4>  Thursday 18 Oct 2018</h4>
 
+<div class="session research">
+<table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        08:30 - 09:30: Plenary Session in Aud 1
+        <br>
+        <small> Chair: Andrzej Wąsowski</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td><a href="keynotes/#wisse" target="_blank">Keynote: Models for motion prediction; robotic brains versus biological brains</a>
+        <br>
+        <a href="https://www.tudelft.nl/staff/m.wisse/" target="_blank"> <span class="name">Martijn Wisse</span> </a>
+        <span class="affiliation">Delft University</span>
+      </td>
+    </tr>
+</tbody>
+</table>
+</div>
+
+<div class="session lunch">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        09:30 - 10:00: Coffee Break (Atrium Ground) 
+        <br> &nbsp;
+      </td>
+    </tr>
+  </tbody>
+</table>
+  </div>
 
 <div class="session research">
   <table class="table">
@@ -4410,7 +4490,7 @@ h4{
 
 </div> <!--  End of Thursday -->
 
-<!-- Start Friday -->
+<!-- Start of Friday -->
 <div class="day friday">
 <h4> Friday 19 Oct 2018 </h4>
 
