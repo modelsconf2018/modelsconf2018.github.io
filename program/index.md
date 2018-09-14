@@ -99,6 +99,8 @@ h4{
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="sam">SAM</div>
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="edusymp">EduSymp</div>
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="docsymp">DoctoralSymp</div>
+        <div class="btn-s btn btn-default facet-false filter_link" data-filter="lunch">Lunch</div>
+        <div class="btn-s btn btn-default facet-false filter_link" data-filter="coffee">Coffee</div>
       </div>
       </div>
     </div>
@@ -1283,7 +1285,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        12:30 - 14:00: Lunch
+        12:30 - 14:00: Lunch (Atrium ground floor)
         <br> &nbsp;
       </td>
     </tr>
@@ -4138,7 +4140,7 @@ h4{
 </table>
 </div>
 
-<div class="session lunch">
+<div class="session coffee">
   <table class="table">
     <tbody>
     <tr>
