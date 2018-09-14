@@ -98,6 +98,7 @@ h4{
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="tutorials">Tutorials</div>
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="sam">SAM</div>
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="edusymp">EduSymp</div>
+        <div class="btn-s btn btn-default facet-false filter_link" data-filter="docsymp">DoctoralSymp</div>
       </div>
       </div>
     </div>
@@ -1937,6 +1938,44 @@ h4{
 </div>
 <!--  MBSE Session morning -->
 
+<!-- Start of Doctoral Symposium -->
+<div class="session docsymp">
+<table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        09:00 - 10:30: Doctoral Symposium
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">09:00-09:15</td>
+      <td>Welcome
+          <br>&nbsp;
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">09:15-10:00</td>
+      <td>Keynote: The Obstacle is the Way 
+          <br>
+          <a href="" target="_blank"><span class="name">Jeff Gray</span></a>
+          <span class="affiliation">University of Alabama</span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">10:00-10:30</td>
+      <td> Tool Advances Inspired to Address Observed Challenges of Developing UML-like Models When Using Modelling Tools 
+          <br>
+          <a href="" target="_blank"><span class="name">Parsa Pourali</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+<!--  Doctoral Symposium session morning -->
+
 <!-- Start of EduSymp -->
 <div class="session edusymp">
 <table class="table">
@@ -2317,6 +2356,47 @@ h4{
   </tbody>
 </table>
 </div> <!-- end of MBSE session morning-->
+
+<!-- Start of Doctoral Symposium morning1 -->
+<div class="session docsymp">
+<table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        11:00 - 12:30: Doctoral Symposium - Quality Assurance
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td> Model-driven Round-trip Software Dependability Engineering
+          <br>
+          <a href="" target="_blank"><span class="name">Michele Tucci</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td> A Modular and Reuse-Oriented Approach to Integrate a Modeling Environment with a Verifier
+          <br>
+          <a href="" target="_blank"><span class="name">Sudeep Kanav</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Optimization and Reconfiguration of IEC 61499-based Software Architectures 
+          <br>
+          <a href="" target="_blank"><span class="name">Tarik Terzimehic</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+<!--  Doctoral Symposium session morning1 -->
+
 
 <!-- Start of EduSymp -->
 <div class="session edusymp">
@@ -2892,6 +2972,46 @@ h4{
 </table>
 </div> <!-- end of MBSE session afternoon1-->
 
+<!-- Start of Doctoral Symposium afternoon1 -->
+<div class="session docsymp">
+<table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        14:00 - 15:30: Doctoral Symposium - Heterogeneous and Complex Systems 
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td> Context-aware traceability across heterogeneous modeling environments
+          <br>
+          <a href="" target="_blank"><span class="name">Beatriz A. Sanchez</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td> Exploration of hardware topologies based on functions, variability and timing
+          <br>
+          <a href="" target="_blank"><span class="name">Johannes Eder</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Model-Driven Development of Condition Monitoring Software 
+          <br>
+          <a href="" target="_blank"><span class="name">Faruk Pasic</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+<!--  Doctoral Symposium session morning1 -->
+
 <!-- Start of EduSymp -->
 <div class="session edusymp">
 <table class="table">
@@ -3210,6 +3330,50 @@ h4{
 </table>
 </div> <!-- end of MBSE session afternoon2-->
 
+<!-- Start of Doctoral Symposium afternoon2 -->
+<div class="session docsymp">
+<table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        16:00 - 17:30: Doctoral Symposium - Consistency Management in MDE
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Tolerant Consistency Management in Model-Driven Engineering 
+          <br>
+          <a href="" target="_blank"><span class="name">Nils Weidmann</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td> Multi-model Consistency Preservation
+          <br>
+          <a href="" target="_blank"><span class="name"> Heiko Klare</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">17:00-18:00</td>
+      <td>Discussion Panel: Do's and Don'ts When Performing Doctoral Studies
+          <br> &nbsp;
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Closing
+          <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+<!--  Doctoral Symposium session afternoon2 -->
+
 <!-- Start of EduSymp -->
 <div class="session edusymp">
 <table class="table">
@@ -3362,7 +3526,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        19:00 - 23:00: Doctoral Symposium Dinner (in town)
+        19:00: Doctoral Symposium Dinner
         <br> &nbsp;
       </td>
     </tr>
