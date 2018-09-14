@@ -1815,7 +1815,7 @@ h4{
 </table>
 </div>
 
-<div class="session mon coffee break">
+<div class="session mon reception">
   <table class="table">
     <tbody>
     <tr>
@@ -3576,7 +3576,7 @@ h4{
   </table>
 </div>
 
-<div class="session wed dinner">
+<div class="session wed coffee">
   <table class="table">
     <tbody>
     <tr>
@@ -3907,6 +3907,7 @@ h4{
     <tr>
       <td class="info" colspan="14">
         15:00 - 15:30: Coffee Break + Exhibit (Atrium Ground) 
+        <br> &nbsp;
       </td>
     </tr>
   </tbody>
@@ -4140,7 +4141,7 @@ h4{
 </table>
 </div>
 
-<div class="session coffee">
+<div class="session thu coffee">
   <table class="table">
     <tbody>
     <tr>
@@ -4420,7 +4421,7 @@ h4{
   </table>
 </div>
 
-<div class="session coffee break">
+<div class="session thu coffee break">
   <table class="table">
     <tbody>
     <tr>
@@ -4577,7 +4578,7 @@ h4{
   </table>
 </div>
 
-<div class="session coffee break">
+<!-- <div class="session coffee break">
   <table class="table">
     <tbody>
     <tr>
@@ -4588,7 +4589,7 @@ h4{
     </tr>
     </tbody>
   </table>
-</div>
+</div> -->
 
 <!-- <div class="session tool-demos">
   <table class="table">
@@ -4617,7 +4618,7 @@ h4{
 </div>
 
 
-<div class="session coffee break">
+<div class="session banquet">
   <table class="table">
     <tbody>
     <tr>
@@ -5125,7 +5126,7 @@ h4{
 </table>
 </div>
 
-<div class="session fri coffee break">
+<div class="session fri bye">
   <table class="table">
     <tbody>
     <tr>
