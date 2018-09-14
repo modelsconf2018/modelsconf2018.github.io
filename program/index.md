@@ -3434,12 +3434,12 @@ h4{
   </table>
 </div>
 
-<div class="session tue dinner">
+<div class="session wed dinner">
   <table class="table">
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        19:00 - 23:00: Doctoral Symposium Dinner (in town)
+        10:00 - 10:30: Coffee Break + Exhibit (Atrium Ground) 
         <br> &nbsp;
       </td>
     </tr>
