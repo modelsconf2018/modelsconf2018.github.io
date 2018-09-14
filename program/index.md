@@ -3336,7 +3336,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 17:30: Doctoral Symposium - Consistency Management in MDE
+        16:00 - 18:00: Doctoral Symposium - Consistency Management in MDE
         <br>
         <small>Chair(s): TBA</small>
       </td>
