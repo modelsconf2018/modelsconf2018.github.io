@@ -3031,29 +3031,6 @@ h4{
 
 <!-- End of W13 PAINS  --> 
 
-<!-- Start of W14 ME -->
-<div class="session workshops">
-<table class="table">
-  <tbody>
-    <tr>
-      <td class="info" colspan="14">
-        14:00 - 15:30: <a href="http://www.models-and-evolution.com/2018/index.html#section-ajenda" target="_blank">W14 Models and Evolution (ME)</a>
-        <br>
-        <small>Chair(s): TBA</small>
-      </td>
-    </tr>
-
-    <tr class="normalrow">
-      <td class="col-md-1">15:00-15:30</td>
-      <td>  Discussion and closing
-          <br> &nbsp;
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-<!-- End of W14 ME -->
-
 <!-- Start of W15 MULTI --> 
 <div class="session workshops">
 <table class="table">
