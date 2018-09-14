@@ -2121,11 +2121,29 @@ h4{
         <br> &nbsp;
       </td>
     </tr>
-    <tr class="normalrow">
-      <td class="col-md-1">09:20-10:00</td>
-      <td>Invited Talk: TBA 
+        <tr class="normalrow">
+      <td class="col-md-1">09:20-09:40</td>
+      <td>Reuse Considerations in Evolving Software Products: The Software Product Line Perspective 
           <br>
-          <a href="" target="_blank"><span class="name">Eugene Syriani</span></a>
+          <a href="" target="_blank"><span class="name">Iris Reinhartz-Berger</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Amir Tomer</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Malki Grossman</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">09:40-10:00</td>
+      <td>Resilience in Sirius Editors: Understanding the Impact of Metamodel Changes
+          <br>
+          <a href="" target="_blank"><span class="name">Alfonso Pierantonio</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Juri Di Rocco</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Davide Di Ruscio</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Hrishikesh Narayanankutty</span></a>
           <span class="affiliation"></span>
       </td>
     </tr>
@@ -2656,7 +2674,7 @@ h4{
       </td>
     </tr>
     <tr class="normalrow">
-      <td class="col-md-1">10:00-10:20</td>
+      <td class="col-md-1">11:30-11:50</td>
       <td>Towards Hybrid Model Persistence
           <br>
           <a href="" target="_blank"><span class="name">Alfa Yohannis</span></a>
@@ -2670,7 +2688,7 @@ h4{
       </td>
     </tr>
     <tr class="normalrow">
-      <td class="col-md-1">10:00-10:20</td>
+      <td class="col-md-1">12:00-12:20</td>
       <td>Towards a Metamodel for Modular Simulation Environments
           <br>
           <a href="" target="_blank"><span class="name">Sandro Koch</span></a>
@@ -2679,6 +2697,12 @@ h4{
           <span class="affiliation"></span>,
           <a href="" target="_blank"><span class="name">Robert Heinrich</span></a>
           <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">12:20-12:30</td>
+      <td>Discussion and Closing
+          <br> &nbsp;          
       </td>
     </tr>
   </tbody>
@@ -3018,32 +3042,7 @@ h4{
         <small>Chair(s): TBA</small>
       </td>
     </tr>
-    <tr class="normalrow">
-      <td class="col-md-1">14:00-14:20</td>
-      <td>Reuse Considerations in Evolving Software Products: The Software Product Line Perspective 
-          <br>
-          <a href="" target="_blank"><span class="name">Iris Reinhartz-Berger</span></a>
-          <span class="affiliation"></span>,
-          <a href="" target="_blank"><span class="name">Amir Tomer</span></a>
-          <span class="affiliation"></span>,
-          <a href="" target="_blank"><span class="name">Malki Grossman</span></a>
-          <span class="affiliation"></span>
-      </td>
-    </tr>
-    <tr class="normalrow">
-      <td class="col-md-1">14:30-14:50</td>
-      <td>Resilience in Sirius Editors: Understanding the Impact of Metamodel Changes
-          <br>
-          <a href="" target="_blank"><span class="name">Alfonso Pierantonio</span></a>
-          <span class="affiliation"></span>,
-          <a href="" target="_blank"><span class="name">Juri Di Rocco</span></a>
-          <span class="affiliation"></span>,
-          <a href="" target="_blank"><span class="name">Davide Di Ruscio</span></a>
-          <span class="affiliation"></span>,
-          <a href="" target="_blank"><span class="name">Hrishikesh Narayanankutty</span></a>
-          <span class="affiliation"></span>
-      </td>
-    </tr>
+
     <tr class="normalrow">
       <td class="col-md-1">15:00-15:30</td>
       <td>  Discussion and closing

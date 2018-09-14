@@ -116,9 +116,8 @@ slug: program-overview
     <td class="tg-c3ow"></td>
     <td class="tg-r9d8">T4 DEVS</td>
     <td class="tg-r9d8">T5 Statecharts</td>
- 
-    <td class="tg-mply" colspan="2"><a href="http://www.models-and-evolution.com/2018/">W14 Models and Evolution</a></td>
-    
+    <td class="tg-mply"><a href="http://www.models-and-evolution.com/2018/">W14 Models and Evolution</a></td>
+    <td class="tg-mply"><a href="https://modelanalytics.wordpress.com/ammore18/">W17 AMMoRe</a></td>
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
@@ -153,7 +152,7 @@ slug: program-overview
     <td class="tg-us36"></td>
     <td class="tg-g9tr" colspan="2"><a href="https://hufamo.univ-lille.fr/">W16 HuFaMo</a></td>
     <td class="tg-r9d8">T11 SPES</td>
-    <td class="tg-g9tr"><a href="https://modelanalytics.wordpress.com/ammore18/">W17 AMMoRe</a></td>
+    <td class="tg-us36"></td>
   <td class="tg-us36"></td>
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
