@@ -1353,6 +1353,59 @@ h4{
   </table>
 </div>
 
+<!--  MAD Session afternoon1 -->
+<div class="session mon mad">
+
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        14:00 - 17:00: MAD@MODELS Meeting at XXX Room 
+        <br>
+        <small>Chair(s): Kimi Cousins</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">14:00-14:30</td>
+      <td>Introduction: Agile Modeling: The next step
+          <br>
+        <a href="https://www.linkedin.com/in/scarified/"> 
+          <span class="name">Michael Hudson</span>
+        </a>
+        <a href="https://www.hcltech.com/products-and-platforms"> 
+          <span class="affiliation">HCL</span>
+        </a>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">14:30-17:00</td>
+      <td> Discussion 
+        <ul>
+          <li>Modeling in the continuous pipeline
+            <ul>
+              <li>Successes that work</li>
+              <li>Challenges and how to overcome them</li>
+            </ul>
+          </li>
+          <li> Architecture in an agile and DevOps project
+            <ul>
+              <li>How to maintain architecture integrity while delivering every 2-3 week</li>
+            </ul>
+          </li>
+          <li>Decision History, remembering the WHY
+            <ul>
+              <li>Maintaining your intellectual capital</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
+    </tr>
+   </tbody>
+
+</table>
+</div>
+
 
 <div class="session mon tutorials">
   <table class="table">
