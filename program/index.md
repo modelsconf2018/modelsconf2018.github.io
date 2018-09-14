@@ -4421,7 +4421,7 @@ h4{
       <td class="info" colspan="14">
         08:30 - 09:30: Plenary Session in Aud 1
         <br>
-        <small> Chair: Andrzej Wąsowski </small>
+        <small> Chair: Richard Paige </small>
       </td>
     </tr>
     <tr class="normalrow">
