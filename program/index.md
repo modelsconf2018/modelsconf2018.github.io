@@ -2281,14 +2281,10 @@ h4{
     <tr class="normalrow">
       <td class="col-md-1">11:00-12:00</td>
       <td> Automotive Challenges
-         <br>
-        <a href=""> 
-          <span class="name">David Williams</span>
-        </a>
-          <span class="affiliation">HCL</span>,
-         <a href="https://de.linkedin.com/in/magedkhalil" target="_blank"> 
-          <span class="name">Maged Khalil  </span>
-        </a>
+          <br>
+          <a href=""><span class="name">Jianlin Shi</span></a>
+          <span class="affiliation">Volvo Cars</span>,
+          <a href="https://de.linkedin.com/in/magedkhalil" target="_blank"><span class="name">Maged Khalil  </span></a>
           <span class="affiliation">Continental</span>, 
           <a href="" target="_blank"> 
           <span class="name">Thibaud Thomas</span>
@@ -3214,6 +3210,8 @@ h4{
       <td class="col-md-1">16:00-17:00</td>
       <td>MBSE Adoption Challenges
           <br>
+          <a href="" target="_blank"> <span class="name">David Williams</span></a>
+          <span class="affiliation">HCL</span>
         <a href="https://www.linkedin.com/in/stephane-bonnet-946703/" target="_blank"> 
           <span class="name">Stéphane Bonnet</span>
         </a>
@@ -4421,7 +4419,14 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        08:30 - 09:30: MODELS MIP: Precise Semantics of EMF Model Transformations by Graph Transformation
+        08:30 - 09:30: Plenary Session in Aud 1
+        <br>
+        <small> Chair: Andrzej Wąsowski </small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>MODELS MIP: Precise Semantics of EMF Model Transformations by Graph Transformation
         <br>
         <a href="" target="_blank"> <span class="name">Enrico Biermann</span> </a>
         <span class="affiliation"></span>,
@@ -4429,6 +4434,22 @@ h4{
         <span class="affiliation"></span>,
         <a href="" target="_blank"> <span class="name">Gabriele Taentzer</span> </a>
         <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>SoSyM Regular MIP: Reducing accidental complexity in domain models
+        <br>
+        <a href="" target="_blank"> <span class="name">Colin Atkinson</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Thomas Kühne</span> </a>
+        <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Invitation to MODELS 2019
+        <br> &nbsp;
       </td>
     </tr>
     </tbody>
@@ -4866,28 +4887,19 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:15: Keynote, Student SRC Awards, MODELS'19 in Aud 1
+        14:00 - 15:00: Keynote
         <br>&nbsp;
       </td>
     </tr>
     <tr class="normalrow">
-      <td class="col-md-1">14:00-14:10</td>
-      <td>Student SRC Awards 
+      <td class="col-md-1">14:00-15:00</td>
+      <td>Keynote: Genetics of Computer Programs
+          <br>
+          <a href="www.cs.queensu.ca/home/cordy/" target="_blank"> <span class="name">Jim Cordy</span> </a>
+          <span class="affiliation">Queen's University</span>
       </td>
     </tr>
-    <tr class="normalrow">
-      <td class="col-md-1">14:10:15:10</td>
-      <td>Keynote
-        <br>
-      </td>
-    </tr>
-    <tr class="normalrow">
-      <td class="col-md-1">15:10-15:15</td>
-      <td>MODELS'19 presentation (5 min.)
-      </td>
-    </tr>
-
-  </tbody>
+   </tbody>
 </table>
 </div>
 
@@ -4896,7 +4908,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        15:15 - ... : Thank you and goodbye (Aud 1)
+        15:00 - 15:15 : Thank you and goodbye (Aud 1)
         <br> &nbsp;
       </td>
     </tr>
