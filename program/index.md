@@ -5164,7 +5164,8 @@ h4{
     <tr>
       <td class="info" colspan="14">
         14:00 - 15:00: Keynote
-        <br>&nbsp;
+        <br>
+        <small>Chair: Richard Paige</small>
       </td>
     </tr>
     <tr class="normalrow">
