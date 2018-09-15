@@ -4697,12 +4697,12 @@ h4{
       <td class="info" colspan="14">
         08:30 - 09:30: Plenary Session in Aud 1
         <br>
-        <small> Chair: Richard Paige </small>
+        <small> Chairs: Jordi Cabot, Jeff Gray, Bernhard Rumpe </small>
       </td>
     </tr>
     <tr class="normalrow">
       <td class="col-md-1"></td>
-      <td>MODELS MIP: Precise Semantics of EMF Model Transformations by Graph Transformation
+      <td>MODELS Most Influential Paper Award Talk: Precise Semantics of EMF Model Transformations by Graph Transformation
         <br>
         <a href="" target="_blank"> <span class="name">Enrico Biermann</span> </a>
         <span class="affiliation"></span>,
@@ -4714,7 +4714,7 @@ h4{
     </tr>
     <tr class="normalrow">
       <td class="col-md-1"></td>
-      <td>SoSyM Regular MIP: Reducing accidental complexity in domain models
+      <td>SoSyM Regular Most Influential Paper Award Talk: Reducing accidental complexity in domain models
         <br>
         <a href="" target="_blank"> <span class="name">Colin Atkinson</span> </a>
         <span class="affiliation"></span>,
