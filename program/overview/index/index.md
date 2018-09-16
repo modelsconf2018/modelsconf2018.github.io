@@ -86,7 +86,7 @@ slug: program-overview
     <td class="tg-uys7"></td>
   </tr>
   <tr>
-    <td class="tg-acm6" colspan="2"><a href="http://www.modelexecution.org/?page_id=2173">W5 EXE</a></td>
+    <td class="tg-acm6" colspan="2"><a href="https://modelexecution.org/exe2018">W5 EXE</a></td>
     <td class="tg-mply" colspan="2"><a href="http://gemoc.org/events/gemoc2018.html">W8 GEMOC</a></td>
     <td class="tg-mply" colspan="2"><a href="https://msdl.uantwerpen.be/conferences/MDEbug/2018/">W11 MDEbug</a></td>
     <td class="tg-ie4m">Steering Commitee Meeting (by invitation only)</td>
