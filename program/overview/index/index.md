@@ -68,8 +68,9 @@ slug: program-overview
   </tr>
   <tr>
     <td class="tg-mply" colspan="2"><a href="https://oclworkshop.github.io/2018/cfp.html">W3 OCL</a></td>
-    <td class="tg-mply" colspan="2"><a href="http://cs.gssi.it/commitmde2018/">W6 COMMitMDE</a></td>
-        <td class="tg-jxbq" colspan="2"><a href="https://modelsconf2018.github.io/program/mbse/">Model-Based Systems Engineering Meeting</a></td>
+    <td class="tg-mply"><a href="http://cs.gssi.it/commitmde2018/">W6 COMMitMDE</a></td>
+    <td class="tg-uys7"></td>
+    <td class="tg-jxbq" colspan="2"><a href="https://modelsconf2018.github.io/program/mbse/">Model-Based Systems Engineering Meeting</a></td>
     <td class="tg-ie4m"><a href="https://modelsconf2018.github.io/program/industryday/">Industry Day</a></td>
     <td class="tg-ie4m">Practice and Innovation Track</td>
     <td class="tg-ie4m">Student Competition Awards</td>
@@ -82,7 +83,7 @@ slug: program-overview
     <td class="tg-jxbq">HCL Modeling tools restarted & meet HCL</td>
     <td class="tg-ie4m">Conference Reception &amp; Poster Session &amp; Posters of ACM SRC</td>
     <td class="tg-ie4m">SoSyM Editorial Meeting</td>
-    <td class="tg-ie4m"></td>
+    <td class="tg-uys7"></td>
   </tr>
   <tr>
     <td class="tg-acm6" colspan="2"><a href="http://www.modelexecution.org/?page_id=2173">W5 EXE</a></td>
@@ -97,9 +98,10 @@ slug: program-overview
     <td class="tg-mnkh">T1 Hawk</td>
     <td class="tg-r9d8">T2 Making Modeling <br>Cool Again</td>
     <td class="tg-mply" colspan="2"><a href="http://st.inf.tu-dresden.de/MORSE18/">W9 MORSE</a></td>
-    <td class="tg-mply" colspan="2"><a href="https://sites.google.com/site/modevva/home">W12 MoDeVVA</a></td>
+    <td class="tg-mply"><a href="https://sites.google.com/site/modevva/home">W12 MoDeVVA</a></td>
     <td class="tg-uys7"></td>
     <td class="tg-ie4m">Steering Commitee Lunch (by invitation only)</td>
+    <td class="tg-ie4m">Banquet at the Opera</td>
     <td class="tg-uys7"></td>
   </tr>
   <tr>
@@ -108,7 +110,7 @@ slug: program-overview
     <td class="tg-b28d" colspan="2">T3 DevYrCar</td>
     <td class="tg-mply" colspan="2"><a href="https://sites.google.com/view/pains-2018/home">W13 PAINS</a></td>
     <td class="tg-uys7"></td>
-    <td class="tg-ie4m">Banquet at the Opera</td>
+    <td class="tg-uys7"></td>
     <td class="tg-uys7"></td>
   </tr>
   <tr>
@@ -127,10 +129,7 @@ slug: program-overview
     <td class="tg-c3ow"></td>
     <td class="tg-r9d8">T6 Actors</td>
     <td class="tg-r9d8">T7 Co-Evolution</td>
- 
     <td class="tg-mply" colspan="2"><a href="https://www.wi-inf.uni-duisburg-essen.de/MULTI2018/">W15 MULTI</a></td>
-
-
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
@@ -142,7 +141,6 @@ slug: program-overview
     <td class="tg-n7co">T8 ThingML</td>
     <td class="tg-r9d8"><a href="http://www.servicerobotik-ulm.de/models2018/">T9 RobMoSys</a></td>
     <td class="tg-r9d8"><a href="https://webgme.readthedocs.io/en/latest/" target="_blank">T10 WebGME</a></td>
-
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
@@ -180,6 +178,7 @@ slug: program-overview
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
     <td class="tg-us36" colspan="2">Satellite Reception at Royal Library</td>
+    <td class="tg-us36"></td>
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
     <td class="tg-us36"></td>
