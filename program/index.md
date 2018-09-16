@@ -3272,6 +3272,42 @@ h4{
 </div>
 <!-- End of W15 MULTI --> 
 
+<!-- Start of W17 AMMORE --> 
+<div class="session workshops">
+<table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        14:00 - 15:30: W17 Analytics and mining of model repositories (AMMoRe) - Model Management and Analytics I
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Process model management and analytics
+          <br>
+          <a href="http://www.dtu.dk/english/service/phonebook/person?id=107605&tab=2&qt=dtupublicationquery#tabs" target="_blank"><span class="name">Barbara Weber</span></a>
+          <span class="affiliation">DTU</span>
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Automatic model repair using reinforcement learning
+          <br>
+          <a href="" target="_blank"><span class="name">Angela Barriga</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Adrian Rutle</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Rogardt Heldal</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!-- End of W17 AMMORE --> 
+
 <div class="session tue coffee break">
   <table class="table">
     <tbody>
@@ -3574,7 +3610,59 @@ h4{
 </div>
 
 
-<!-- End of W15 MULTI --> 
+<!-- End of W15 MULTI -->
+
+<!-- Start of W17 AMMORE --> 
+<div class="session workshops">
+<table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        16:00 - 17:30: W17 Analytics and mining of model repositories (AMMoRe) - Model Management and Analytics II
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Model analytics for feature models: case studies for S.P.L.O.T. repository
+          <br>
+          <a href="" target="_blank"><span class="name">Önder Babur</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Loek Cleophas</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Mark Van Den Brand</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Exploring model repositories by means of megamodel-aware search operators
+          <br>
+          <a href="" target="_blank"><span class="name">Francesco Basciani</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Juri Di Rocco</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Davide Di Ruscio</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Ludovico Iovino</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Alfonso Pierantonio</span></a>
+          <span class="affiliation"></span>
+      </td>
+       </tr>
+     <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Discussion</td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Wrap up and closing</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!-- End of W17 AMMORE -->  
 
 <div class="session tue dinner">
   <table class="table">
