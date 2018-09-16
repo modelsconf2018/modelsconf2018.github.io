@@ -4242,7 +4242,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        18:30-21:30: Poster Session, ACM SRC posters, and Exhibit Conference Reception & Poster Session & Posters of ACM SRC (Atrium Ground Floor)
+        18:30-21:00: Poster Session, ACM SRC posters, and Exhibit Conference Reception & Poster Session & Posters of ACM SRC (Atrium Ground Floor)
         <br> &nbsp;
       </td>
     </tr>
