@@ -3398,14 +3398,12 @@ h4{
       <td>MBSE Adoption Challenges
           <br>
           <a href="" target="_blank"> <span class="name">David Williams</span></a>
-          <span class="affiliation">HCL</span>
-        <a href="https://www.linkedin.com/in/stephane-bonnet-946703/" target="_blank"> 
-          <span class="name">Stéphane Bonnet</span>
-        </a>
+          <span class="affiliation">HCL</span>,
+          <a href="https://www.linkedin.com/in/stephane-bonnet-946703/" target="_blank"> 
+          <span class="name">Stéphane Bonnet</span></a>
           <span class="affiliation">Thalès</span>,
         <a href="https://fr.linkedin.com/in/pascalroques" target="_blank"> 
-          <span class="name">Pascal Roques</span>
-        </a>
+          <span class="name">Pascal Roques</span></a>
           <span class="affiliation">PRFC</span>
       </td>
     </tr>
@@ -4014,8 +4012,7 @@ h4{
       <td>MBSE with Arcadia and Capella : rationale, status and perspectives
         <br>
         <a href="https://fr.linkedin.com/in/stephane-bonnet-946703" target="_blank"> 
-          <span class="name">Stéphane Bonnet</span>
-        </a>
+          <span class="name">Stéphane Bonnet</span></a>
           <span class="affiliation">Thales</span>
       </td>
       <td></td>
