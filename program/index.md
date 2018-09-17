@@ -161,6 +161,56 @@ h4{
   </table>
 </div>
 
+<!-- Start of W2 RUNTIME -->
+
+<div class="session sun workshops">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        09:00 - 10:30: W2 Models@run.time
+        <br>
+        <small>Chairs: TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">09:00-09:15</td>
+      <td>Welcome
+      <br>
+      <a href="" target="_blank"><span class="name"></span></a>
+      <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">09:15-09:45</td>
+      <td>A Guided Tour through Models@run.time
+      <br>
+      <a href="" target="_blank"><span class="name"></span></a>
+      <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">09:45-10:15</td>
+      <td>The Integration Challenges of Runtime Models
+      <br>
+      <a href="" target="_blank"><span class="name">Kirstie Bellman</span></a>
+      <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">10:15-10:30</td>
+      <td>Breakout Discussion on Classifying Work on Models@run.time 
+      <br>
+      <a href="" target="_blank"><span class="name"></span></a>
+      <span class="affiliation"></span>
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- End of W2 RUNTIME -->
+
 <div class="session sun workshops">
   <table class="table">
 
@@ -371,6 +421,54 @@ h4{
   </tbody>
 </table>
 </div>
+
+<!-- Start of W2 RUNTIME -->
+
+<div class="session sun workshops">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        11:00 - 12:30: W2 Models@run.time - Paper Presentations #1
+        <br>
+        <small>Chairs: TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">11:00-11:30</td>
+      <td>Model Synchronization with the Role-oriented Single Underlying Model
+      <br>
+      <a href="" target="_blank"><span class="name">Christopher Werner</span></a>
+      <span class="affiliation"></span>,
+      <a href="" target="_blank"><span class="name">Uwe Assmann</span></a>
+      <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">11:30-12:00</td>
+      <td>On the need for transitioning model-based assurance cases from design time to runtime
+      <br>
+      <a href="" target="_blank"><span class="name">Ran Wei</span></a>
+      <span class="affiliation"></span>,
+      <a href="" target="_blank"><span class="name">Tim Kelly</span></a>
+      <span class="affiliation"></span>,
+      <a href="" target="_blank"><span class="name">Jan Reich</span></a>
+      <span class="affiliation"></span>,
+      <a href="" target="_blank"><span class="name">Simos Gerasimou</span></a>
+      <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">12:00-12:30</td>
+      <td> Joint Discussion 
+      <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- End of W2 RUNTIME -->
 
 <div class="session sun workshops">
   <table class="table">
@@ -583,6 +681,50 @@ h4{
   </table>
 </div>
 
+<!-- Start of W2 RUNTIME -->
+<div class="session sun workshops">
+  <table class="table">
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        14:00 - 15:30: W2 Models@run.time - Paper Presentations #2
+        <br>
+        <small>Chairs: TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">14:00-14:30</td>
+      <td>Reflecting on the past and the present with temporal graph-based models.
+      <br>
+      <a href="" target="_blank"><span class="name">Antonio Garcia-Dominguez</span></a>
+      <span class="affiliation"></span>,
+      <a href="" target="_blank"><span class="name">Nelly Bencomo</span></a>
+      <span class="affiliation"></span>,
+      <a href="" target="_blank"><span class="name">Luis Hernan Garcia Paucar</span></a>
+      <span class="affiliation"></span>
+    </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">14:30-15:00</td>
+      <td>Towards evolvable software architecture runtime models for continuous adaptive monitoring
+      <br>
+      <a href="" target="_blank"><span class="name">Thomas Brand</span></a>
+      <span class="affiliation"></span>,
+      <a href="" target="_blank"><span class="name">Holger Giese</span></a>
+      <span class="affiliation"></span>
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1">15:00-15:30</td>
+      <td>Joint Discussion 
+      <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+<!-- End of W2 RUNTIME -->
+
 <div class="session sun workshops">
   <table class="table">
   <tbody>
@@ -717,6 +859,38 @@ h4{
   </tbody>
 </table>
 </div>
+
+<!-- Start of W2 RUNTIME -->
+
+<div class="session sun workshops">
+  <table class="table">
+    <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        16:00 - 17:30: W2 Models@run.time - Keynote and Breakout Discussions
+        <br>
+        <small>Chairs: TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">16:00-16:30</td>
+      <td>Keynote: Towards Smarter Cyber-Physical Systems
+      <br>
+      <a href="" target="_blank"><span class="name">Benoit Combemale</span></a>
+      <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">16:30-17:30</td>
+      <td> Breakout Discussions 
+      <br> &nbsp;
+      </td>
+    </tr>
+    </tbody>
+  </table>
+</div>
+
+<!-- End of W2 RUNTIME -->
 
 <div class="session sun workshops">
   <table class="table">
