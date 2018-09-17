@@ -94,11 +94,21 @@ h4{
       <td>Why Industry Does not Care About Models
         <br>
         <a href="https://ca.linkedin.com/in/bran-selic-0a45b" target="_blank"> 
-          <span class="name">Bran Selic</span>
-        </a>
-          <span class="affiliation">Malina Software Corp.</span>
+          <span class="name">Bran Selic</span></a>
+          <span class="affiliation">Malina Software Corp. and Monash University</span>
+          <div class="collapse" id="selic">
+        <div class="card card-body">
+        <h3>Why Industry Does not Care About Models</h3>
+        As a direct consequence of the sudden dramatic progress of science in the 19th century, there was an important convergence between industry and academia, whereby industry actively looked to academia for inspiration and direction. It is fair to say that, today, this relationship is frayed to the point of breaking. In this talk, we first analyze the state of industry-academia collaboration in the specific context of software development and with a particular focus on the model-based engineering domain. Why has industry lost faith in academia? What can be done to restore what can and should be a mutually beneficial and highly fruitful synergy?
+        <br/> &nbsp;
+        <br/>
+        Speaker's Bio: Bran Selić is President of Malina Software Corp., a Canadian company that provides consulting services to corporate clients and government institutions worldwide. He is also an adjunct at Simula Research Laboratory in Norway as well as at Monash University and the University of Sydney in Australia. With over 40 years of practical experience in designing and implementing large-scale industrial software systems, Bran has pioneered the application of model-based engineering methods and has led the definition of several international standards in that domain, including the widely used Unified Modeling Language (UML).
+        </div>
+        </div>
       </td>
-      <td></td>
+      <td class="col-md-3">
+      <div class="pull-right"><a class="btn btn-sm" data-toggle="collapse" href="#selic" role="button" aria-expanded="false" aria-controls="selic" style="background-color:#ABC4E2; color:white;">Abstract</a></div>
+      </td>
     </tr>
     <tr class="normalrow">
       <td class="col-md-1">11:00-11:30</td>
@@ -113,14 +123,20 @@ h4{
     </tr>
     <tr class="normalrow">
       <td class="col-md-1">11:30-12:00</td>
-      <td>Modeling of Business Logic to enhance Business Agility
+      <td class="col-md-10">Modeling of Business Logic to enhance Business Agility
         <br>
-        <a href="http://voelter.de/" target="_blank"> 
-          <span class="name">Markus Voelter</span>
-        </a>
-          <span class="affiliation">Ind.</span>
+        <a href="http://voelter.de/" target="_blank"><span class="name">Markus Völter</span></a>
+        <span class="affiliation">Ind.</span>
+        <div class="collapse" id="volter">
+        <div class="card card-body">
+        <h3>Modeling of Business Logic to enhance Business Agility</h3>
+        The core business logic of software systems, such as tax rules, salary calculations, medical diagnosis algorithms or tachometer rules really should be described independent of a concrete implementation technology, while still being checkable, executable and testable. This allows organisations to decouple the lifecycle of business logic from the lifecycle of the implementation technology, and it allows the experts in the respective fields to contribute to software much more directly than by writing requirements documents. Modern language workbenches allow you to build such domain-specific modeling languages with relatively little effort. The languages can mix textual, tabular, graphical or mathematical notations, to make the models accessible to non-programmers.  In this talk, I will argue why the separation of business logic and implementation technology is perhaps the most important architectural decision you can make in order to avoid building the "next legacy system". I will present a number of examples of such systems we have built over the years based on the open source MPS language workbench, and share a few of the lessons we have learned to make the approach successful. 
+        </div>
+        </div>
       </td>
-      <td></td>
+      <td class="col-md-3">
+      <div class="pull-right"><a class="btn btn-sm" data-toggle="collapse" href="#volter" role="button" aria-expanded="false" aria-controls="volter" style="background-color:#ABC4E2; color:white;">Abstract</a></div>
+      </td>
     </tr>
     <tr class="normalrow">
       <td class="col-md-1"> 12:00-13:30</td>
@@ -176,11 +192,19 @@ h4{
       <td>Is Open Source a Viable Alternative for Industrial MBE Tools?
         <br>
         <a href="" target="_blank"> 
-          <span class="name">Francis Bordeleau</span>
-        </a>
+          <span class="name">Francis Bordeleau</span></a>
           <span class="affiliation">Cmind Inc.</span>
+        <div class="collapse" id="bordeleau">
+        <div class="card card-body">
+        <h3>Is Open Source a Viable Alternative for Industrial MBE Tools?</h3>
+        The importance of open source has been constantly increasing in the industry over the last decades. Nowadays, almost all software products includes an important amount of open source software, and development processes are increasing relying on open source tools and technologies. Regarding model-based engineering (MBE) tools, the last decade saw the emergence of open source modelling tools, like Eclipse Papyrus and Sirius. A key question is: Is open source a viable alternative for industrial MBE tools?
+        In this presentation, we will discuss: the pros and cons of open source MBE tools, in comparison to commercial proprietary ones;  the role of open source as a key enabler for technical innovation and technology transfer; the importance of industry consortium for the development and management of industrial open source solutions; and the lessons learned in establishing and running an open source industry consortium.
+        </div>
+        </div>
       </td>
-      <td></td>
+      <td class="col-md-3">
+      <div class="pull-right"><a class="btn btn-sm" data-toggle="collapse" href="#bordeleau" role="button" aria-expanded="false" aria-controls="bordeleau" style="background-color:#ABC4E2; color:white;">Abstract</a></div>
+      </td>
     </tr>
     <tr class="normalrow">
       <td class="col-md-1">15:00-15:30</td>
