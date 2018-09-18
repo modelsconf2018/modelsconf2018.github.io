@@ -1841,18 +1841,6 @@ h4{
     </tr>
     <tr class="normalrow">
       <td class="col-md-1"></td>
-      <td>ML4CREST: Machine Learning for CPS Models 
-          <br>
-          <a href="" target="_blank"><span class="name">Stefan Klikovits</span></a>
-          <span class="affiliation"></span>,
-          <a href="" target="_blank"><span class="name">Aurélien Coet</span></a>
-          <span class="affiliation"></span>,
-          <a href="" target="_blank"><span class="name">Didier Buchs</span></a>
-          <span class="affiliation"></span>
-      </td>
-    </tr>
-    <tr class="normalrow">
-      <td class="col-md-1"></td>
       <td>ThingML+: Augmenting Model-Driven Software Engineering for the Internet of Things with Machine Learning
         <br>
           <a href="" target="_blank"><span class="name">Armin Moin</span></a>
@@ -1872,6 +1860,18 @@ h4{
           <a href="" target="_blank"><span class="name">Alexandra Mazak</span></a>
           <span class="affiliation"></span>,
           <a href="" target="_blank"><span class="name">Bernhard Wally</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>ML4CREST: Machine Learning for CPS Models 
+          <br>
+          <a href="" target="_blank"><span class="name">Stefan Klikovits</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Aurélien Coet</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Didier Buchs</span></a>
           <span class="affiliation"></span>
       </td>
     </tr>
