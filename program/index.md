@@ -958,7 +958,7 @@ h4{
     <tr class="normalrow">
       <td class="col-md-1">17:15-17:30</td>
       <td>Workshop Closing
-      <br> &nbspl;
+      <br> &nbsp;
       </td>
     </tr>
     </tbody>
