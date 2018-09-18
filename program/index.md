@@ -93,6 +93,7 @@ h4{
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="foundations">Foundations</div>
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="practice">Practice and Innovation</div>
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="mbse">MBSE</div>
+        <div class="btn-s btn btn-default facet-false filter_link" data-filter="xtuml">xtUML Days</div>
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="mps">MPS Day</div>
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="workshops">Workshops</div>
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="tutorials">Tutorials</div>
@@ -4345,7 +4346,7 @@ h4{
     </tr>
     <tr class="normalrow">
       <td>16:00-16:30</td>
-      <td>Lessons Learned from Model-Based Safety Assessment with SysML and Component Fault Trees
+      <td>Lessons Learned from Model-Based Safety Assessment with SysML and Component Fault Trees (Invited Paper from Practice & Innovation Track)
         <br>
         <a href="https://scholar.google.de/citations?user=_s8-1uAAAAAJ&hl=en" target="_blank"> 
           <span class="name">Arne Nordmann</span>
@@ -4360,7 +4361,7 @@ h4{
     </tr>
     <tr class="normalrow">
       <td>16:30-17:00</td>
-      <td>Digital Behavioral Twins for Safe Connected Cars
+      <td>Digital Behavioral Twins for Safe Connected Cars (Invited Paper from Practice & Innovation Track)
         <br>
         <a href="https://scholar.google.com/citations?user=QEi9S3UAAAAJ&hl=en" target="_blank"> 
           <span class="name">Ximing Chen</span>
