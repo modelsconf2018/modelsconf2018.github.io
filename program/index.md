@@ -912,15 +912,53 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-       16:00 – 17:30: W5 Executable Modeling - EXE 
+       16:00 – 17:30: W5 Executable Modeling (EXE) - Live Tool Demonstrations & Workshop Closing
       </td>
     </tr>
-     <tr class="normalrow">
+    <tr class="normalrow">
       <td class="col-md-1"></td>
-      <td>Session 4: TBA
+      <td>Tool demonstration related to paper “Execution of UTP test cases using fUML”
+      <br> 
+      <a href="" target="_blank"><span class="name">Marc-Florian Wendland</span></a>
+      <span class="affiliation"></span>,
+       <a href="" target="_blank"><span class="name">Niels Hoppe</span></a>
+      <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Tool demonstration on PauWare related to paper “A generic solution for weaving business code into executable models”
+      <br> 
+      <a href="" target="_blank"><span class="name">Eric Cariou</span></a>
+      <span class="affiliation"></span>,
+      <a href="" target="_blank"><span class="name">Olivier Le Goaer</span></a>
+      <span class="affiliation"></span>,
+      <a href="" target="_blank"><span class="name">Lea Brunschwig</span></a>
+      <span class="affiliation"></span>,
+      <a href="" target="_blank"><span class="name">Franck Barbier</span></a>
+      <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Tool demonstration on Codeling related to paper “On executable models that are integrated with program code”
+      <br> 
+      <a href="" target="_blank"><span class="name">Marco Konersmann </span></a>
+      <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>More tool demonstrations to be announced soon
       <br> 
       <a href="" target="_blank"><span class="name"></span></a>
       <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">17:15-17:30</td>
+      <td>Workshop Closing
+      <br> &nbspl;
       </td>
     </tr>
     </tbody>
