@@ -3323,7 +3323,7 @@ h4{
     </tr>
     <tr class="normalrow">
       <td class="col-md-1"></td>
-      <td>Bringing Model-Driven Engineering into the Software Engineering curriculum 
+      <td>Teaching Software Language Engineering and Usability through Students Peer Reviews
           <br>
           <a href="" target="_blank"><span class="name">Fabian Gilson</span></a>
           <span class="affiliation"></span>
