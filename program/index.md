@@ -328,7 +328,6 @@ h4{
   </table>
 </div>
 
-
 <div class="session sun coffee break">
   <table class="table">
     <tbody>
@@ -772,7 +771,7 @@ h4{
   </table>
 </div>
 
-<div class="session workshops">
+<div class="session sun workshops">
   <table class="table">
     <tbody>
     <tr>
@@ -1079,6 +1078,45 @@ h4{
   </table>
 </div>
 
+<!-- Start of W6 COMMITMDE -->
+
+<div class="session mon workshops">
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        09:00 - 10:30: W6 Collaborative Modelling in MDE (COMMitMDE)
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">09:00-10:00</td>
+      <td>Keynote: TBA 
+        <br>
+        <a href="" target="_blank"><span class="name"></span></a>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">10:00-10:30</td>
+      <td>Continuous integration support in modeling tools
+          <br>
+          <a href="" target="_blank"><span class="name">Robbert Jongeling</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Jan Carlson</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Antonio Cicchetti</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Federico Ciccozzi</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!-- End of W6 COMMITMDE -->
+
 
 <div class="session mon workshops">
 <table class="table">
@@ -1342,6 +1380,63 @@ h4{
   </table>
 </div>
 
+<!-- Start of W6 COMMITMDE -->
+
+<div class="session mon workshops">
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        11:00 - 12:30: W6 Collaborative Modelling in MDE (COMMitMDE)
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td> Challenges for Reuse in Collaborative Modeling Environments
+        <br>
+        <a href="" target="_blank"><span class="name">Omar Alam</span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"><span class="name">Jonathan Corley</span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"><span class="name">Constantin Masson</span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"><span class="name">Eugene Syriani</span></a>
+        <span class="affiliation"></span>,
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Handling Constraints in Model Versioning
+          <br>
+          <a href="" target="_blank"><span class="name">Alessandro Rossini</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Adrian Rutle</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Yngve Lamo</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Uwe Wolter</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Delta-Driven Collaborative Modeling
+          <br>
+          <a href="" target="_blank"><span class="name">Maik Appeldorn</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Dilshodbek Kuryazov </span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Andreas Winter</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!-- End of W6 COMMITMDE -->
 
 <div class="session workshops">
 <table class="table">
