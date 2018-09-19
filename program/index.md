@@ -2293,6 +2293,42 @@ h4{
 </table>
 </div> <!-- end of sam session -->
 
+<!-- Start of xtuml -->
+
+<div class="session tue xtuml">
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        09:00 - 10:30: xtUML Days (by invitation only) - Plenary Session #1
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>"Show and Tell" Community Engagement
+        <br>&nbsp;
+      </td>
+    </tr>
+      <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>2 Weeks of xtUML at Shinshu University - A Substantial Training Package
+        <br> &nbsp;
+      </td>
+    </tr>
+      <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Papyrus and PIC Update
+        <br> &nbsp;
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!-- End of xtuml -->
+
 <!-- MPS Day Session morning only --> 
 
 <div class="session mps">
@@ -2732,6 +2768,42 @@ h4{
   </tbody>
 </table>
 </div>
+
+<!-- Start of xtuml -->
+
+<div class="session tue xtuml">
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        11:00 - 12:30: xtUML Days (by invitation only) - Plenary Session #2
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>xtUML Roadmap - Tooling and Methodology
+        <br> &nbsp;
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Review of items from 2017
+        <br>&nbsp;
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Looking forward
+        <br>&nbsp;
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!-- End of xtuml -->
 
 <div class="session mps">
 <table class="table">
@@ -3357,6 +3429,30 @@ h4{
 </table>
 </div>
 
+<!-- Start of xtuml -->
+
+<div class="session tue xtuml">
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        14:00 - 15:30: xtUML Days (by invitation only) - Plenary Session #3
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Work in Progress and Proposed Package Outlines/Discussion
+        <br>&nbsp;
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!-- End of xtuml -->
+
 <div class="session tue event">
   <table class="table">
     <tbody>
@@ -3745,6 +3841,31 @@ h4{
    </tbody>
 </table>
 </div>
+
+<!-- Start of xtuml -->
+
+<div class="session tue xtuml">
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        16:00 - 17:30: xtUML Days (by invitation only) - Plenary Session #4
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Open discussion
+        <br>&nbsp;
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!-- End of xtuml -->
+
 
 <div class="session tue event">
   <table class="table">
