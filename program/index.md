@@ -7,11 +7,11 @@ slug: detailed-program
 <div class="row">
  <div class="col-md-14" markdown="1">
 
-<h1 style="color:red; text-align: center"> Page is under construction </h1>
-
+<!-- <h1 style="color:red; text-align: center"> Page is under construction </h1>
+ -->
 # Detailed program
 
-Unless explicitly marked as "invitation only", all events in this program are accessible by both academic and industrial participants who are registered on the given days.
+### Unless explicitly marked as "invitation only", all events in this program are accessible by both academic and industrial participants who are registered on the given days.
 
 
 
@@ -312,6 +312,7 @@ h4{
     <tr class="normalrow">
       <td class="col-md-1"></td>
       <td> Workshop Opening 
+        <br>&nbsp;
       </td>
     </tr>
     <tr class="normalrow">
@@ -563,6 +564,7 @@ h4{
     <tr class="normalrow">
       <td class="col-md-1"></td>
       <td>Discussion. Wrap up and closing
+        <br> &nbsp;
       </td>
     </tr>
     </tbody>
@@ -982,7 +984,8 @@ h4{
     </tr>
     <tr class="normalrow">
       <td class="col-md-1">09:00-09:15</td>
-      <td>Opening
+      <td>Opening 
+        <br> &nbsp;
       </td>
     </tr>
     <tr class="normalrow">
@@ -1094,8 +1097,7 @@ h4{
     <tr class="normalrow">
       <td class="col-md-1">09:00-10:00</td>
       <td>Keynote: TBA 
-        <br>
-        <a href="" target="_blank"><span class="name"></span></a>
+        <br> &nbsp;
       </td>
     </tr>
     <tr class="normalrow">
@@ -1160,6 +1162,7 @@ h4{
     <tr class="normalrow">
       <td class="col-md-1">09:00-09:15</td>
       <td>Opening
+        <br> &nbsp;        
       </td>
     </tr>
     <tr class="normalrow">
@@ -1229,6 +1232,42 @@ h4{
   </tbody>
 </table>
 </div>
+
+<!-- Start of W16 HUFAMO -->
+
+<div class="session mon workshops">
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        09:00 - 10:30: W16 Human Factors in Modeling (HuFaMo)
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Opening
+        <br>&nbsp;
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Keynote / Invited speaker
+        <br> &nbsp;
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Discussions and open announcements/demos
+        <br>&nbsp;
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!-- End of W16 HUFAMO -->
 
 
 
@@ -1669,6 +1708,54 @@ h4{
   </tbody>
 </table>
 </div>
+
+<!-- Start of W16 HUFAMO -->
+
+<div class="session mon workshops">
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        11:00 - 12:30: W16 Human Factors in Modeling (HuFaMo) - Support for modeling
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Using sketch recognition for capturing developer’s mental models
+        <br>
+        <a href="" target="_blank"><span class="name">Emmanuel Renaux</span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"><span class="name">Tatiana De-Wyse</span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"><span class="name">José Mennesson</span></a>
+        <span class="affiliation"></span>
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>ModelByVoice - towards a general purpose model editor for blind people
+        <br>
+        <a href="" target="_blank"><span class="name">João Lopes</span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"><span class="name">Joao Cambeiro</span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"><span class="name">Vasco Amaral</span></a>
+        <span class="affiliation"></span>
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Discussions and open announcements/demos 
+        <br> &nbsp;
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!-- End of W16 HUFAMO -->
 
 <div class="session mon lunch">
   <table class="table">
@@ -2138,6 +2225,61 @@ h4{
 
 <!-- END OF MDE4IOT --> 
 
+<div class="session mon workshops">
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        14:00 - 15:30: W16 Human Factors in Modeling (HuFaMo) - Experimenting for comparing
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Comparing the comprehensibility of numeric versus symbolic contribution labels in goal models: an experimental design
+        <br>
+        <a href="" target="_blank"><span class="name">Sotirios Liaskos</span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"><span class="name">Wisal Tambosi</span></a>
+        <span class="affiliation"></span>
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Comparing the Developer Experience with two Multi-Agents Systems DSLs: SEA_ML++ and DSML4MAS - Study Design
+        <br>
+        <a href="" target="_blank"><span class="name">João Silva</span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"><span class="name">Ankica Barisic</span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"><span class="name">Vasco Amaral</span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"><span class="name">Miguel Goulão</span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"><span class="name">Baris Tekin Tezel</span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"><span class="name">Ömer Faruk Alaca</span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"><span class="name">Moharram Challenger</span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"><span class="name">Geylani Kardas</span></a>
+        <span class="affiliation"></span>
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td> Discussions about the replication of the experiment from the Silva’s paper 
+        <br>&nbsp;
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!-- End of W16 HUFAMO -->
+
+
 <div class="session mon coffee break">
   <table class="table">
     <tbody>
@@ -2341,6 +2483,52 @@ h4{
 </table>
 </div>
 
+<div class="session mon workshops">
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        16:00 - 17:30: W16 Human Factors in Modeling (HuFaMo) - Working on modeling languages
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Visual Inheritance for Designing Visual Notation Based on a Metamodel 
+        <br>
+        <a href="" target="_blank"><span class="name">Nungki Selviandro</span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"><span class="name">Tim Kelly</span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"><span class="name">Richard Hawkins</span></a>
+        <span class="affiliation"></span>
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td> Modeling and Analyzing Information Flow in Development Teams as a Pipe System
+        <br>
+        <a href="" target="_blank"><span class="name">Jil Klünder</span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"><span class="name">Oliver Karras, </span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"><span class="name">Nils Prenner</span></a>
+        <span class="affiliation"></span>
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Discussions and open announcements/demos
+        <br> &nbsp;
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!-- End of W16 HUFAMO -->
+
 <div class="session mon reception">
   <table class="table">
     <tbody>
@@ -2475,7 +2663,9 @@ h4{
     </tr>
     <tr class="normalrow">
       <td class="col-md-1">09:00-09:15</td>
-      <td>Welcome & Opening</td>
+      <td>Welcome & 
+        <br> &nbsp;
+      </td>
     </tr>
     <tr class="normalrow">
       <td class="col-md-1">09:15-10:00</td>
@@ -2608,7 +2798,7 @@ h4{
 <!-- End of Tuesday Tutorials -->
 
 <!-- Start of W11 MDEBug -->
-<div class="session workshops">
+<div class="session tue workshops">
 <table class="table">
   <tbody>
     <tr>
@@ -2639,7 +2829,7 @@ h4{
 <!-- End of W11 MDEBug -->
 
 <!-- Start of W12 MoDeVVA -->
-<div class="session workshops">
+<div class="session tue workshops">
 <table class="table">
   <tbody>
     <tr>
@@ -2670,7 +2860,7 @@ h4{
 <!-- End of W12 MoDeVVA -->
 
 <!-- Start of W13 PAINS -->
-<div class="session workshops">
+<div class="session tue workshops">
 <table class="table">
   <tbody>
     <tr>
@@ -2708,7 +2898,7 @@ h4{
 <!-- End of W13 PAINS -->
 
 <!-- Start of W14 ME -->
-<div class="session workshops">
+<div class="session tue workshops">
 <table class="table">
   <tbody>
     <tr>
@@ -2767,7 +2957,7 @@ h4{
 <!-- End of W14 ME -->
 
 <!-- Start of W15 MULTI --> 
-<div class="session workshops">
+<div class="session tue workshops">
 <table class="table">
   <tbody>
     <tr>
@@ -3093,7 +3283,7 @@ h4{
 
 
 <!-- Start of MDEBug --> 
-<div class="session workshops">
+<div class="session tue workshops">
 <table class="table">
   <tbody>
     <tr>
@@ -3162,7 +3352,7 @@ h4{
 <!-- End of W11 MDEBug --> 
 
 <!-- Start of W12 MoDeVVA -->
-<div class="session workshops">
+<div class="session tue workshops">
 <table class="table">
   <tbody>
     <tr>
@@ -3221,7 +3411,7 @@ h4{
 <!-- End of W12 MoDeVVA -->
 
 <!-- Start of W13 PAINS -->
-<div class="session workshops">
+<div class="session tue workshops">
 <table class="table">
   <tbody>
     <tr>
@@ -3333,7 +3523,7 @@ h4{
 <!-- End of W13 PAINS -->
 
 <!-- Start of W14 ME -->
-<div class="session workshops">
+<div class="session tue workshops">
 <table class="table">
   <tbody>
     <tr>
