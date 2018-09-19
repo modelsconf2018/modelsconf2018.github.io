@@ -998,6 +998,48 @@ h4{
 </table>
 </div>
 
+<!-- Start of xtuml -->
+
+<div class="session mon xtuml">
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        09:00 - 10:30: xtUML Days - Plenary Session #1
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Shlaer-Mellor xtUML Overview
+        <br>
+          <a href="http://onefact.net/" target="_blank"><span class="name">Cortland Starrett</span></a>
+          <span class="affiliation">One Fact</span>
+      </td>
+    </tr>
+      <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>xtUML in the K-Span - Modeling in the Field
+        <br>
+          <a href="" target="_blank"><span class="name">Dave Salt</span></a>
+          <span class="affiliation">UK Crown</span>
+      </td>
+    </tr>
+      <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>20 Years of xtUML at SAAB Companies
+        <br>
+          <a href="" target="_blank"><span class="name">Martin Nilsson</span></a>
+          <span class="affiliation">SAAB Dynamics</span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!-- End of xtuml -->
+
 <div class="session mon tutorials">
   <table class="table">
     <tbody>
@@ -1219,6 +1261,46 @@ h4{
   </tbody>
 </table>
 </div>
+
+<!-- Start of xtuml -->
+
+<div class="session mon xtuml">
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        11:00 - 12:30: xtUML Days - Plenary Session #2
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Big Machine Big Model - Modeling Industrial Machinery
+        <br>
+          <a href="" target="_blank"><span class="name">Dennis Tubbs</span></a>
+          <span class="affiliation">ICS</span>
+      </td>
+    </tr>
+      <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>1 Application, 3 Dialects, 5 Architectures
+        <br>
+          <a href="http://onefact.net/" target="_blank"><span class="name">Levi Starrett</span></a>
+          <span class="affiliation">One Fact</span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Open discussion, Q and A
+        <br> &nbsp;         
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!-- End of xtuml -->
 
 
 <div class="session mon tutorials">
@@ -1552,6 +1634,46 @@ h4{
   </tbody>
 </table>
 </div>
+
+<!-- Start of xtuml -->
+
+<div class="session mon xtuml">
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        14:00 - 15:30: xtUML Days - Plenary Session #3
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Real Models, Real Deployments - Panel Discussion (moderated)
+        <br>&nbsp;
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>HOWTO:  Preparing to Migrate Tooling
+        <br>
+          <a href="" target="_blank"><span class="name">David Skinner</span></a>
+          <span class="affiliation">BAE Systems</span>
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>5 Cool Things You Can Do with a Model Compiler
+        <br>
+          <a href="" target="_blank"><span class="name">Tristan Pye</span></a>
+          <span class="affiliation">Consultant</span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!-- End of xtuml -->
 
 <div class="session mon event">
   <table class="table">
@@ -1946,6 +2068,49 @@ h4{
     </tbody>
   </table>
 </div>
+
+<!-- Start of xtuml -->
+
+<div class="session mon xtuml">
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        16:00 - 17:30: xtUML Days - Plenary Session #4
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Constraint Modeling with Albert Einstein
+        <br>
+          <a href="http://onefact.net/" target="_blank"><span class="name">Cortland Starrett</span></a>
+          <span class="affiliation">One Fact</span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>xtUML.jp - xtUML Education in Japan
+        <br>
+          <a href="" target="_blank"><span class="name"> Kenji Hisazumi</span></a>
+          <span class="affiliation">Kyushu University</span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Roving in xtUML
+        <br>
+          <a href="http://onefact.net" target="_blank"><span class="name">Keith Brown</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<!-- End of xtuml -->
+
 
 <div class="session mon event">
   <table class="table">
