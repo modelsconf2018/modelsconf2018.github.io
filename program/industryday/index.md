@@ -169,7 +169,7 @@ h4{
           <span class="name">Roger Holmberg</span>
         </a>
           <span class="affiliation"> Ericsson</span>
-        <a href="" target="_blank"> 
+        <a href="https://www.linkedin.com/in/olivera-milenkovic-710312" target="_blank"> 
           <span class="name">Olivera Milenkovic</span>
         </a>
           <span class="affiliation">Aspire Technology</span>
