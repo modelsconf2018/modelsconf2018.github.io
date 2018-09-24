@@ -507,7 +507,7 @@ h4{
       <span class="affiliation"></span>,
        <a href="" target="_blank"><span class="name">Christophe Ponsard</span></a>
       <span class="affiliation"></span>,
-       <a href="" target="_blank"><span class="name"> Michel Lemoine</span></a>
+       <a href="" target="_blank"><span class="name">Michel Lemoine</span></a>
       <span class="affiliation"></span>
       </td>
     </tr>
@@ -5490,10 +5490,30 @@ h4{
         <span class="affiliation"></span>
       </td>
     </tr>
-      <tr class="normalrow">
-      <td class="col-md-1">16:10-16:30</td>
-      <td>Lightning demos
-        <br> &nbsp;
+    <tr class="normalrow">
+      <td class="col-md-1">16:15-16:25</td>
+      <td>IncQuery Server for Teamwork Cloud
+        <br>
+        <a href="" target="_blank"> <span class="name">Ábel Hegedüs</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Gábor Bergmann</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Csaba Debreceni</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Ákos Horváth</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Ákos Menyhért</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Péter Lunk</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">István Papp</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Dániel Varró</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">Tomas Vileiniskis</span> </a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"> <span class="name">István Ráth</span> </a>
+        <span class="affiliation"></span>
       </td>
     </tr>
     </tbody>
@@ -5787,32 +5807,6 @@ h4{
     </tr>
     <tr class="normalrow">
       <td class="col-md-1">10:45-10:55</td>
-      <td>IncQuery Server for Teamwork Cloud
-        <br>
-        <a href="" target="_blank"> <span class="name">Ábel Hegedüs</span> </a>
-        <span class="affiliation"></span>,
-        <a href="" target="_blank"> <span class="name">Gábor Bergmann</span> </a>
-        <span class="affiliation"></span>,
-        <a href="" target="_blank"> <span class="name">Csaba Debreceni</span> </a>
-        <span class="affiliation"></span>,
-        <a href="" target="_blank"> <span class="name">Ákos Horváth</span> </a>
-        <span class="affiliation"></span>,
-        <a href="" target="_blank"> <span class="name">Ákos Menyhért</span> </a>
-        <span class="affiliation"></span>,
-        <a href="" target="_blank"> <span class="name">Péter Lunk</span> </a>
-        <span class="affiliation"></span>,
-        <a href="" target="_blank"> <span class="name">István Papp</span> </a>
-        <span class="affiliation"></span>,
-        <a href="" target="_blank"> <span class="name">Dániel Varró</span> </a>
-        <span class="affiliation"></span>,
-        <a href="" target="_blank"> <span class="name">Tomas Vileiniskis</span> </a>
-        <span class="affiliation"></span>,
-        <a href="" target="_blank"> <span class="name">István Ráth</span> </a>
-        <span class="affiliation"></span>
-      </td>
-    </tr>
-    <tr class="normalrow">
-      <td class="col-md-1">11:00-11:10</td>
       <td>Optimal Mapping of Task-based Computation Models over Heterogeneous Hardware using Placer
         <br>
         <a href="" target="_blank"> <span class="name">Renaud De Landtsheer</span> </a>
@@ -5824,7 +5818,7 @@ h4{
       </td>
     </tr>
     <tr class="normalrow">
-      <td class="col-md-1">11:10-11:30</td>
+      <td class="col-md-1">11:00-11:30</td>
       <td>Lightning demos
         <br> &nbsp;
       </td>
