@@ -80,7 +80,7 @@ slug: program-overview
    <td  class="tg-c3ow"></td>
    <td class="tg-mply" colspan="2"><a href="https://mdetools.github.io/mdetools18/">W7 MDETools</a></td>
     <td class="tg-jxbq"><a href="https://info.jetbrains.com/mps-day-models-2018-registration.html" target="_blank">MPS day</a></td>
-    <td class="tg-jxbq">HCL Modeling tools restarted & meet HCL</td>
+    <td class="tg-jxbq"><a href="https://www.devops-community.com/models-2018.html" target="_blank">HCL Modeling tools restarted & meet HCL</a></td>
     <td class="tg-ie4m">Conference Reception &amp; Poster Session &amp; Posters of ACM SRC</td>
     <td class="tg-ie4m">SoSyM Editorial Meeting</td>
     <td class="tg-uys7"></td>
