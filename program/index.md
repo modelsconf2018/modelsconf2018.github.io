@@ -304,13 +304,13 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: W5 Executable Modeling - Opening and Industry Talks
+        09:00 - 10:30: W5 Executable Modeling (EXE) - Opening and Industry Talks
         <br>
         <small>Chairs: TBA</small>
       </td>
     </tr>
     <tr class="normalrow">
-      <td class="col-md-1"></td>
+      <td class="col-md-1">09:00-09:15</td>
       <td> Workshop Opening 
         <br>&nbsp;
       </td>
@@ -323,6 +323,22 @@ h4{
       <span class="affiliation">HCL Technologies, Products and Platforms</span>,
        <a href="" target="_blank"><span class="name">Mattias Mohlin</span></a>
       <span class="affiliation">HCL Technologies, Products and Platforms</span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">09:40-10:05</td>
+      <td>Invited Industry Talk: Why Executable Models are a Requirement for our Customers
+      <br>
+      <a href="" target="_blank"><span class="name">Elena Strabykina</span></a>
+      <span class="affiliation">National Instruments</span>
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1">10:05-10:30</td>
+      <td>Invited Industry Talk: UML Precise Semantics Standards at OMG: Executing on the Vision
+      <br>
+      <a href="" target="_blank"><span class="name">Ed Seidewitz</span></a>
+      <span class="affiliation">Model Driven Solutions</span>
       </td>
     </tr>
     </tbody>
@@ -577,7 +593,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:35: W5 Executable Modeling - Session 2: Paper Presentations
+        11:00 - 12:35: W5 Executable Modeling (EXE) - Session 2: Paper Presentations
         <br>
         <small>Chairs: TBA</small>
       </td>
@@ -778,7 +794,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: W5 Executable Modeling - EXE
+        14:00 - 15:30: W5 Executable Modeling (EXE)
       </td>
     </tr>
      <tr class="normalrow">
@@ -950,9 +966,25 @@ h4{
     </tr>
     <tr class="normalrow">
       <td class="col-md-1"></td>
-      <td>More tool demonstrations to be announced soon
-      <br> 
-      <a href="" target="_blank"><span class="name"></span></a>
+      <td>Tool demonstration on Papyrus for xtUML
+      <br>
+      <a href="" target="_blank"><span class="name">Cortland Starrett</span></a>
+      <span class="affiliation"></span>,
+      <a href="" target="_blank"><span class="name">Robert Mulvey</span></a>
+      <span class="affiliation"></span>,
+      <a href="" target="_blank"><span class="name">Keith Brown</span></a>
+      <span class="affiliation"></span>,
+      <a href="" target="_blank"><span class="name">Levi Starrett</span></a>
+      <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Tool demonstration on WebGME Dynamic Systems Studio (WebGME-DSS)
+      <br>
+      <a href="" target="_blank"><span class="name">Patrik Meijer</span></a>
+      <span class="affiliation"></span>,
+      <a href="" target="_blank"><span class="name">Tamas Kecskes</span></a>
       <span class="affiliation"></span>
       </td>
     </tr>
