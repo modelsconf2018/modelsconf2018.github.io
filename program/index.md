@@ -3743,8 +3743,35 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: HCL Modeling tools restarted
-        <br> &nbsp;
+        14:00 - 15:30: Modeling Tools Restarted
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Modeling Tools Restarted – meet HCL
+          <br>
+        <a href=""> 
+          <span class="name">Kimi Cousins </span>
+        </a>
+          <span class="affiliation">HCL</span>,
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Client Advocacy & Tech Connect Initiative 
+          <br>
+        <a href=""> 
+          <span class="name">Otto Klaren</span>
+        </a>
+          <span class="affiliation">HCL</span>,
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">15:00-15:30</td>
+      <td>Session Break / Social
+          <br> &nbsp; 
       </td>
     </tr>
     </tbody>
@@ -4157,8 +4184,26 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 17:30: HCL Modeling tools restarted
+        15:30 - 18:00: Modeling Tools Restarted
         <br> &nbsp;
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">15:30-16:15</td>
+      <td>Proof is in the Pudding
+        <br>&nbsp;
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">16:15-17:00</td>
+      <td>Participate in a Tutorial ​
+        <br>&nbsp;
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">17:00-18:00</td>
+      <td>HCL Social 
+        <br>&nbsp;
       </td>
     </tr>
     </tbody>
@@ -5252,12 +5297,12 @@ h4{
 </table>
   </div>
 
-<div class="session steering">
+<div class="session lunch steering">
   <table class="table">
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:30 - 13:00: Steering Committee Lunch (by invitation only) in Scroll Bar (Ground Floor)
+        11:30 - 13:00: Steering Committee Lunch (by invitation only)
         <br> &nbsp;
       </td>
     </tr>
@@ -5551,7 +5596,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        17:00 - 18:15: SoSyM editorial board meeting (by invitation only) in 3A20
+        16:30 - 18:00: SoSyM editorial board meeting (by invitation only) in 3A20
         <br> &nbsp;
       </td>
     </tr>
