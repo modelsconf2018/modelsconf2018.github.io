@@ -9,7 +9,7 @@ slug: keynotes
 <div class="row">
 <article markdown="1">
 
-# Exclusive: Understanding Jetbrains MPS with Václav Pech
+# Exclusive: Understanding JetBrains MPS with Václav Pech
 
 #### Hi Vaclav, we are happy to have you here. Please tell us a little bit about yourself!
 Hello! I’m glad that you’re interested to hear more about what we do at [JetBrains MPS](https://www.jetbrains.com/mps/){:target="_blank"}. I’m a software engineer focusing on language engineering and domain-specific languages. I’ve been involved with MPS since 2010, partly as a developer and partly as a trainer to lead educational courses on MPS.
