@@ -82,15 +82,15 @@ slug: program-overview
     <td class="tg-jxbq"><a href="https://info.jetbrains.com/mps-day-models-2018-registration.html" target="_blank">MPS day</a></td>
     <td class="tg-jxbq"><a href="https://www.devops-community.com/models-2018.html" target="_blank">HCL Modeling tools restarted & meet HCL</a></td>
     <td class="tg-ie4m">Conference Reception &amp; Poster Session &amp; Posters of ACM SRC</td>
-    <td class="tg-ie4m">SoSyM Editorial Meeting</td>
+    <td class="tg-ie4m">SoSyM Editorial Meeting (16:30-18:00)</td>
     <td class="tg-uys7"></td>
   </tr>
   <tr>
     <td class="tg-acm6" colspan="2"><a href="https://modelexecution.org/exe2018">W5 EXE</a></td>
     <td class="tg-mply" colspan="2"><a href="http://gemoc.org/events/gemoc2018.html">W8 GEMOC</a></td>
     <td class="tg-mply" colspan="2"><a href="https://msdl.uantwerpen.be/conferences/MDEbug/2018/">W11 MDEbug</a></td>
-    <td class="tg-ie4m">Steering Commitee Meeting (by invitation only)</td>
-    <td class="tg-ie4m">ACM Student Research Competition</td>
+    <td class="tg-ie4m">Steering Commitee Meeting (17:00-18:30 - by invitation only)</td>
+    <td class="tg-ie4m">Steering Commitee Lunch (by invitation only)</td>
     <td class="tg-uys7"></td>
 
   </tr>
@@ -100,7 +100,7 @@ slug: program-overview
     <td class="tg-mply" colspan="2"><a href="http://st.inf.tu-dresden.de/MORSE18/">W9 MORSE</a></td>
     <td class="tg-mply"><a href="https://sites.google.com/site/modevva/home">W12 MoDeVVA</a></td>
     <td class="tg-uys7"></td>
-    <td class="tg-ie4m">Steering Commitee Lunch (by invitation only)</td>
+    <td class="tg-uys7"></td>
     <td class="tg-ie4m">Banquet at the Opera</td>
     <td class="tg-uys7"></td>
   </tr>
@@ -110,7 +110,7 @@ slug: program-overview
     <td class="tg-b28d" colspan="2">T3 DevYrCar</td>
     <td class="tg-mply" colspan="2"><a href="https://sites.google.com/view/pains-2018/home">W13 PAINS</a></td>
     <td class="tg-uys7"></td>
-    <td class="tg-uys7"></td>
+    <td class="tg-ie4m">ACM Student Research Competition</td>
     <td class="tg-uys7"></td>
   </tr>
   <tr>
