@@ -316,7 +316,7 @@ h4{
       </td>
     </tr>
     <tr class="normalrow">
-      <td class="col-md-1"></td>
+      <td class="col-md-1">09:15-09:40</td>
       <td>Invited Industry Talk: Managing Build Configuration Complexity in Industrial Embedded Systems
       <br>
       <a href="" target="_blank"><span class="name">Elena Strabykina</span></a>
@@ -329,7 +329,7 @@ h4{
       <td class="col-md-1">09:40-10:05</td>
       <td>Invited Industry Talk: Why Executable Models are a Requirement for our Customers
       <br>
-      <a href="" target="_blank"><span class="name">Elena Strabykina</span></a>
+      <a href="" target="_blank"><span class="name">Taylor Riche</span></a>
       <span class="affiliation">National Instruments</span>
       </td>
     </tr>
