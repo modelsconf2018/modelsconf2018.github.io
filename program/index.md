@@ -4860,11 +4860,16 @@ h4{
     </tr>
     <tr class="normalrow">
       <td class="col-md-1">13:30-14:00</td>
-      <td>TBA<br>
+      <td>Model based software development: Experiences from large scale usage
+        <br>    
         <a href="" target="_blank"> 
-          <span class="name">TBA</span>
+          <span class="name">Roger Holmberg</span>
         </a>
-          <span class="affiliation">TBA</span>
+          <span class="affiliation">Ericsson</span>,
+          <a href="https://www.linkedin.com/in/olivera-milenkovic-710312" target="_blank"> 
+          <span class="name">Olivera Milenkovic</span>
+        </a>
+          <span class="affiliation">Aspire Technology</span>
       </td>
       <td></td>
     </tr>
