@@ -53,7 +53,7 @@ There are three main ones and they all stem from the non-existence of parsing in
 #### Sounds like a great technology, but who is using JetBrains MPS now?
 There are quite a few exciting projects happening:
 * Siemens Healthcare develops software for various medical and diagnostic systems.
-* Oce Technology models processes and systems for industrial printers.
+* Océ Technologies models processes and systems for industrial printers.
 * The tax office in the Netherlands models tax legislation with DSLs.
 * Itemis is a German IT consulting company that have several projects using MPS.
 
