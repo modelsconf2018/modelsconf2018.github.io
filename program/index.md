@@ -5412,13 +5412,27 @@ h4{
 </table>
 </div>
 
-<div class="session panel">
+<div class="session thu coffee break">
   <table class="table">
     <tbody>
     <tr>
       <td class="info" colspan="14">
         13:00 - 14:30: Panel in Aud 2
-        <br> &nbsp;
+        <br> <small>Moderator: Alexander Pretschner <span class="affiliation"> TUM, fortiss, and Bavarian Research Institute for Digital Transformation</span></small>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Why Model-Based Engineering Works in Practice!
+        <br>
+        <a href="" target="_blank"> <span class="name">Francis Bordeleau</span></a>
+        <span class="affiliation">Cmind</span>,
+        <a href="" target="_blank"><span class="name">Lionel Briand</span></a>
+        <span class="affiliation">University of Luxembourg</span>,
+        <a href="" target="_blank"> <span class="name">Maged Khalil</span></a>
+        <span class="affiliation">Continental</span>,
+        <a href="" target="_blank"> <span class="name">Sebastian Voss</span></a>
+        <span class="affiliation">fortiss</span>
       </td>
     </tr>
     </tbody>
