@@ -4596,7 +4596,7 @@ h4{
       <td class="info" colspan="14">
         10:30 - 12:00: Foundations in Aud 1
         <br>
-        <small>Chair(s): TBA</small>
+        <small>Chair: Vadim Zaytsev</small>
       </td>
     </tr>
     <tr class="normalrow">
@@ -4769,7 +4769,7 @@ h4{
       <td class="info" colspan="14">
         13:30 - 15:00: Transformations in Aud 1
         <br>
-        <small>Chair(s): TBA</small>
+        <small>Chair: Eugene Syriani</small>
       </td>
     </tr>
     <tr class="normalrow">
@@ -4925,7 +4925,7 @@ h4{
       <td class="info" colspan="14">
         15:30 - 17:00: Verification, Validation and Planning in Aud 1
         <br>
-        <small>Chair(s): TBA</small>
+        <small>Chair: Nelly Bencomo</small>
       </td>
     </tr>
     <tr class="normalrow">
@@ -5165,7 +5165,7 @@ h4{
       <td class="info" colspan="14">
         10:00 - 11:30: Model Analysis and Testing in Aud 1
         <br>
-        <small>Chair(s): TBA</small>
+        <small>Chair: Fiona Polack</small>
       </td>
     </tr>
     <tr class="normalrow">
@@ -5235,7 +5235,7 @@ h4{
       <td class="info" colspan="14">
         10:00 - 11:30: Experience Reports in Aud 2
         <br>
-        <small>Chair(s): TBA</small>
+        <small>Chair: Tim Lethbridge</small>
       </td>
     </tr>
     <tr class="normalrow">
@@ -5354,7 +5354,7 @@ h4{
       <td class="info" colspan="14">
         13:00 - 14:30: Empirical Studies in Aud 1
         <br>
-        <small>Chair(s): TBA</small>
+        <small>Chair: Silvia Abrahao</small>
       </td>
     </tr>
     <tr class="normalrow">
@@ -5459,7 +5459,7 @@ h4{
       <td class="info" colspan="14">
         15:00 - 16:30: Patterns, Refactoring and Refinement in Aud 1
         <br>
-        <small>Chair(s): TBA</small>
+        <small>Chair: Marouane Kessentin</small>
       </td>
     </tr>
     <tr class="normalrow">
@@ -5738,7 +5738,7 @@ h4{
       <td class="info" colspan="14">
         10:00 - 11:30: Model Management in Aud 1
         <br>
-        <small>Chair(s): TBA</small>
+        <small>Chair: Michalis Famelis</small>
       </td>
     </tr>
     <tr class="normalrow">
@@ -5799,7 +5799,7 @@ h4{
       <td class="info" colspan="14">
         10:00 - 11:30: Hardware Embedded Systems and CPS in Aud 2
         <br>
-        <small>Chair(s): TBA</small>
+        <small>Chair: Bran Selic</small>
       </td>
     </tr>
     <tr class="normalrow">
@@ -5944,7 +5944,7 @@ h4{
       <td class="info" colspan="14">
         12:30 - 13:30: Graphical Modelling and Modelling Applications in Aud 1
         <br>
-        <small>Chair(s): TBA</small>
+        <small>Chair: Antonio Vallecillo</small>
       </td>
     </tr>
     <tr class="normalrow">
@@ -5994,7 +5994,7 @@ h4{
       <td class="info" colspan="14">
         12:30 - 13:30: Transformations 2 in Aud 2
         <br>
-        <small>Chair(s): TBA</small>
+        <small>Chair: Gabriele Taentzer</small>
       </td>
     </tr>
     <tr class="normalrow">
@@ -6052,7 +6052,7 @@ h4{
       <td class="info" colspan="14">
         12:30 - 13:30: Synthesis & Simulation in Aud 3
         <br>
-        <small>Chair(s): TBA</small>
+        <small>Chair: Francis Bordeleau</small>
       </td>
     </tr>
     <tr class="normalrow">
