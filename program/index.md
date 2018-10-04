@@ -1011,7 +1011,7 @@ h4{
       <td class="info" colspan="14">
         09:00 - 10:30: Systems Analysis and Modeling (SAM)
         <br>
-        <small>Chair(s): TBA</small>
+        <small>Chairs: Reinhard Gotzhein and Ferhat Khendek</small>
       </td>
     </tr>
     <tr class="normalrow">
@@ -1324,7 +1324,7 @@ h4{
       <td class="info" colspan="14">
         11:00 - 12:30: Systems Analysis and Modeling (SAM) - Session 1: Cloud Systems
         <br>
-        <small>Chair(s): TBA</small>
+        <small>Chair: Finn Kristoffersen</small>
       </td>
     </tr>
     <tr class="normalrow">
@@ -1810,7 +1810,7 @@ h4{
       <td class="info" colspan="14">
         14:00 - 15:30: Systems Analysis and Modeling (SAM) - Session 2: Notations and Semantics
         <br>
-        <small>Chair(s): TBA</small>
+        <small>Chair: Edel Sherrat</small>
       </td>
     </tr>
     <tr class="normalrow">
@@ -3047,7 +3047,7 @@ h4{
       <td class="info" colspan="14">
         11:00 - 12:30: Systems Analysis and Modeling (SAM) - Session 3: Performance, Safety and realizability
         <br>
-        <small>Chair(s): TBA</small>
+        <small>Chair: Emmanuel Gaudin</small>
       </td>
     </tr>
     <tr class="normalrow">
@@ -3703,7 +3703,7 @@ h4{
       <td class="info" colspan="14">
         14:00 - 15:30: Systems Analysis and Modeling (SAM) - Session 4: MSC, URN, GRL
         <br>
-        <small>Chair(s): TBA</small>
+        <small>Chair: Daniel Amyot</small>
       </td>
     </tr>
     <tr class="normalrow">
@@ -4147,7 +4147,7 @@ h4{
       <td class="info" colspan="14">
         16:00 - 17:30: Systems Analysis and Modeling (SAM) - Session 5: Collaborative Modeling 
         <br>
-        <small>Chair(s): TBA</small>
+        <small>Chair: Gunter Mussbacher</small>
       </td>
     </tr>
     <tr class="normalrow">
