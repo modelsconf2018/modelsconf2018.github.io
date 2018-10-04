@@ -2807,7 +2807,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: <a href="/tutorials/#t9-robmosys-better-models-tools-and-software-for-robotic-systems">T9 RobMoSys: Better Models, Tools and Software for Robotic Systems</a>
+        09:00 - 10:30: <a href="http://www.servicerobotik-ulm.de/models2018/" target="_blank">T9 RobMoSys: Better Models, Tools and Software for Robotic Systems</a>
         <br> &nbsp;
       </td>
     </tr>
@@ -3291,7 +3291,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: <a href="/tutorials/#t9-robmosys-better-models-tools-and-software-for-robotic-systems">T9 RobMoSys: Better Models, Tools and Software for Robotic Systems</a>
+        11:00 - 12:30: <a href="http://www.servicerobotik-ulm.de/models2018/" target="_blank">T9 RobMoSys: Better Models, Tools and Software for Robotic Systems</a>
         <br> &nbsp;
       </td>
     </tr>
