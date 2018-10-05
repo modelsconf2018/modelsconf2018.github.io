@@ -119,7 +119,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: <a href="tutorials/#t1-taming-large-models-using-hawk-and-neoemf" target="_blank"> T1 Hawk </a>
+        09:00 - 10:30: <a href="tutorials/#t1-taming-large-models-using-hawk-and-neoemf" target="_blank"> T1 Hawk in 2A08</a>
         <br> &nbsp;
       </td>
     </tr>
@@ -218,7 +218,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: W3 Workshop on OCL and Textual Modeling
+        09:00 - 10:30: W3 Workshop on OCL and Textual Modeling (OCL) in 2A18
         <br>
         <small>Chairs: TBA</small>
       </td>
@@ -269,7 +269,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: W4 FlexMDE - Flexible modelling I
+        09:00 - 10:30: W4 FlexMDE - Flexible modelling I in 2A52
         <br>
         <small>Chairs: TBA</small>
       </td>
@@ -492,7 +492,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: W3 Workshop on OCL and Textual Modeling
+        11:00 - 12:30: W3 Workshop on OCL and Textual Modeling (OCL) in 2A18
         <br>
         <small>Chairs: TBA</small>
       </td>
@@ -536,7 +536,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: W4 FlexMDE - Flexible modelling II
+        11:00 - 12:30: W4 FlexMDE - Flexible modelling II in 2A52
         <br>
         <small>Chairs: TBA</small>
       </td>
@@ -748,7 +748,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: W3 Workshop on OCL and Textual Modeling
+        14:00 - 15:30: W3 Workshop on OCL and Textual Modeling (OCL) in 2A18
         <br>
         <small>Chairs: TBA</small>
       </td>
@@ -915,7 +915,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 17:30: W3 Workshop on OCL and Textual Modeling - Panel Discussion and Lightning Talks
+        16:00 - 17:30: W3 Workshop on OCL and Textual Modeling - Panel Discussion and Lightning Talks in 2A18
         <br> &nbsp;
       </td>
     </tr>
