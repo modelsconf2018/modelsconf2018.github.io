@@ -2709,7 +2709,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: Model-Based Systems Engineering Meeting in 2A12
+        09:00 - 10:30: Model-Based Systems Engineering Meeting in 2A56 (Aud 3)
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -2751,7 +2751,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: Doctoral Symposium
+        09:00 - 10:30: Doctoral Symposium in 2A18
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -2856,7 +2856,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: W11 Debugging in Model-Driven Engineering (MDEBug) - Opening and Keynote
+        09:00 - 10:30: W11 Debugging in Model-Driven Engineering (MDEBug) - Opening and Keynote in 2A08
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -2887,7 +2887,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: W12 Model Driven Engineering, Verification and Validation (MoDeVVA)
+        09:00 - 10:30: W12 Model Driven Engineering, Verification and Validation (MoDeVVA) in 2A20
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -2918,7 +2918,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: W13 Pains in Model-Driven Engineering Practice (PAINS)
+        09:00 - 10:30: W13 Pains in Model-Driven Engineering Practice (PAINS) in 2A52
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -2956,7 +2956,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: <a href="http://www.models-and-evolution.com/2018/index.html#section-ajenda" target="_blank">W14 Models and Evolution (ME)</a>
+        09:00 - 10:30: <a href="http://www.models-and-evolution.com/2018/index.html#section-ajenda" target="_blank">W14 Models and Evolution (ME) in 2A54</a>
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -3173,7 +3173,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: Model-Based Systems Engineering Meeting in 2A12
+        11:00 - 12:30: Model-Based Systems Engineering Meeting in 2A56 (Aud 3)
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -3206,7 +3206,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: Doctoral Symposium - Quality Assurance
+        11:00 - 12:30: Doctoral Symposium - Quality Assurance in 2A18
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -3341,7 +3341,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: W11 Debugging in Model-Driven Engineering (MDEBug) - Paper Presentations
+        11:00 - 12:30: W11 Debugging in Model-Driven Engineering (MDEBug) - Paper Presentations in 2A08
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -3410,7 +3410,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: W12 Model Driven Engineering, Verification and Validation (MoDeVVA)
+        11:00 - 12:30: W12 Model Driven Engineering, Verification and Validation (MoDeVVA) in 2A20
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -3469,7 +3469,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: W13 Pains in Model-Driven Engineering Practice (PAINS) - Flash Talks
+        11:00 - 12:30: W13 Pains in Model-Driven Engineering Practice (PAINS) - Flash Talks in 2A52
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -3581,7 +3581,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: <a href="http://www.models-and-evolution.com/2018/index.html#section-ajenda" target="_blank">W14 Models and Evolution (ME)</a>
+        11:00 - 12:30: <a href="http://www.models-and-evolution.com/2018/index.html#section-ajenda" target="_blank">W14 Models and Evolution (ME) in 2A54</a>
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -3839,7 +3839,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: MBSE Adoption Challenges - Model-Based Systems Engineering Meeting in 2A12 
+        14:00 - 15:30: MBSE Adoption Challenges - Model-Based Systems Engineering Meeting in 2A56 (Aud 3) 
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -3872,7 +3872,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: Doctoral Symposium - Heterogeneous and Complex Systems 
+        14:00 - 15:30: Doctoral Symposium - Heterogeneous and Complex Systems in 2A18 
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -3999,7 +3999,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: W11 Debugging in Model-Driven Engineering (MDEBug) - Discussions
+        14:00 - 15:30: W11 Debugging in Model-Driven Engineering (MDEBug) - Discussions in 2A08
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -4028,7 +4028,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: W13 Pains in Model-Driven Engineering Practice (PAINS)
+        14:00 - 15:30: W13 Pains in Model-Driven Engineering Practice (PAINS) in 2A52
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -4117,7 +4117,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: W17 Analytics and mining of model repositories (AMMoRe) - Model Management and Analytics I
+        14:00 - 15:30: W17 Analytics and mining of model repositories (AMMoRe) - Model Management and Analytics I in 2A54
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -4270,7 +4270,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 17:30: MBSE Adoption Challenges - Model-Based Systems Engineering Meeting in 2A12
+        16:00 - 17:30: MBSE Adoption Challenges - Model-Based Systems Engineering Meeting in 2A56 (Aud 3)
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -4307,7 +4307,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 18:00: Doctoral Symposium - Consistency Management in MDE
+        16:00 - 18:00: Doctoral Symposium - Consistency Management in MDE in 2A18
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -4390,7 +4390,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 17:30: W11 Debugging in Model-Driven Engineering (MDEBug) - Discussions continued
+        16:00 - 17:30: W11 Debugging in Model-Driven Engineering (MDEBug) - Discussions continued in 2A08
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -4419,7 +4419,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 17:30: W13 Pains in Model-Driven Engineering Practice (PAINS)
+        16:00 - 17:30: W13 Pains in Model-Driven Engineering Practice (PAINS) in 2A52
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -4498,7 +4498,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 17:30: W17 Analytics and mining of model repositories (AMMoRe) - Model Management and Analytics II
+        16:00 - 17:30: W17 Analytics and mining of model repositories (AMMoRe) - Model Management and Analytics II in 2A54
         <br>
         <small>Chair(s): TBA</small>
       </td>
