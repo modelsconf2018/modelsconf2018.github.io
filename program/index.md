@@ -169,7 +169,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: W2 Models@run.time
+        09:00 - 10:30: W2 Models@run.time in 2A56 (Aud 3)
         <br>
         <small>Chairs: TBA</small>
       </td>
@@ -304,7 +304,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: W5 Executable Modeling (EXE) - Opening and Industry Talks
+        09:00 - 10:30: W5 Executable Modeling (EXE) - Opening and Industry Talks in 2A54
         <br>
         <small>Chairs: TBA</small>
       </td>
@@ -446,7 +446,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: W2 Models@run.time - Paper Presentations #1
+        11:00 - 12:30: W2 Models@run.time - Paper Presentations #1 in 2A56 (Aud 3)
         <br>
         <small>Chairs: TBA</small>
       </td>
@@ -593,7 +593,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:35: W5 Executable Modeling (EXE) - Session 2: Paper Presentations
+        11:00 - 12:35: W5 Executable Modeling (EXE) - Session 2: Paper Presentations in 2A54
         <br>
         <small>Chairs: TBA</small>
       </td>
@@ -705,7 +705,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: W2 Models@run.time - Paper Presentations #2
+        14:00 - 15:30: W2 Models@run.time - Paper Presentations #2 in 2A56 (Aud 3)
         <br>
         <small>Chairs: TBA</small>
       </td>
@@ -794,7 +794,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: W5 Executable Modeling (EXE)
+        14:00 - 15:30: W5 Executable Modeling (EXE) in 2A54
       </td>
     </tr>
      <tr class="normalrow">
@@ -885,7 +885,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 17:30: W2 Models@run.time - Keynote and Breakout Discussions
+        16:00 - 17:30: W2 Models@run.time - Keynote and Breakout Discussions in 2A56 (Aud 3)
         <br>
         <small>Chairs: TBA</small>
       </td>
@@ -929,7 +929,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-       16:00 – 17:30: W5 Executable Modeling (EXE) - Live Tool Demonstrations & Workshop Closing
+       16:00 – 17:30: W5 Executable Modeling (EXE) - Live Tool Demonstrations & Workshop Closing in 2A54
       </td>
     </tr>
     <tr class="normalrow">
