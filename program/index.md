@@ -1009,7 +1009,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: Systems Analysis and Modeling (SAM)
+        09:00 - 10:30: Systems Analysis and Modeling (SAM) in Aud 2
         <br>
         <small>Chairs: Reinhard Gotzhein and Ferhat Khendek</small>
       </td>
@@ -1322,7 +1322,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: Systems Analysis and Modeling (SAM) - Session 1: Cloud Systems
+        11:00 - 12:30: Systems Analysis and Modeling (SAM) - Session 1: Cloud Systems in Aud 2
         <br>
         <small>Chair: Finn Kristoffersen</small>
       </td>
@@ -1808,7 +1808,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: Systems Analysis and Modeling (SAM) - Session 2: Notations and Semantics
+        14:00 - 15:30: Systems Analysis and Modeling (SAM) - Session 2: Notations and Semantics in Aud 2
         <br>
         <small>Chair: Edel Sherrat</small>
       </td>
@@ -2330,7 +2330,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 – 17:30: Systems Analysis and Modeling (SAM) - SDL Forum Society AGM
+        16:00 – 17:30: Systems Analysis and Modeling (SAM) - SDL Forum Society AGM in Aud 2
         <br> &nbsp;
       </td>
     </tr>
@@ -2591,7 +2591,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: Systems Analysis and Modeling (SAM)
+        09:00 - 10:30: Systems Analysis and Modeling (SAM) in Aud 2
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -3045,7 +3045,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: Systems Analysis and Modeling (SAM) - Session 3: Performance, Safety and realizability
+        11:00 - 12:30: Systems Analysis and Modeling (SAM) - Session 3: Performance, Safety and realizability in Aud 2
         <br>
         <small>Chair: Emmanuel Gaudin</small>
       </td>
@@ -3701,7 +3701,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: Systems Analysis and Modeling (SAM) - Session 4: MSC, URN, GRL
+        14:00 - 15:30: Systems Analysis and Modeling (SAM) - Session 4: MSC, URN, GRL in Aud 2
         <br>
         <small>Chair: Daniel Amyot</small>
       </td>
@@ -4145,7 +4145,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 17:30: Systems Analysis and Modeling (SAM) - Session 5: Collaborative Modeling 
+        16:00 - 17:30: Systems Analysis and Modeling (SAM) - Session 5: Collaborative Modeling in Aud 2
         <br>
         <small>Chair: Gunter Mussbacher</small>
       </td>
