@@ -1079,7 +1079,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: <a href="tutorials/#t3-develop-your-own-car" target="_blank"> T3 Develop your Own Car</a>
+        09:00 - 10:30: <a href="tutorials/#t3-develop-your-own-car" target="_blank"> T3 Develop your Own Car in 2A18</a>
         <br> &nbsp;
       </td>
     </tr>
@@ -1092,7 +1092,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: <a href="tutorials/#t4-devs-modelling-and-simulation" target="_blank"> T4 DEVS Modelling and Simulation </a>
+        09:00 - 10:30: <a href="tutorials/#t4-devs-modelling-and-simulation" target="_blank"> T4 DEVS Modelling and Simulation in 2A08 </a>
         <br> &nbsp;
       </td>
     </tr>
@@ -1186,7 +1186,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: W8 The Globalization of Modeling Languages (GEMOC)
+        09:00 - 10:30: W8 The Globalization of Modeling Languages (GEMOC) in 2A52
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -1273,7 +1273,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: W16 Human Factors in Modeling (HuFaMo)
+        09:00 - 10:30: W16 Human Factors in Modeling (HuFaMo) in 2A54
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -1417,7 +1417,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: <a href="tutorials/#t3-develop-your-own-car" target="_blank"> T3 Develop your Own Car</a>
+        11:00 - 12:30: <a href="tutorials/#t3-develop-your-own-car" target="_blank"> T3 Develop your Own Car in 2A18</a>
         <br> &nbsp;
       </td>
     </tr>
@@ -1430,7 +1430,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: <a href="tutorials/#t4-devs-modelling-and-simulation" target="_blank"> T4 DEVS Modelling and Simulation </a>
+        11:00 - 12:30: <a href="tutorials/#t4-devs-modelling-and-simulation" target="_blank"> T4 DEVS Modelling and Simulation in 2A08 </a>
         <br> &nbsp;
       </td>
     </tr>
@@ -1584,7 +1584,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: W8 The Globalization of Modeling Languages (GEMOC) - Paper Presentations #1
+        11:00 - 12:30: W8 The Globalization of Modeling Languages (GEMOC) - Paper Presentations #1 in 2A52
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -1749,7 +1749,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: W16 Human Factors in Modeling (HuFaMo) - Support for modeling
+        11:00 - 12:30: W16 Human Factors in Modeling (HuFaMo) - Support for modeling in 2A54
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -1961,7 +1961,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: <a href="tutorials/#t3-develop-your-own-car" target="_blank"> T3 Develop your Own Car</a>
+        14:00 - 15:30: <a href="tutorials/#t3-develop-your-own-car" target="_blank"> T3 Develop your Own Car in 2A18</a>
         <br> &nbsp;
       </td>
     </tr>
@@ -1974,7 +1974,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: <a href="tutorials/#t5-developing-reactive-systems-with-statecharts" target="_blank"> T5 Developing Reactive Systems with Statecharts </a>
+        14:00 - 15:30: <a href="tutorials/#t5-developing-reactive-systems-with-statecharts" target="_blank"> T5 Developing Reactive Systems with Statecharts in 2A08 </a>
         <br> &nbsp;
       </td>
     </tr>
@@ -2101,7 +2101,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: W8 The Globalization of Modeling Languages (GEMOC) - Paper Presentations #2
+        14:00 - 15:30: W8 The Globalization of Modeling Languages (GEMOC) - Paper Presentations #2 in 2A52
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -2263,7 +2263,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: W16 Human Factors in Modeling (HuFaMo) - Experimenting for comparing
+        14:00 - 15:30: W16 Human Factors in Modeling (HuFaMo) - Experimenting for comparing in 2A54
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -2399,7 +2399,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 17:30: <a href="tutorials/#t3-develop-your-own-car" target="_blank"> T3 Develop your Own Car</a>
+        16:00 - 17:30: <a href="tutorials/#t3-develop-your-own-car" target="_blank"> T3 Develop your Own Car in 2A18</a>
         <br> &nbsp;
       </td>
     </tr>
@@ -2412,7 +2412,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 17:30: <a href="tutorials/#t5-developing-reactive-systems-with-statecharts" target="_blank"> T5 Developing Reactive Systems with Statecharts </a>
+        16:00 - 17:30: <a href="tutorials/#t5-developing-reactive-systems-with-statecharts" target="_blank"> T5 Developing Reactive Systems with Statecharts in 2A08 </a>
         <br> &nbsp;
       </td>
     </tr>
@@ -2452,7 +2452,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 17:30: W8 The Globalization of Modeling Languages (GEMOC) 
+        16:00 - 17:30: W8 The Globalization of Modeling Languages (GEMOC) in 2A52 
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -2521,7 +2521,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 17:30: W16 Human Factors in Modeling (HuFaMo) - Working on modeling languages
+        16:00 - 17:30: W16 Human Factors in Modeling (HuFaMo) - Working on modeling languages in 2A54
         <br>
         <small>Chair(s): TBA</small>
       </td>
