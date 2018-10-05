@@ -21,6 +21,7 @@ Since the MAD@MODELS meeting is fully part of MODELS'18, participants will have 
 
 * Modeling, Agile and DevOps – three words combined that can’t make sense! Michael Hudson (HCL)
 * Buying into MAD in Your Organization: Thomas Wiman (Adocus AB)
+* MAD is the possible: Ton Janssen (Oce)
 * Large Teams running MAD: Roger Holmberg (Ericsson), Olivera Milenkovic (Aspire Technology)
 
 We expect a very interactive session with input from all participants. If you have experiences in the DevOps and Agile combined with modelling that you would like to share you should be at this session. If you are interested in how modeling can be successfully integrated into an Agile development team and DevOps pipeline you should be at this session. 
