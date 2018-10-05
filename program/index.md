@@ -5861,7 +5861,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        10:00 - 11:30: Tool Demo Talks Aud 3
+        10:00 - 11:30: Tool Demo Talks Aud 3 (2nd floor)
         <br>&nbsp;
       </td>
     </tr>
@@ -6050,7 +6050,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        12:30 - 13:30: Synthesis & Simulation in Aud 3
+        12:30 - 13:30: Synthesis & Simulation in Aud 3 (2nd floor)
         <br>
         <small>Chair: Francis Bordeleau</small>
       </td>
