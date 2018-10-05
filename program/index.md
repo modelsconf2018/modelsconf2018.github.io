@@ -5339,7 +5339,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:30 - 13:00: Steering Committee Lunch (by invitation only)
+        11:30 - 13:00: Steering Committee Lunch (by invitation only) in 3A20
         <br> &nbsp;
       </td>
     </tr>
