@@ -2674,7 +2674,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: MPS Day in 2A14
+        09:00 - 10:30: MPS Day in 3A54
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -2789,7 +2789,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: Educators Symposium
+        09:00 - 10:30: Educators Symposium in 4A58
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -2828,7 +2828,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: <a href="http://www.servicerobotik-ulm.de/models2018/" target="_blank">T9 RobMoSys: Better Models, Tools and Software for Robotic Systems</a>
+        09:00 - 10:30: <a href="http://www.servicerobotik-ulm.de/models2018/" target="_blank">T9 RobMoSys: Better Models, Tools and Software for Robotic Systems in 4A20</a>
         <br> &nbsp;
       </td>
     </tr>
@@ -2841,7 +2841,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: <a href="/tutorials/#t11-seamless-model-based-systems-engineering-the-spes-approach">T11 Seamless Model-Based Systems Engineering: The SPES Approach</a>
+        09:00 - 10:30: <a href="/tutorials/#t11-seamless-model-based-systems-engineering-the-spes-approach">T11 Seamless Model-Based Systems Engineering: The SPES Approach in 3A07</a>
         <br> &nbsp;
       </td>
     </tr>
@@ -3015,7 +3015,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: W15 Multi-Level Modeling (MULTI)
+        09:00 - 10:30: W15 Multi-Level Modeling (MULTI) in 4A60 (Aud 4)
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -3149,7 +3149,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: MPS Day in 2A14 
+        11:00 - 12:30: MPS Day in 3A54
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -3247,7 +3247,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: Educators Symposium
+        11:00 - 12:30: Educators Symposium in 4A58
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -3312,7 +3312,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: <a href="http://www.servicerobotik-ulm.de/models2018/" target="_blank">T9 RobMoSys: Better Models, Tools and Software for Robotic Systems</a>
+        11:00 - 12:30: <a href="http://www.servicerobotik-ulm.de/models2018/" target="_blank">T9 RobMoSys: Better Models, Tools and Software for Robotic Systems in 4A20</a>
         <br> &nbsp;
       </td>
     </tr>
@@ -3325,7 +3325,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: <a href="/tutorials/#t11-seamless-model-based-systems-engineering-the-spes-approach">T11 Seamless Model-Based Systems Engineering: The SPES Approach</a>
+        11:00 - 12:30: <a href="/tutorials/#t11-seamless-model-based-systems-engineering-the-spes-approach">T11 Seamless Model-Based Systems Engineering: The SPES Approach in 3A07</a>
         <br> &nbsp;
       </td>
     </tr>
@@ -3639,7 +3639,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: W15 Multi-Level Modeling (MULTI) - Advances in multi-level modeling
+        11:00 - 12:30: W15 Multi-Level Modeling (MULTI) - Advances in multi-level modeling in 4A60 (Aud 4)
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -3796,7 +3796,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: Modeling Tools Restarted
+        14:00 - 15:30: Modeling Tools Restarted in 3A54
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -3912,7 +3912,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: Educators Symposium
+        14:00 - 15:30: Educators Symposium in 4A58
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -3981,7 +3981,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: <a href="/tutorials/#t10-how-to-build-domain-specific-modeling-languages-and-interpreters-with-webgme--an-online-collaborative-metamodeling-environment">T10 How to Build Domain Specific Modeling Languages and Interpreters with WebGME – an Online, Collaborative Metamodeling Environment</a>
+        14:00 - 15:30: <a href="/tutorials/#t10-how-to-build-domain-specific-modeling-languages-and-interpreters-with-webgme--an-online-collaborative-metamodeling-environment">T10 How to Build Domain Specific Modeling Languages and Interpreters with WebGME – an Online, Collaborative Metamodeling Environment in 4A20</a>
         <br> &nbsp;
       </td>
     </tr>
@@ -4051,7 +4051,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: W15 Multi-Level Modeling (MULTI) - Process modelling & Bicycle challenge
+        14:00 - 15:30: W15 Multi-Level Modeling (MULTI) - Process modelling & Bicycle challenge in 4A60 (Aud 4)
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -4237,7 +4237,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        15:30 - 18:00: Modeling Tools Restarted
+        15:30 - 18:00: Modeling Tools Restarted in 3A54
         <br> &nbsp;
       </td>
     </tr>
@@ -4351,7 +4351,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 17:30: Educators Symposium
+        16:00 - 17:30: Educators Symposium in 4A58
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -4373,7 +4373,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 17:30: <a href="/tutorials/#t10-how-to-build-domain-specific-modeling-languages-and-interpreters-with-webgme--an-online-collaborative-metamodeling-environment">T10 How to Build Domain Specific Modeling Languages and Interpreters with WebGME – an Online, Collaborative Metamodeling Environment</a>
+        16:00 - 17:30: <a href="/tutorials/#t10-how-to-build-domain-specific-modeling-languages-and-interpreters-with-webgme--an-online-collaborative-metamodeling-environment">T10 How to Build Domain Specific Modeling Languages and Interpreters with WebGME – an Online, Collaborative Metamodeling Environment in 4A20</a>
         <br> &nbsp;
       </td>
     </tr>
@@ -4442,7 +4442,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 17:30: W15 Multi-Level Modeling (MULTI) - Discussion and Position
+        16:00 - 17:30: W15 Multi-Level Modeling (MULTI) - Discussion and Position in 4A60 (Aud 4) in 4A60 (Aud 4)
         <br>
         <small>Chair(s): TBA</small>
       </td>
