@@ -5165,7 +5165,7 @@ h4{
       <td class="info" colspan="14">
         10:00 - 11:30: Model Analysis and Testing in Aud 1
         <br>
-        <small>Chair: Fiona Polack</small>
+        <small>Chair: Michalis Famelis</small>
       </td>
     </tr>
     <tr class="normalrow">
@@ -5738,7 +5738,7 @@ h4{
       <td class="info" colspan="14">
         10:00 - 11:30: Model Management in Aud 1
         <br>
-        <small>Chair: Michalis Famelis</small>
+        <small>Chair: Fiona Polack</small>
       </td>
     </tr>
     <tr class="normalrow">
