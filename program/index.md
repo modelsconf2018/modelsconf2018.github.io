@@ -4754,7 +4754,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        12:00 - 13:30: Hiring Lunch (by registration) in Scroll Bar (Ground Floor)
+        12:00 - 13:30: Hiring Lunch (by registration) in Cantine (1st Floor)
         <br> &nbsp;
       </td>
     </tr>
