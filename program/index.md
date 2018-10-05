@@ -1040,7 +1040,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: xtUML Days - Plenary Session #1
+        09:00 - 10:30: xtUML Days - Plenary Session #1 in 3A52
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -1105,7 +1105,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: <a href="tutorials/#t6-exploring-decision-space-using-actor-based-simulation---a-model-based-approach" target="_blank"> T6 Exploring Decision Space using Actor based Simulation - a Model Based Approach (ACTORS) </a>
+        09:00 - 10:30: <a href="tutorials/#t6-exploring-decision-space-using-actor-based-simulation---a-model-based-approach" target="_blank"> T6 Exploring Decision Space using Actor based Simulation - a Model Based Approach (ACTORS) in 4A56</a>
         <br> &nbsp;
       </td>
     </tr>
@@ -1121,7 +1121,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: W6 Collaborative Modelling in MDE (COMMitMDE)
+        09:00 - 10:30: W6 Collaborative Modelling in MDE (COMMitMDE) in 4A54
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -1158,7 +1158,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: W7 Model-Driven Engineering Tools (MDETools)
+        09:00 - 10:30: W7 Model-Driven Engineering Tools (MDETools) in 4A60 (Aud 4)
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -1215,7 +1215,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: W9 Model-driven Robot Software Engineering (MORSE)
+        09:00 - 10:30: W9 Model-driven Robot Software Engineering (MORSE) in 2A56 (Aud 3)
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -1240,7 +1240,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:45: W10 Model-Driven Engineering for the Internet-of-Things (MDE4IoT)
+        09:00 - 10:45: W10 Model-Driven Engineering for the Internet-of-Things (MDE4IoT) in 3A54
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -1379,7 +1379,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: xtUML Days - Plenary Session #2
+        11:00 - 12:30: xtUML Days - Plenary Session #2 in 3A52
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -1443,7 +1443,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: <a href="tutorials/#t6-exploring-decision-space-using-actor-based-simulation---a-model-based-approach" target="_blank"> T6 Exploring Decision Space using Actor based Simulation - a Model Based Approach (ACTORS) </a>
+        11:00 - 12:30: <a href="tutorials/#t6-exploring-decision-space-using-actor-based-simulation---a-model-based-approach" target="_blank"> T6 Exploring Decision Space using Actor based Simulation - a Model Based Approach (ACTORS) in 4A56 </a>
         <br> &nbsp;
       </td>
     </tr>
@@ -1459,7 +1459,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: W6 Collaborative Modelling in MDE (COMMitMDE)
+        11:00 - 12:30: W6 Collaborative Modelling in MDE (COMMitMDE) in 4A54
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -1515,7 +1515,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: W7 Model-Driven Engineering Tools (MDETools) - Session: Research papers 
+        11:00 - 12:30: W7 Model-Driven Engineering Tools (MDETools) - Session: Research papers in 4A60 (Aud 4)
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -1639,7 +1639,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: W9 Model-driven Robot Software Engineering (MORSE) - Languages for Robotics
+        11:00 - 12:30: W9 Model-driven Robot Software Engineering (MORSE) - Languages for Robotics in 2A56 (Aud 3)
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -1696,7 +1696,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: W10 Model-Driven Engineering for the Internet-of-Things (MDE4IoT)
+        11:00 - 12:30: W10 Model-Driven Engineering for the Internet-of-Things (MDE4IoT) in 3A54
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -1857,7 +1857,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: xtUML Days - Plenary Session #3
+        14:00 - 15:30: xtUML Days - Plenary Session #3 in 3A52
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -1910,7 +1910,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 17:00: MAD@MODELS Meeting at XXX Room 
+        14:00 - 17:00: MAD@MODELS Meeting in 4A54
         <br>
         <small>Chair(s): Kimi Cousins</small>
       </td>
@@ -1987,7 +1987,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: <a href="tutorials/#t7-managing-the-co-evolution-of-domain-specific-languages-and-models" target="_blank"> T7 Managing the Co-Evolution of Domain-Specific Languages and Models</a>
+        14:00 - 15:30: <a href="tutorials/#t7-managing-the-co-evolution-of-domain-specific-languages-and-models" target="_blank"> T7 Managing the Co-Evolution of Domain-Specific Languages and Models in 4A56</a>
         <br> &nbsp;
       </td>
     </tr>
@@ -2000,7 +2000,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: <a href="tutorials/#t8-thingml-model-driven-software-engineering-for-heterogeneous-and-distributed-reactive-systems" target="_blank"> T8 ThingML: Model-Driven Software Engineering for Heterogeneous and Distributed Reactive Systems</a>
+        14:00 - 15:30: <a href="tutorials/#t8-thingml-model-driven-software-engineering-for-heterogeneous-and-distributed-reactive-systems" target="_blank"> T8 ThingML: Model-Driven Software Engineering for Heterogeneous and Distributed Reactive Systems in 3A07</a>
         <br> &nbsp;
       </td>
     </tr>
@@ -2018,7 +2018,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: W7 Model-Driven Engineering Tools (MDETools) - Session: Challenge problem
+        14:00 - 15:30: W7 Model-Driven Engineering Tools (MDETools) - Session: Challenge problem in 4A60 (Aud 4)
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -2147,7 +2147,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: W9 Model-driven Robot Software Engineering (MORSE) - Applications
+        14:00 - 15:30: W9 Model-driven Robot Software Engineering (MORSE) - Applications in 2A56 (Aud 3)
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -2209,7 +2209,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: W10 Model-Driven Engineering for the Internet-of-Things (MDE4IoT)
+        14:00 - 15:30: W10 Model-Driven Engineering for the Internet-of-Things (MDE4IoT) in 3A54
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -2346,7 +2346,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 17:30: xtUML Days - Plenary Session #4
+        16:00 - 17:30: xtUML Days - Plenary Session #4 in 3A52
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -2425,7 +2425,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 17:30: <a href="tutorials/#t7-managing-the-co-evolution-of-domain-specific-languages-and-models" target="_blank"> T7 Managing the Co-Evolution of Domain-Specific Languages and Models</a>
+        16:00 - 17:30: <a href="tutorials/#t7-managing-the-co-evolution-of-domain-specific-languages-and-models" target="_blank"> T7 Managing the Co-Evolution of Domain-Specific Languages and Models in 4A56</a>
         <br> &nbsp;
       </td>
     </tr>
@@ -2438,12 +2438,33 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 17:30: <a href="tutorials/#t8-thingml-model-driven-software-engineering-for-heterogeneous-and-distributed-reactive-systems" target="_blank"> T8 ThingML: Model-Driven Software Engineering for Heterogeneous and Distributed Reactive Systems</a>
+        16:00 - 17:30: <a href="tutorials/#t8-thingml-model-driven-software-engineering-for-heterogeneous-and-distributed-reactive-systems" target="_blank"> T8 ThingML: Model-Driven Software Engineering for Heterogeneous and Distributed Reactive Systems in 3A07</a>
         <br> &nbsp;
       </td>
     </tr>
     </tbody>
   </table>
+</div>
+
+<div class="session workshops">
+<table class="table">
+      
+  <tbody>
+    <tr>
+      <td class="info" colspan="14">
+        16:00 - 17:30: W7 Model-Driven Engineering Tools (MDETools) - Panel and discussion in 4A60 (Aud 4) 
+        <br>
+        <small>Chair(s): TBA</small>
+      </td>
+    </tr>
+   <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Hybrid textual/graphical modeling: quantum leap, incremental improvement, or distraction?
+        <br> &nbsp;
+      </td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
 <div class="session workshops">
@@ -2473,7 +2494,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 17:30: W9 Model-driven Robot Software Engineering (MORSE) - Applications
+        16:00 - 17:30: W9 Model-driven Robot Software Engineering (MORSE) - Applications in 2A56 (Aud 3)
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -2494,7 +2515,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 17:30: W10 Model-Driven Engineering for the Internet-of-Things (MDE4IoT)
+        16:00 - 17:30: W10 Model-Driven Engineering for the Internet-of-Things (MDE4IoT) in 3A54
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -2616,7 +2637,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: xtUML Days (by invitation only) - Plenary Session #1
+        09:00 - 10:30: xtUML Days (by invitation only) - Plenary Session #1 in 3A52
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -3094,7 +3115,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: xtUML Days (by invitation only) - Plenary Session #2
+        11:00 - 12:30: xtUML Days (by invitation only) - Plenary Session #2 in 3A52
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -3754,7 +3775,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: xtUML Days (by invitation only) - Plenary Session #3
+        14:00 - 15:30: xtUML Days (by invitation only) - Plenary Session #3 in 3A52
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -4194,7 +4215,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 17:30: xtUML Days (by invitation only) - Plenary Session #4
+        16:00 - 17:30: xtUML Days (by invitation only) - Plenary Session #4 in 3A52
         <br>
         <small>Chair(s): TBA</small>
       </td>
