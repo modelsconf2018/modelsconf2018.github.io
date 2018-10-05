@@ -132,7 +132,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: <a href="tutorials/#t12-ml--fv---a-gentle-introduction-to-the-application-of-machine-learning-to-formal-verification" target="_blank">T12 ML + FV = ♥! A Gentle Introduction to the Application of Machine Learning to Formal Verification</a>
+        09:00 - 10:30: <a href="tutorials/#t12-ml--fv---a-gentle-introduction-to-the-application-of-machine-learning-to-formal-verification" target="_blank">T12 ML + FV = ♥! A Gentle Introduction to the Application of Machine Learning to Formal Verification in 5A09</a>
        <br> &nbsp;
       </td>
     </tr>
@@ -376,7 +376,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: <a href="tutorials/#t12-ml--fv---a-gentle-introduction-to-the-application-of-machine-learning-to-formal-verification" target="_blank">T12 ML + FV = ♥! A Gentle Introduction to the Application of Machine Learning to Formal Verification</a>
+        11:00 - 12:30: <a href="tutorials/#t12-ml--fv---a-gentle-introduction-to-the-application-of-machine-learning-to-formal-verification" target="_blank">T12 ML + FV = ♥! A Gentle Introduction to the Application of Machine Learning to Formal Verification in 5A09</a>
        <br> &nbsp;
       </td>
     </tr>
@@ -667,7 +667,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: <a href="tutorials/#t2-making-modeling-cool-again-teaching-and-researching-model-driven-engineering-using-animation-3d-simulation-and-the-internet-of-things" target="_blank">T2 Make Modelling Cool Again</a>
+        14:00 - 15:30: <a href="tutorials/#t2-making-modeling-cool-again-teaching-and-researching-model-driven-engineering-using-animation-3d-simulation-and-the-internet-of-things" target="_blank">T2 Make Modelling Cool Again in 5A14/16</a>
        <br> &nbsp;
       </td>
     </tr>
@@ -828,7 +828,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 17:30: <a href="tutorials/#t2-making-modeling-cool-again-teaching-and-researching-model-driven-engineering-using-animation-3d-simulation-and-the-internet-of-things" target="_blank">T2 Make Modelling Cool Again</a>
+        16:00 - 17:30: <a href="tutorials/#t2-making-modeling-cool-again-teaching-and-researching-model-driven-engineering-using-animation-3d-simulation-and-the-internet-of-things" target="_blank">T2 Make Modelling Cool Again in 5A14/16</a>
        <br> &nbsp;
       </td>
     </tr>
