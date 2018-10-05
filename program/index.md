@@ -145,7 +145,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: W1 ModComp in 2A54
+        09:00 - 10:30: W1 ModComp in 5A60
         <br>
         <small>Chairs: TBA</small>
       </td>
@@ -390,7 +390,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: W1 ModComp Session 1 in 2A54
+        11:00 - 12:30: W1 ModComp Session 1 in 5A60
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -682,7 +682,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: W1 ModComp in 2A54
+        14:00 - 15:30: W1 ModComp in 5A60
         <br>
         <small>Chairs: TBA</small>
       </td>
@@ -841,7 +841,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 17:30: W1 ModComp Session 3 & Closing in 2A54
+        16:00 - 17:30: W1 ModComp Session 3 & Closing in 5A60
         <br>
         <small>Chair(s): TBA</small>
       </td>
