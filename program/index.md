@@ -145,7 +145,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: W1 ModComp in 5A60
+        09:00 - 10:30: <a href="http://www.mrtc.mdh.se/ModComp18/" target="_blank">W1 ModComp in 5A60</a>
         <br>
         <small>Chairs: TBA</small>
       </td>
@@ -169,7 +169,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: W2 Models@run.time in 2A56 (Aud 3)
+        09:00 - 10:30: <a href="http://st.inf.tu-dresden.de/MRT18/?site=cfp" target="_blank">W2 Models@run.time in 2A56 (Aud 3)</a>
         <br>
         <small>Chairs: TBA</small>
       </td>
@@ -218,7 +218,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: W3 Workshop on OCL and Textual Modeling (OCL) in 2A18
+        09:00 - 10:30: <a href="https://oclworkshop.github.io/2018/news.html" target="_blank">W3 Workshop on OCL and Textual Modeling (OCL) in 2A18</a>
         <br>
         <small>Chairs: TBA</small>
       </td>
@@ -269,7 +269,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: W4 FlexMDE - Flexible modelling I in 2A52
+        09:00 - 10:30: <a href="http://www.di.univaq.it/flexmde/" target="_blank">W4 FlexMDE - Flexible modelling I in 2A52</a>
         <br>
         <small>Chairs: TBA</small>
       </td>
@@ -304,7 +304,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: W5 Executable Modeling (EXE) - Opening and Industry Talks in 2A54
+        09:00 - 10:30: <a href="https://modelexecution.org/exe2018/" target="_blank">W5 Executable Modeling (EXE) - Opening and Industry Talks in 2A54</a>
         <br>
         <small>Chairs: TBA</small>
       </td>
@@ -390,7 +390,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: W1 ModComp Session 1 in 5A60
+        11:00 - 12:30: <a href="http://www.mrtc.mdh.se/ModComp18/" target="_blank">W1 ModComp Session 1 in 5A60</a>
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -446,7 +446,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: W2 Models@run.time - Paper Presentations #1 in 2A56 (Aud 3)
+        11:00 - 12:30: <a href="http://st.inf.tu-dresden.de/MRT18/?site=cfp" target="_blank">W2 Models@run.time - Paper Presentations #1 in 2A56 (Aud 3)</a>
         <br>
         <small>Chairs: TBA</small>
       </td>
@@ -492,7 +492,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: W3 Workshop on OCL and Textual Modeling (OCL) in 2A18
+        11:00 - 12:30: <a href="https://oclworkshop.github.io/2018/news.html" target="_blank">W3 Workshop on OCL and Textual Modeling (OCL) in 2A18</a>
         <br>
         <small>Chairs: TBA</small>
       </td>
@@ -536,7 +536,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: W4 FlexMDE - Flexible modelling II in 2A52
+        11:00 - 12:30: <a href="http://www.di.univaq.it/flexmde/" target="_blank">W4 FlexMDE - Flexible modelling II in 2A52</a>
         <br>
         <small>Chairs: TBA</small>
       </td>
@@ -593,7 +593,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:35: W5 Executable Modeling (EXE) - Session 2: Paper Presentations in 2A54
+        11:00 - 12:35: <a href="https://modelexecution.org/exe2018/" target="_blank">W5 Executable Modeling (EXE) - Session 2: Paper Presentations in 2A54</a>
         <br>
         <small>Chairs: TBA</small>
       </td>
@@ -682,7 +682,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: W1 ModComp in 5A60
+        14:00 - 15:30: <a href="http://www.mrtc.mdh.se/ModComp18/" target="_blank">W1 ModComp in 5A60</a>
         <br>
         <small>Chairs: TBA</small>
       </td>
@@ -705,7 +705,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: W2 Models@run.time - Paper Presentations #2 in 2A56 (Aud 3)
+        14:00 - 15:30: <a href="http://st.inf.tu-dresden.de/MRT18/?site=cfp" target="_blank">W2 Models@run.time - Paper Presentations #2 in 2A56 (Aud 3)</a>
         <br>
         <small>Chairs: TBA</small>
       </td>
@@ -748,7 +748,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: W3 Workshop on OCL and Textual Modeling (OCL) in 2A18
+        14:00 - 15:30: <a href="https://oclworkshop.github.io/2018/news.html" target="_blank">W3 Workshop on OCL and Textual Modeling (OCL) in 2A18</a>
         <br>
         <small>Chairs: TBA</small>
       </td>
@@ -794,7 +794,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: W5 Executable Modeling (EXE) in 2A54
+        14:00 - 15:30: <a href="https://modelexecution.org/exe2018/" target="_blank">W5 Executable Modeling (EXE) in 2A54</a>
       </td>
     </tr>
      <tr class="normalrow">
@@ -841,7 +841,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 17:30: W1 ModComp Session 3 & Closing in 5A60
+        16:00 - 17:30: <a href="http://www.mrtc.mdh.se/ModComp18/" target="_blank">W1 ModComp Session 3 & Closing in 5A60</a>
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -885,7 +885,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 17:30: W2 Models@run.time - Keynote and Breakout Discussions in 2A56 (Aud 3)
+        16:00 - 17:30: <a href="http://st.inf.tu-dresden.de/MRT18/?site=cfp" target="_blank">W2 Models@run.time - Keynote and Breakout Discussions in 2A56 (Aud 3)</a>
         <br>
         <small>Chairs: TBA</small>
       </td>
@@ -915,7 +915,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 17:30: W3 Workshop on OCL and Textual Modeling - Panel Discussion and Lightning Talks in 2A18
+        16:00 - 17:30: <a href="https://oclworkshop.github.io/2018/news.html" target="_blank">W3 Workshop on OCL and Textual Modeling - Panel Discussion and Lightning Talks in 2A18</a>
         <br> &nbsp;
       </td>
     </tr>
@@ -929,7 +929,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-       16:00 – 17:30: W5 Executable Modeling (EXE) - Live Tool Demonstrations & Workshop Closing in 2A54
+       16:00 – 17:30: <a href="https://modelexecution.org/exe2018/" target="_blank">W5 Executable Modeling (EXE) - Live Tool Demonstrations & Workshop Closing in 2A54</a>
       </td>
     </tr>
     <tr class="normalrow">
@@ -1121,7 +1121,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: W6 Collaborative Modelling in MDE (COMMitMDE) in 4A54
+        09:00 - 10:30: <a href="http://cs.gssi.it/commitmde2018/" target="_blank">W6 Collaborative Modelling in MDE (COMMitMDE) in 4A54</a>
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -1158,7 +1158,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: W7 Model-Driven Engineering Tools (MDETools) in 4A60 (Aud 4)
+        09:00 - 10:30: <a href="https://mdetools.github.io/mdetools18/" target="_blank">W7 Model-Driven Engineering Tools (MDETools) in 4A60 (Aud 4)</a>
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -1186,7 +1186,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: W8 The Globalization of Modeling Languages (GEMOC) in 2A52
+        09:00 - 10:30: <a href="http://gemoc.org/events/gemoc2018.html" target="_blank">W8 The Globalization of Modeling Languages (GEMOC) in 2A52</a>
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -1459,7 +1459,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: W6 Collaborative Modelling in MDE (COMMitMDE) in 4A54
+        11:00 - 12:30: <a href="http://cs.gssi.it/commitmde2018/" target="_blank">W6 Collaborative Modelling in MDE (COMMitMDE) in 4A54</a>
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -1515,7 +1515,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: W7 Model-Driven Engineering Tools (MDETools) - Session: Research papers in 4A60 (Aud 4)
+        11:00 - 12:30: <a href="https://mdetools.github.io/mdetools18/" target="_blank">W7 Model-Driven Engineering Tools (MDETools) - Session: Research papers in 4A60 (Aud 4)</a>
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -1584,7 +1584,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: W8 The Globalization of Modeling Languages (GEMOC) - Paper Presentations #1 in 2A52
+        11:00 - 12:30: <a href="http://gemoc.org/events/gemoc2018.html" target="_blank">W8 The Globalization of Modeling Languages (GEMOC) - Paper Presentations #1 in 2A52</a>
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -2018,7 +2018,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: W7 Model-Driven Engineering Tools (MDETools) - Session: Challenge problem in 4A60 (Aud 4)
+        14:00 - 15:30: <a href="https://mdetools.github.io/mdetools18/" target="_blank">W7 Model-Driven Engineering Tools (MDETools) - Session: Challenge problem in 4A60 (Aud 4)</a>
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -2101,7 +2101,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: W8 The Globalization of Modeling Languages (GEMOC) - Paper Presentations #2 in 2A52
+        14:00 - 15:30: <a href="http://gemoc.org/events/gemoc2018.html" target="_blank">W8 The Globalization of Modeling Languages (GEMOC) - Paper Presentations #2 in 2A52</a>
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -2452,7 +2452,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 17:30: W7 Model-Driven Engineering Tools (MDETools) - Panel and discussion in 4A60 (Aud 4) 
+        16:00 - 17:30: <a href="https://mdetools.github.io/mdetools18/" target="_blank">W7 Model-Driven Engineering Tools (MDETools) - Panel and discussion in 4A60 (Aud 4)</a>
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -2473,7 +2473,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 17:30: W8 The Globalization of Modeling Languages (GEMOC) in 2A52 
+        16:00 - 17:30: <a href="http://gemoc.org/events/gemoc2018.html" target="_blank">W8 The Globalization of Modeling Languages (GEMOC) in 2A52</a>
         <br>
         <small>Chair(s): TBA</small>
       </td>
