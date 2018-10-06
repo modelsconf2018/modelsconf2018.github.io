@@ -1917,7 +1917,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 17:00: MAD@MODELS Meeting in 4A54
+        14:00 - 17:00: <a href="https://modelsconf2018.github.io/program/mad/" target="_blank">MAD@MODELS Meeting in 4A54</a>
         <br>
         <small>Chair(s): Kimi Cousins</small>
       </td>
