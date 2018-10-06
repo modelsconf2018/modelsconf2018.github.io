@@ -2840,7 +2840,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: <a href="/tutorials/#t11-seamless-model-based-systems-engineering-the-spes-approach">T11 Seamless Model-Based Systems Engineering: The SPES Approach in 3A07</a>
+        09:00 - 10:30: <a href="tutorials/#t11-seamless-model-based-systems-engineering-the-spes-approach">T11 Seamless Model-Based Systems Engineering: The SPES Approach in 3A07</a>
         <br> &nbsp;
       </td>
     </tr>
@@ -3324,7 +3324,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: <a href="/tutorials/#t11-seamless-model-based-systems-engineering-the-spes-approach">T11 Seamless Model-Based Systems Engineering: The SPES Approach in 3A07</a>
+        11:00 - 12:30: <a href="tutorials/#t11-seamless-model-based-systems-engineering-the-spes-approach">T11 Seamless Model-Based Systems Engineering: The SPES Approach in 3A07</a>
         <br> &nbsp;
       </td>
     </tr>
