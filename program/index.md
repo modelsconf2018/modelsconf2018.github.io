@@ -1895,6 +1895,7 @@ h4{
 </div>
 <!-- End of xtuml -->
 
+<!-- 
 <div class="session mon event">
   <table class="table">
     <tbody>
@@ -1906,7 +1907,7 @@ h4{
     </tr>
     </tbody>
   </table>
-</div>
+</div> -->
 
 <!--  MAD Session afternoon1 -->
 <div class="session mon mad">
@@ -2387,18 +2388,18 @@ h4{
 <!-- End of xtuml -->
 
 
-<div class="session mon event">
+<!-- <div class="session mon event">
   <table class="table">
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 17:30: HCL Event: Devops & Agile
+        16:00 - 17:30: Models, Agile and DevOps : MAD@MODELS
         <br> &nbsp;
       </td>
     </tr>
     </tbody>
   </table>
-</div>
+</div> -->
 
 <div class="session mon tutorials">
   <table class="table">
