@@ -2041,7 +2041,7 @@ h4{
     </tr>
     <tr class="normalrow">
       <td class="col-md-1"></td>
-      <td>Controlling a virtual rover using AutoFOCUS3 SHM
+      <td>Controlling a virtual rover using AutoFOCUS3
         <br>
           <a href="" target="_blank"><span class="name">Levi Lucio</span></a>
           <span class="affiliation"></span>,
@@ -2055,7 +2055,7 @@ h4{
     </tr>
     <tr class="normalrow">
       <td class="col-md-1"></td>
-      <td>SHM An evaluation of Papyrus-RT in solving the leader-follower challenge problem SHM
+      <td> An evaluation of Papyrus-RT in solving the leader-follower challenge problem 
         <br>
           <a href="" target="_blank"><span class="name">Karim Jahed</span></a>
           <span class="affiliation"></span>
@@ -2063,7 +2063,7 @@ h4{
     </tr>
     <tr class="normalrow">
       <td class="col-md-1"></td>
-      <td>SHM Modeling and programming a leader-lollower challenge problem with scenario-based toolsSHM
+      <td> Modeling and programming a leader-lollower challenge problem with scenario-based tools
         <br>
           <a href="" target="_blank"><span class="name">Joel Greenyer</span></a>
           <span class="affiliation"></span>,
@@ -2079,7 +2079,7 @@ h4{
     </tr>
     <tr class="normalrow">
       <td class="col-md-1"></td>
-      <td>SHM Applying Umple to the rover control challenge problem: A case study in model-driven engineering SHM
+      <td> Applying Umple to the rover control challenge problem: A case study in model-driven engineering 
         <br>
           <a href="" target="_blank"><span class="name">Timothy Lethbridge</span></a>
           <span class="affiliation"></span>,
@@ -2089,7 +2089,7 @@ h4{
     </tr>
     <tr class="normalrow">
       <td class="col-md-1"></td>
-      <td>SHM Navigating the rover with xtUML SHM
+      <td> Navigating the rover with xtUML 
         <br>
           <a href="" target="_blank"><span class="name">Keith Brown</span></a>
           <span class="affiliation"></span>
