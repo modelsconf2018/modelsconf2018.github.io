@@ -568,12 +568,18 @@ h4{
       </td>
     </tr>
     <tr class="normalrow">
-      <td class="col-md-1"></td>
-      <td>Towards a modular and flexible human-usable textual syntax for EMF models
+      <td class="col-md-1"></td>, , 
+      <td>Comparative case studies in agile model-driven development
       <br>
-      <a href="" target="_blank"><span class="name">Dimitrios S. Kolovos</span></a>
+      <a href="" target="_blank"><span class="name">Kevin Lano</span></a>
       <span class="affiliation"></span>,
-       <a href="" target="_blank"><span class="name">Richard F. Paige</span></a>
+       <a href="" target="_blank"><span class="name">Hessa Alfraihi</span></a>
+      <span class="affiliation"></span>,
+      <a href="" target="_blank"><span class="name">Shekoufeh Kolahdouz-Rahimi</span></a>
+      <span class="affiliation"></span>,
+      <a href="" target="_blank"><span class="name">Mohammadreza Sharbaf</span></a>
+      <span class="affiliation"></span>,
+      <a href="" target="_blank"><span class="name">Howard Haughton</span></a>
       <span class="affiliation"></span>
       </td>
     </tr>
