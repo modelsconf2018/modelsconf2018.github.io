@@ -3248,7 +3248,7 @@ h4{
       <td class="info" colspan="14">
         11:00 - 12:30: Educators Symposium in 4A58
         <br>
-        <small>Chair(s): TBA</small>
+        <!-- <small>Chair(s): TBA</small> -->
       </td>
     </tr>
     <tr class="normalrow">
@@ -3342,7 +3342,7 @@ h4{
       <td class="info" colspan="14">
         11:00 - 12:30: <a href="https://msdl.uantwerpen.be/conferences/MDEbug/2018/" target="_blank">W11 Debugging in Model-Driven Engineering (MDEBug) - Paper Presentations in 2A08</a>
         <br>
-        <small>Chair(s): TBA</small>
+        
       </td>
     </tr>
     <tr class="normalrow">
@@ -3411,7 +3411,7 @@ h4{
       <td class="info" colspan="14">
         11:00 - 12:30: <a href="https://sites.google.com/site/modevva/home" target="_blank">W12 Model Driven Engineering, Verification and Validation (MoDeVVA) in 2A20</a>
         <br>
-        <small>Chair(s): TBA</small>
+        
       </td>
     </tr>
     <tr class="normalrow">
@@ -3470,7 +3470,7 @@ h4{
       <td class="info" colspan="14">
         11:00 - 12:30: <a href="https://sites.google.com/view/pains-2018/home" target="_blank">W13 Pains in Model-Driven Engineering Practice (PAINS) - Flash Talks in 2A52</a>
         <br>
-        <small>Chair(s): TBA</small>
+        
       </td>
     </tr> 
     <tr class="normalrow">
@@ -3582,7 +3582,7 @@ h4{
       <td class="info" colspan="14">
         11:00 - 12:30: <a href="http://www.models-and-evolution.com/2018/index.html#section-ajenda" target="_blank">W14 Models and Evolution (ME) in 2A54</a>
         <br>
-        <small>Chair(s): TBA</small>
+        
       </td>
     </tr>
     <tr class="normalrow">
@@ -3640,7 +3640,7 @@ h4{
       <td class="info" colspan="14">
         11:00 - 12:30: <a href="https://www.wi-inf.uni-duisburg-essen.de/MULTI2018/" target="_blank">W15 Multi-Level Modeling (MULTI) - Advances in multi-level modeling in 4A60 (Aud 4)</a>
         <br>
-        <small>Chair(s): TBA</small>
+        
       </td>
     </tr>
     <tr class="normalrow">
@@ -3776,7 +3776,7 @@ h4{
       <td class="info" colspan="14">
         14:00 - 15:30: xtUML Days (by invitation only) - Plenary Session #3 in 3A52
         <br>
-        <small>Chair(s): TBA</small>
+        
       </td>
     </tr>
     <tr class="normalrow">
@@ -3797,7 +3797,7 @@ h4{
       <td class="info" colspan="14">
         14:00 - 15:30: Modeling Tools Restarted in 3A54
         <br>
-        <small>Chair(s): TBA</small>
+        
       </td>
     </tr>
     <tr class="normalrow">
@@ -3840,7 +3840,7 @@ h4{
       <td class="info" colspan="14">
         14:00 - 15:30: MBSE Adoption Challenges - Model-Based Systems Engineering Meeting in 2A56 (Aud 3) 
         <br>
-        <small>Chair(s): TBA</small>
+        
       </td>
     </tr>
     <tr class="normalrow">
@@ -3873,7 +3873,7 @@ h4{
       <td class="info" colspan="14">
         14:00 - 15:30: Doctoral Symposium - Heterogeneous and Complex Systems in 2A18 
         <br>
-        <small>Chair(s): TBA</small>
+        
       </td>
     </tr>
     <tr class="normalrow">
@@ -3913,7 +3913,7 @@ h4{
       <td class="info" colspan="14">
         14:00 - 15:30: Educators Symposium in 4A58
         <br>
-        <small>Chair(s): TBA</small>
+        
       </td>
     </tr>
     <tr class="normalrow">
@@ -4000,7 +4000,7 @@ h4{
       <td class="info" colspan="14">
         14:00 - 15:30: <a href="https://msdl.uantwerpen.be/conferences/MDEbug/2018/" target="_blank">W11 Debugging in Model-Driven Engineering (MDEBug) - Discussions in 2A08</a>
         <br>
-        <small>Chair(s): TBA</small>
+        
       </td>
     </tr>
      <tr class="normalrow">
@@ -4029,7 +4029,7 @@ h4{
       <td class="info" colspan="14">
         14:00 - 15:30: <a href="https://sites.google.com/view/pains-2018/home" target="_blank">W13 Pains in Model-Driven Engineering Practice (PAINS) in 2A52</a>
         <br>
-        <small>Chair(s): TBA</small>
+        
       </td>
     </tr>
     <tr class="normalrow">
@@ -4052,7 +4052,7 @@ h4{
       <td class="info" colspan="14">
         14:00 - 15:30: <a href="https://www.wi-inf.uni-duisburg-essen.de/MULTI2018/" target="_blank">W15 Multi-Level Modeling (MULTI) - Process modelling & Bicycle challenge in 4A60 (Aud 4)</a>
         <br>
-        <small>Chair(s): TBA</small>
+        
       </td>
     </tr>
      <tr class="normalrow">
@@ -4118,7 +4118,7 @@ h4{
       <td class="info" colspan="14">
         14:00 - 15:30: <a href="https://modelanalytics.wordpress.com/ammore18/" target="_blank">W17 Analytics and mining of model repositories (AMMoRe) - Model Management and Analytics I in 2A54</a>
         <br>
-        <small>Chair(s): TBA</small>
+        
       </td>
     </tr>
      <tr class="normalrow">
@@ -4216,7 +4216,7 @@ h4{
       <td class="info" colspan="14">
         16:00 - 17:30: xtUML Days (by invitation only) - Plenary Session #4 in 3A52
         <br>
-        <small>Chair(s): TBA</small>
+        
       </td>
     </tr>
     <tr class="normalrow">
@@ -4271,7 +4271,7 @@ h4{
       <td class="info" colspan="14">
         16:00 - 17:30: MBSE Adoption Challenges - Model-Based Systems Engineering Meeting in 2A56 (Aud 3)
         <br>
-        <small>Chair(s): TBA</small>
+        
       </td>
     </tr>
     <tr class="normalrow">
@@ -4308,7 +4308,7 @@ h4{
       <td class="info" colspan="14">
         16:00 - 18:00: Doctoral Symposium - Consistency Management in MDE in 2A18
         <br>
-        <small>Chair(s): TBA</small>
+        
       </td>
     </tr>
     <tr class="normalrow">
@@ -4352,7 +4352,7 @@ h4{
       <td class="info" colspan="14">
         16:00 - 17:30: Educators Symposium in 4A58
         <br>
-        <small>Chair(s): TBA</small>
+        
       </td>
     </tr>
     <tr class="normalrow">
@@ -4391,7 +4391,7 @@ h4{
       <td class="info" colspan="14">
         16:00 - 17:30: <a href="https://msdl.uantwerpen.be/conferences/MDEbug/2018/" target="_blank">W11 Debugging in Model-Driven Engineering (MDEBug) - Discussions continued in 2A08</a>
         <br>
-        <small>Chair(s): TBA</small>
+        
       </td>
     </tr>
      <tr class="normalrow">
@@ -4420,7 +4420,7 @@ h4{
       <td class="info" colspan="14">
         16:00 - 17:30: <a href="https://sites.google.com/view/pains-2018/home" target="_blank">W13 Pains in Model-Driven Engineering Practice (PAINS) in 2A52</a>
         <br>
-        <small>Chair(s): TBA</small>
+        
       </td>
     </tr>
     <tr class="normalrow">
@@ -4443,7 +4443,7 @@ h4{
       <td class="info" colspan="14">
         16:00 - 17:30: <a href="https://www.wi-inf.uni-duisburg-essen.de/MULTI2018/" target="_blank">W15 Multi-Level Modeling (MULTI) - Discussion and Position in 4A60 (Aud 4) in 4A60 (Aud 4)</a>
         <br>
-        <small>Chair(s): TBA</small>
+        
       </td>
     </tr>
      <tr class="normalrow">
@@ -4499,7 +4499,7 @@ h4{
       <td class="info" colspan="14">
         16:00 - 17:30: <a href="https://modelanalytics.wordpress.com/ammore18/" target="_blank">W17 Analytics and mining of model repositories (AMMoRe) - Model Management and Analytics II in 2A54</a>
         <br>
-        <small>Chair(s): TBA</small>
+        
       </td>
     </tr>
      <tr class="normalrow">
@@ -4701,7 +4701,7 @@ h4{
       <td class="info" colspan="14">
         10:00 - 12:00: Industry Day in Aud 2
         <br>
-        <small>Chair(s): TBA</small>
+        
       </td>
     </tr>
     <tr class="normalrow">
@@ -4875,7 +4875,7 @@ h4{
       <td class="info" colspan="14">
         13:30 - 15:00: Industry Day in Aud 2
         <br>
-        <small>Chair(s): TBA</small>
+        
       </td>
     </tr>
     <tr class="normalrow">
@@ -5037,7 +5037,7 @@ h4{
       <td class="info" colspan="14">
         15:30 - 17:00: Industry Day in Aud 2
         <br>
-        <small>Chair(s): TBA</small>
+        
       </td>
     </tr>
     <tr class="normalrow">
