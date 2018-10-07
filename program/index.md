@@ -90,8 +90,7 @@ h4{
       <div class="col-sm-13">
         <div data-facet-type="tracks" class="facet-placeholder" data-selected-facets="">
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="industry">Industry</div>
-        <div class="btn-s btn btn-default facet-false filter_link" data-filter="foundations">Foundations</div>
-        <div class="btn-s btn btn-default facet-false filter_link" data-filter="practice">Practice and Innovation</div>
+        <div class="btn-s btn btn-default facet-false filter_link" data-filter="maintracks">Foundations & Practice and Innovation</div>
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="mbse">MBSE</div>
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="xtuml">xtUML Days</div>
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="mps">MPS Day</div>
@@ -4558,7 +4557,7 @@ h4{
 <div class="day wednesday">
 <h4>  Wednesday 17 Oct 2018</h4>
 
-<div class="session ">
+<div class="session maintracks">
   <table class="table">
     <tbody>
     <tr>
@@ -4605,7 +4604,7 @@ h4{
   </table>
 </div>
 
-<div class="session foundations">
+<div class="session maintracks">
   <table class="table">
     <tbody>
     <tr>
@@ -4766,7 +4765,7 @@ h4{
 </table>
   </div>
 
-<div class="session transformations">
+<div class="session maintracks">
   <table class="table">
     <tbody>
     <tr>
@@ -4916,7 +4915,7 @@ h4{
 </table>
   </div>
 
-<div class="session transformations">
+<div class="session maintracks">
   <table class="table">
     <tbody>
     <tr>
@@ -5015,7 +5014,6 @@ h4{
       <td class="info" colspan="14">
         15:30 - 17:00: Industry Day in Aud 2
         <br>
-        
       </td>
     </tr>
     <tr class="normalrow">
@@ -5121,7 +5119,7 @@ h4{
 <div class="day thursday">
 <h4>  Thursday 18 Oct 2018</h4>
 
-<div class="session research">
+<div class="session maintracks">
 <table class="table">
     <tbody>
     <tr>
@@ -5136,7 +5134,7 @@ h4{
       <td><a href="keynotes/#wisse" target="_blank">Keynote: Models for motion prediction; robotic brains versus biological brains</a>
         <br>
         <a href="https://www.tudelft.nl/staff/m.wisse/" target="_blank"> <span class="name">Martijn Wisse</span> </a>
-        <span class="affiliation">Delft University</span>
+        <span class="affiliation">Delft University of Technology</span>
       </td>
     </tr>
 </tbody>
@@ -5156,7 +5154,7 @@ h4{
 </table>
   </div>
 
-<div class="session research">
+<div class="session maintracks">
   <table class="table">
     <tbody>
     <tr>
@@ -5226,7 +5224,7 @@ h4{
 </table>
 </div>
 
-<div class="session research">
+<div class="session maintracks">
   <table class="table">
     <tbody>
     <tr>
@@ -5345,7 +5343,7 @@ h4{
   </table>
 </div>
 
-<div class="session research">
+<div class="session maintracks">
   <table class="table">
     <tbody>
     <tr>
@@ -5450,7 +5448,7 @@ h4{
   </table>
 </div>
 
-<div class="session research">
+<div class="session maintracks">
   <table class="table">
     <tbody>
     <tr>
@@ -5509,7 +5507,7 @@ h4{
 </table>
 </div>
 
-<div class="session tool-demos">
+<div class="session maintracks">
   <table class="table">
     <tbody>
     <tr>
@@ -5690,7 +5688,7 @@ h4{
 <div class="day friday">
 <h4> Friday 19 Oct 2018 </h4>
 
-<div class="session fri mip-talks">
+<div class="session fri maintracks">
   <table class="table">
     <tbody>
     <tr>
@@ -5746,7 +5744,7 @@ h4{
 </div>
 
 
-<div class="session fri research">
+<div class="session fri maintracks">
   <table class="table">
     <tbody>
     <tr>
@@ -5807,7 +5805,7 @@ h4{
 </table>
 </div>
 
-<div class="session fri research aud2">
+<div class="session fri maintracks">
   <table class="table">
     <tbody>
     <tr>
@@ -5871,7 +5869,7 @@ h4{
 </table>
 </div>
 
-<div class="session fri research aud3">
+<div class="session fri maintracks">
   <table class="table">
     <tbody>
     <tr>
@@ -5952,7 +5950,7 @@ h4{
   </table>
 </div>
 
-<div class="session fri research aud1">
+<div class="session fri maintracks">
   <table class="table">
     <tbody>
     <tr>
@@ -6002,7 +6000,7 @@ h4{
 </table>
 </div>
 
-<div class="session fri research aud2">
+<div class="session fri maintracks">
   <table class="table">
     <tbody>
     <tr>
@@ -6060,7 +6058,7 @@ h4{
 </table>
 </div>
 
-<div class="session fri research aud3">
+<div class="session fri maintracks">
   <table class="table">
     <tbody>
     <tr>
@@ -6132,7 +6130,7 @@ h4{
   </table>
 </div>
 
-<div class="session fri research">
+<div class="session fri maintracks">
   <table class="table">
     <tbody>
     <tr>
@@ -6154,7 +6152,7 @@ h4{
 </table>
 </div>
 
-<div class="session fri bye">
+<div class="session fri maintracks">
   <table class="table">
     <tbody>
     <tr>
