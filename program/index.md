@@ -5350,7 +5350,7 @@ h4{
       <td class="info" colspan="14">
         13:00 - 14:30: Empirical Studies in Aud 1
         <br>
-        <small>Chair: Silvia Abrahao</small>
+        <small>Chair: Silvia Abrahão</small>
       </td>
     </tr>
     <tr class="normalrow">
