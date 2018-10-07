@@ -1046,7 +1046,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: xtUML Days - Plenary Session #1 in 3A52
+        09:00 - 10:30: <a href="https://xtuml.org/xtuml-days-2018-copenhagen/" target="_blank">xtUML Days - Plenary Session #1 in 3A52</a>
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -1385,7 +1385,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: xtUML Days - Plenary Session #2 in 3A52
+        11:00 - 12:30: <a href="https://xtuml.org/xtuml-days-2018-copenhagen/" target="_blank">xtUML Days - Plenary Session #2 in 3A52</a>
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -1863,7 +1863,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: xtUML Days - Plenary Session #3 in 3A52
+        14:00 - 15:30: <a href="https://xtuml.org/xtuml-days-2018-copenhagen/" target="_blank">xtUML Days - Plenary Session #3 in 3A52</a>
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -2353,7 +2353,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 17:30: xtUML Days - Plenary Session #4 in 3A52
+        16:00 - 17:30: <a href="https://xtuml.org/xtuml-days-2018-copenhagen/" target="_blank">xtUML Days - Plenary Session #4 in 3A52</a>
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -2645,7 +2645,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: xtUML Days (by invitation only) - Plenary Session #1 in 3A52
+        09:00 - 10:30: <a href="https://xtuml.org/xtuml-days-2018-copenhagen/" target="_blank">xtUML Days (by invitation only) - Plenary Session #1 in 3A52</a>
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -3123,7 +3123,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: xtUML Days (by invitation only) - Plenary Session #2 in 3A52
+        11:00 - 12:30: <a href="https://xtuml.org/xtuml-days-2018-copenhagen/" target="_blank">xtUML Days (by invitation only) - Plenary Session #2 in 3A52</a>
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -3778,7 +3778,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: xtUML Days (by invitation only) - Plenary Session #3 in 3A52
+        14:00 - 15:30: <a href="https://xtuml.org/xtuml-days-2018-copenhagen/" target="_blank">xtUML Days (by invitation only) - Plenary Session #3 in 3A52</a>
         <br>
       </td>
     </tr>
@@ -4216,7 +4216,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 17:30: xtUML Days (by invitation only) - Plenary Session #4 in 3A52
+        16:00 - 17:30: <a href="https://xtuml.org/xtuml-days-2018-copenhagen/" target="_blank">xtUML Days (by invitation only) - Plenary Session #4 in 3A52</a>
         <br>
         
       </td>
