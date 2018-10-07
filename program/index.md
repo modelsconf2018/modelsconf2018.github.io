@@ -4494,7 +4494,6 @@ h4{
       <td class="info" colspan="14">
         16:00 - 17:30: <a href="https://modelanalytics.wordpress.com/ammore18/" target="_blank">W17 Analytics and mining of model repositories (AMMoRe) - Model Management and Analytics II in 2A54</a>
         <br>
-        
       </td>
     </tr>
      <tr class="normalrow">
@@ -5643,7 +5642,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:30 - 18:00: SoSyM editorial board meeting (by invitation only) in 3A20
+        16:30 - 18:15: SoSyM editorial board meeting (by invitation only) in 3A20
         <br> &nbsp;
       </td>
     </tr>
