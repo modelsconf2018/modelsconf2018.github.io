@@ -73,7 +73,7 @@ slug: program-overview
     <td class="tg-jxbq" colspan="2"><a href="https://modelsconf2018.github.io/program/mbse/">Model-Based Systems Engineering Meeting</a></td>
     <td class="tg-ie4m"><a href="https://modelsconf2018.github.io/program/industryday/">Industry Day</a></td>
     <td class="tg-ie4m">Practice and Innovation Track</td>
-    <td class="tg-ie4m">Student Competition Awards</td>
+    <td class="tg-ie4m">MODELS & SoSyM Most Influential Papers</td>
   </tr>
   <tr>
    <td class="tg-acm6"><a href="http://www.di.univaq.it/flexmde/">W4 FlexibleMDE</a></td>
