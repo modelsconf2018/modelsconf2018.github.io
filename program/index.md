@@ -5518,7 +5518,7 @@ h4{
     <tr>
       <td class="info" colspan="14">
         15:00 - 16:30: Tool Demo Talks in Aud 2
-        <br> <small>Chair: Dimitris Kolovos</small>
+        <br> <small>Chair: Thanos Zolotas</small>
       </td>
     </tr>
     <tr class="normalrow">
@@ -5880,7 +5880,7 @@ h4{
     <tr>
       <td class="info" colspan="14">
         10:00 - 11:30: Tool Demo Talks in 2A56 (Aud 3)
-        <br> <small>Chair: Dimitris Kolovos</small>
+        <br> <small>Chair: Eric Rapos</small>
       </td>
     </tr>
     <tr class="normalrow">
