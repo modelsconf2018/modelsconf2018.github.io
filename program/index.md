@@ -4245,8 +4245,12 @@ h4{
     </tr>
     <tr class="normalrow">
       <td class="col-md-1">16:15-17:00</td>
-      <td>Participate in a Tutorial ​
-        <br>&nbsp;
+      <td>Experience IoT Modeling – Real Time
+        <br>
+         <a href="" target="_blank"> <span class="name">Elena Strabykina</span></a>
+          <span class="affiliation">HCL</span>,
+          <a href="" target="_blank"><span class="name">Mattias Mohlin</span></a>
+          <span class="affiliation">HCL</span>,
       </td>
     </tr>
     <tr class="normalrow">
@@ -4438,9 +4442,8 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 17:30: <a href="https://www.wi-inf.uni-duisburg-essen.de/MULTI2018/" target="_blank">W15 Multi-Level Modeling (MULTI) - Discussion and Position in 4A60 (Aud 4) in 4A60 (Aud 4)</a>
-        <br>
-        
+        16:00 - 17:30: <a href="https://www.wi-inf.uni-duisburg-essen.de/MULTI2018/" target="_blank">W15 Multi-Level Modeling (MULTI) - Discussion and Position in 4A60 (Aud 4)</a>
+        <br> &nbsp;
       </td>
     </tr>
      <tr class="normalrow">
@@ -4597,7 +4600,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        10:00 - 10:30: Coffee Break and Exhibition & Interactive Tool Demos (Atrium Ground Floor) 
+        10:00 - 10:30: Coffee Break: Exhibition & Interactive Tool Demos (Atrium Ground Floor) 
         <br> &nbsp;
       </td>
     </tr>
@@ -4618,6 +4621,7 @@ h4{
     <tr class="normalrow">
       <td class="col-md-1"></td>
       <td>Exploring Potency
+        <br>
         <a href="https://ecs.victoria.ac.nz/Main/ThomasKuehne" target="_blank"> 
           <span class="name">Thomas Kuehne</span>
         </a>
@@ -4717,7 +4721,7 @@ h4{
         <a href="http://people.svv.lu/briand/" target="_blank"> 
           <span class="name">Lionel Briand</span>
         </a>
-          <span class="affiliation">Univ. Luxembourg, SNT</span>
+          <span class="affiliation">University of Luxembourg, SNT</span>
       </td>
       <td></td>
     </tr>
@@ -4878,7 +4882,7 @@ h4{
     </tr>
     <tr class="normalrow">
       <td class="col-md-1">14:00-14:30</td>
-      <td>MBSE with Arcadia and Capella : rationale, status and perspectives
+      <td>MBSE with Arcadia and Capella: rationale, status and perspectives
         <br>
         <a href="https://fr.linkedin.com/in/stephane-bonnet-946703" target="_blank"> 
           <span class="name">Stéphane Bonnet</span></a>
@@ -4908,7 +4912,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        15:00 - 15:30: Coffee Break and Exhibition & Interactive Tool Demos (Atrium Ground Floor) 
+        15:00 - 15:30: Coffee Break: Exhibition & Interactive Tool Demos (Atrium Ground Floor) 
         <br> &nbsp;
       </td>
     </tr>
@@ -4999,7 +5003,7 @@ h4{
         <a href="http://www.es.mdh.se/~acicchetti/" target="_blank"> 
           <span class="name">Antonio Cicchetti</span>
         </a>
-          <span class="affiliation">Malardalen University</span>
+          <span class="affiliation">Mälardalen University</span>
       </td>
     </tr>  
   </tbody>
@@ -5066,7 +5070,7 @@ h4{
         <a href="https://sites.google.com/site/victormpreciado/" target="_blank"> 
           <span class="name">Victor M. Preciado</span>
         </a>
-        <br> <span class="affiliation">Toyota and Univ. of Pennsylvania</span>
+        <br> <span class="affiliation">Toyota and University of of Pennsylvania</span>
       </td>
       <td></td>
     </tr>
@@ -5514,7 +5518,7 @@ h4{
     <tr>
       <td class="info" colspan="14">
         15:00 - 16:30: Tool Demo Talks in Aud 2
-        <br> &nbsp;
+        <br> <small>Chair: Dimitris Kolovos</small>
       </td>
     </tr>
     <tr class="normalrow">
@@ -5658,11 +5662,11 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        19:00 - 23:00: Banquet (including Awards) at the <a href="https://goo.gl/maps/j2uCXxQjvGt" target="_blank">Royal Opera House, Operaen, Ekvipagemestervej 10</a>
+        17:30 - 23:00: Banquet (including Awards) at the <a href="https://goo.gl/maps/j2uCXxQjvGt" target="_blank">Royal Opera House, Operaen, Ekvipagemestervej 10</a>
       </td>
     </tr>
     <tr class="normalrow">
-      <td class="col-md-1">18:00</td>
+      <td class="col-md-1">17:30</td>
       <td>A guided tour of the opera (award winning international level architecture).
         Register in the conference reception to be admitted to the tour, the tour is free, but we have limited number of places.
         Bus will be available from the conference venue 17:30, meeting time, buses depart 17:45 (no waiting).
@@ -5694,7 +5698,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        08:30 - 09:30: Plenary Session in Aud 1
+        08:30 - 09:30: Plenary Session: The Most Influential Papers in Aud 1
         <br>
         <small> Chairs: Jordi Cabot, Jeff Gray, Bernhard Rumpe </small>
       </td>
@@ -5876,7 +5880,7 @@ h4{
     <tr>
       <td class="info" colspan="14">
         10:00 - 11:30: Tool Demo Talks in 2A56 (Aud 3)
-        <br>&nbsp;
+        <br> <small>Chair: Dimitris Kolovos</small>
       </td>
     </tr>
     <tr class="normalrow">
