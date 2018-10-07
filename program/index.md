@@ -2682,7 +2682,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: MPS Day in 3A54
+        09:00 - 10:30: <a href="https://info.jetbrains.com/mps-day-models-2018-registration.html" target="_blank">MPS Day in 3A54</a>
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -3157,7 +3157,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: MPS Day in 3A54
+        11:00 - 12:30: <a href="https://info.jetbrains.com/mps-day-models-2018-registration.html" target="_blank">MPS Day in 3A54</a>
         <br>
         <small>Chair(s): TBA</small>
       </td>
