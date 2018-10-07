@@ -350,7 +350,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        10:30 - 11:00: Coffee Break
+        10:30 - 11:00: Coffee Break (Atrium Ground Floor)
         <br> &nbsp;
       </td>
     </tr>
@@ -660,7 +660,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        12:30 - 14:00: Lunch
+        12:30 - 14:00: Lunch (Atrium Ground Floor) 
         <br> &nbsp;
       </td>
     </tr>
@@ -821,7 +821,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        15:30 - 16:00: Coffee Break
+        15:30 - 16:00: Coffee Break (Atrium Ground Floor)
         <br> &nbsp;
       </td>
     </tr>
@@ -5737,7 +5737,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        9:30 - 10:00: Coffee Break (Atrium Ground Floor)
+        09:30 - 10:00: Coffee Break (Atrium Ground Floor)
         <br> &nbsp;
       </td>
     </tr>
