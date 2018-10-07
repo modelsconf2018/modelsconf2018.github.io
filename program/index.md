@@ -4597,7 +4597,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        10:00 - 10:30: Coffee Break + Exhibit (Atrium Ground Floor) 
+        10:00 - 10:30: Coffee Break and Exhibition & Interactive Tool Demos (Atrium Ground Floor) 
         <br> &nbsp;
       </td>
     </tr>
@@ -4695,15 +4695,9 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        10:00 - 12:00: Industry Day in Aud 2
+        10:30 - 12:00: Industry Day in Aud 2
         <br>
-        
       </td>
-    </tr>
-    <tr class="normalrow">
-      <td class="col-md-1">10:00-10:30</td>
-      <td>Coffee break and industry exhibit </td>
-      <td></td>
     </tr>
     <tr class="normalrow">
       <td class="col-md-1">10:30-11:00</td>
@@ -4738,12 +4732,6 @@ h4{
       </td>
       <td></td>
     </tr>
-    <tr class="normalrow">
-      <td class="col-md-1"> 12:00-13:30</td>
-      <td> Lunch (Atrium Ground Floor)   </td>
-      <td></td>
-    </tr>
-
   </tbody>
 
 </table>
@@ -4871,7 +4859,6 @@ h4{
       <td class="info" colspan="14">
         13:30 - 15:00: Industry Day in Aud 2
         <br>
-        
       </td>
     </tr>
     <tr class="normalrow">
@@ -4910,11 +4897,6 @@ h4{
       </td>
       <td></td>
     </tr>
-    <tr class="normalrow">
-      <td class="col-md-1">15:00-15:30</td>
-      <td>Coffee break and industry exhibit</td>
-      <td></td>
-    </tr>
   </tbody>
 </table>
 </div> <!-- end of Industry session after lunch -->
@@ -4926,7 +4908,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        15:00 - 15:30: Coffee Break + Exhibit (Atrium Ground Floor) 
+        15:00 - 15:30: Coffee Break and Exhibition & Interactive Tool Demos (Atrium Ground Floor) 
         <br> &nbsp;
       </td>
     </tr>
@@ -5111,7 +5093,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        17:00-19:00: Break (go for walk, ice cream, check-in into your hotel, visit exhibit, working spaces available)  
+        17:00-18:30: Break (go for walk, ice cream, check-in into your hotel, visit exhibit, working spaces available)  
         <br> &nbsp;
       </td>
     </tr>
@@ -5124,7 +5106,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        18:30-21:00: Poster Session, ACM SRC posters, and Exhibit Conference Reception & Poster Session & Posters of ACM SRC (Atrium Ground Floor)
+        18:30-21:00: Poster Session, ACM SRC posters, and Exhibit Conference Reception (Atrium Ground Floor)
         <br> &nbsp;
       </td>
     </tr>
@@ -5428,7 +5410,7 @@ h4{
 </table>
 </div>
 
-<div class="session thu coffee break">
+<div class="session thu panel">
   <table class="table">
     <tbody>
     <tr>
