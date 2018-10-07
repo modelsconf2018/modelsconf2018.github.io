@@ -2593,8 +2593,10 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        19:00 - 23:00: Satellite Reception (Royal Library, Den Sorte Diamant)
-        <br> &nbsp;
+        19:00 - 23:00: Satellite Reception at <a href="https://goo.gl/maps/iCNvo2zWs8S2" target="_blank">Sorte Diamanten (Royal Library), Søren Kierkegaards Plads 1</a>
+        <br>
+        There will be buses from the conference venue. Bus meeting time 18:00 in front of the conference building.
+        You can also walk, or use public transport to get there.
       </td>
     </tr>
     </tbody>
@@ -5681,8 +5683,25 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        19:00 - 23:00: Banquet at the New Royal Opera House (including Awards)  
-        <br> &nbsp;
+        19:00 - 23:00: Banquet (including Awards) at the <a href="https://goo.gl/maps/j2uCXxQjvGt" target="_blank">Royal Opera House, Operaen, Ekvipagemestervej 10</a>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">18:00</td>
+      <td>A guided tour of the opera (award winning international level architecture).
+        Register in the conference reception to be admitted to the tour, the tour is free, but we have limited number of places.
+        Bus will be available from the conference venue 17:30, meeting time, buses depart 17:45 (no waiting).
+        You can walk, or use public transport to get to the opera as well depending on the weather.
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">19:00-23:00</td>
+      <td>The conference banquet (same location)
+        Bus will be available from the conference venue 18:15 (meeting time) buses depart 18.30 (no waiting).
+        You can also arrange alternative transport, walk yourself.
+        <br>
+        After the banquet a shuttle will be available from 21:30 (until the last guest but no longer than 23:00 hours).
+        The shuttle will stop at the WakeUp Hotel Borgergade, Nørreport metro/train station, and Imperial Hotel.
       </td>
     </tr>
     </tbody>
