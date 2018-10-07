@@ -1015,7 +1015,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: Systems Analysis and Modeling (SAM) in Aud 2
+        09:00 - 10:30: <a href="http://sdl-forum.org/Events/SAM2018/index.htm" target="_blank">Systems Analysis and Modeling (SAM) in Aud 2</a>
         <br>
         <small>Chairs: Reinhard Gotzhein and Ferhat Khendek</small>
       </td>
@@ -1328,7 +1328,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: Systems Analysis and Modeling (SAM) - Session 1: Cloud Systems in Aud 2
+        11:00 - 12:30: <a href="http://sdl-forum.org/Events/SAM2018/index.htm" target="_blank">Systems Analysis and Modeling (SAM) - Session 1: Cloud Systems in Aud 2</a>
         <br>
         <small>Chair: Finn Kristoffersen</small>
       </td>
@@ -1814,7 +1814,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: Systems Analysis and Modeling (SAM) - Session 2: Notations and Semantics in Aud 2
+        14:00 - 15:30: <a href="http://sdl-forum.org/Events/SAM2018/index.htm" target="_blank">Systems Analysis and Modeling (SAM) - Session 2: Notations and Semantics in Aud 2</a>
         <br>
         <small>Chair: Edel Sherrat</small>
       </td>
@@ -2337,7 +2337,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 – 17:30: Systems Analysis and Modeling (SAM) - SDL Forum Society AGM in Aud 2
+        16:00 – 17:30: <a href="http://sdl-forum.org/Events/SAM2018/index.htm" target="_blank">Systems Analysis and Modeling (SAM) - SDL Forum Society AGM in Aud 2</a>
         <br> &nbsp;
       </td>
     </tr>
@@ -2620,7 +2620,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: Systems Analysis and Modeling (SAM) in Aud 2
+        09:00 - 10:30: <a href="http://sdl-forum.org/Events/SAM2018/index.htm" target="_blank">Systems Analysis and Modeling (SAM) in Aud 2</a>
         <br>
         <small>Chair(s): TBA</small>
       </td>
@@ -3074,7 +3074,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: Systems Analysis and Modeling (SAM) - Session 3: Performance, Safety and realizability in Aud 2
+        11:00 - 12:30: <a href="http://sdl-forum.org/Events/SAM2018/index.htm" target="_blank">Systems Analysis and Modeling (SAM) - Session 3: Performance, Safety and realizability in Aud 2</a>
         <br>
         <small>Chair: Emmanuel Gaudin</small>
       </td>
@@ -3725,7 +3725,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: Systems Analysis and Modeling (SAM) - Session 4: MSC, URN, GRL in Aud 2
+        14:00 - 15:30: <a href="http://sdl-forum.org/Events/SAM2018/index.htm" target="_blank">Systems Analysis and Modeling (SAM) - Session 4: MSC, URN, GRL in Aud 2</a>
         <br>
         <small>Chair: Daniel Amyot</small>
       </td>
@@ -4167,7 +4167,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 17:30: Systems Analysis and Modeling (SAM) - Session 5: Collaborative Modeling in Aud 2
+        16:00 - 17:30: <a href="http://sdl-forum.org/Events/SAM2018/index.htm" target="_blank">Systems Analysis and Modeling (SAM) - Session 5: Collaborative Modeling in Aud 2</a>
         <br>
         <small>Chair: Gunter Mussbacher</small>
       </td>
