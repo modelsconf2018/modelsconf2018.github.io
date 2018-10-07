@@ -5873,7 +5873,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        10:00 - 11:30: Tool Demo Talks in Aud 3 (2nd floor)
+        10:00 - 11:30: Tool Demo Talks in 2A56 (Aud 3)
         <br>&nbsp;
       </td>
     </tr>
@@ -6062,7 +6062,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        12:30 - 13:30: Synthesis & Simulation in Aud 3 (2nd floor)
+        12:30 - 13:30: Synthesis & Simulation in 2A56 (Aud 3)
         <br>
         <small>Chair: Francis Bordeleau</small>
       </td>
@@ -6134,7 +6134,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:00: Keynote
+        14:00 - 15:00: Keynote in Aud 1
         <br>
         <small>Chair: Richard Paige</small>
       </td>
