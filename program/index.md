@@ -2570,9 +2570,11 @@ h4{
         <br>
         <a href="" target="_blank"><span class="name">Jil Klünder</span></a>
         <span class="affiliation"></span>,
-        <a href="" target="_blank"><span class="name">Oliver Karras, </span></a>
+        <a href="" target="_blank"><span class="name">Oliver Karras</span></a>
         <span class="affiliation"></span>,
         <a href="" target="_blank"><span class="name">Nils Prenner</span></a>
+        <span class="affiliation"></span>,
+        <a href="" target="_blank"><span class="name">Kurt Schneider</span></a>
         <span class="affiliation"></span>
       </td>
     </tr>
