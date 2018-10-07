@@ -5874,7 +5874,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        10:00 - 11:30: Tool Demo Talks Aud 3 (2nd floor)
+        10:00 - 11:30: Tool Demo Talks in Aud 3 (2nd floor)
         <br>&nbsp;
       </td>
     </tr>
