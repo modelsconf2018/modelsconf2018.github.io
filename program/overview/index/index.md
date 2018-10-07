@@ -81,7 +81,7 @@ slug: program-overview
    <td class="tg-mply" colspan="2"><a href="https://mdetools.github.io/mdetools18/">W7 MDETools</a></td>
     <td class="tg-jxbq"><a href="https://info.jetbrains.com/mps-day-models-2018-registration.html" target="_blank">MPS day</a></td>
     <td class="tg-jxbq"><a href="https://www.devops-community.com/models-2018.html" target="_blank">HCL Modeling tools restarted & meet HCL</a></td>
-    <td class="tg-ie4m">Conference Reception &amp; Poster Session &amp; Posters of ACM SRC</td>
+    <td class="tg-ie4m">Conference Reception &amp; Poster Session</td>
     <td class="tg-ie4m">SoSyM Editorial Meeting (16:30-18:00)</td>
     <td class="tg-uys7"></td>
   </tr>
@@ -110,7 +110,8 @@ slug: program-overview
     <td class="tg-b28d" colspan="2">T3 DevYrCar</td>
     <td class="tg-mply" colspan="2"><a href="https://sites.google.com/view/pains-2018/home">W13 PAINS</a></td>
     <td class="tg-uys7"></td>
-    <td class="tg-ie4m">ACM Student Research Competition</td>
+    <td class="tg-uys7"></td>
+    <!-- <td class="tg-ie4m">ACM Student Research Competition</td> -->
     <td class="tg-uys7"></td>
   </tr>
   <tr>
