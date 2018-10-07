@@ -2324,7 +2324,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        15:30 - 16:00: Coffee Break
+        15:30 - 16:00: Coffee Break (Atrium Ground Floor)
         <br> &nbsp;
       </td>
     </tr>
