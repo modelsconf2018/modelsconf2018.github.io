@@ -7,7 +7,7 @@ slug: program-overview
 
 ## Conference program overview
 
-#### Warning, this is just a preliminary schedule and does not necessarily reflect the actual order of events. Changes may occur. 
+<!-- #### Warning, this is just a preliminary schedule and does not necessarily reflect the actual order of events. Changes may occur.  -->
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;}
