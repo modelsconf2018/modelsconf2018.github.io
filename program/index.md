@@ -5207,7 +5207,7 @@ h4{
         <span class="affiliation">University of Luxembourg</span>,
         <a href="https://wwwfr.uni.lu/snt/people/lionel_briand" target="_blank"> <span class="name">Lionel Briand </span> </a>
         <span class="affiliation">University of Luxembourg</span>,
-        <a href="" target="_blank"> <span class="name">Lionel Briand </span> </a>
+        <a href="" target="_blank"> <span class="name">Yago Isasi</span> </a>
         <span class="affiliation">LuxSpace</span>,
       </td>
     </tr>
@@ -5455,7 +5455,7 @@ h4{
       <td class="info" colspan="14">
         15:00 - 16:30: Patterns, Refactoring and Refinement in Aud 1
         <br>
-        <small>Chair: Marouane Kessentin</small>
+        <small>Chair: Marouane Kessentini</small>
       </td>
     </tr>
     <tr class="normalrow">
