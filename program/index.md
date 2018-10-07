@@ -5104,7 +5104,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        18:30-21:00: Poster Session, ACM SRC posters, and Exhibit Conference Reception (Atrium Ground Floor)
+        18:30-21:00: Poster Session, and Exhibit Conference Reception (Atrium Ground Floor)
         <br> &nbsp;
       </td>
     </tr>
@@ -5303,7 +5303,7 @@ h4{
 </table>
 </div>
 
-<div class="session acm-src">
+<!-- <div class="session acm-src">
   <table class="table">
     <tbody>
     <tr>
@@ -5314,7 +5314,7 @@ h4{
     </tr>
   </tbody>
 </table>
-  </div>
+  </div> -->
 
 
 <div class="session lunch">
