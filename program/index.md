@@ -3647,12 +3647,6 @@ h4{
         <br>
       </td>
     </tr>
-    <tr class="normalrow">
-      <td class="col-md-1"></td>
-      <td>Welcome
-          <br>&nbsp;
-      </td>
-    </tr>
      <tr class="normalrow">
       <td class="col-md-1"></td>
       <td>A Tool for the Convergence of Multilevel Modelling Approaches
@@ -3982,7 +3976,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: <a href="/tutorials/#t10-how-to-build-domain-specific-modeling-languages-and-interpreters-with-webgme--an-online-collaborative-metamodeling-environment">T10 How to Build Domain Specific Modeling Languages and Interpreters with WebGME – an Online, Collaborative Metamodeling Environment in 4A20</a>
+        14:00 - 15:30: <a href="tutorials/#t10-how-to-build-domain-specific-modeling-languages-and-interpreters-with-webgme--an-online-collaborative-metamodeling-environment">T10 How to Build Domain Specific Modeling Languages and Interpreters with WebGME – an Online, Collaborative Metamodeling Environment in 4A20</a>
         <br> &nbsp;
       </td>
     </tr>
@@ -4374,7 +4368,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 17:30: <a href="/tutorials/#t10-how-to-build-domain-specific-modeling-languages-and-interpreters-with-webgme--an-online-collaborative-metamodeling-environment">T10 How to Build Domain Specific Modeling Languages and Interpreters with WebGME – an Online, Collaborative Metamodeling Environment in 4A20</a>
+        16:00 - 17:30: <a href="tutorials/#t10-how-to-build-domain-specific-modeling-languages-and-interpreters-with-webgme--an-online-collaborative-metamodeling-environment">T10 How to Build Domain Specific Modeling Languages and Interpreters with WebGME – an Online, Collaborative Metamodeling Environment in 4A20</a>
         <br> &nbsp;
       </td>
     </tr>
