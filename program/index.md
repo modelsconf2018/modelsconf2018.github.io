@@ -5116,8 +5116,9 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        18:30-21:00: Poster Session, and Exhibit Conference Reception (Atrium Ground Floor)
-        <br> &nbsp;
+        18:30-21:00: MODELS18 Social Reception + Poster Session (Atrium Ground Floor)
+        <br>
+        Access included for all participants registered for the main conference or industry program on Wednesday. No ticket necessary, but bring your badge.
       </td>
     </tr>
   </tbody>
