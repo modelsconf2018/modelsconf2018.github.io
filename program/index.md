@@ -4756,7 +4756,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        12:00 - 13:30: Lunch (Atrium Ground Floor) 
+        12:00 - 13:30: Lunch: Exhibition & Interactive Tool Demos (Atrium Ground Floor) 
         <br> &nbsp;
       </td>
     </tr>
@@ -4769,7 +4769,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        12:00 - 13:30: Hiring Lunch (by registration) in Cantine (1st Floor)
+        12:00 - 13:30: Hiring Lunch (by registration) in EatIT (1st Floor)
         <br> &nbsp;
       </td>
     </tr>
