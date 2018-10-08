@@ -4049,7 +4049,6 @@ h4{
       <td class="info" colspan="14">
         14:00 - 15:30: <a href="https://www.wi-inf.uni-duisburg-essen.de/MULTI2018/" target="_blank">W15 Multi-Level Modeling (MULTI) - Process modelling & Bicycle challenge in 4A60 (Aud 4)</a>
         <br>
-        
       </td>
     </tr>
      <tr class="normalrow">
@@ -4065,6 +4064,14 @@ h4{
           <a href="" target="_blank"><span class="name">Lars Michael Kristensen</span></a>
           <span class="affiliation"></span>,
           <a href="" target="_blank"><span class="name">Fernando Macías</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+     <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Perspective Based Level Addressing System for Unbalanced Meta Models (in Process modelling)
+          <br>
+          <a href="" target="_blank"><span class="name">Daniel Toepel</span></a>
           <span class="affiliation"></span>
       </td>
     </tr>
@@ -4468,7 +4475,7 @@ h4{
           <span class="affiliation"></span>
       </td>
     </tr>
-    <tr class="normalrow">
+  <!--   <tr class="normalrow">
       <td class="col-md-1"></td>
       <td>Multi-level modeling with MELANEE (in Bycicle challenge)
           <br>
@@ -4477,7 +4484,7 @@ h4{
           <a href="" target="_blank"><span class="name">Colin Atkinson</span></a>
           <span class="affiliation"></span>
       </td>
-    </tr>
+    </tr> -->
     <tr class="normalrow">
       <td class="col-md-1"></td>
       <td>Present and future of multi-level modeling (Plenary session)
