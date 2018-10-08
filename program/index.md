@@ -1110,7 +1110,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: <a href="tutorials/#t6-exploring-decision-space-using-actor-based-simulation---a-model-based-approach" target="_blank"> T6 Exploring Decision Space using Actor based Simulation - a Model Based Approach (ACTORS) in 4A56</a>
+        09:00 - 10:30: <a href="tutorials/#t6-exploring-decision-space-using-actor-based-simulation---a-model-based-approach" target="_blank"> T6 Exploring Decision Space using Actor based Simulation - a Model Based Approach (ACTORS) in 4A58</a>
         <br> &nbsp;
       </td>
     </tr>
@@ -1448,7 +1448,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: <a href="tutorials/#t6-exploring-decision-space-using-actor-based-simulation---a-model-based-approach" target="_blank"> T6 Exploring Decision Space using Actor based Simulation - a Model Based Approach (ACTORS) in 4A56 </a>
+        11:00 - 12:30: <a href="tutorials/#t6-exploring-decision-space-using-actor-based-simulation---a-model-based-approach" target="_blank"> T6 Exploring Decision Space using Actor based Simulation - a Model Based Approach (ACTORS) in 4A58 </a>
         <br> &nbsp;
       </td>
     </tr>
@@ -1993,7 +1993,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: <a href="tutorials/#t7-managing-the-co-evolution-of-domain-specific-languages-and-models" target="_blank"> T7 Managing the Co-Evolution of Domain-Specific Languages and Models in 4A56</a>
+        14:00 - 15:30: <a href="tutorials/#t7-managing-the-co-evolution-of-domain-specific-languages-and-models" target="_blank"> T7 Managing the Co-Evolution of Domain-Specific Languages and Models in 4A58</a>
         <br> &nbsp;
       </td>
     </tr>
@@ -2431,7 +2431,7 @@ h4{
     <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 17:30: <a href="tutorials/#t7-managing-the-co-evolution-of-domain-specific-languages-and-models" target="_blank"> T7 Managing the Co-Evolution of Domain-Specific Languages and Models in 4A56</a>
+        16:00 - 17:30: <a href="tutorials/#t7-managing-the-co-evolution-of-domain-specific-languages-and-models" target="_blank"> T7 Managing the Co-Evolution of Domain-Specific Languages and Models in 4A58</a>
         <br> &nbsp;
       </td>
     </tr>
@@ -2837,7 +2837,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        09:00 - 10:30: <a href="http://www.servicerobotik-ulm.de/models2018/" target="_blank">T9 RobMoSys: Better Models, Tools and Software for Robotic Systems in 4A20</a>
+        09:00 - 10:30: <a href="http://www.servicerobotik-ulm.de/models2018/" target="_blank">T9 RobMoSys: Better Models, Tools and Software for Robotic Systems in 4A22</a>
         <br> &nbsp;
       </td>
     </tr>
@@ -3321,7 +3321,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: <a href="http://www.servicerobotik-ulm.de/models2018/" target="_blank">T9 RobMoSys: Better Models, Tools and Software for Robotic Systems in 4A20</a>
+        11:00 - 12:30: <a href="http://www.servicerobotik-ulm.de/models2018/" target="_blank">T9 RobMoSys: Better Models, Tools and Software for Robotic Systems in 4A22</a>
         <br> &nbsp;
       </td>
     </tr>
@@ -3977,7 +3977,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: <a href="tutorials/#t10-how-to-build-domain-specific-modeling-languages-and-interpreters-with-webgme--an-online-collaborative-metamodeling-environment">T10 How to Build Domain Specific Modeling Languages and Interpreters with WebGME – an Online, Collaborative Metamodeling Environment in 4A20</a>
+        14:00 - 15:30: <a href="tutorials/#t10-how-to-build-domain-specific-modeling-languages-and-interpreters-with-webgme--an-online-collaborative-metamodeling-environment">T10 How to Build Domain Specific Modeling Languages and Interpreters with WebGME – an Online, Collaborative Metamodeling Environment in 4A22</a>
         <br> &nbsp;
       </td>
     </tr>
@@ -4380,7 +4380,7 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 17:30: <a href="tutorials/#t10-how-to-build-domain-specific-modeling-languages-and-interpreters-with-webgme--an-online-collaborative-metamodeling-environment">T10 How to Build Domain Specific Modeling Languages and Interpreters with WebGME – an Online, Collaborative Metamodeling Environment in 4A20</a>
+        16:00 - 17:30: <a href="tutorials/#t10-how-to-build-domain-specific-modeling-languages-and-interpreters-with-webgme--an-online-collaborative-metamodeling-environment">T10 How to Build Domain Specific Modeling Languages and Interpreters with WebGME – an Online, Collaborative Metamodeling Environment in 4A22</a>
         <br> &nbsp;
       </td>
     </tr>
@@ -4398,8 +4398,7 @@ h4{
     <tr>
       <td class="info" colspan="14">
         16:00 - 17:30: <a href="https://msdl.uantwerpen.be/conferences/MDEbug/2018/" target="_blank">W11 Debugging in Model-Driven Engineering (MDEBug) - Discussions continued in 2A08</a>
-        <br>
-        
+        <br>&nbsp;
       </td>
     </tr>
      <tr class="normalrow">
