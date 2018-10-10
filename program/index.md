@@ -96,6 +96,7 @@ h4{
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="mps">MPS Day</div>
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="workshops">Workshops</div>
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="tutorials">Tutorials</div>
+        <div class="btn-s btn btn-default facet-false filter_link" data-filter="tools-demos">Tools and Demos</div>
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="sam">SAM</div>
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="edusymp">EduSymp</div>
         <div class="btn-s btn btn-default facet-false filter_link" data-filter="docsymp">DoctoralSymp</div>
@@ -5519,7 +5520,7 @@ h4{
 </table>
 </div>
 
-<div class="session maintracks">
+<div class="session tools-demos">
   <table class="table">
     <tbody>
     <tr>
@@ -5530,7 +5531,7 @@ h4{
     </tr>
     <tr class="normalrow">
       <td class="col-md-1">15:00-15:10</td>
-      <td>A tool for Automatically Selecting Optimal Model Transformation Chains
+      <td><a href="https://youtu.be/-YrV5AEI3gQ" target="_blank">A tool for Automatically Selecting Optimal Model Transformation Chains</a>
         <br>
         <a href="" target="_blank"><span class="name">Francesco Basciani</span></a>
         <span class="affiliation"></span>,
@@ -5548,7 +5549,7 @@ h4{
     </tr>
         <tr class="normalrow">
       <td class="col-md-1">15:15-15:25</td>
-      <td>Collaborative Creation and Versioning of Modeling Languages with MetaEdit+
+      <td><a href="https://vimeo.com/279657668" target="_blank">Collaborative Creation and Versioning of Modeling Languages with MetaEdit+</a>
         <br>
         <a href="" target="_blank"><span class="name">Steven Kelly </span></a>
         <span class="affiliation"></span>,
@@ -5558,7 +5559,7 @@ h4{
     </tr>
         <tr class="normalrow">
       <td class="col-md-1">15:30-15:40</td>
-      <td>Modularizing and Layering Metamodels with the Modular EMF Designer
+      <td><a href="https://www.youtube.com/watch?v=xxf7NuSZjFg" target="_blank">Modularizing and Layering Metamodels with the Modular EMF Designer</a>
         <br>
         <a href="" target="_blank"><span class="name">Amine Kechaou</span></a>
         <span class="affiliation"></span>,
@@ -5568,7 +5569,7 @@ h4{
     </tr>
      <tr class="normalrow">
       <td class="col-md-1">15:45-15:55</td>
-      <td>Towards an Adaptive City Journey Planner with MDE
+      <td><a href="https://youtu.be/KM21WD2dQGs" target="_blank">Towards an Adaptive City Journey Planner with MDE</a>
         <br>
         <a href="" target="_blank"><span class="name">Antonio Bucchiarone</span></a>
         <span class="affiliation"></span>,
@@ -5578,7 +5579,7 @@ h4{
     </tr>
         <tr class="normalrow">
       <td class="col-md-1">16:00-16:10</td>
-      <td> Documenting Simulink Designs of Embedded Systems
+      <td><a href="https://youtu.be/WBmHbhPmgRs" target="_blank">Documenting Simulink Designs of Embedded Systems</a>
         <br>
         <a href="" target="_blank"><span class="name">Alexander Schaap, Gordon Marks</span></a>
         <span class="affiliation"></span>,
@@ -5596,7 +5597,7 @@ h4{
     </tr>
     <tr class="normalrow">
       <td class="col-md-1">16:15-16:25</td>
-      <td>IncQuery Server for Teamwork Cloud
+      <td><a href="https://drive.google.com/file/d/17S2bvxKAxR6LB3HtUIUQl04GkoslYpRW/view" target="_blank">IncQuery Server for Teamwork Cloud</a>
         <br>
         <a href="" target="_blank"> <span class="name">Ábel Hegedüs</span> </a>
         <span class="affiliation"></span>,
@@ -5881,7 +5882,7 @@ h4{
 </table>
 </div>
 
-<div class="session fri maintracks">
+<div class="session fri tools-demos">
   <table class="table">
     <tbody>
     <tr>
@@ -5892,7 +5893,7 @@ h4{
     </tr>
     <tr class="normalrow">
       <td class="col-md-1">10:00-10:10</td>
-      <td>Supporting Systematic Literature Reviews in Computer Science
+      <td><a href="https://youtu.be/IB4d9CJt144" target="_blank">Supporting Systematic Literature Reviews in Computer Science</a>
         <br>
         <a href="" target="_blank"> <span class="name">Sebastian Götz</span> </a>
         <span class="affiliation"></span>
@@ -5900,7 +5901,7 @@ h4{
     </tr>
     <tr class="normalrow">
       <td class="col-md-1">10:15-10:25</td>
-      <td>SimGen: A Tool for Generating Simulations and Visualizations of Embedded Systems on the Unity Game Engine
+      <td><a href="https://youtu.be/4ROt2N6i6KA" target="_blank">SimGen: A Tool for Generating Simulations and Visualizations of Embedded Systems on the Unity Game Engine</a>
         <br>
         <a href="" target="_blank"> <span class="name">Michal Pasternak</span> </a>
         <span class="affiliation"></span>,
@@ -5916,7 +5917,7 @@ h4{
     </tr>
     <tr class="normalrow">
       <td class="col-md-1">10:30-10:40</td>
-      <td>MDEOptimiser: A Search Based Model Engineering Tool
+      <td><a href="https://vimeo.com/281965931" target="_blank">MDEOptimiser: A Search Based Model Engineering Tool</a>
         <br>
         <a href="" target="_blank"> <span class="name">Alexandru Burdusel</span> </a>
         <span class="affiliation"></span>,
@@ -5928,7 +5929,7 @@ h4{
     </tr>
     <tr class="normalrow">
       <td class="col-md-1">10:45-10:55</td>
-      <td>Optimal Mapping of Task-based Computation Models over Heterogeneous Hardware using Placer
+      <td><a href="https://www.youtube.com/watch?v=5GU_Qz720pk&feature=youtu.be" target="_blank">Optimal Mapping of Task-based Computation Models over Heterogeneous Hardware using Placer</a>
         <br>
         <a href="" target="_blank"> <span class="name">Renaud De Landtsheer</span> </a>
         <span class="affiliation"></span>,
