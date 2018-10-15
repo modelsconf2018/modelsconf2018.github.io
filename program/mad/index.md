@@ -107,7 +107,7 @@ h4{
           <span class="affiliation">HCL</span>
         </a>
         <ul>
-          <li>Using Models to getting people involved and bought in (Thomas Wiman Adocus)
+          <li>Using Models to getting people involved and bought in (<a href="https://www.linkedin.com/in/thomas-wiman-9ab397/">Thomas Wiman</a> Adocus)
             <ul>
               <li>Why model</li>
               <li>When to model</li>

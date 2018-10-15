@@ -1913,8 +1913,7 @@ h4{
 <div class="session mon mad">
 
 <table class="table">
-      
-  <tbody>
+    <tbody>
     <tr>
       <td class="info" colspan="14">
         14:00 - 17:00: <a href="https://modelsconf2018.github.io/program/mad/" target="_blank">MAD@MODELS Meeting in 4A54</a>
@@ -1923,8 +1922,8 @@ h4{
       </td>
     </tr>
     <tr class="normalrow">
-      <td class="col-md-1">14:00-14:30</td>
-      <td>Introduction: Agile Modeling: The next step
+      <td class="col-md-1">14:00-15:30</td>
+      <td>Modeling, Agile and DevOps – three words combined that can’t make sense!
           <br>
         <a href="https://www.linkedin.com/in/scarified/"> 
           <span class="name">Michael Hudson</span>
@@ -1932,32 +1931,28 @@ h4{
         <a href="https://www.hcltech.com/products-and-platforms"> 
           <span class="affiliation">HCL</span>
         </a>
-      </td>
-    </tr>
-    <tr class="normalrow">
-      <td class="col-md-1">14:30-17:00</td>
-      <td> Discussion 
         <ul>
-          <li>Modeling in the continuous pipeline
-            <ul>
-              <li>Successes that work</li>
-              <li>Challenges and how to overcome them</li>
-            </ul>
+          <li>Using Models to getting people involved and bought in (<a href="https://www.linkedin.com/in/thomas-wiman-9ab397/">Thomas Wiman</a> Adocus)
           </li>
-          <li> Architecture in an agile and DevOps project
-            <ul>
-              <li>How to maintain architecture integrity while delivering every 2-3 week</li>
-            </ul>
+          <li>Taking the MAD hurdle (<a href="https://www.linkedin.com/in/ton-janssen-bb14892/">Ton Janssen</a> Océ)
           </li>
-          <li>Decision History, remembering the WHY
-            <ul>
-              <li>Maintaining your intellectual capital</li>
-            </ul>
+          <li>Scaling for a Large Team (<a href="https://www.linkedin.com/in/olivera-milenkovic-710312/">Olivera Milenkovic</a> Aspire Technology; <a href="https://www.linkedin.com/in/roger-holmberg-732710114/">Roger Holmberg</a> Ericsson)
           </li>
         </ul>
       </td>
     </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">15:30-16:00</td>
+      <td> BREAK 
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1">16:00-17:00</td>
+      <td> Bring your MAD experiences and join these industry leaders in a lively discussion 
+      </td>
+    </tr>
    </tbody>
+
 
 </table>
 </div>
@@ -3799,7 +3794,7 @@ h4{
       </td>
     </tr>
     <tr class="normalrow">
-      <td class="col-md-1"></td>
+      <td class="col-md-1">14:00-14:20</td>
       <td>Modeling Tools Restarted – meet HCL
           <br>
         <a href=""> 
@@ -3809,7 +3804,7 @@ h4{
       </td>
     </tr>
     <tr class="normalrow">
-      <td class="col-md-1"></td>
+      <td class="col-md-1">14:20-14:45</td>
       <td>Client Advocacy & Tech Connect Initiative 
           <br>
         <a href=""> 
@@ -3819,9 +3814,13 @@ h4{
       </td>
     </tr>
     <tr class="normalrow">
-      <td class="col-md-1">15:00-15:30</td>
-      <td>Session Break / Social
-          <br> &nbsp; 
+      <td class="col-md-1">14:45-15:30</td>
+      <td>Real-Time, Multi-User, Cross-Site Collaboration in a design tool! 
+          <br>
+        <a href=""> 
+          <span class="name">Sandeep Katosh</span>
+        </a>
+          <span class="affiliation">HCL</span>,
       </td>
     </tr>
     </tbody>
@@ -4246,13 +4245,7 @@ h4{
       </td>
     </tr>
     <tr class="normalrow">
-      <td class="col-md-1">15:30-16:15</td>
-      <td>Proof is in the Pudding
-        <br>&nbsp;
-      </td>
-    </tr>
-    <tr class="normalrow">
-      <td class="col-md-1">16:15-17:00</td>
+      <td class="col-md-1">16:00-17:00</td>
       <td>Experience IoT Modeling – Real Time
         <br>
          <a href="" target="_blank"> <span class="name">Elena Strabykina</span></a>
