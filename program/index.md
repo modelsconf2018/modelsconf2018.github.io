@@ -392,7 +392,7 @@ h4{
       <td class="info" colspan="14">
         11:00 - 12:30: <a href="http://www.mrtc.mdh.se/ModComp18/" target="_blank">W1 ModComp Session 1 in 5A60</a>
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
     <tr class="normalrow">
@@ -849,7 +849,7 @@ h4{
       <td class="info" colspan="14">
         16:00 - 17:30: <a href="http://www.mrtc.mdh.se/ModComp18/" target="_blank">W1 ModComp Session 3 & Closing in 5A60</a>
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
     <tr class="normalrow">
@@ -1048,7 +1048,7 @@ h4{
       <td class="info" colspan="14">
         09:00 - 10:30: <a href="https://xtuml.org/xtuml-days-2018-copenhagen/" target="_blank">xtUML Days - Plenary Session #1 in 3A52</a>
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
     <tr class="normalrow">
@@ -1129,7 +1129,7 @@ h4{
       <td class="info" colspan="14">
         09:00 - 10:30: <a href="http://cs.gssi.it/commitmde2018/" target="_blank">W6 Collaborative Modelling in MDE (COMMitMDE) in 4A54</a>
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
     <tr class="normalrow">
@@ -1166,7 +1166,7 @@ h4{
       <td class="info" colspan="14">
         09:00 - 10:30: <a href="https://mdetools.github.io/mdetools18/" target="_blank">W7 Model-Driven Engineering Tools (MDETools) in 4A60 (Aud 4)</a>
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
     <tr class="normalrow">
@@ -1194,7 +1194,7 @@ h4{
       <td class="info" colspan="14">
         09:00 - 10:30: <a href="http://gemoc.org/events/gemoc2018.html" target="_blank">W8 The Globalization of Modeling Languages (GEMOC) in 2A52</a>
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
     <tr class="normalrow">
@@ -1223,7 +1223,7 @@ h4{
       <td class="info" colspan="14">
         09:00 - 10:30: <a href="http://st.inf.tu-dresden.de/MORSE18/" target="_blank">W9 Model-driven Robot Software Engineering (MORSE) in 2A56 (Aud 3)</a>
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
     <tr class="normalrow">
@@ -1248,7 +1248,7 @@ h4{
       <td class="info" colspan="14">
         09:00 - 10:45: <a href="http://www.mrtc.mdh.se/MDE4IoT/index.html" target="_blank"> W10 Model-Driven Engineering for the Internet-of-Things (MDE4IoT) in 3A54</a>
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
     <tr class="normalrow">
@@ -1281,7 +1281,7 @@ h4{
       <td class="info" colspan="14">
         09:00 - 10:30: <a href="https://hufamo.univ-lille.fr/">W16 Human Factors in Modeling (HuFaMo) in 2A54</a>
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
     <tr class="normalrow">
@@ -1387,7 +1387,7 @@ h4{
       <td class="info" colspan="14">
         11:00 - 12:30: <a href="https://xtuml.org/xtuml-days-2018-copenhagen/" target="_blank">xtUML Days - Plenary Session #2 in 3A52</a>
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
     <tr class="normalrow">
@@ -1467,7 +1467,7 @@ h4{
       <td class="info" colspan="14">
         11:00 - 12:30: <a href="http://cs.gssi.it/commitmde2018/" target="_blank">W6 Collaborative Modelling in MDE (COMMitMDE) in 4A54</a>
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
     <tr class="normalrow">
@@ -1523,7 +1523,7 @@ h4{
       <td class="info" colspan="14">
         11:00 - 12:30: <a href="https://mdetools.github.io/mdetools18/" target="_blank">W7 Model-Driven Engineering Tools (MDETools) - Session: Research papers in 4A60 (Aud 4)</a>
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
     <tr class="normalrow">
@@ -1592,7 +1592,7 @@ h4{
       <td class="info" colspan="14">
         11:00 - 12:30: <a href="http://gemoc.org/events/gemoc2018.html" target="_blank">W8 The Globalization of Modeling Languages (GEMOC) - Paper Presentations #1 in 2A52</a>
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
    <tr class="normalrow">
@@ -1647,7 +1647,7 @@ h4{
       <td class="info" colspan="14">
         11:00 - 12:30: <a href="http://st.inf.tu-dresden.de/MORSE18/" target="_blank">W9 Model-driven Robot Software Engineering (MORSE) - Languages for Robotics in 2A56 (Aud 3)</a>
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
     <tr class="normalrow">
@@ -1704,7 +1704,7 @@ h4{
       <td class="info" colspan="14">
         11:00 - 12:30: <a href="http://www.mrtc.mdh.se/MDE4IoT/index.html" target="_blank">W10 Model-Driven Engineering for the Internet-of-Things (MDE4IoT) in 3A54</a>
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
     <tr class="normalrow">
@@ -1757,7 +1757,7 @@ h4{
       <td class="info" colspan="14">
         11:00 - 12:30: <a href="https://hufamo.univ-lille.fr/">W16 Human Factors in Modeling (HuFaMo) - Support for modeling in 2A54</a>
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
     <tr class="normalrow">
@@ -1865,7 +1865,7 @@ h4{
       <td class="info" colspan="14">
         14:00 - 15:30: <a href="https://xtuml.org/xtuml-days-2018-copenhagen/" target="_blank">xtUML Days - Plenary Session #3 in 3A52</a>
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
     <tr class="normalrow">
@@ -2022,7 +2022,7 @@ h4{
       <td class="info" colspan="14">
         14:00 - 15:30: <a href="https://mdetools.github.io/mdetools18/" target="_blank">W7 Model-Driven Engineering Tools (MDETools) - Session: Challenge problem in 4A60 (Aud 4)</a>
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
     <tr class="normalrow">
@@ -2105,7 +2105,7 @@ h4{
       <td class="info" colspan="14">
         14:00 - 15:30: <a href="http://gemoc.org/events/gemoc2018.html" target="_blank">W8 The Globalization of Modeling Languages (GEMOC) - Paper Presentations #2 in 2A52</a>
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
    <tr class="normalrow">
@@ -2151,7 +2151,7 @@ h4{
       <td class="info" colspan="14">
         14:00 - 15:30: <a href="http://st.inf.tu-dresden.de/MORSE18/" target="_blank">W9 Model-driven Robot Software Engineering (MORSE) - Languages for Robotics in 2A56 (Aud 3)</a>
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
     <tr class="normalrow">
@@ -2213,7 +2213,7 @@ h4{
       <td class="info" colspan="14">
         14:00 - 15:30: <a href="http://www.mrtc.mdh.se/MDE4IoT/index.html" target="_blank">W10 Model-Driven Engineering for the Internet-of-Things (MDE4IoT) in 3A54</a>
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
     <tr class="normalrow">
@@ -2267,7 +2267,7 @@ h4{
       <td class="info" colspan="14">
         14:00 - 15:30: <a href="https://hufamo.univ-lille.fr/">W16 Human Factors in Modeling (HuFaMo) - Experimenting for comparing in 2A54</a>
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
     <tr class="normalrow">
@@ -2350,7 +2350,7 @@ h4{
       <td class="info" colspan="14">
         16:00 - 17:30: <a href="https://xtuml.org/xtuml-days-2018-copenhagen/" target="_blank">xtUML Days - Plenary Session #4 in 3A52</a>
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
     <tr class="normalrow">
@@ -2456,7 +2456,7 @@ h4{
       <td class="info" colspan="14">
         16:00 - 17:30: <a href="https://mdetools.github.io/mdetools18/" target="_blank">W7 Model-Driven Engineering Tools (MDETools) - Panel and discussion in 4A60 (Aud 4)</a>
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
    <tr class="normalrow">
@@ -2477,7 +2477,7 @@ h4{
       <td class="info" colspan="14">
         16:00 - 17:30: <a href="http://gemoc.org/events/gemoc2018.html" target="_blank">W8 The Globalization of Modeling Languages (GEMOC) in 2A52</a>
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
    <tr class="normalrow">
@@ -2542,7 +2542,7 @@ h4{
       <td class="info" colspan="14">
         16:00 - 17:30: <a href="http://www.mrtc.mdh.se/MDE4IoT/index.html" target="_blank">W10 Model-Driven Engineering for the Internet-of-Things (MDE4IoT) in 3A54</a>
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
    <tr class="normalrow">
@@ -2569,7 +2569,7 @@ h4{
       <td class="info" colspan="14">
         16:00 - 17:30: <a href="https://hufamo.univ-lille.fr/">W16 Human Factors in Modeling (HuFaMo) - Working on modeling languages in 2A54</a>
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
     <tr class="normalrow">
@@ -2643,7 +2643,7 @@ h4{
       <td class="info" colspan="14">
         09:00 - 10:30: <a href="http://sdl-forum.org/Events/SAM2018/index.htm" target="_blank">Systems Analysis and Modeling (SAM) in Aud 2</a>
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
     <tr class="normalrow">
@@ -2668,7 +2668,7 @@ h4{
       <td class="info" colspan="14">
         09:00 - 10:30: <a href="https://xtuml.org/xtuml-days-2018-copenhagen/" target="_blank">xtUML Days (by invitation only) - Plenary Session #1 in 3A52</a>
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
     <tr class="normalrow">
@@ -2705,7 +2705,7 @@ h4{
       <td class="info" colspan="14">
         09:00 - 10:30: <a href="https://info.jetbrains.com/mps-day-models-2018-registration.html" target="_blank">MPS Day in 3A54</a>
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
     <tr class="normalrow">
@@ -2740,7 +2740,7 @@ h4{
       <td class="info" colspan="14">
         09:00 - 10:30: Model-Based Systems Engineering Meeting in 2A56 (Aud 3)
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
     <tr class="normalrow">
@@ -2782,7 +2782,7 @@ h4{
       <td class="info" colspan="14">
         09:00 - 10:30: Doctoral Symposium in 2A18
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
     <tr class="normalrow">
@@ -2820,7 +2820,7 @@ h4{
       <td class="info" colspan="14">
         09:00 - 10:30: Educators Symposium in 4A58
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
     <tr class="normalrow">
@@ -2887,7 +2887,7 @@ h4{
       <td class="info" colspan="14">
         09:00 - 10:30: <a href="https://msdl.uantwerpen.be/conferences/MDEbug/2018/" target="_blank">W11 Debugging in Model-Driven Engineering (MDEBug) - Opening and Keynote in 2A08</a>
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
     <tr class="normalrow">
@@ -2918,7 +2918,7 @@ h4{
       <td class="info" colspan="14">
         09:00 - 10:30: <a href="https://sites.google.com/site/modevva/home" target="_blank">W12 Model Driven Engineering, Verification and Validation (MoDeVVA) in 2A20</a>
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
     <tr class="normalrow">
@@ -2949,7 +2949,7 @@ h4{
       <td class="info" colspan="14">
         09:00 - 10:30: <a href="https://sites.google.com/view/pains-2018/home" target="_blank">W13 Pains in Model-Driven Engineering Practice (PAINS) in 2A52</a>
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
     <tr class="normalrow">
@@ -2987,7 +2987,7 @@ h4{
       <td class="info" colspan="14">
         09:00 - 10:30: <a href="http://www.models-and-evolution.com/2018/index.html#section-ajenda" target="_blank">W14 Models and Evolution (ME) in 2A54</a>
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
     <tr class="normalrow">
@@ -3046,7 +3046,7 @@ h4{
       <td class="info" colspan="14">
         09:00 - 10:30: <a href="https://www.wi-inf.uni-duisburg-essen.de/MULTI2018/" target="_blank">W15 Multi-Level Modeling (MULTI) in 4A60 (Aud 4)</a>
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
     <tr class="normalrow">
@@ -3146,7 +3146,7 @@ h4{
       <td class="info" colspan="14">
         11:00 - 12:30: <a href="https://xtuml.org/xtuml-days-2018-copenhagen/" target="_blank">xtUML Days (by invitation only) - Plenary Session #2 in 3A52</a>
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
     <tr class="normalrow">
@@ -3180,7 +3180,7 @@ h4{
       <td class="info" colspan="14">
         11:00 - 12:30: <a href="https://info.jetbrains.com/mps-day-models-2018-registration.html" target="_blank">MPS Day in 3A54</a>
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
     <tr class="normalrow">
@@ -3204,7 +3204,7 @@ h4{
       <td class="info" colspan="14">
         11:00 - 12:30: Model-Based Systems Engineering Meeting in 2A56 (Aud 3)
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
     <tr class="normalrow">
@@ -3237,7 +3237,7 @@ h4{
       <td class="info" colspan="14">
         11:00 - 12:30: Doctoral Symposium - Quality Assurance in 2A18
         <br>
-        <small>Chair(s): TBA</small>
+        &nbsp;
       </td>
     </tr>
     <tr class="normalrow">
@@ -3278,7 +3278,7 @@ h4{
       <td class="info" colspan="14">
         11:00 - 12:30: Educators Symposium in 4A58
         <br>
-        <!-- <small>Chair(s): TBA</small> -->
+        <!-- &nbsp; -->
       </td>
     </tr>
     <tr class="normalrow">
