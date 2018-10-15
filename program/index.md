@@ -1652,43 +1652,43 @@ h4{
     </tr>
     <tr class="normalrow">
       <td class="col-md-1"></td>
-      <td>Keynote: The Role of Higher-order Models in Robotics and its Reasoning Challenges
+      <td>Towards the use of Quality-of-Service Metrics in Reinforcement Learning: A robotics example 
           <br>
-          <a href="" target="_blank"><span class="name">Adrian Rutle</span></a>
+          <a href="" target="_blank"><span class="name">Juan Francisco Inglés-Romero</span></a>
           <span class="affiliation"></span>,
-          <a href="" target="_blank"><span class="name">Jonas Backer</span></a>
+          <a href="" target="_blank"><span class="name">Juan Manuel Espín</span></a>
           <span class="affiliation"></span>,
-          <a href="" target="_blank"><span class="name">Kolbein Foldøy</span></a>
+          <a href="" target="_blank"><span class="name">Rubén Jiménez-Andreu</span></a>
           <span class="affiliation"></span>,
-          <a href="" target="_blank"><span class="name">Robin T. Bye</span></a>
+          <a href="" target="_blank"><span class="name">Roberto Font</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Cristina Vicente-Chicote</span></a>
           <span class="affiliation"></span>
       </td>
     </tr>
     <tr class="normalrow">
       <td class="col-md-1"></td>
-      <td>Embedding Scenario-based Modeling in Statecharts 
+      <td>Using IEC 61499 to Implement a Self-Organising Plug and Produce System information on submission 
         <br>
-          <a href="" target="_blank"><span class="name">Assaf Marron</span></a>
+          <a href="" target="_blank"><span class="name">Jörg Walter</span></a>
           <span class="affiliation"></span>,
-          <a href="" target="_blank"><span class="name">Yotam Hacohen</span></a>
+          <a href="" target="_blank"><span class="name">Kim Gruettner</span></a>
           <span class="affiliation"></span>,
-          <a href="" target="_blank"><span class="name">David Harel</span></a>
-          <span class="affiliation"></span>,
-          <a href="" target="_blank"><span class="name">Andreas Mülder</span></a>
-          <span class="affiliation"></span>,
-          <a href="" target="_blank"><span class="name">Axel Terfloth</span></a>
+          <a href="" target="_blank"><span class="name">Wolfgang Nebel</span></a>
           <span class="affiliation"></span>
       </td>
     </tr>
-    <tr class="normalrow">
+     <tr class="normalrow">
       <td class="col-md-1"></td>
-      <td>Continuous Integration for Testing Full Robotic Behaviours in a GUI-stripped Simulation 
+      <td>A Context-Based Behavioral Language for IoT 
         <br>
-          <a href="" target="_blank"><span class="name">Vladimir Estivill-Castro</span></a>
+          <a href="" target="_blank"><span class="name">Achiya Elyasaf</span></a>
           <span class="affiliation"></span>,
-          <a href="" target="_blank"><span class="name">Rene Hexel </span></a>
+          <a href="" target="_blank"><span class="name">Assaf Marron </span></a>
           <span class="affiliation"></span>,
-          <a href="" target="_blank"><span class="name">Carl Lusty</span></a>
+          <a href="" target="_blank"><span class="name">Arnon Sturm</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Gera Weiss</span></a>
           <span class="affiliation"></span>
       </td>
     </tr>
@@ -2149,50 +2149,50 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: <a href="http://st.inf.tu-dresden.de/MORSE18/" target="_blank">W9 Model-driven Robot Software Engineering (MORSE) - Applications in 2A56 (Aud 3)</a>
+        14:00 - 15:30: <a href="http://st.inf.tu-dresden.de/MORSE18/" target="_blank">W9 Model-driven Robot Software Engineering (MORSE) - Languages for Robotics in 2A56 (Aud 3)</a>
         <br>
         <small>Chair(s): TBA</small>
       </td>
     </tr>
     <tr class="normalrow">
       <td class="col-md-1"></td>
-      <td>Towards the use of Quality-of-Service Metrics in Reinforcement Learning: A robotics example 
+      <td>CommonLang: A DSL for Defining Robot Tasks 
           <br>
-          <a href="" target="_blank"><span class="name">Juan Francisco Inglés-Romero</span></a>
+          <a href="" target="_blank"><span class="name">Adrian Rutle</span></a>
           <span class="affiliation"></span>,
-          <a href="" target="_blank"><span class="name">Juan Manuel Espín</span></a>
+          <a href="" target="_blank"><span class="name">Jonas Backer</span></a>
           <span class="affiliation"></span>,
-          <a href="" target="_blank"><span class="name">Rubén Jiménez-Andreu</span></a>
+          <a href="" target="_blank"><span class="name">Kolbein Foldøy</span></a>
           <span class="affiliation"></span>,
-          <a href="" target="_blank"><span class="name">Roberto Font</span></a>
-          <span class="affiliation"></span>,
-          <a href="" target="_blank"><span class="name">Cristina Vicente-Chicote</span></a>
+          <a href="" target="_blank"><span class="name">Robin T. Bye</span></a>
           <span class="affiliation"></span>
       </td>
     </tr>
     <tr class="normalrow">
       <td class="col-md-1"></td>
-      <td>Using IEC 61499 to Implement a Self-Organising Plug and Produce System information on submission 
+      <td>Embedding Scenario-based Modeling in Statecharts 
         <br>
-          <a href="" target="_blank"><span class="name">Jörg Walter</span></a>
+          <a href="" target="_blank"><span class="name">Assaf Marron</span></a>
           <span class="affiliation"></span>,
-          <a href="" target="_blank"><span class="name">Kim Gruettner</span></a>
+          <a href="" target="_blank"><span class="name">Yotam Hacohen</span></a>
           <span class="affiliation"></span>,
-          <a href="" target="_blank"><span class="name">Wolfgang Nebel</span></a>
+          <a href="" target="_blank"><span class="name">David Harel</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Andreas Mülder</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Axel Terfloth</span></a>
           <span class="affiliation"></span>
       </td>
     </tr>
-     <tr class="normalrow">
+    <tr class="normalrow">
       <td class="col-md-1"></td>
-      <td>A Context-Based Behavioral Language for IoT 
+      <td>Continuous Integration for Testing Full Robotic Behaviours in a GUI-stripped Simulation 
         <br>
-          <a href="" target="_blank"><span class="name">Achiya Elyasaf</span></a>
+          <a href="" target="_blank"><span class="name">Vladimir Estivill-Castro</span></a>
           <span class="affiliation"></span>,
-          <a href="" target="_blank"><span class="name">Assaf Marron </span></a>
+          <a href="" target="_blank"><span class="name">Rene Hexel </span></a>
           <span class="affiliation"></span>,
-          <a href="" target="_blank"><span class="name">Arnon Sturm</span></a>
-          <span class="affiliation"></span>,
-          <a href="" target="_blank"><span class="name">Gera Weiss</span></a>
+          <a href="" target="_blank"><span class="name">Carl Lusty</span></a>
           <span class="affiliation"></span>
       </td>
     </tr>
@@ -2496,14 +2496,38 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        16:00 - 17:30: <a href="http://st.inf.tu-dresden.de/MORSE18/" target="_blank">W9 Model-driven Robot Software Engineering (MORSE) - Applications in 2A56 (Aud 3)</a>
+        16:00 - 17:30: <a href="http://st.inf.tu-dresden.de/MORSE18/" target="_blank">W9 Model-driven Robot Software Engineering (MORSE) - Presentation and Overview of Robotic Research Projects in 2A56 (Aud 3)</a>
         <br>
       </td>
     </tr>
    <tr class="normalrow">
       <td class="col-md-1"></td>
-      <td>Session 4: TBA
-        <br> &nbsp;
+      <td>ROSIN (Model-Based Metacontrol for ROS systems)
+        <br> 
+          <a href="" target="_blank"><span class="name"> Carlos Hernandez Corbato</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>COGIMON (Modeling and Verification of Robot Control Architectures for Compliant Interaction) 
+        <br> 
+          <a href="" target="_blank"><span class="name"> Dennis Wigand</span></a>
+          <span class="affiliation"></span>
+      </td>
+    </tr>
+    <tr class="normalrow">
+      <td class="col-md-1"></td>
+      <td>Collection, discussion and classification of further research projects 
+        <br> 
+          <a href="" target="_blank"><span class="name">Sebastian Götz</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Nico Hochgeschwender</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Sebastian Wrede</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Andreas Wortmann</span></a>
+          <span class="affiliation"></span>
       </td>
     </tr>
   </tbody>
