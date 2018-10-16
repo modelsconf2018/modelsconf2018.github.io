@@ -3095,40 +3095,44 @@ h4{
   <tbody>
     <tr>
       <td class="info" colspan="14">
-        11:00 - 12:30: <a href="http://sdl-forum.org/Events/SAM2018/index.htm" target="_blank">Systems Analysis and Modeling (SAM) - Session 3: Performance, Safety and realizability in Aud 2</a>
+        11:00 - 12:30: <a href="http://sdl-forum.org/Events/SAM2018/index.htm" target="_blank">Systems Analysis and Modeling (SAM) - Session 3: MSC, URN, GRL in Aud 2</a>
         <br>
         <small>Chair: Emmanuel Gaudin</small>
       </td>
     </tr>
     <tr class="normalrow">
       <td class="col-md-1"></td>
-      <td>Pattern libraries guiding the model-based reuse of automotive solutions
+      <td>An Arithmetic Semantics for GRL Goal Models with Function Generation
           <br>
-          <a href="" target="_blank"><span class="name">Maged Khalil</span></a>
+          <a href=""><span class="name">Yuxuan Fan</span></a>
+          <span class="affiliation"></span>,
+          <a href=""><span class="name">Amal Anda</span></a>
+          <span class="affiliation"></span>,
+          <a href=""><span class="name">Daniel Amyot</span></a>
           <span class="affiliation"></span>
       </td>
     </tr>
     <tr class="normalrow">
       <td class="col-md-1"></td>
-      <td>Enabling Performance Modeling for the Masses: Initial Experiences
+      <td>Textual User Requirements Notation
           <br>
-          <a href="" target="_blank"><span class="name">Abel Gómez</span></a>
+          <a href=""><span class="name">Ruchika Kumar</span></a>
           <span class="affiliation"></span>,
-          <a href="" target="_blank"><span class="name">Connie U. Smith</span></a>
-          <span class="affiliation"></span>,
-          <a href="" target="_blank"><span class="name">Amy Spellmann</span></a>
-          <span class="affiliation"></span>,
-          <a href="" target="_blank"><span class="name">Jordi Cabot</span></a>
+          <a href=""><span class="name">Gunter Mussbacher</span></a>
           <span class="affiliation"></span>
       </td>
     </tr>
     <tr class="normalrow">
       <td class="col-md-1"></td>
-      <td> Realizability of Service Specifications
+      <td> A comparative analysis of MSC-based requirements specification approaches used in the automotive industry
           <br>
-          <a href="" target="_blank"><span class="name">Mohammad F. Al-Hammouri</span></a>
+          <a href=""><span class="name">Kevin Keller</span></a>
           <span class="affiliation"></span>,
-          <a href="" target="_blank"><span class="name">Gregor V. Bochmann</span></a>
+          <a href=""><span class="name">Jennifer Brings</span></a>
+          <span class="affiliation"></span>,
+          <a href=""><span class="name">Marian Daun</span></a>
+          <span class="affiliation"></span>,
+          <a href=""><span class="name">Thorsten Weyer</span></a>
           <span class="affiliation"></span>
       </td>
     </tr>
@@ -3738,46 +3742,42 @@ h4{
 <table class="table">
       
   <tbody>
-    <tr>
+     <tr>
       <td class="info" colspan="14">
-        14:00 - 15:30: <a href="http://sdl-forum.org/Events/SAM2018/index.htm" target="_blank">Systems Analysis and Modeling (SAM) - Session 4: MSC, URN, GRL in Aud 2</a>
+        14:00 - 15:30 <a href="http://sdl-forum.org/Events/SAM2018/index.htm" target="_blank">Systems Analysis and Modeling (SAM) - Session 4: Performance, Safety and realizability in Aud 2</a>
         <br>
         <small>Chair: Daniel Amyot</small>
       </td>
     </tr>
     <tr class="normalrow">
       <td class="col-md-1"></td>
-      <td>An Arithmetic Semantics for GRL Goal Models with Function Generation
+      <td>Pattern libraries guiding the model-based reuse of automotive solutions
           <br>
-          <a href=""><span class="name">Yuxuan Fan</span></a>
-          <span class="affiliation"></span>,
-          <a href=""><span class="name">Amal Anda</span></a>
-          <span class="affiliation"></span>,
-          <a href=""><span class="name">Daniel Amyot</span></a>
+          <a href="" target="_blank"><span class="name">Maged Khalil</span></a>
           <span class="affiliation"></span>
       </td>
     </tr>
     <tr class="normalrow">
       <td class="col-md-1"></td>
-      <td>Textual User Requirements Notation
+      <td>Enabling Performance Modeling for the Masses: Initial Experiences
           <br>
-          <a href=""><span class="name">Ruchika Kumar</span></a>
+          <a href="" target="_blank"><span class="name">Abel Gómez</span></a>
           <span class="affiliation"></span>,
-          <a href=""><span class="name">Gunter Mussbacher</span></a>
+          <a href="" target="_blank"><span class="name">Connie U. Smith</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Amy Spellmann</span></a>
+          <span class="affiliation"></span>,
+          <a href="" target="_blank"><span class="name">Jordi Cabot</span></a>
           <span class="affiliation"></span>
       </td>
     </tr>
     <tr class="normalrow">
       <td class="col-md-1"></td>
-      <td> A comparative analysis of MSC-based requirements specification approaches used in the automotive industry
+      <td> Realizability of Service Specifications
           <br>
-          <a href=""><span class="name">Kevin Keller</span></a>
+          <a href="" target="_blank"><span class="name">Mohammad F. Al-Hammouri</span></a>
           <span class="affiliation"></span>,
-          <a href=""><span class="name">Jennifer Brings</span></a>
-          <span class="affiliation"></span>,
-          <a href=""><span class="name">Marian Daun</span></a>
-          <span class="affiliation"></span>,
-          <a href=""><span class="name">Thorsten Weyer</span></a>
+          <a href="" target="_blank"><span class="name">Gregor V. Bochmann</span></a>
           <span class="affiliation"></span>
       </td>
     </tr>
