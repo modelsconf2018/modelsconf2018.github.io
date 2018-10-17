@@ -4724,7 +4724,7 @@ h4{
     <tr>
       <td class="info" colspan="14">
         10:30 - 12:00: Industry Day in Aud 2
-        <br>
+        <br><small>Chair: Benoit Combemale</small>
       </td>
     </tr>
     <tr class="normalrow">
@@ -4886,7 +4886,7 @@ h4{
     <tr>
       <td class="info" colspan="14">
         13:30 - 15:00: Industry Day in Aud 2
-        <br>
+        <br><small>Chair: Anders Ek</small>
       </td>
     </tr>
     <tr class="normalrow">
@@ -5042,7 +5042,7 @@ h4{
     <tr>
       <td class="info" colspan="14">
         15:30 - 17:00: Industry Day in Aud 2
-        <br>
+        <br><small>Chair: Jean-Michel Bruel</small>
       </td>
     </tr>
     <tr class="normalrow">
