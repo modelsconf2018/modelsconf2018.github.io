@@ -38,7 +38,9 @@ slug: call
 
  <div class="col-md-8" markdown="1">
 
+## Slides from MODELS2018
 
+<a href="https://docs.google.com/document/d/17NtpU-xfxGpbUtBpazfE8l_3ZnPj2dLUPppskYtCUJo/edit" target="_blank"> Link to slides from talks during MODELS 2018</a>. Thank you for attending MODELS2018 and see you at MODELS2019.
 
 
 <h4> Events @ MODELS 2018 </h4>
