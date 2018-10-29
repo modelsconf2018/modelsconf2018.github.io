@@ -38,7 +38,7 @@ slug: call
 
  <div class="col-md-8" markdown="1">
 
-## Slides from MODELS2018
+## MODELS2018 has ended. 
 
 Thank you for attending MODELS2018 and see you at MODELS2019.
 <br>
